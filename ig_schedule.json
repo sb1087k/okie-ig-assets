@@ -1,0 +1,215 @@
+{
+ "_readme": "Instagram posting queue for okie.chat (separate from schedule.json, which is Threads @chuu.travel). Cloud routines run at fixed Taipei slots and publish the entry whose date_taipei + time_taipei match, via Buffer shareNow, as an Instagram carousel (type post). A slot with no entry is skipped. Posts already scheduled inside Buffer are not listed here.",
+ "channel_id": "6aed8340e29c69a1717e1bec",
+ "organization_id": "6aec374ace73907529f5e6d6",
+ "slots": {
+  "daily": [
+   "12:00"
+  ]
+ },
+ "posts": [
+  {
+   "date_taipei": "2026-11-10",
+   "time_taipei": "12:00",
+   "id": "taxfree-nrt",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從成田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、成田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/02_steps.jpg",
+     "alt": "成田退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/03_refund.jpg",
+     "alt": "成田退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 成田退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把成田退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "12:00",
+   "id": "taxfree-kix",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到關西機場先別托運，免稅品全部帶在身上\n✔️ 報到大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 T1、T2 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、關西機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
+     "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
+     "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 關西機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把關西機場退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-12",
+   "time_taipei": "12:00",
+   "id": "taxfree-hnd",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ T3、T2 國際線 3F 找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以過安檢後到 3F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、羽田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
+     "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
+     "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 羽田退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把羽田退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "12:00",
+   "id": "taxfree-oka",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從那霸回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找出境後 2F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、那霸每一步怎麼走，都整理在圖裡了\n要去沖繩玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
+     "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
+     "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 那霸退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把那霸退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "12:00",
+   "id": "taxfree-fuk",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從福岡機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 南側 J～M 櫃台前找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以出境後找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、福岡每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
+     "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
+     "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 福岡機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-15",
+   "time_taipei": "12:00",
+   "id": "taxfree-cts",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從北海道新千歲回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線航廈 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 3F 的 Cash Japan（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、新千歲每一步怎麼走，都整理在圖裡了\n要去北海道玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
+     "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
+     "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 新千歲退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把新千歲退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-16",
+   "time_taipei": "12:00",
+   "id": "taxfree-ngo",
+   "topic": "日本退稅",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從名古屋中部機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 找稅關機台掃護照（T1 3F、T2 2F），或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台附近的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以在出境審查後找 Cash Japan 退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、中部機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
+     "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
+     "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 名古屋中部機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把名古屋中部機場退稅步驟做成一張圖"
+    }
+   ]
+  }
+ ]
+}

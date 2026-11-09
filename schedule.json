@@ -17,7 +17,7 @@
  },
  "posts": [
   {
-   "date_taipei": "2026-11-10",
+   "date_taipei": "2026-11-09",
    "time_taipei": "21:00",
    "id": "applist-A1",
    "topic": "app list",
@@ -38,7 +38,7 @@
    ]
   },
   {
-   "date_taipei": "2026-11-11",
+   "date_taipei": "2026-11-10",
    "time_taipei": "21:00",
    "id": "applist-B1",
    "topic": "app list",
@@ -54,6 +54,27 @@
     },
     {
      "text": "1. GO 🚕\n叫車前先設好目的地，不會日文也能搭計程車！\napps.apple.com/tw/app/id1254341709\n\n2. Japan Travel by NAVITIME 🚉\n查路線、找免費 Wi-Fi 和 ATM，沒網路也查得到！\napps.apple.com/tw/app/id686373726\n\n3. Safety tips 🚨\n日本發生地震、海嘯警報，用中文推播通知你！\napps.apple.com/tw/app/id858357174\n\n4. okie 🍮\n加進旅遊 LINE 群組，排行程、翻譯菜單都幫你搞定，不用下載！\nokie.chat/line?utm_source=threads.chu",
+     "images": []
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "21:00",
+   "id": "applist-A7",
+   "topic": "app list",
+   "thread": [
+    {
+     "text": "這些翻譯工具不該只有少數人知道！🗣️",
+     "images": [
+      {
+       "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
+       "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
+      }
+     ]
+    },
+    {
+     "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\napps.apple.com/tw/app/id1147874819\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\napps.apple.com/tw/app/id581137577\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\napps.apple.com/tw/app/id414706506\n\n4. okie 🍮\n菜單看不懂？在 LINE 群組裡就幫你翻譯菜單，不用下載！\nokie.chat/line?utm_source=threads.chu",
      "images": []
     }
    ]
@@ -82,27 +103,6 @@
   {
    "date_taipei": "2026-11-13",
    "time_taipei": "12:00",
-   "id": "applist-A7",
-   "topic": "app list",
-   "thread": [
-    {
-     "text": "這些翻譯工具不該只有少數人知道！🗣️",
-     "images": [
-      {
-       "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
-       "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
-      }
-     ]
-    },
-    {
-     "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\napps.apple.com/tw/app/id1147874819\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\napps.apple.com/tw/app/id581137577\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\napps.apple.com/tw/app/id414706506\n\n4. okie 🍮\n菜單看不懂？在 LINE 群組裡就幫你翻譯菜單，不用下載！\nokie.chat/line?utm_source=threads.chu",
-     "images": []
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-14",
-   "time_taipei": "18:00",
    "id": "applist-C1",
    "topic": "app list",
    "thread": [
@@ -122,8 +122,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-15",
-   "time_taipei": "21:00",
+   "date_taipei": "2026-11-14",
+   "time_taipei": "18:00",
    "id": "applist-A2",
    "topic": "app list",
    "thread": [
@@ -143,8 +143,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-16",
-   "time_taipei": "12:00",
+   "date_taipei": "2026-11-15",
+   "time_taipei": "21:00",
    "id": "applist-B4",
    "topic": "app list",
    "thread": [
@@ -164,8 +164,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-17",
-   "time_taipei": "21:00",
+   "date_taipei": "2026-11-16",
+   "time_taipei": "12:00",
    "id": "applist-A4",
    "topic": "app list",
    "thread": [
@@ -185,7 +185,7 @@
    ]
   },
   {
-   "date_taipei": "2026-11-18",
+   "date_taipei": "2026-11-17",
    "time_taipei": "21:00",
    "id": "applist-B6",
    "topic": "app list",
@@ -201,6 +201,27 @@
     },
     {
      "text": "1. Funliday 📝\n大家一起編同一份行程，拖拉一下就排好！\napps.apple.com/tw/app/id905768387\n\n2. Splitwise 💸\n誰先付都記下來，最後自動算出最少的還錢方式！\napps.apple.com/tw/app/id458023433\n\n3. TimeTree 📅\n共用行事曆，誰改了行程大家都會收到通知！\napps.apple.com/tw/app/id952578473\n\n4. okie 🍮\n直接加進旅遊 LINE 群組，記帳分帳、排行程大家一起用，不用下載！\nokie.chat/line?utm_source=threads.chu",
+     "images": []
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-18",
+   "time_taipei": "21:00",
+   "id": "applist-B5",
+   "topic": "app list",
+   "thread": [
+    {
+     "text": "旅伴一直問我怎麼都不會迷路 🧭",
+     "images": [
+      {
+       "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
+       "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
+      }
+     ]
+    },
+    {
+     "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\napps.apple.com/tw/app/id585027354\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒你什麼時候該下車！\napps.apple.com/tw/app/id311867728\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴你從哪個出口出站最近！\napps.apple.com/tw/app/id469463298\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫你排好，不用下載！\nokie.chat/line?utm_source=threads.chu",
      "images": []
     }
    ]
@@ -229,27 +250,6 @@
   {
    "date_taipei": "2026-11-20",
    "time_taipei": "12:00",
-   "id": "applist-B5",
-   "topic": "app list",
-   "thread": [
-    {
-     "text": "旅伴一直問我怎麼都不會迷路 🧭",
-     "images": [
-      {
-       "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
-       "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
-      }
-     ]
-    },
-    {
-     "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\napps.apple.com/tw/app/id585027354\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒你什麼時候該下車！\napps.apple.com/tw/app/id311867728\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴你從哪個出口出站最近！\napps.apple.com/tw/app/id469463298\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫你排好，不用下載！\nokie.chat/line?utm_source=threads.chu",
-     "images": []
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-21",
-   "time_taipei": "18:00",
    "id": "applist-C3",
    "topic": "app list",
    "thread": [
@@ -269,8 +269,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-22",
-   "time_taipei": "21:00",
+   "date_taipei": "2026-11-21",
+   "time_taipei": "18:00",
    "id": "applist-B7",
    "topic": "app list",
    "thread": [
@@ -290,8 +290,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-23",
-   "time_taipei": "12:00",
+   "date_taipei": "2026-11-22",
+   "time_taipei": "21:00",
    "id": "applist-B2",
    "topic": "app list",
    "thread": [
@@ -311,8 +311,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-24",
-   "time_taipei": "21:00",
+   "date_taipei": "2026-11-23",
+   "time_taipei": "12:00",
    "id": "applist-A5",
    "topic": "app list",
    "thread": [
@@ -332,7 +332,7 @@
    ]
   },
   {
-   "date_taipei": "2026-11-25",
+   "date_taipei": "2026-11-24",
    "time_taipei": "21:00",
    "id": "applist-C5",
    "topic": "app list",
@@ -353,7 +353,7 @@
    ]
   },
   {
-   "date_taipei": "2026-11-26",
+   "date_taipei": "2026-11-25",
    "time_taipei": "21:00",
    "id": "applist-B3",
    "topic": "app list",
@@ -374,8 +374,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-27",
-   "time_taipei": "12:00",
+   "date_taipei": "2026-11-26",
+   "time_taipei": "21:00",
    "id": "applist-C2",
    "topic": "app list",
    "thread": [
@@ -395,8 +395,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-28",
-   "time_taipei": "18:00",
+   "date_taipei": "2026-11-27",
+   "time_taipei": "12:00",
    "id": "applist-C4",
    "topic": "app list",
    "thread": [
@@ -416,8 +416,8 @@
    ]
   },
   {
-   "date_taipei": "2026-11-29",
-   "time_taipei": "21:00",
+   "date_taipei": "2026-11-28",
+   "time_taipei": "18:00",
    "id": "applist-C6",
    "topic": "app list",
    "thread": [

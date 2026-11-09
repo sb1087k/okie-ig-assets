@@ -1,5 +1,5 @@
 {
- "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 12:00, 17:00, 18:00, 20:00, 21:00 and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped.",
+ "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 12:00, 17:00, 18:00, 20:00, 21:00 and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. Travel guides already on @okie.chat (posted 11/2–11/9 outside this queue) were removed to avoid duplicates.",
  "channel_id": "6af1a77d62b70b94b0ce11ea",
  "organization_id": "6aec374ace73907529f5e6d6",
  "slots": [
@@ -10,47 +10,6 @@
   "21:00"
  ],
  "posts": [
-  {
-   "date_taipei": "2026-11-09",
-   "time_taipei": "20:00",
-   "id": "travel-tokyo_newyear",
-   "topic": "東京旅遊",
-   "text": "(Paul's final, use verbatim)\n\n跨年去東京真的不能照平常的排法…4天3夜跨年版直接抄這份🎆\n這次的行程完全照跨年特別排：\n✔️ 飯店住 JR 山手線附近，跨年夜只有 JR 有通宵車\n✔️ 澀谷去年又取消倒數，改去明治神宮或增上寺\n✔️ 晴空塔元旦日出要抽籤，11/26 截止\n✔️ 元旦百貨幾乎全休，1/2 哪幾家開福袋都整理好了\n每天的路線、時間、交通都放在圖裡了\n要去東京跨年的快存起來，丟到群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/01_cover.jpg",
-     "alt": "跨年去東京：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/02_days.jpg",
-     "alt": "跨年去東京：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/03_days.jpg",
-     "alt": "跨年去東京：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/04_trip_image.jpg",
-     "alt": "跨年去東京：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/05_poll.jpg",
-     "alt": "跨年去東京：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/06_lottery.jpg",
-     "alt": "跨年去東京：LINE 群組示意：okie 提醒抽籤截止"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/07_split.jpg",
-     "alt": "跨年去東京：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo_newyear/08_checklist.jpg",
-     "alt": "跨年去東京：出發前確認清單"
-    }
-   ]
-  },
   {
    "date_taipei": "2026-11-10",
    "time_taipei": "12:00",
@@ -82,549 +41,6 @@
   },
   {
    "date_taipei": "2026-11-10",
-   "time_taipei": "20:00",
-   "id": "travel-kyoto_couple",
-   "topic": "京都旅遊",
-   "text": "跟另一半去京都真的不要排太滿…4天3夜晚秋版直接抄這份🍁\n這次的行程完全照兩個人的步調排：\n✔️ 一天只排一區，清水寺、嵐山都趁早去\n✔️ 穿和服拍完，傍晚接高台寺夜楓點燈（到 12/13）\n✔️ 嵐山午餐順便泡包租露天風呂，兩個人泡\n✔️ HARUKA 外國人票 11/1 漲價、京都住宿稅都整理好了\n每天的路線、時間、交通都放在圖裡了\n要跟另一半去京都的快存起來，傳給他一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/01_cover.jpg",
-     "alt": "跟另一半去京都：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/02_days.jpg",
-     "alt": "跟另一半去京都：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/03_days.jpg",
-     "alt": "跟另一半去京都：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/04_trip_image.jpg",
-     "alt": "跟另一半去京都：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/05_memory.jpg",
-     "alt": "跟另一半去京都：LINE 群組示意：okie 記住大家的需求"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/06_reminder.jpg",
-     "alt": "跟另一半去京都：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/07_split.jpg",
-     "alt": "跟另一半去京都：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/kyoto_couple/08_checklist.jpg",
-     "alt": "跟另一半去京都：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-11",
-   "time_taipei": "12:00",
-   "id": "taxfree-kix",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到關西機場先別托運，免稅品全部帶在身上\n✔️ 報到大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 T1、T2 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、關西機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
-     "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
-     "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 關西機場退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把關西機場退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-11",
-   "time_taipei": "20:00",
-   "id": "travel-seoul",
-   "topic": "首爾旅遊",
-   "text": "跟閨蜜去首爾真的不能亂排…4天3夜聖誕版直接抄這份🎄\n這次的行程完全照閨蜜團的節奏排：\n✔️ 一天只逛一區，不用一直搭地鐵跑來跑去\n✔️ Olive Young 帶護照當場退稅，代購清單先排好\n✔️ 聖水咖啡廳、快閃店、拍貼一次排好\n✔️ 明洞、狎鷗亭的聖誕燈海一次看完\n每天的路線、時間、交通都放在圖裡了\n要跟閨蜜去韓國的快存起來，丟到閨蜜群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/01_cover.jpg",
-     "alt": "跟閨蜜去首爾：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/02_days_1_2.jpg",
-     "alt": "跟閨蜜去首爾：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/03_days_3_4.jpg",
-     "alt": "跟閨蜜去首爾：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/04_trip_image.jpg",
-     "alt": "跟閨蜜去首爾：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/05_haul.jpg",
-     "alt": "跟閨蜜去首爾：LINE 群組示意：okie 整理代購清單"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/06_split.jpg",
-     "alt": "跟閨蜜去首爾：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/07_poll.jpg",
-     "alt": "跟閨蜜去首爾：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul/08_checklist.jpg",
-     "alt": "跟閨蜜去首爾：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-12",
-   "time_taipei": "12:00",
-   "id": "taxfree-hnd",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ T3、T2 國際線 3F 找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以過安檢後到 3F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、羽田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
-     "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
-     "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 羽田退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把羽田退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-12",
-   "time_taipei": "20:00",
-   "id": "travel-hokkaido_parents",
-   "topic": "北海道旅遊",
-   "text": "帶爸媽去北海道真的不能照年輕人的排法…5天4夜不滑倒版直接抄這份❄️\n這次的行程完全照爸媽的體力排：\n✔️ 每天10點才出門，下午留時間回飯店休息\n✔️ 札幌走地下街「Chi-Ka-Ho」，不用在冰上走\n✔️ 小樽、札幌、登別溫泉，一天只排一區\n✔️ 最後一晚住登別，巴士直達飯店門口和機場，不用拖行李轉車\n每天的路線、時間、交通都放在圖裡了\n要帶爸媽去北海道的快存起來，丟到家族群組一起看！\n（也大推家族LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/01_cover.jpg",
-     "alt": "帶爸媽去北海道：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/02_days.jpg",
-     "alt": "帶爸媽去北海道：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/03_days.jpg",
-     "alt": "帶爸媽去北海道：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/04_trip_image.jpg",
-     "alt": "帶爸媽去北海道：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/05_memory.jpg",
-     "alt": "帶爸媽去北海道：LINE 群組示意：okie 記住大家的需求"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/06_reminder.jpg",
-     "alt": "帶爸媽去北海道：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/07_poll.jpg",
-     "alt": "帶爸媽去北海道：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/hokkaido_parents/08_checklist.jpg",
-     "alt": "帶爸媽去北海道：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-13",
-   "time_taipei": "12:00",
-   "id": "taxfree-oka",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從那霸回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找出境後 2F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、那霸每一步怎麼走，都整理在圖裡了\n要去沖繩玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
-     "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
-     "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 那霸退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把那霸退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-13",
-   "time_taipei": "18:00",
-   "id": "travel-bangkok",
-   "topic": "曼谷旅遊",
-   "text": "第一次去曼谷真的不要亂排…5天4夜新手版直接抄這份🛺\n這次的行程完全照新手的需求排：\n✔️ 一天只排一區，搭捷運就到，不怕被坑\n✔️ 大皇宮、臥佛寺、鄭王廟一天走完\n✔️ 恰圖恰、按摩、高空酒吧、美功鐵道都排進去\n✔️ 寺廟穿著、免簽新規定、TDAC 入境卡都整理好了\n每天的路線、時間、交通都放在圖裡了\n第一次去泰國的快存起來，丟到旅伴群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/01_cover.jpg",
-     "alt": "第一次去曼谷：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/02_days_1_2.jpg",
-     "alt": "第一次去曼谷：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/03_days_3_5.jpg",
-     "alt": "第一次去曼谷：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/04_trip_image.jpg",
-     "alt": "第一次去曼谷：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/05_links.jpg",
-     "alt": "第一次去曼谷：LINE 群組示意：okie 整理大家傳的連結"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/06_split.jpg",
-     "alt": "第一次去曼谷：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/07_reminder.jpg",
-     "alt": "第一次去曼谷：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/bangkok/08_checklist.jpg",
-     "alt": "第一次去曼谷：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-14",
-   "time_taipei": "12:00",
-   "id": "taxfree-fuk",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從福岡機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 南側 J～M 櫃台前找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以出境後找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、福岡每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
-     "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
-     "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 福岡機場退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-14",
-   "time_taipei": "17:00",
-   "id": "travel-osaka",
-   "topic": "大阪旅遊",
-   "text": "帶爸媽出國真的不能照年輕人的排法…大阪5天4夜直接抄這份🏯\n這次的行程完全照爸媽的體力排：\n✔️ 每天10點才出門，下午留時間回飯店休息\n✔️ 走超過15分鐘就直接叫車\n✔️ 大阪、京都、奈良都有去，但一天只排一區\n✔️ 每天的餐廳都挑可以坐著好好吃的\n每天的路線、時間、交通都放在圖裡了\n要帶爸媽出國的快存起來，丟到家族群組一起看！\n（也大推家族LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/01_cover.jpg",
-     "alt": "帶爸媽去大阪：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/02_days_1_2.jpg",
-     "alt": "帶爸媽去大阪：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/03_days_3_5.jpg",
-     "alt": "帶爸媽去大阪：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/04_trip_image.jpg",
-     "alt": "帶爸媽去大阪：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/05_reminder.jpg",
-     "alt": "帶爸媽去大阪：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/06_toilet.jpg",
-     "alt": "帶爸媽去大阪：LINE 群組示意：okie 找廁所"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/07_menu.jpg",
-     "alt": "帶爸媽去大阪：LINE 群組示意：okie 翻譯菜單"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/osaka/08_checklist.jpg",
-     "alt": "帶爸媽去大阪：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-15",
-   "time_taipei": "12:00",
-   "id": "taxfree-cts",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從北海道新千歲回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線航廈 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 3F 的 Cash Japan（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、新千歲每一步怎麼走，都整理在圖裡了\n要去北海道玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
-     "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
-     "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 新千歲退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把新千歲退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-15",
-   "time_taipei": "21:00",
-   "id": "travel-fukuoka_first",
-   "topic": "福岡旅遊",
-   "text": "第一次去福岡真的不用排太滿…3天2夜週末版直接抄這份🍜\n這次的行程完全照新手的需求排：\n✔️ 國際線巴士直達博多站，¥400 不用轉車\n✔️ 屋台先看 LINE「FUKUOKA GUIDE」哪幾攤有開\n✔️ 太宰府本殿 9/19 整修完成，終於可以正面參拜\n✔️ 地鐵、西鐵都能刷信用卡，不用買票\n每天的路線、時間、交通都放在圖裡了\n第一次去福岡的快存起來，丟到群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/01_cover.jpg",
-     "alt": "第一次去福岡：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/02_days.jpg",
-     "alt": "第一次去福岡：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/03_days.jpg",
-     "alt": "第一次去福岡：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/04_trip_image.jpg",
-     "alt": "第一次去福岡：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/05_links.jpg",
-     "alt": "第一次去福岡：LINE 群組示意：okie 整理大家傳的連結"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/06_split.jpg",
-     "alt": "第一次去福岡：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/07_poll.jpg",
-     "alt": "第一次去福岡：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fukuoka_first/08_checklist.jpg",
-     "alt": "第一次去福岡：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-16",
-   "time_taipei": "12:00",
-   "id": "taxfree-ngo",
-   "topic": "日本退稅新制",
-   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從名古屋中部機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 找稅關機台掃護照（T1 3F、T2 2F），或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台附近的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以在出境審查後找 Cash Japan 退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、中部機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-     "alt": "日本退稅新制：舊制和新制比較一張看懂"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
-     "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
-     "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
-     "alt": "LINE 群組畫面示意：朋友問 okie 名古屋中部機場退稅怎麼辦"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
-     "alt": "LINE 群組畫面示意：okie 把名古屋中部機場退稅步驟做成一張圖"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-16",
-   "time_taipei": "20:00",
-   "id": "travel-singapore_kids",
-   "topic": "新加坡旅遊",
-   "text": "帶小孩去新加坡真的不能照大人的排法…4天3夜推車版直接抄這份🦒\n這次的行程完全照小孩的作息排：\n✔️ 一天只排一區，住牛車水，地鐵直達花園、聖淘沙\n✔️ 動物園有玩水區，環球影城小小兵樂園身高限制都整理好了\n✔️ 雨季下午常下大雨，每天都有室內備案\n✔️ 推車可以直接推上地鐵，0.9 公尺以下免費\n每天的路線、時間、交通都放在圖裡了\n要帶小孩去新加坡的快存起來，丟到家族群組一起看！\n（也大推家族LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/01_cover.jpg",
-     "alt": "帶小孩去新加坡：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/02_days.jpg",
-     "alt": "帶小孩去新加坡：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/03_days.jpg",
-     "alt": "帶小孩去新加坡：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/04_trip_image.jpg",
-     "alt": "帶小孩去新加坡：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/05_memory.jpg",
-     "alt": "帶小孩去新加坡：LINE 群組示意：okie 記住大家的需求"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/06_reminder.jpg",
-     "alt": "帶小孩去新加坡：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/07_poll.jpg",
-     "alt": "帶小孩去新加坡：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/singapore_kids/08_checklist.jpg",
-     "alt": "帶小孩去新加坡：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-17",
-   "time_taipei": "20:00",
-   "id": "travel-busan_students",
-   "topic": "釜山旅遊",
-   "text": "大學生去釜山真的不用花大錢…4天3夜小資版直接抄這份🌊\n這次的行程完全照學生的預算排：\n✔️ 一張交通卡搞定，30 分鐘內轉乘免費\n✔️ 海灘、冬柏島、甘川洞、The Bay 101 夜景都免費\n✔️ 天空膠囊 4 人一台，每人才 ₩12,500\n✔️ 吃 24 小時豬肉湯飯、札嘎其市場、種子糖餅\n每天的路線、時間、交通都放在圖裡了\n寒假要去釜山的快存起來，丟到同學群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/01_cover.jpg",
-     "alt": "大學生去釜山：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/02_days.jpg",
-     "alt": "大學生去釜山：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/03_days.jpg",
-     "alt": "大學生去釜山：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/04_trip_image.jpg",
-     "alt": "大學生去釜山：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/05_split.jpg",
-     "alt": "大學生去釜山：LINE 群組示意：okie 記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/06_poll.jpg",
-     "alt": "大學生去釜山：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/07_reminder.jpg",
-     "alt": "大學生去釜山：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/busan_students/08_checklist.jpg",
-     "alt": "大學生去釜山：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-18",
-   "time_taipei": "20:00",
-   "id": "travel-seoul_parents",
-   "topic": "首爾旅遊",
-   "text": "帶爸媽去首爾真的不能照年輕人的排法…4天3夜不爬坡版直接抄這份🫶\n這次的行程完全照爸媽的體力排：\n✔️ 每天10點才出門，下午留時間回飯店休息\n✔️ 機場巴士直達明洞，不用拖行李爬樓梯\n✔️ 景福宮 65 歲以上外國人免費，記得帶護照\n✔️ 蔘雞湯、刀削麵、烤牛肉，爸媽都吃不辣的\n每天的路線、時間、交通都放在圖裡了\n要帶爸媽去首爾的快存起來，丟到家族群組一起看！\n（也大推家族LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/01_cover.jpg",
-     "alt": "帶爸媽去首爾：封面"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/02_days.jpg",
-     "alt": "帶爸媽去首爾：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/03_days.jpg",
-     "alt": "帶爸媽去首爾：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/04_trip_image.jpg",
-     "alt": "帶爸媽去首爾：LINE 群組示意：okie 把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/05_memory.jpg",
-     "alt": "帶爸媽去首爾：LINE 群組示意：okie 記住大家的需求"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/06_reminder.jpg",
-     "alt": "帶爸媽去首爾：LINE 群組示意：okie 設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/07_poll.jpg",
-     "alt": "帶爸媽去首爾：LINE 群組示意：okie 開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/seoul_parents/08_checklist.jpg",
-     "alt": "帶爸媽去首爾：出發前確認清單"
-    }
-   ]
-  },
-  {
-   "date_taipei": "2026-11-19",
    "time_taipei": "20:00",
    "id": "travel-chiangmai_besties",
    "topic": "清邁旅遊",
@@ -665,8 +81,37 @@
    ]
   },
   {
-   "date_taipei": "2026-11-20",
-   "time_taipei": "18:00",
+   "date_taipei": "2026-11-11",
+   "time_taipei": "12:00",
+   "id": "taxfree-kix",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到關西機場先別托運，免稅品全部帶在身上\n✔️ 報到大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 T1、T2 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、關西機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
+     "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
+     "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 關西機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把關西機場退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "20:00",
    "id": "travel-danang_couple",
    "topic": "峴港旅遊",
    "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n這次的行程完全照兩個人的步調排：\n✔️ 一天只排一區，全程叫 Grab 不用殺價\n✔️ 巴拿山搭第一班纜車，佛手橋人少好拍\n✔️ 會安傍晚出發，天黑剛好放河燈\n✔️ 龍橋噴火只有週六日，行程已經對好日子\n每天的路線、時間、交通都放在圖裡了\n要跟另一半去峴港的快存起來，傳給他一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
@@ -706,43 +151,147 @@
    ]
   },
   {
-   "date_taipei": "2026-11-21",
-   "time_taipei": "17:00",
-   "id": "travel-tokyo",
-   "topic": "親子旅遊",
-   "text": "帶小孩去東京真的不能照大人的排法…5天4夜推車版直接抄這份🚃\n這次的行程完全照小孩的作息排：\n✔️ 一天只排一區，中午回飯店睡午覺\n✔️ 推車全程搭電梯，路線都挑好推的\n✔️ 動物園、迪士尼、樂高、看飛機，小孩每天都有期待\n✔️ 下雨也有室內備案，不怕行程泡湯\n每天的路線、時間、交通都放在圖裡了\n要帶小孩出國的快存起來，丟到家族群組一起看！\n（也大推家族LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "date_taipei": "2026-11-12",
+   "time_taipei": "12:00",
+   "id": "taxfree-hnd",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ T3、T2 國際線 3F 找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以過安檢後到 3F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、羽田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/01_cover.jpg",
-     "alt": "帶小孩去東京：封面"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/02_days_1_2.jpg",
-     "alt": "帶小孩去東京：每日行程表"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
+     "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/03_days_3_5.jpg",
-     "alt": "帶小孩去東京：每日行程表"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
+     "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/04_trip_image.jpg",
-     "alt": "帶小孩去東京：LINE 群組示意：okie 把行程做成圖"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 羽田退稅怎麼辦"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/05_reminder.jpg",
-     "alt": "帶小孩去東京：LINE 群組示意：okie 設提醒"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把羽田退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "12:00",
+   "id": "taxfree-oka",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從那霸回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找出境後 2F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、那霸每一步怎麼走，都整理在圖裡了\n要去沖繩玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/06_allergy.jpg",
-     "alt": "帶小孩去東京：LINE 群組示意：okie 翻譯過敏原"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
+     "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/07_poll.jpg",
-     "alt": "帶小孩去東京：LINE 群組示意：okie 開投票"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
+     "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/tokyo/08_checklist.jpg",
-     "alt": "帶小孩去東京：出發前確認清單"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 那霸退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把那霸退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "12:00",
+   "id": "taxfree-fuk",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從福岡機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 南側 J～M 櫃台前找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以出境後找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、福岡每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
+     "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
+     "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 福岡機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-15",
+   "time_taipei": "12:00",
+   "id": "taxfree-cts",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從北海道新千歲回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線航廈 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 3F 的 Cash Japan（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、新千歲每一步怎麼走，都整理在圖裡了\n要去北海道玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
+     "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
+     "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 新千歲退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把新千歲退稅步驟做成一張圖"
+    }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-16",
+   "time_taipei": "12:00",
+   "id": "taxfree-ngo",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從名古屋中部機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 找稅關機台掃護照（T1 3F、T2 2F），或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台附近的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以在出境審查後找 Cash Japan 退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、中部機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
+     "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
+     "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 名古屋中部機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把名古屋中部機場退稅步驟做成一張圖"
     }
    ]
   }

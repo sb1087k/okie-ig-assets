@@ -1,5 +1,5 @@
 {
- "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 12:00, 17:00, 18:00, 20:00, 21:00 and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. Travel guides already on @okie.chat (posted 11/2–11/9 outside this queue) were removed to avoid duplicates.",
+ "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 12:00, 17:00, 18:00, 20:00, 21:00 and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. Travel guides already on @okie.chat (posted 11/2–11/9 outside this queue) were removed to avoid duplicates. An entry may have \"replies\": a list of self-reply texts posted as the rest of the thread (no images).",
  "channel_id": "6af1a77d62b70b94b0ce11ea",
  "organization_id": "6aec374ace73907529f5e6d6",
  "slots": [
@@ -180,6 +180,38 @@
    ]
   },
   {
+   "date_taipei": "2026-11-12",
+   "time_taipei": "20:00",
+   "id": "pay-jp",
+   "topic": "日本旅遊",
+   "text": "年底前要去日本的人 刷卡請收！💳\n7 張卡的日本回饋、上限、要不要登錄都整理在圖裡\n懶得比的，直接在旅遊群組問 okie 幫你算🤣",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/01_cards.jpg",
+     "alt": "年底去日本刷卡懶人包①：熊本熊、富邦J、星展eco、吉鶴卡的日本回饋"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/02_cards.jpg",
+     "alt": "年底去日本刷卡懶人包②：CUBE、Richart、滙豐和免手續費掃碼付"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/03_tips.jpg",
+     "alt": "刷卡前 5 件事：選日圓、算手續費、先登錄、看上限、留現金"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/04_compare.jpg",
+     "alt": "LINE 群組畫面示意：okie 幫忙算兩張卡怎麼刷最划算"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/05_split.jpg",
+     "alt": "LINE 群組畫面示意：okie 記帳誰刷卡、算誰要給誰"
+    }
+   ],
+   "replies": [
+    "okie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去日本先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍"
+   ]
+  },
+  {
    "date_taipei": "2026-11-13",
    "time_taipei": "12:00",
    "id": "taxfree-oka",
@@ -209,6 +241,38 @@
    ]
   },
   {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "18:00",
+   "id": "pay-kr",
+   "topic": "韓國旅遊",
+   "text": "年底前要去韓國的人 刷卡請收！💳\n6 張卡的韓國回饋、上限、登錄日期都整理在圖裡\n富邦加碼 11/20 下午4點開放登錄，有限量的先記起來🤣",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/01_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/02_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/03_tips.jpg",
+     "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
+     "alt": "LINE 群組畫面示意：okie 依手上的卡排先刷哪張"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
+     "alt": "LINE 群組畫面示意：okie 用韓元記帳並結算"
+    }
+   ],
+   "replies": [
+    "okie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去韓國先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍"
+   ]
+  },
+  {
    "date_taipei": "2026-11-14",
    "time_taipei": "12:00",
    "id": "taxfree-fuk",
@@ -235,6 +299,38 @@
      "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
      "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
     }
+   ]
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "17:00",
+   "id": "pay-oka",
+   "topic": "沖繩旅遊",
+   "text": "年底前要去沖繩的人 現金還是刷卡？請收！🌺\n單軌全站能感應刷卡，但巴士只有部分路線可以，其他要 OKICA 或零錢\n懶人包整理在圖裡，記帳分帳就丟給 okie🤣",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/01_transport.jpg",
+     "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/02_spots.jpg",
+     "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/03_prep.jpg",
+     "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 沖繩停車場和公車能不能刷卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
+     "alt": "LINE 群組畫面示意：okie 記帳刷卡和付現金並結算"
+    }
+   ],
+   "replies": [
+    "okie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」\n不用下載 App，大家都會用👍"
    ]
   },
   {

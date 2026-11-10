@@ -78,267 +78,6 @@
     {
       "date_taipei": "2026-11-11",
       "time_taipei": "12:00",
-      "id": "taxfree-hnd",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ T3、T2 國際線 3F 找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以過安檢後到 3F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、羽田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
-          "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
-          "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 羽田退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把羽田退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-12",
-      "time_taipei": "12:00",
-      "id": "taxfree-oka",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從那霸回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找出境後 2F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、那霸每一步怎麼走，都整理在圖裡了\n要去沖繩玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
-          "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
-          "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 那霸退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把那霸退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-13",
-      "time_taipei": "12:00",
-      "id": "taxfree-fuk",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從福岡機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 南側 J～M 櫃台前找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以出境後找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、福岡每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
-          "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
-          "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 福岡機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-14",
-      "time_taipei": "12:00",
-      "id": "taxfree-cts",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從北海道新千歲回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線航廈 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 3F 的 Cash Japan（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、新千歲每一步怎麼走，都整理在圖裡了\n要去北海道玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
-          "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
-          "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 新千歲退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把新千歲退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "12:00",
-      "id": "taxfree-ngo",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從名古屋中部機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 找稅關機台掃護照（T1 3F、T2 2F），或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台附近的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以在出境審查後找 Cash Japan 退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、中部機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
-          "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
-          "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 名古屋中部機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把名古屋中部機場退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "12:00",
-      "id": "pay-jp",
-      "topic": "刷卡懶人包",
-      "text": "年底前要去日本的人 刷卡請收！💳\n7 張卡＋2 種掃碼付的日本優惠整理好了，11–12 月都還能用：\n✔️ 熊本熊卡指定日本商店最高 8.5%，記得先登錄\n✔️ 富邦 J 卡日本 3% 無上限，單筆滿千再加碼 3%（要登錄、限量）\n✔️ 星展 eco 日本實體 5%，加碼每期上限 600 點\n✔️ CUBE、Richart 要切對方案（趣旅行／玩旅刷）、設好自扣，回饋才會高\n✔️ 熊本熊卡綁玉山 Wallet 掃 PayPay，免 1.5% 海外手續費\n年底要去日本的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去日本先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/01_cards.jpg",
-          "alt": "年底去日本刷卡懶人包①：熊本熊、富邦J、星展eco、吉鶴卡的日本回饋"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/02_cards.jpg",
-          "alt": "年底去日本刷卡懶人包②：CUBE、Richart、滙豐和免手續費掃碼付"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/03_tips.jpg",
-          "alt": "刷卡前 5 件事：選日圓、算手續費、先登錄、看上限、留現金"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/04_compare.jpg",
-          "alt": "LINE 群組畫面示意：okie 幫忙算兩張卡怎麼刷最划算"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/05_split.jpg",
-          "alt": "LINE 群組畫面示意：okie 記帳誰刷卡、算誰要給誰"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-17",
-      "time_taipei": "12:00",
-      "id": "pay-kr",
-      "topic": "刷卡懶人包",
-      "text": "年底前要去韓國的人 刷卡請收！🇰🇷\n6 張卡的韓國回饋、上限、登錄條件都整理好了：\n✔️ 富邦 J 卡韓國最高 6%，加碼要搶登錄（11/20 下午4點起）\n✔️ 星展 eco 韓國實體最高 5%，約刷 NT$15,000 加碼就滿\n✔️ 樂天 Panda J 卡最高 4%，一定要刷韓元\n✔️ 台新、國泰出發前先在 App 切方案\n✔️ 結帳選韓元不要選台幣，1.5% 手續費要扣掉\n要去韓國的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去韓國先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/01_sheet.jpg",
-          "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/02_sheet.jpg",
-          "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/03_tips.jpg",
-          "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
-          "alt": "LINE 群組畫面示意：okie 依手上的卡排先刷哪張"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
-          "alt": "LINE 群組畫面示意：okie 用韓元記帳並結算"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "12:00",
-      "id": "pay-oka",
-      "topic": "刷卡懶人包",
-      "text": "去沖繩的人 現金還是刷卡？請收！🌺\n單軌、巴士、美ら海哪裡能刷卡，一張圖整理好：\n✔️ ゆいレール單軌全 19 站都能信用卡感應，Suica、ICOCA 也能用\n✔️ 巴士只有官方公告的幾條路線能感應刷卡（像 111、117、120），上車先看貼紙\n✔️ 其他路線用 OKICA 或現金，沖縄バス投幣不找零、萬元鈔不能換\n✔️ 機場利木津巴士車上不收現金，要先買票\n✔️ 美ら海售票處能刷卡、Suica、PayPay，停車場免費\n要去沖繩的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」\n不用下載 App，大家都會用👍",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/01_transport.jpg",
-          "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/02_spots.jpg",
-          "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/03_prep.jpg",
-          "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 沖繩停車場和公車能不能刷卡"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
-          "alt": "LINE 群組畫面示意：okie 記帳刷卡和付現金並結算"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "12:00",
-      "id": "taxfree-kix",
-      "topic": "日本退稅",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到關西機場先別托運，免稅品全部帶在身上\n✔️ 報到大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 T1、T2 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、關西機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
-          "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
-          "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 關西機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把關西機場退稅步驟做成一張圖"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "12:00",
       "id": "pocket-japan_drugstore",
       "topic": "口袋名單",
       "text": "日本藥妝到底買什麼？💊 我們從 @cosme 2025 年度大賞挑了 13 樣藥妝店買得到的，照類別排好\n✔️ 保養、防曬底妝、彩妝、身體頭髮口腔，一類一頁\n✔️ 每樣都寫了得什麼獎、日文全名和網路價，直接給店員看\n✔️ 11/1 起退稅改成先付再退，同店同日未稅滿 ¥5,000 才能退\n✔️ 防曬這類特定用途化粧品帶回台灣，每種最多 12 瓶\n我們把這份清單截圖丟給 okie 存起來，哪天要去逛藥妝就叫它把要買的排進行程\n要去日本掃藥妝的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在新宿逛藥妝，幫我把要買的排進行程」\n不用下載 App，大家都會用👍",
@@ -374,45 +113,8 @@
       ]
     },
     {
-      "date_taipei": "2026-11-20",
+      "date_taipei": "2026-11-12",
       "time_taipei": "12:00",
-      "id": "pocket-japan_konbini",
-      "topic": "口袋名單",
-      "text": "去日本超商到底買什麼？🍫 我們把超商必吃跟伴手禮整理成一篇口袋名單\n✔️ 7-Eleven、全家、LAWSON 的炸雞、甜點、咖啡，價格都照官網含稅價\n✔️ 東京ばな奈、白い恋人、ROYCE' 生巧克力，幾個入多少錢一次看\n✔️ 羽田、博多限定的伴手禮都標好了，回程別忘了買\n✔️ 11/1 起免稅新制：同一家店一天滿 ¥5,000（未稅）才能退，零食在日本吃掉就不能退\n我們把這份清單截圖丟給 okie 存起來，最後一天到東京站就叫它把要買的伴手禮排進行程\n要去日本的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」\n不用下載 App，大家都會用👍",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-20",
-      "time_taipei": "20:00",
       "id": "pocket-tokyo_ramen",
       "topic": "口袋名單",
       "text": "東京拉麵吃哪家？🍜 我們從 Tabelog 百名店挑了 13 家，照區域排好\n✔️ 新宿・澀谷、池袋周邊、東京站・銀座、上野・淺草・秋葉原，一區一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 很多家只收現金，錢包先放千円鈔\n✔️ 鳴龍、みつヰ要先拿整理券，別直接排\n我們把這份清單截圖丟給 okie 存起來，人到哪一區就叫它把附近的排進行程\n要去東京吃拉麵的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的拉麵排進行程」\n不用下載 App，大家都會用👍",
@@ -448,7 +150,7 @@
       ]
     },
     {
-      "date_taipei": "2026-11-21",
+      "date_taipei": "2026-11-13",
       "time_taipei": "12:00",
       "id": "pocket-tokyo_rainy",
       "topic": "口袋名單",
@@ -485,44 +187,44 @@
       ]
     },
     {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "21:00",
-      "id": "pocket-oliveyoung",
+      "date_taipei": "2026-11-14",
+      "time_taipei": "12:00",
+      "id": "pocket-japan_konbini",
       "topic": "口袋名單",
-      "text": "朋友一直問 Olive Young 要買什麼，我們直接照官方得獎名單整理💄 2025 Olive Young Awards 各分類第 1 名\n✔️ 保養、面膜防曬、彩妝、頭髮身體，一類一頁，附韓文品名給店員看\n✔️ 價格都是官網定價，店裡常有特價，以現場為準\n✔️ 同一張收據滿 ₩15,000，結帳給護照正本就能直接退稅\n✔️ 明洞 Global 店每天 10:00–22:30，1 樓保養、2 樓彩妝\n我們把這份清單截圖丟給 okie 存起來，哪天要去明洞就叫它把要買的排進行程\n要去韓國的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」\n不用下載 App，大家都會用👍",
+      "text": "去日本超商到底買什麼？🍫 我們把超商必吃跟伴手禮整理成一篇口袋名單\n✔️ 7-Eleven、全家、LAWSON 的炸雞、甜點、咖啡，價格都照官網含稅價\n✔️ 東京ばな奈、白い恋人、ROYCE' 生巧克力，幾個入多少錢一次看\n✔️ 羽田、博多限定的伴手禮都標好了，回程別忘了買\n✔️ 11/1 起免稅新制：同一家店一天滿 ¥5,000（未稅）才能退，零食在日本吃掉就不能退\n我們把這份清單截圖丟給 okie 存起來，最後一天到東京站就叫它把要買的伴手禮排進行程\n要去日本的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」\n不用下載 App，大家都會用👍",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
-          "alt": "Olive Young 必買口袋名單：第 01 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
-          "alt": "Olive Young 必買口袋名單：第 02 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
-          "alt": "Olive Young 必買口袋名單：第 03 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
-          "alt": "Olive Young 必買口袋名單：第 04 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
-          "alt": "Olive Young 必買口袋名單：第 05 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
-          "alt": "Olive Young 必買口袋名單：第 06 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
-          "alt": "Olive Young 必買口袋名單：第 07 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
+          "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
         }
       ]
     },
     {
-      "date_taipei": "2026-11-22",
+      "date_taipei": "2026-11-15",
       "time_taipei": "12:00",
       "id": "pocket-tokyo_sushi",
       "topic": "口袋名單",
@@ -559,8 +261,45 @@
       ]
     },
     {
-      "date_taipei": "2026-11-22",
-      "time_taipei": "21:00",
+      "date_taipei": "2026-11-16",
+      "time_taipei": "12:00",
+      "id": "pocket-oliveyoung",
+      "topic": "口袋名單",
+      "text": "朋友一直問 Olive Young 要買什麼，我們直接照官方得獎名單整理💄 2025 Olive Young Awards 各分類第 1 名\n✔️ 保養、面膜防曬、彩妝、頭髮身體，一類一頁，附韓文品名給店員看\n✔️ 價格都是官網定價，店裡常有特價，以現場為準\n✔️ 同一張收據滿 ₩15,000，結帳給護照正本就能直接退稅\n✔️ 明洞 Global 店每天 10:00–22:30，1 樓保養、2 樓彩妝\n我們把這份清單截圖丟給 okie 存起來，哪天要去明洞就叫它把要買的排進行程\n要去韓國的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
+          "alt": "Olive Young 必買口袋名單：第 01 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
+          "alt": "Olive Young 必買口袋名單：第 02 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
+          "alt": "Olive Young 必買口袋名單：第 03 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
+          "alt": "Olive Young 必買口袋名單：第 04 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
+          "alt": "Olive Young 必買口袋名單：第 05 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
+          "alt": "Olive Young 必買口袋名單：第 06 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
+          "alt": "Olive Young 必買口袋名單：第 07 頁"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-17",
+      "time_taipei": "12:00",
       "id": "pocket-seoul_food",
       "topic": "口袋名單",
       "text": "下個月要去首爾，整理了一份必吃口袋名單🇰🇷 米其林必比登＋VisitKorea 介紹的老店\n✔️ 烤肉、蔘雞湯、刀削麵、廣藏市場、早餐湯飯，一類一頁\n✔️ 每家都標好最近的地鐵出口和走幾分鐘\n✔️ 河東館早上 7 點開、湯賣完就收，想喝要早起\n✔️ 週一休：系列社、紫霞手工餃子｜週日休：河東館\n我們把這份清單截圖丟給 okie 存起來，哪天到鐘路就叫它把附近的排進行程\n要去首爾的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天在鐘路，幫我把附近的排進行程」\n不用下載 App，大家都會用👍",
@@ -596,45 +335,8 @@
       ]
     },
     {
-      "date_taipei": "2026-11-23",
+      "date_taipei": "2026-11-18",
       "time_taipei": "12:00",
-      "id": "pocket-tokyo_cafe",
-      "topic": "口袋名單",
-      "text": "東京咖啡廳去哪家？☕ 我們從 Tabelog 喫茶店・咖啡廳百名店挑了 15 家，照區域排好\n✔️ 神保町、淺草、表參道、中目黑、銀座，一區一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 神保町老喫茶很多只收現金，日幣現金先準備好\n✔️ 早上 8 點就開的、可以訂位的、週日公休的都標好了\n我們把這份清單截圖丟給 okie 存起來，逛到哪一區就叫它把附近的咖啡廳排進行程\n要去東京喝咖啡的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」\n不用下載 App，大家都會用👍",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
-          "alt": "東京咖啡廳口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
-          "alt": "東京咖啡廳口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
-          "alt": "東京咖啡廳口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
-          "alt": "東京咖啡廳口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
-          "alt": "東京咖啡廳口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
-          "alt": "東京咖啡廳口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
-          "alt": "東京咖啡廳口袋名單：第 07 頁"
-        }
-      ]
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "20:00",
       "id": "pocket-fukuoka_food",
       "topic": "口袋名單",
       "text": "下個月要去福岡🍜 大家丟在群組的店，我整理成一篇口袋名單\n✔️ 屋台照福岡市官方觀光網挑，4 攤都不能刷卡，日幣帶夠\n✔️ 豚骨拉麵 4 家都連續入選食べログ 百名店 2023–2025\n✔️ 牛腸鍋、水炊き先訂位，新三浦 1910 年就開了\n✔️ 餃子百名店吃完，順路去 ふくや 買本店限定明太子\n我們把這份清單截圖丟給 okie 存起來，人到博多站、天神就叫它把附近的排進行程\n要去福岡的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天在博多站，幫我把附近的排進行程」\n不用下載 App，大家都會用👍",
@@ -670,44 +372,102 @@
       ]
     },
     {
-      "date_taipei": "2026-11-24",
+      "date_taipei": "2026-11-19",
       "time_taipei": "12:00",
-      "id": "pocket-sapporo_food",
-      "topic": "口袋名單",
-      "text": "12 月要去札幌，整理了一份必吃口袋名單❄️ Tabelog 百名店＋札幌在地老字號\n✔️ 湯咖哩、味噌拉麵、成吉思汗、海鮮丼、夜パフェ，一類一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 好幾家只收現金或不能訂位，出門前先看一下\n✔️ 下雪天走地下街：札幌站到大通、すすきの一路連著\n我們把這份清單截圖丟給 okie 存起來，晚上到すすきの就叫它把附近的排進行程\n要去札幌的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」\n不用下載 App，大家都會用👍",
+      "id": "taxfree-kix",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到關西機場先別托運，免稅品全部帶在身上\n✔️ 報到大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 T1、T2 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、關西機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
-          "alt": "札幌必吃口袋名單：第 01 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
-          "alt": "札幌必吃口袋名單：第 02 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
+          "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
-          "alt": "札幌必吃口袋名單：第 03 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
+          "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
-          "alt": "札幌必吃口袋名單：第 04 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 關西機場退稅怎麼辦"
         },
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
-          "alt": "札幌必吃口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
-          "alt": "札幌必吃口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
-          "alt": "札幌必吃口袋名單：第 07 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把關西機場退稅步驟做成一張圖"
         }
       ]
     },
     {
-      "date_taipei": "2026-11-24",
+      "date_taipei": "2026-11-19",
+      "time_taipei": "20:00",
+      "id": "pocket-tokyo_cafe",
+      "topic": "口袋名單",
+      "text": "東京咖啡廳去哪家？☕ 我們從 Tabelog 喫茶店・咖啡廳百名店挑了 15 家，照區域排好\n✔️ 神保町、淺草、表參道、中目黑、銀座，一區一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 神保町老喫茶很多只收現金，日幣現金先準備好\n✔️ 早上 8 點就開的、可以訂位的、週日公休的都標好了\n我們把這份清單截圖丟給 okie 存起來，逛到哪一區就叫它把附近的咖啡廳排進行程\n要去東京喝咖啡的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
+          "alt": "東京咖啡廳口袋名單：第 01 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
+          "alt": "東京咖啡廳口袋名單：第 02 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
+          "alt": "東京咖啡廳口袋名單：第 03 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
+          "alt": "東京咖啡廳口袋名單：第 04 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
+          "alt": "東京咖啡廳口袋名單：第 05 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
+          "alt": "東京咖啡廳口袋名單：第 06 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
+          "alt": "東京咖啡廳口袋名單：第 07 頁"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-20",
+      "time_taipei": "12:00",
+      "id": "taxfree-hnd",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ T3、T2 國際線 3F 找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以過安檢後到 3F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、羽田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
+          "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
+          "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 羽田退稅怎麼辦"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把羽田退稅步驟做成一張圖"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-20",
       "time_taipei": "20:00",
       "id": "pocket-tokyo_yakiniku",
       "topic": "口袋名單",
@@ -744,8 +504,103 @@
       ]
     },
     {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "20:00",
+      "date_taipei": "2026-11-21",
+      "time_taipei": "12:00",
+      "id": "pay-jp",
+      "topic": "刷卡懶人包",
+      "text": "年底前要去日本的人 刷卡請收！💳\n7 張卡＋2 種掃碼付的日本優惠整理好了，11–12 月都還能用：\n✔️ 熊本熊卡指定日本商店最高 8.5%，記得先登錄\n✔️ 富邦 J 卡日本 3% 無上限，單筆滿千再加碼 3%（要登錄、限量）\n✔️ 星展 eco 日本實體 5%，加碼每期上限 600 點\n✔️ CUBE、Richart 要切對方案（趣旅行／玩旅刷）、設好自扣，回饋才會高\n✔️ 熊本熊卡綁玉山 Wallet 掃 PayPay，免 1.5% 海外手續費\n年底要去日本的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去日本先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/01_cards.jpg",
+          "alt": "年底去日本刷卡懶人包①：熊本熊、富邦J、星展eco、吉鶴卡的日本回饋"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/02_cards.jpg",
+          "alt": "年底去日本刷卡懶人包②：CUBE、Richart、滙豐和免手續費掃碼付"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/03_tips.jpg",
+          "alt": "刷卡前 5 件事：選日圓、算手續費、先登錄、看上限、留現金"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/04_compare.jpg",
+          "alt": "LINE 群組畫面示意：okie 幫忙算兩張卡怎麼刷最划算"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/05_split.jpg",
+          "alt": "LINE 群組畫面示意：okie 記帳誰刷卡、算誰要給誰"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-21",
+      "time_taipei": "21:00",
+      "id": "pocket-sapporo_food",
+      "topic": "口袋名單",
+      "text": "12 月要去札幌，整理了一份必吃口袋名單❄️ Tabelog 百名店＋札幌在地老字號\n✔️ 湯咖哩、味噌拉麵、成吉思汗、海鮮丼、夜パフェ，一類一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 好幾家只收現金或不能訂位，出門前先看一下\n✔️ 下雪天走地下街：札幌站到大通、すすきの一路連著\n我們把這份清單截圖丟給 okie 存起來，晚上到すすきの就叫它把附近的排進行程\n要去札幌的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
+          "alt": "札幌必吃口袋名單：第 01 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
+          "alt": "札幌必吃口袋名單：第 02 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
+          "alt": "札幌必吃口袋名單：第 03 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
+          "alt": "札幌必吃口袋名單：第 04 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
+          "alt": "札幌必吃口袋名單：第 05 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
+          "alt": "札幌必吃口袋名單：第 06 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
+          "alt": "札幌必吃口袋名單：第 07 頁"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-22",
+      "time_taipei": "12:00",
+      "id": "taxfree-oka",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從那霸回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找出境後 2F 的現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、那霸每一步怎麼走，都整理在圖裡了\n要去沖繩玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
+          "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
+          "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 那霸退稅怎麼辦"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把那霸退稅步驟做成一張圖"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-22",
+      "time_taipei": "21:00",
       "id": "pocket-osaka_food",
       "topic": "口袋名單",
       "text": "大阪到底要吃什麼？🐙 我們把お好み焼、章魚燒、串炸、烏龍麵各挑幾家有憑有據的，照類別排好\n✔️ お好み焼挑 Tabelog 百名店，烏龍麵挑 Tabelog 烏龍麵百名店，一類一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 不少家只收現金，烏龍麵名店多半只開中午、賣完就收\n✔️ 串炸醬汁不能沾兩次，想補醬用高麗菜舀\n我們把這份清單截圖丟給 okie 存起來，人到難波就叫它把附近的排進行程\n要去大阪吃的快存起來，丟到群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「（截圖這篇）幫我把這份清單存起來」\n「明天在難波，幫我把附近的排進行程」\n不用下載 App，大家都會用👍",
@@ -777,6 +632,151 @@
         {
           "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/07_okie.jpg",
           "alt": "大阪必吃口袋名單：第 07 頁"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-23",
+      "time_taipei": "12:00",
+      "id": "taxfree-fuk",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從福岡機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線 3F 南側 J～M 櫃台前找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台旁的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以出境後找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、福岡每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
+          "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
+          "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 福岡機場退稅怎麼辦"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把福岡機場退稅步驟做成一張圖"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-24",
+      "time_taipei": "12:00",
+      "id": "pay-kr",
+      "topic": "刷卡懶人包",
+      "text": "年底前要去韓國的人 刷卡請收！🇰🇷\n6 張卡的韓國回饋、上限、登錄條件都整理好了：\n✔️ 富邦 J 卡韓國最高 6%，加碼要搶登錄（11/20 下午4點起）\n✔️ 星展 eco 韓國實體最高 5%，約刷 NT$15,000 加碼就滿\n✔️ 樂天 Panda J 卡最高 4%，一定要刷韓元\n✔️ 台新、國泰出發前先在 App 切方案\n✔️ 結帳選韓元不要選台幣，1.5% 手續費要扣掉\n要去韓國的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「我有這兩張卡，去韓國先刷哪張？」\n「誰刷卡誰先墊，幫我記帳」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/01_sheet.jpg",
+          "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/02_sheet.jpg",
+          "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/03_tips.jpg",
+          "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
+          "alt": "LINE 群組畫面示意：okie 依手上的卡排先刷哪張"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
+          "alt": "LINE 群組畫面示意：okie 用韓元記帳並結算"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-25",
+      "time_taipei": "12:00",
+      "id": "taxfree-cts",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從北海道新千歲回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 國際線航廈 3F 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找 3F 的 Cash Japan（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、新千歲每一步怎麼走，都整理在圖裡了\n要去北海道玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
+          "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
+          "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 新千歲退稅怎麼辦"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把新千歲退稅步驟做成一張圖"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-26",
+      "time_taipei": "12:00",
+      "id": "pay-oka",
+      "topic": "刷卡懶人包",
+      "text": "去沖繩的人 現金還是刷卡？請收！🌺\n單軌、巴士、美ら海哪裡能刷卡，一張圖整理好：\n✔️ ゆいレール單軌全 19 站都能信用卡感應，Suica、ICOCA 也能用\n✔️ 巴士只有官方公告的幾條路線能感應刷卡（像 111、117、120），上車先看貼紙\n✔️ 其他路線用 OKICA 或現金，沖縄バス投幣不找零、萬元鈔不能換\n✔️ 機場利木津巴士車上不收現金，要先買票\n✔️ 美ら海售票處能刷卡、Suica、PayPay，停車場免費\n要去沖繩的快存起來，丟到旅遊群組一起看！\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/01_transport.jpg",
+          "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/02_spots.jpg",
+          "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/03_prep.jpg",
+          "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 沖繩停車場和公車能不能刷卡"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
+          "alt": "LINE 群組畫面示意：okie 記帳刷卡和付現金並結算"
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-27",
+      "time_taipei": "12:00",
+      "id": "taxfree-ngo",
+      "topic": "日本退稅",
+      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從名古屋中部機場回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 找稅關機台掃護照（T1 3F、T2 2F），或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去機台附近的海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以在出境審查後找 Cash Japan 退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n舊制新制差在哪、中部機場每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+          "alt": "日本退稅新制：舊制和新制比較一張看懂"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
+          "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
+          "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
+          "alt": "LINE 群組畫面示意：朋友問 okie 名古屋中部機場退稅怎麼辦"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
+          "alt": "LINE 群組畫面示意：okie 把名古屋中部機場退稅步驟做成一張圖"
         }
       ]
     }

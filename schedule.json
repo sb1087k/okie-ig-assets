@@ -172,7 +172,7 @@
     },
     {
       "date_taipei": "2026-11-12",
-      "time_taipei": "18:00",
+      "time_taipei": "12:00",
       "id": "text-T06",
       "topic": "text list",
       "thread": [
@@ -194,7 +194,7 @@
     },
     {
       "date_taipei": "2026-11-12",
-      "time_taipei": "21:00",
+      "time_taipei": "18:00",
       "id": "applist-A3",
       "topic": "app list",
       "thread": [
@@ -213,6 +213,28 @@
         }
       ],
       "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-12",
+      "time_taipei": "21:00",
+      "id": "applist-B4",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "日本吃東西不踩雷的秘密 🍣",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
+              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\napps.apple.com/tw/app/id6752922875\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\napps.apple.com/tw/app/id1040452788\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫你翻譯，吃完分帳也幫你算好，不用下載！\nokie.chat/line?utm_source=threads.chu",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-13",
@@ -238,7 +260,7 @@
     },
     {
       "date_taipei": "2026-11-13",
-      "time_taipei": "15:00",
+      "time_taipei": "18:00",
       "id": "text-T05",
       "topic": "text list",
       "thread": [
@@ -260,29 +282,7 @@
     },
     {
       "date_taipei": "2026-11-13",
-      "time_taipei": "18:00",
-      "id": "text-T04",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "第一次去曼谷最常踩的6個雷\n\n❶ 穿短褲背心去大皇宮→會被擋（官方規定不能無袖、短褲、迷你裙、緊身褲，有袖上衣＋長褲最穩）\n❷ 路邊有人說「大皇宮今天沒開」→別跟他上車（官網寫每天8:30–16:30開放，票只在入口或官網買）\n❸ 計程車喊價不跳表→直接換一台，或用Grab叫車（下單前就看得到車資）\n❹ 帶電子菸→泰國持有、使用電子菸和加熱菸都違法，行李裡也別放\n❺ 以為大麻能隨便買→現在只限醫療用途，娛樂使用違法\n❻ 以為下午買不到酒→2026/5底起改成11:00–24:00都能賣，半夜到早上11點才不行\n\n遇到狀況打觀光警察1155（有中文）\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "出發前在群組問okie「曼谷要注意什麼」，它把服裝、詐騙、叫車一次整理好，還順手把大皇宮排進行程👇\n\nokie.chat/line?utm_source=threads.chu",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T04_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "曼谷"
-    },
-    {
-      "date_taipei": "2026-11-14",
-      "time_taipei": "15:00",
+      "time_taipei": "21:00",
       "id": "text-T11",
       "topic": "text list",
       "thread": [
@@ -301,6 +301,28 @@
         }
       ],
       "threads_topic": "東京"
+    },
+    {
+      "date_taipei": "2026-11-14",
+      "time_taipei": "15:00",
+      "id": "text-T04",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "第一次去曼谷最常踩的6個雷\n\n❶ 穿短褲背心去大皇宮→會被擋（官方規定不能無袖、短褲、迷你裙、緊身褲，有袖上衣＋長褲最穩）\n❷ 路邊有人說「大皇宮今天沒開」→別跟他上車（官網寫每天8:30–16:30開放，票只在入口或官網買）\n❸ 計程車喊價不跳表→直接換一台，或用Grab叫車（下單前就看得到車資）\n❹ 帶電子菸→泰國持有、使用電子菸和加熱菸都違法，行李裡也別放\n❺ 以為大麻能隨便買→現在只限醫療用途，娛樂使用違法\n❻ 以為下午買不到酒→2026/5底起改成11:00–24:00都能賣，半夜到早上11點才不行\n\n遇到狀況打觀光警察1155（有中文）\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "出發前在群組問okie「曼谷要注意什麼」，它把服裝、詐騙、叫車一次整理好，還順手把大皇宮排進行程👇\n\nokie.chat/line?utm_source=threads.chu",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T04_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "曼谷"
     },
     {
       "date_taipei": "2026-11-14",
@@ -323,6 +345,28 @@
         }
       ],
       "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-14",
+      "time_taipei": "21:00",
+      "id": "text-T13",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "福岡3天2夜的4種排法\n\n01. 吃貨市區派：機場搭地鐵兩站到博多放行李（國際線先坐免費接駁車到國內線）→天神逛街→晚上吃屋台（全市約100家，長濱屋台街2023年復活）\n\n02. 太宰府＋柳川派：西鐵「太宰府・柳川觀光套票」含電車＋柳川遊船，2天有效可住一晚；太宰府本殿大修完，9/19恢復正面參拜；遊船約1小時，12–2月有暖桌船\n\n03. 糸島海景派：地鐵直通JR筑肥線到九大學研都市，轉昭和巴士西之浦線到二見浦夫婦岩（800日圓）\n\n04. 門司港派：JR到小倉轉車到門司港，走780m海底隧道「關門人道」到下關，免費、6:00–22:00；週末假日唐戶市場有壽司攤\n\n🚀 這4種我都是請 LINE 群組裡的 AI 規劃工具 @okie.chat 排的，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "這次福岡是丟一句「3天2夜，想吃也想去太宰府」給群組裡的 okie，它直接排好每天怎麼走，大家在群組裡改一改就定案👇\n\nokie.chat/line?utm_source=threads.chu",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T13_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "福岡"
     },
     {
       "date_taipei": "2026-11-15",
@@ -349,50 +393,6 @@
     {
       "date_taipei": "2026-11-15",
       "time_taipei": "18:00",
-      "id": "text-T13",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "福岡3天2夜的4種排法\n\n01. 吃貨市區派：機場搭地鐵兩站到博多放行李（國際線先坐免費接駁車到國內線）→天神逛街→晚上吃屋台（全市約100家，長濱屋台街2023年復活）\n\n02. 太宰府＋柳川派：西鐵「太宰府・柳川觀光套票」含電車＋柳川遊船，2天有效可住一晚；太宰府本殿大修完，9/19恢復正面參拜；遊船約1小時，12–2月有暖桌船\n\n03. 糸島海景派：地鐵直通JR筑肥線到九大學研都市，轉昭和巴士西之浦線到二見浦夫婦岩（800日圓）\n\n04. 門司港派：JR到小倉轉車到門司港，走780m海底隧道「關門人道」到下關，免費、6:00–22:00；週末假日唐戶市場有壽司攤\n\n🚀 這4種我都是請 LINE 群組裡的 AI 規劃工具 @okie.chat 排的，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "這次福岡是丟一句「3天2夜，想吃也想去太宰府」給群組裡的 okie，它直接排好每天怎麼走，大家在群組裡改一改就定案👇\n\nokie.chat/line?utm_source=threads.chu",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T13_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "福岡"
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "21:00",
-      "id": "applist-B4",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "日本吃東西不踩雷的秘密 🍣",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
-              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\napps.apple.com/tw/app/id6752922875\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\napps.apple.com/tw/app/id1040452788\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫你翻譯，吃完分帳也幫你算好，不用下載！\nokie.chat/line?utm_source=threads.chu",
-          "images": []
-        }
-      ],
-      "threads_topic": "日本旅遊"
-    },
-    {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "12:00",
       "id": "applist-A4",
       "topic": "app list",
       "thread": [
@@ -413,8 +413,8 @@
       "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-15",
+      "time_taipei": "21:00",
       "id": "text-T09",
       "topic": "text list",
       "thread": [
@@ -435,7 +435,7 @@
       "threads_topic": "北海道"
     },
     {
-      "date_taipei": "2026-11-17",
+      "date_taipei": "2026-11-16",
       "time_taipei": "12:00",
       "id": "text-T16",
       "topic": "text list",
@@ -457,7 +457,7 @@
       "threads_topic": "首爾"
     },
     {
-      "date_taipei": "2026-11-17",
+      "date_taipei": "2026-11-16",
       "time_taipei": "18:00",
       "id": "text-T02",
       "topic": "text list",
@@ -479,7 +479,7 @@
       "threads_topic": "大阪"
     },
     {
-      "date_taipei": "2026-11-17",
+      "date_taipei": "2026-11-16",
       "time_taipei": "21:00",
       "id": "applist-B6",
       "topic": "app list",
@@ -501,8 +501,8 @@
       "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-17",
+      "time_taipei": "12:00",
       "id": "text-T10",
       "topic": "text list",
       "thread": [
@@ -523,8 +523,8 @@
       "threads_topic": "日本旅遊"
     },
     {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "21:00",
+      "date_taipei": "2026-11-17",
+      "time_taipei": "18:00",
       "id": "applist-B5",
       "topic": "app list",
       "thread": [
@@ -545,8 +545,8 @@
       "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "12:00",
+      "date_taipei": "2026-11-17",
+      "time_taipei": "21:00",
       "id": "text-T15",
       "topic": "text list",
       "thread": [
@@ -567,8 +567,8 @@
       "threads_topic": "大阪"
     },
     {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-18",
+      "time_taipei": "12:00",
       "id": "text-T08",
       "topic": "text list",
       "thread": [
@@ -589,8 +589,8 @@
       "threads_topic": "泰國旅遊"
     },
     {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "21:00",
+      "date_taipei": "2026-11-18",
+      "time_taipei": "18:00",
       "id": "applist-A6",
       "topic": "app list",
       "thread": [
@@ -609,6 +609,94 @@
         }
       ],
       "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-18",
+      "time_taipei": "21:00",
+      "id": "text-T17",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "日本跨年要注意的6件事\n\n❶ 銀行12/31–1/3全休（法律規定），2027年要到1/4（一）才開→換錢在12/30前搞定\n❷ 要領日圓就找7-11 ATM：Visa、Mastercard 0:00–24:00都能用，畫面有中文\n❸ 百貨元旦多半休：2026年元旦西武・SOGO全店休、1/2才開，高島屋、大丸松坂屋到1/3才開→想搶福袋先看各店初賣日\n❹ 明治神宮12/31可以整晚參拜，但12/31–1/3有數百萬人→想輕鬆拜就錯開\n❺ 澀谷車站周邊全年18:00到隔天5:00禁止路上喝酒，跨年倒數別拿酒上街\n❻ 想看初日出：東京1/1約6:50日出\n\n🚀 跨年哪裡有開、怎麼排，我都先在 LINE 群組問 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "跨年那趟我們在群組問 okie「元旦店有開嗎」，它把銀行、百貨、神社分開講清楚，還順便幫我們排好1/1行程👇\n\nokie.chat/line?utm_source=threads.chu",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T17_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "日本旅遊"
+    },
+    {
+      "date_taipei": "2026-11-19",
+      "time_taipei": "12:00",
+      "id": "text-T12",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "首爾在地人愛的平價美食8選\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，必吃油炒年糕\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "在弘大肚子餓直接問群組裡的okie，它推了望遠市場還排好路線，吃完誰付多少也是它算的👇\n\nokie.chat/line?utm_source=threads.chu",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "首爾"
+    },
+    {
+      "date_taipei": "2026-11-19",
+      "time_taipei": "18:00",
+      "id": "text-T20",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "出國前一週要做的8件事\n\n01. 查護照效期：多數國家要求入境時剩6個月以上，不夠就先換\n02. 填入境資料：日本用 Visit Japan Web 先登錄入境審查＋海關申報；泰國要在抵達前3天內填TDAC（官方免費，小心收費的假網站）\n03. eSIM／漫遊先買好、在台灣就裝好，落地才不會沒網路\n04. 保旅平險＋不便險（班機延誤、行李延誤都用得到）\n05. 換一點當地現金，順便看信用卡海外手續費\n06. 行動電源只能隨身帶、每人最多2顆、機上不能充電（日本自2026/4/24起跟進國際新規）\n07. 航空公司一開放就線上報到、選位\n08. 報到、填入境資料、退房時間全設提醒\n\n🚀 這些提醒我都丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 設，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "出發前一週在群組跟 @okie 說一句，線上報到、填 Visit Japan Web 的時間它都準時提醒全團，再也沒人在機場才在補資料。加進 LINE 群組就能用👇\n\nokie.chat/line?utm_source=threads.chu",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T20_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-19",
+      "time_taipei": "21:00",
+      "id": "applist-B2",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "東京地鐵再也不會搭錯 🚇",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
+              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\napps.apple.com/tw/app/id299490481\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\napps.apple.com/tw/app/id6738336566\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給你，不用下載！\nokie.chat/line?utm_source=threads.chu",
+          "images": []
+        }
+      ],
+      "threads_topic": "東京"
     },
     {
       "date_taipei": "2026-11-20",
@@ -635,50 +723,6 @@
     {
       "date_taipei": "2026-11-20",
       "time_taipei": "18:00",
-      "id": "text-T12",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "首爾在地人愛的平價美食8選\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，必吃油炒年糕\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "在弘大肚子餓直接問群組裡的okie，它推了望遠市場還排好路線，吃完誰付多少也是它算的👇\n\nokie.chat/line?utm_source=threads.chu",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "首爾"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "15:00",
-      "id": "text-T20",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "出國前一週要做的8件事\n\n01. 查護照效期：多數國家要求入境時剩6個月以上，不夠就先換\n02. 填入境資料：日本用 Visit Japan Web 先登錄入境審查＋海關申報；泰國要在抵達前3天內填TDAC（官方免費，小心收費的假網站）\n03. eSIM／漫遊先買好、在台灣就裝好，落地才不會沒網路\n04. 保旅平險＋不便險（班機延誤、行李延誤都用得到）\n05. 換一點當地現金，順便看信用卡海外手續費\n06. 行動電源只能隨身帶、每人最多2顆、機上不能充電（日本自2026/4/24起跟進國際新規）\n07. 航空公司一開放就線上報到、選位\n08. 報到、填入境資料、退房時間全設提醒\n\n🚀 這些提醒我都丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 設，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "出發前一週在群組跟 @okie 說一句，線上報到、填 Visit Japan Web 的時間它都準時提醒全團，再也沒人在機場才在補資料。加進 LINE 群組就能用👇\n\nokie.chat/line?utm_source=threads.chu",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T20_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "旅遊"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "18:00",
       "id": "applist-B7",
       "topic": "app list",
       "thread": [
@@ -699,74 +743,8 @@
       "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-11-22",
-      "time_taipei": "18:00",
-      "id": "text-T17",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "日本跨年要注意的6件事\n\n❶ 銀行12/31–1/3全休（法律規定），2027年要到1/4（一）才開→換錢在12/30前搞定\n❷ 要領日圓就找7-11 ATM：Visa、Mastercard 0:00–24:00都能用，畫面有中文\n❸ 百貨元旦多半休：2026年元旦西武・SOGO全店休、1/2才開，高島屋、大丸松坂屋到1/3才開→想搶福袋先看各店初賣日\n❹ 明治神宮12/31可以整晚參拜，但12/31–1/3有數百萬人→想輕鬆拜就錯開\n❺ 澀谷車站周邊全年18:00到隔天5:00禁止路上喝酒，跨年倒數別拿酒上街\n❻ 想看初日出：東京1/1約6:50日出\n\n🚀 跨年哪裡有開、怎麼排，我都先在 LINE 群組問 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "跨年那趟我們在群組問 okie「元旦店有開嗎」，它把銀行、百貨、神社分開講清楚，還順便幫我們排好1/1行程👇\n\nokie.chat/line?utm_source=threads.chu",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T17_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "日本旅遊"
-    },
-    {
-      "date_taipei": "2026-11-22",
+      "date_taipei": "2026-11-20",
       "time_taipei": "21:00",
-      "id": "applist-B2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "東京地鐵再也不會搭錯 🚇",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
-              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\napps.apple.com/tw/app/id299490481\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\napps.apple.com/tw/app/id6738336566\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給你，不用下載！\nokie.chat/line?utm_source=threads.chu",
-          "images": []
-        }
-      ],
-      "threads_topic": "東京"
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "12:00",
-      "id": "applist-A5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "早知道出國前就先裝這些了…😮‍💨",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
-              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\napps.apple.com/tw/app/id368677368\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\napps.apple.com/tw/app/id1475911720\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\napps.apple.com/tw/app/id961850126\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫你記帳分帳！\nokie.chat/line?utm_source=threads.chu",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊"
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "18:00",
       "id": "text-T14",
       "topic": "text list",
       "thread": [
@@ -787,14 +765,36 @@
       "threads_topic": "沖繩"
     },
     {
-      "date_taipei": "2026-11-24",
+      "date_taipei": "2026-11-21",
+      "time_taipei": "15:00",
+      "id": "applist-A5",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "早知道出國前就先裝這些了…😮‍💨",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
+              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\napps.apple.com/tw/app/id368677368\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\napps.apple.com/tw/app/id1475911720\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\napps.apple.com/tw/app/id961850126\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫你記帳分帳！\nokie.chat/line?utm_source=threads.chu",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-21",
       "time_taipei": "18:00",
       "id": "text-D01",
       "topic": "do/dont list",
       "threads_topic": "日本旅遊",
       "thread": [
         {
-          "text": "第一次去日本，記住「三要三不要」\n\n✅一要：垃圾自己帶走\n街上不一定找得到垃圾桶，日本觀光廳請旅客找不到就帶走；寶特瓶、罐子、玻璃瓶要分開丟。\n\n✅二要：旅伴先拉 LINE 群組\n把 AI 規劃工具 @okie.chat 加進群組，居酒屋的手寫菜單拍照就翻成中文，想吃什麼、怎麼排也能直接用中文問，不用另外下載 App\n\n✅三要：退稅品先過海關再託運\n11/1起買免稅品先付含稅價，出境時給海關確認才退稅；同一張收據少一件（像在日本吃掉的零食），整張都不退。\n\n❌一不要：在電車上講電話\n手機轉靜音，有電話就下車再回；上車前先站門邊讓人下車。\n\n❌二不要：在手扶梯上走\n埼玉縣、名古屋市條例規定手扶梯要站著搭，左右都能站；2026年夏天全國58家鐵道業者也一起宣導。\n\n❌三不要：給小費\n餐廳、計程車、飯店都沒有給小費的習慣，付帳單上的金額就好。\n\n💛不用背整本禮儀，安靜一點、守規矩，到哪都很好玩。",
+          "text": "第一次去日本，記住「三要三不要」\n\n✅一要：大行李箱先訂座位\n搭東海道、山陽、九州新幹線，行李箱長寬高合計161–250cm要先訂「附特大行李放置處」的座位，不用加價；沒訂就上車要付¥1,000。\n\n✅二要：旅伴先拉 LINE 群組\n把 AI 規劃工具 @okie.chat 加進群組，居酒屋的手寫菜單拍照就翻成中文，想吃什麼、怎麼排也能直接用中文問，不用另外下載 App\n\n✅三要：退稅品先過海關再託運\n11/1起買免稅品先付含稅價，出境時給海關確認才退稅；同一張收據少一件（像在日本吃掉的零食），整張都不退。\n\n❌一不要：在電車上講電話\n手機轉靜音，有電話就下車再回；上車前先站門邊讓人下車。\n\n❌二不要：在手扶梯上走\n埼玉縣、名古屋市條例規定手扶梯要站著搭，左右都能站；2026年夏天全國58家鐵道業者也一起宣導。\n\n❌三不要：給小費\n餐廳、計程車、飯店都沒有給小費的習慣，付帳單上的金額就好。\n\n💛不用背整本禮儀，安靜一點、守規矩，到哪都很好玩。",
           "images": []
         },
         {
@@ -809,30 +809,8 @@
       ]
     },
     {
-      "date_taipei": "2026-11-24",
+      "date_taipei": "2026-11-21",
       "time_taipei": "21:00",
-      "id": "applist-C5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "冬天去北海道，這幾個先裝好 ❄️",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
-              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\napps.apple.com/tw/app/id1254341709\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\napps.apple.com/tw/app/id858357174\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\napps.apple.com/tw/app/id686373726\n\n4. okie 🍮\n雪季行程幫你排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nokie.chat/line?utm_source=threads.chu",
-          "images": []
-        }
-      ],
-      "threads_topic": "北海道"
-    },
-    {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "18:00",
       "id": "text-D04",
       "topic": "do/dont list",
       "threads_topic": "新加坡旅遊",
@@ -853,29 +831,29 @@
       ]
     },
     {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "21:00",
-      "id": "applist-B3",
+      "date_taipei": "2026-11-22",
+      "time_taipei": "15:00",
+      "id": "applist-C5",
       "topic": "app list",
       "thread": [
         {
-          "text": "大阪京都玩一圈，手機只留這 4 個 🦌",
+          "text": "冬天去北海道，這幾個先裝好 ❄️",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B3.jpg",
-              "alt": "一排手機 App 圖示：錢包（ICOCA）、KYOTO Transit Planner、環球影城官方 App、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
+              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
             }
           ]
         },
         {
-          "text": "1. 錢包（ICOCA） 💳\n不用買實體卡，iPhone 錢包直接開一張 ICOCA 刷進站！\napps.apple.com/tw/app/id1160481993\n\n2. KYOTO Transit Planner 🚌\n京都電車、公車一起查，還看得到公車現在開到哪！\napps.apple.com/tw/app/id629358027\n\n3. 環球影城官方 App 🎢\n每個設施排多久即時看，整理券在手機上直接拿！\napps.apple.com/tw/app/id532097000\n\n4. okie 🍮\n大阪京都怎麼排丟進 LINE 群組，行程、分帳一次搞定，不用下載！\nokie.chat/line?utm_source=threads.chu",
+          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\napps.apple.com/tw/app/id1254341709\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\napps.apple.com/tw/app/id858357174\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\napps.apple.com/tw/app/id686373726\n\n4. okie 🍮\n雪季行程幫你排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nokie.chat/line?utm_source=threads.chu",
           "images": []
         }
       ],
-      "threads_topic": "京都"
+      "threads_topic": "北海道"
     },
     {
-      "date_taipei": "2026-11-26",
+      "date_taipei": "2026-11-22",
       "time_taipei": "18:00",
       "id": "text-D05",
       "topic": "do/dont list",
@@ -897,7 +875,7 @@
       ]
     },
     {
-      "date_taipei": "2026-11-26",
+      "date_taipei": "2026-11-22",
       "time_taipei": "21:00",
       "id": "applist-C2",
       "topic": "app list",
@@ -919,8 +897,30 @@
       "threads_topic": "首爾"
     },
     {
-      "date_taipei": "2026-11-27",
+      "date_taipei": "2026-11-23",
       "time_taipei": "12:00",
+      "id": "applist-B3",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "大阪京都玩一圈，手機只留這 4 個 🦌",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B3.jpg",
+              "alt": "一排手機 App 圖示：錢包（ICOCA）、KYOTO Transit Planner、環球影城官方 App、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. 錢包（ICOCA） 💳\n不用買實體卡，iPhone 錢包直接開一張 ICOCA 刷進站！\napps.apple.com/tw/app/id1160481993\n\n2. KYOTO Transit Planner 🚌\n京都電車、公車一起查，還看得到公車現在開到哪！\napps.apple.com/tw/app/id629358027\n\n3. 環球影城官方 App 🎢\n每個設施排多久即時看，整理券在手機上直接拿！\napps.apple.com/tw/app/id532097000\n\n4. okie 🍮\n大阪京都怎麼排丟進 LINE 群組，行程、分帳一次搞定，不用下載！\nokie.chat/line?utm_source=threads.chu",
+          "images": []
+        }
+      ],
+      "threads_topic": "京都"
+    },
+    {
+      "date_taipei": "2026-11-23",
+      "time_taipei": "18:00",
       "id": "applist-C4",
       "topic": "app list",
       "thread": [
@@ -941,8 +941,8 @@
       "threads_topic": "峴港"
     },
     {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-23",
+      "time_taipei": "21:00",
       "id": "text-D03",
       "topic": "do/dont list",
       "threads_topic": "韓國旅遊",
@@ -963,8 +963,8 @@
       ]
     },
     {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-24",
+      "time_taipei": "12:00",
       "id": "applist-C6",
       "topic": "app list",
       "thread": [
@@ -985,18 +985,18 @@
       "threads_topic": "歐洲旅遊"
     },
     {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "21:00",
+      "date_taipei": "2026-11-24",
+      "time_taipei": "18:00",
       "id": "text-D02",
       "topic": "do/dont list",
       "threads_topic": "日本溫泉",
       "thread": [
         {
-          "text": "第一次泡日本溫泉／住日式旅館，記住「三要三不要」\n\n✅一要：先洗乾淨再下池\n坐在淋浴區用肥皂把全身洗乾淨、沖掉泡沫再進池；長頭髮要綁起來。\n\n✅二要：旅伴先拉 LINE 群組\n把 AI 規劃工具 @okie.chat 加進群組，懷石晚餐的菜單拍照就翻成中文，也能請它在晚餐前提醒大家回房，不用另外下載 App\n\n✅三要：浴衣左襟在上\n左邊壓右邊才對，男女都一樣；右邊在上是往生者的穿法。\n\n❌一不要：毛巾泡進池裡\n小毛巾放池邊或頂在頭上，溫泉是用來泡的，別在裡面游泳。\n\n❌二不要：有刺青直接進大浴場\n很多溫泉不讓刺青入池；有些接受用防水貼遮住小刺青，先問清楚，或訂有包租湯（貸切風呂）、房間附湯的旅館。\n\n❌三不要：穿拖鞋踩榻榻米\n進和室前脫拖鞋，行李箱用提的別拖；廁所有專用拖鞋，別穿出來。\n\n💛規矩看起來多，其實就是乾淨、安靜，泡完你就懂為什麼大家愛日本溫泉。",
+          "text": "第一次泡日本溫泉／住日式旅館，記住「三要三不要」\n\n✅一要：先洗乾淨再下池\n坐在淋浴區用肥皂把全身洗乾淨、沖掉泡沫再進池；長頭髮要綁起來。\n\n✅二要：旅伴先拉 LINE 群組\n把 AI 規劃工具 @okie.chat 加進群組，每天早上把當天行程和天氣傳到群組，山上早晚溫差大，出門前就知道要穿多少；懷石菜單也能拍照翻中文，不用另外下載 App\n\n✅三要：浴衣左襟在上\n左邊壓右邊才對，男女都一樣；右邊在上是往生者的穿法。\n\n❌一不要：毛巾泡進池裡\n小毛巾放池邊或頂在頭上，溫泉是用來泡的，別在裡面游泳。\n\n❌二不要：有刺青直接進大浴場\n很多溫泉不讓刺青入池；有些接受用防水貼遮住小刺青，先問清楚，或訂有包租湯（貸切風呂）、房間附湯的旅館。\n\n❌三不要：穿拖鞋踩榻榻米\n進和室前脫拖鞋，行李箱用提的別拖；廁所有專用拖鞋，別穿出來。\n\n💛規矩看起來多，其實就是乾淨、安靜，泡完你就懂為什麼大家愛日本溫泉。",
           "images": []
         },
         {
-          "text": "上次住溫泉旅館，懷石晚餐的菜單拍給 okie 翻，還請它在晚餐前叫大家泡完湯回房，四個人都沒遲到👇\n\nokie.chat/line?utm_source=threads.chu",
+          "text": "上次去箱根住溫泉旅館，okie 每天早上 7 點把行程跟天氣傳到群組，大家起床看一眼就知道要穿多厚👇\n\nokie.chat/line?utm_source=threads.chu",
           "images": [
             {
               "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D02_chat.jpg",
@@ -1007,8 +1007,8 @@
       ]
     },
     {
-      "date_taipei": "2026-11-30",
-      "time_taipei": "18:00",
+      "date_taipei": "2026-11-24",
+      "time_taipei": "21:00",
       "id": "text-D06",
       "topic": "do/dont list",
       "threads_topic": "越南旅遊",

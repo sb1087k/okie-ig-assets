@@ -151,24 +151,24 @@
     {
       "date_taipei": "2026-11-11",
       "time_taipei": "21:00",
-      "id": "applist-A7",
-      "topic": "app list",
+      "id": "faredrop-OSA7",
+      "topic": "fare drop",
+      "threads_topic": "便宜機票",
       "thread": [
         {
-          "text": "這些翻譯工具不該只有少數人知道！🗣️",
+          "text": "這個真的要分享給常揪團出國的人！\n機票在 LINE 群組裡就有人幫忙盯，也太省事了吧😻\n\n12 月跟朋友 7 個人要去大阪\n日期好不容易喬好，一看機票每人來回要 10,621\n7 個人沒人想每天刷票價🤣\n\n後來把 AI 規劃工具 @okie.chat 拉進群組，叫它幫我們盯\n某天早上群組直接跳出降價通知，每人變 9,501\n\n一人少 1,120，7 個人加起來差快 8 千💸",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
-              "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/chuu_osa_1_watch.jpg",
+              "alt": "LINE 群組對話截圖示意：請 okie 盯台北飛大阪 7 人來回機票"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/chuu_osa_2_drop.jpg",
+              "alt": "LINE 群組對話截圖示意：okie 通知機票降價到每人 NT$9,501"
             }
           ]
-        },
-        {
-          "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\napps.apple.com/tw/app/id1147874819\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\napps.apple.com/tw/app/id581137577\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\napps.apple.com/tw/app/id414706506\n\n4. okie 🍮\n菜單看不懂？在 LINE 群組裡就幫你翻譯菜單，不用下載！\nokie.chat/line?utm_source=threads.chu",
-          "images": []
         }
-      ],
-      "threads_topic": "旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-12",
@@ -1027,6 +1027,28 @@
           ]
         }
       ]
+    },
+    {
+      "date_taipei": "2026-11-25",
+      "time_taipei": "21:00",
+      "id": "applist-A7",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "這些翻譯工具不該只有少數人知道！🗣️",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
+              "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\napps.apple.com/tw/app/id1147874819\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\napps.apple.com/tw/app/id581137577\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\napps.apple.com/tw/app/id414706506\n\n4. okie 🍮\n菜單看不懂？在 LINE 群組裡就幫你翻譯菜單，不用下載！\nokie.chat/line?utm_source=threads.chu",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
     }
   ]
 }

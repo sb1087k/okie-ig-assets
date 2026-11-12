@@ -9,7 +9,7 @@
       "20:00"
     ],
     "weekend": [
-      "12:00",
+      "10:00",
       "17:00",
       "20:00"
     ]
@@ -303,7 +303,7 @@
     },
     {
       "date_taipei": "2026-11-14",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "text-T04",
       "topic": "text list",
       "thread": [
@@ -369,7 +369,7 @@
     },
     {
       "date_taipei": "2026-11-15",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "text-T19",
       "topic": "text list",
       "thread": [
@@ -765,7 +765,7 @@
     },
     {
       "date_taipei": "2026-11-21",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "text-K02",
       "topic": "crowd alternatives",
       "threads_topic": "東京旅遊",
@@ -831,7 +831,7 @@
     },
     {
       "date_taipei": "2026-11-22",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "text-K03",
       "topic": "crowd alternatives",
       "threads_topic": "大阪旅遊",
@@ -1227,7 +1227,7 @@
     },
     {
       "date_taipei": "2026-11-28",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "applist-C3",
       "topic": "app list",
       "thread": [
@@ -1293,7 +1293,7 @@
     },
     {
       "date_taipei": "2026-11-29",
-      "time_taipei": "12:00",
+      "time_taipei": "10:00",
       "id": "applist-C2",
       "topic": "app list",
       "thread": [

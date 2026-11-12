@@ -239,24 +239,24 @@
     {
       "date_taipei": "2026-11-13",
       "time_taipei": "12:00",
-      "id": "applist-C1",
-      "topic": "app list",
+      "id": "text-K07",
+      "topic": "crowd alternatives",
+      "threads_topic": "曼谷旅遊",
       "thread": [
         {
-          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
-              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
-            }
-          ]
+          "text": "曼谷夜市人擠人的地方，改去這些\n\nJodd Fairs拉瑪九那家已經收掉了，現在要去是Ratchada那家（泰國文化中心站旁）\n\n❌ Jodd Fairs Ratchada\n✅ 倫披尼公園小吃中心：今年4月曼谷市政府新開，沙拉信路一帶的老攤搬進來，晚班16:00–24:00\n\n❌ 恰圖恰週末市集\n✅ Or Tor Kor市場：就在恰圖恰對面、MRT甘烹碧站旁，2017年被CNN選進全球十大生鮮市場\n\n❌ Asiatique河濱夜市\n✅ 席娜卡琳火車夜市：只開週四到週日17:00–24:00，在東邊Seacon Square後面，19:00後攤位才開齊\n\n⚠️ 泰國今年5/29起正式把賣酒時間定為11:00–24:00，下午14:00–17:00不再禁賣，但過了午夜一般攤位就不能賣酒\n\n🌙 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "我們是請 okie 把週四晚上排去席娜卡琳火車夜市，早上它還會在群組傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K07_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "韓國旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-13",
@@ -326,28 +326,6 @@
     },
     {
       "date_taipei": "2026-11-14",
-      "time_taipei": "18:00",
-      "id": "applist-A2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "出國前一晚，靠這幾個 AI 準備好一切 🧳",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A2.jpg",
-              "alt": "一排手機 App 圖示：Perplexity、Gemini Notebook、Wanderlog、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Perplexity 🔎\n查簽證、入境規定，每個答案都附上引用來源！\n\n2. Gemini Notebook 📒\n把遊記、YouTube 攻略丟進去，幫我整理重點還附出處！\n\n3. Wanderlog 🗺️\n行程、機票、訂房全放同一張地圖，朋友能一起即時編輯！\n\n4. okie 🍮\n加進 LINE 群組，一起排行程、幫我們設定提醒，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊"
-    },
-    {
-      "date_taipei": "2026-11-14",
       "time_taipei": "21:00",
       "id": "text-T13",
       "topic": "text list",
@@ -386,28 +364,6 @@
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
-        }
-      ],
-      "threads_topic": "旅遊"
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "18:00",
-      "id": "applist-A4",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "最近出國發現的 4 個寶藏 App，忍不住想分享！💎",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A4.jpg",
-              "alt": "一排手機 App 圖示：Organic Maps、Flighty、Airalo、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Organic Maps 🧭\n地圖整個下載到手機，搜尋跟導航都不用網路，免費沒廣告！\n\n2. Flighty ✈️\n航班即時動態免費追，還能一鍵分享給要來接機的家人！\n\n3. Airalo 📶\n200 多個目的地的 eSIM，在 App 裡買完直接安裝！\n\n4. okie 🍮\n不用下載，加進 LINE 群組就幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
         }
       ],
       "threads_topic": "旅遊"
@@ -481,24 +437,24 @@
     {
       "date_taipei": "2026-11-16",
       "time_taipei": "21:00",
-      "id": "applist-B6",
-      "topic": "app list",
+      "id": "text-K05",
+      "topic": "crowd alternatives",
+      "threads_topic": "北海道旅遊",
       "thread": [
         {
-          "text": "跟朋友出國不吵架的秘密 🤫",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B6.jpg",
-              "alt": "一排手機 App 圖示：Funliday、Splitwise、TimeTree、okie"
-            }
-          ]
+          "text": "北海道雪景人擠人的地方，改去這些\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. Funliday 📝\n大家一起編同一份行程，拖拉一下就排好！\n\n2. Splitwise 💸\n誰先付都記下來，最後自動算出最少的還錢方式！\n\n3. TimeTree 📅\n共用行事曆，誰改了行程大家都會收到通知！\n\n4. okie 🍮\n直接加進旅遊 LINE 群組，記帳分帳、排行程大家一起用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "我們是請 okie 把支笏湖冰濤祭排進落地那天傍晚，前一晚再提醒大家帶暖暖包\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-17",
@@ -521,28 +477,6 @@
         }
       ],
       "threads_topic": "日本旅遊"
-    },
-    {
-      "date_taipei": "2026-11-17",
-      "time_taipei": "18:00",
-      "id": "applist-B5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "旅伴一直問我怎麼都不會迷路 🧭",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
-              "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒我什麼時候該下車！\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴我從哪個出口出站最近！\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫我們排好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊"
     },
     {
       "date_taipei": "2026-11-17",
@@ -587,28 +521,6 @@
         }
       ],
       "threads_topic": "泰國旅遊"
-    },
-    {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "18:00",
-      "id": "applist-A6",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "第 4 個連下載都不用 👀",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A6.jpg",
-              "alt": "一排手機 App 圖示：Skyscanner、Booking.com、Google 地圖、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Skyscanner 🛫\n設定價格通知，機票一降價就推播提醒我！\n\n2. Booking.com 🏨\n多數房型可以免費取消，先訂起來再慢慢比！\n\n3. Google 地圖 📍\n先下載離線地圖，到了訊號不好也不怕迷路！\n\n4. okie 🍮\n加 LINE 好友、邀進旅遊群組，就能排行程、設定提醒！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊"
     },
     {
       "date_taipei": "2026-11-18",
@@ -677,50 +589,6 @@
       "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "21:00",
-      "id": "applist-B2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "東京地鐵再也不會搭錯 🚇",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
-              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給我們，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "東京"
-    },
-    {
-      "date_taipei": "2026-11-20",
-      "time_taipei": "12:00",
-      "id": "applist-C3",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "去泰國，手機裡留這 4 個就夠了 🛺",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C3.jpg",
-              "alt": "一排手機 App 圖示：Grab、Bolt、THIM、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Grab 🛵\n上車前就知道車資，刷卡、付現都可以！\n\n2. Bolt ⚡\n曼谷、普吉、清邁都叫得到車，機場接送還能提前預約！\n\n3. THIM 🛂\n泰國官方入境App，TDAC入境卡出發前在手機填好，全家可以一起送出！\n\n4. okie 🍮\n泰文菜單拍照就幫我們翻，行程、提醒也一起搞定，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "泰國旅遊"
-    },
-    {
       "date_taipei": "2026-11-20",
       "time_taipei": "18:00",
       "id": "applist-B7",
@@ -767,24 +635,24 @@
     {
       "date_taipei": "2026-11-21",
       "time_taipei": "15:00",
-      "id": "applist-A5",
-      "topic": "app list",
+      "id": "text-K02",
+      "topic": "crowd alternatives",
+      "threads_topic": "東京旅遊",
       "thread": [
         {
-          "text": "早知道出國前就先裝這些了…😮‍💨",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
-              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
-            }
-          ]
+          "text": "東京聖誕燈飾人擠人的地方，改去這些\n\n今年澀谷「青の洞窟」12/11才點燈、只到12/27，六本木けやき坂也只亮到12/25，現在排還來得及\n\n❌ 澀谷青の洞窟\n✅ 代々木公園「光の森」：今年第一次辦，1.8km步道17個光區，只賣預售票、沒有現場票，17:30–22:00\n\n❌ 六本木けやき坂\n✅ 日本橋櫻通 TOKYO ILLUMILIA：東京站八重洲側，每天亮到23:30，比けやき坂晚1個半小時熄燈\n\n❌ 惠比壽 Baccarat 吊燈\n✅ 東京巨蛋城：超過100萬顆燈，今年和大耳狗聯名，每天亮到24:00，巨蛋散場後人潮退了再去比較鬆\n\n⚠️ 東京中城的泡泡燈光秀只到12/20，之後只剩燈光沒有泡泡，想看要排在前面\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "我們是請 okie 把燈飾排進晚上的行程，吃完晚餐再去日本橋，出發那天早上它還會傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K02_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-21",
@@ -833,24 +701,24 @@
     {
       "date_taipei": "2026-11-22",
       "time_taipei": "15:00",
-      "id": "applist-C5",
-      "topic": "app list",
+      "id": "text-K03",
+      "topic": "crowd alternatives",
+      "threads_topic": "大阪旅遊",
       "thread": [
         {
-          "text": "冬天去北海道，這幾個先裝好 ❄️",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
-              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
-            }
-          ]
+          "text": "大阪／神戶聖誕燈飾人擠人的地方，改去這些\n\n今年大阪「光之饗宴」御堂筋燈飾11/3–12/31，每天17點左右亮到凌晨1點\n\n❌ 環球影城聖誕\n✅ 枚方公園「光之遊園地」：京阪枚方公園站，只要入園票就能看，今年新登場17公尺高的花之城堡；週末和12/21–25、12/28–30點燈\n\n❌ 中之島中央公會堂光雕（只辦12/11–25）\n✅ 大阪城Illuminage：西之丸庭園，11/20–2/14每天17:00–21:30，地鐵谷町四丁目站步行約10分，成人2,000円\n\n❌ 神戶Meriken Park聖誕（只辦12/19–25）\n✅ 旁邊新港町的「NEW SEAPORT Night Light」：12/4–2/7每天17–23點，還有3處展出神戶Luminarie作品\n\n⚠️ 神戶Luminarie已經不在12月辦了，第32屆是2027/1/29–2/7\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\n\n4. okie 🍮\n雪季行程幫我們排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "這趟大阪神戶是請 okie 幫我們挑人少一點的燈飾，再照點燈時間排好每晚要去哪 ✨\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K03_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "北海道"
+      ]
     },
     {
       "date_taipei": "2026-11-22",
@@ -877,24 +745,24 @@
     {
       "date_taipei": "2026-11-22",
       "time_taipei": "21:00",
-      "id": "applist-C2",
-      "topic": "app list",
+      "id": "text-K06",
+      "topic": "crowd alternatives",
+      "threads_topic": "首爾旅遊",
       "thread": [
         {
-          "text": "首爾逛街買到手軟的秘密 🛍️",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C2.jpg",
-              "alt": "一排手機 App 圖示：WOWPASS、NAMANE、Creatrip、okie"
-            }
-          ]
+          "text": "首爾聖誕跨年人擠人的地方，改去這些\n\n首爾燈節今年12/11–1/31在清溪川，每晚18:00–23:00點燈，年底市中心只會更擠，現在排還來得及\n\n❌ 明洞新世界百貨外牆\n✅ DDP冬季版「首爾燈光DDP」：首爾市公布12/17起登場，就在東大門歷史文化公園站旁，廣場大不用擠人行道\n\n❌ 汝矣島The Hyundai聖誕村\n✅ 現代百貨貿易中心店：一樣是「紐約聖誕」主題，正門廣場13m大樹，三成站5號出口直通\n\n❌ 普信閣跨年敲鐘\n✅ DDP跨年倒數：首爾市公布12/31會在DDP辦新年倒數，跟聖誕燈光同一個地方\n\n⚠️ 去年普信閣跨年，周邊道路18:00就封，鐘閣站23:00–1:00直接不停車，想去要提早走\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. WOWPASS 💳\n台幣直接換韓幣存進卡，刷卡、搭地鐵一張搞定！\n\n2. NAMANE 🪪\n放自己喜歡的照片做成卡，逛街刷卡、搭車都能用！\n\n3. Creatrip 🛍️\n樂天、新羅、新世界免稅店優惠券，App 裡就領得到！\n\n4. okie 🍮\n買了什麼丟進群組就幫我們記帳，回國分帳一下就算好，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "我們是請 okie 把平安夜排成「貿易中心店看大樹→搭2號線去DDP看燈光」，當天早上還會傳行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K06_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "首爾"
+      ]
     },
     {
       "date_taipei": "2026-11-23",
@@ -965,24 +833,24 @@
     {
       "date_taipei": "2026-11-24",
       "time_taipei": "12:00",
-      "id": "applist-C6",
-      "topic": "app list",
+      "id": "text-K04",
+      "topic": "crowd alternatives",
+      "threads_topic": "日本旅遊",
       "thread": [
         {
-          "text": "第一次去歐洲，手機裡一定要有這些 🇪🇺",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C6.jpg",
-              "alt": "一排手機 App 圖示：Trainline、Citymapper、Google 翻譯、okie"
-            }
-          ]
+          "text": "日本新年參拜人擠人的神社，改去這些\n\n2027年元旦是週五，1/1–1/3直接連到週末；大阪住吉大社每年光是這三天就超過200萬人參拜\n\n❌ 東京 明治神宮\n✅ 鳩森八幡神社：北參道站步行5分，境內有東京都指定文化財的迷你富士山「富士塚」，24小時都能參拜\n\n❌ 京都 伏見稻荷大社\n✅ 上賀茂神社：京都站搭市巴士4號可到（往年1/1–1/3白天改停「上賀茂御薗橋」，走約5分），整個境內都是世界遺產，二之鳥居內有圓錐形的「立砂」\n\n❌ 大阪 住吉大社\n✅ 難波八阪神社：難波站步行約6分，高12公尺的大獅子頭「獅子殿」超好拍\n\n⚠️ 日本公家機關12/29–1/3放假，2027年1/4（一）開工；想避開最擠的三天，排在1/4之後去\n\n⛩️ 這幾間我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. Trainline 🚆\n歐洲火車、巴士票一個App比價訂好，車票直接存手機！\n\n2. Citymapper 🚏\n巴黎、倫敦、羅馬地鐵怎麼搭一查就懂，還有離線路線圖！\n\n3. Google 翻譯 🔤\n菜單、路牌鏡頭一照就翻成中文，沒網路也能翻！\n\n4. okie 🍮\n跨國行程幫我們排順，大家的花費記帳分帳一起算，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
+          "text": "這次跨年去關西，是 okie 幫我們把參拜排在1/4之後，元旦早上還在群組傳了當天行程和天氣 ☀️\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K04_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "歐洲旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-24",
@@ -1030,6 +898,28 @@
     },
     {
       "date_taipei": "2026-11-25",
+      "time_taipei": "12:00",
+      "id": "applist-C1",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
+              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "韓國旅遊"
+    },
+    {
+      "date_taipei": "2026-11-25",
       "time_taipei": "18:00",
       "id": "text-T02",
       "topic": "text list",
@@ -1073,136 +963,246 @@
       "threads_topic": "旅遊"
     },
     {
+      "date_taipei": "2026-11-26",
+      "time_taipei": "12:00",
+      "id": "applist-A2",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "出國前一晚，靠這幾個 AI 準備好一切 🧳",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A2.jpg",
+              "alt": "一排手機 App 圖示：Perplexity、Gemini Notebook、Wanderlog、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Perplexity 🔎\n查簽證、入境規定，每個答案都附上引用來源！\n\n2. Gemini Notebook 📒\n把遊記、YouTube 攻略丟進去，幫我整理重點還附出處！\n\n3. Wanderlog 🗺️\n行程、機票、訂房全放同一張地圖，朋友能一起即時編輯！\n\n4. okie 🍮\n加進 LINE 群組，一起排行程、幫我們設定提醒，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-26",
+      "time_taipei": "18:00",
+      "id": "applist-A4",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "最近出國發現的 4 個寶藏 App，忍不住想分享！💎",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A4.jpg",
+              "alt": "一排手機 App 圖示：Organic Maps、Flighty、Airalo、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Organic Maps 🧭\n地圖整個下載到手機，搜尋跟導航都不用網路，免費沒廣告！\n\n2. Flighty ✈️\n航班即時動態免費追，還能一鍵分享給要來接機的家人！\n\n3. Airalo 📶\n200 多個目的地的 eSIM，在 App 裡買完直接安裝！\n\n4. okie 🍮\n不用下載，加進 LINE 群組就幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-26",
+      "time_taipei": "21:00",
+      "id": "applist-B6",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "跟朋友出國不吵架的秘密 🤫",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B6.jpg",
+              "alt": "一排手機 App 圖示：Funliday、Splitwise、TimeTree、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Funliday 📝\n大家一起編同一份行程，拖拉一下就排好！\n\n2. Splitwise 💸\n誰先付都記下來，最後自動算出最少的還錢方式！\n\n3. TimeTree 📅\n共用行事曆，誰改了行程大家都會收到通知！\n\n4. okie 🍮\n直接加進旅遊 LINE 群組，記帳分帳、排行程大家一起用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-27",
+      "time_taipei": "12:00",
+      "id": "applist-B5",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "旅伴一直問我怎麼都不會迷路 🧭",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
+              "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒我什麼時候該下車！\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴我從哪個出口出站最近！\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫我們排好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊"
+    },
+    {
       "date_taipei": "2026-11-27",
       "time_taipei": "18:00",
-      "id": "text-K02",
-      "topic": "crowd alternatives",
-      "threads_topic": "東京旅遊",
+      "id": "applist-A6",
+      "topic": "app list",
       "thread": [
         {
-          "text": "東京聖誕燈飾人擠人的地方，改去這些\n\n今年澀谷「青の洞窟」12/11才點燈、只到12/27，六本木けやき坂也只亮到12/25，現在排還來得及\n\n❌ 澀谷青の洞窟\n✅ 代々木公園「光の森」：今年第一次辦，1.8km步道17個光區，只賣預售票、沒有現場票，17:30–22:00\n\n❌ 六本木けやき坂\n✅ 日本橋櫻通 TOKYO ILLUMILIA：東京站八重洲側，每天亮到23:30，比けやき坂晚1個半小時熄燈\n\n❌ 惠比壽 Baccarat 吊燈\n✅ 東京巨蛋城：超過100萬顆燈，今年和大耳狗聯名，每天亮到24:00，巨蛋散場後人潮退了再去比較鬆\n\n⚠️ 東京中城的泡泡燈光秀只到12/20，之後只剩燈光沒有泡泡，想看要排在前面\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "我們是請 okie 把燈飾排進晚上的行程，吃完晚餐再去日本橋，出發那天早上它還會傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "第 4 個連下載都不用 👀",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K02_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A6.jpg",
+              "alt": "一排手機 App 圖示：Skyscanner、Booking.com、Google 地圖、okie"
             }
           ]
+        },
+        {
+          "text": "1. Skyscanner 🛫\n設定價格通知，機票一降價就推播提醒我！\n\n2. Booking.com 🏨\n多數房型可以免費取消，先訂起來再慢慢比！\n\n3. Google 地圖 📍\n先下載離線地圖，到了訊號不好也不怕迷路！\n\n4. okie 🍮\n加 LINE 好友、邀進旅遊群組，就能排行程、設定提醒！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-12-01",
-      "time_taipei": "18:00",
-      "id": "text-K03",
-      "topic": "crowd alternatives",
-      "threads_topic": "大阪旅遊",
+      "date_taipei": "2026-11-27",
+      "time_taipei": "21:00",
+      "id": "applist-B2",
+      "topic": "app list",
       "thread": [
         {
-          "text": "大阪／神戶聖誕燈飾人擠人的地方，改去這些\n\n今年大阪「光之饗宴」御堂筋燈飾11/3–12/31，每天17點左右亮到凌晨1點\n\n❌ 環球影城聖誕\n✅ 枚方公園「光之遊園地」：京阪枚方公園站，只要入園票就能看，今年新登場17公尺高的花之城堡；週末和12/21–25、12/28–30點燈\n\n❌ 中之島中央公會堂光雕（只辦12/11–25）\n✅ 大阪城Illuminage：西之丸庭園，11/20–2/14每天17:00–21:30，地鐵谷町四丁目站步行約10分，成人2,000円\n\n❌ 神戶Meriken Park聖誕（只辦12/19–25）\n✅ 旁邊新港町的「NEW SEAPORT Night Light」：12/4–2/7每天17–23點，還有3處展出神戶Luminarie作品\n\n⚠️ 神戶Luminarie已經不在12月辦了，第32屆是2027/1/29–2/7\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "這趟大阪神戶是請 okie 幫我們挑人少一點的燈飾，再照點燈時間排好每晚要去哪 ✨\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "東京地鐵再也不會搭錯 🚇",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K03_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
+              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
             }
           ]
+        },
+        {
+          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給我們，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "東京"
     },
     {
-      "date_taipei": "2026-12-03",
-      "time_taipei": "18:00",
-      "id": "text-K05",
-      "topic": "crowd alternatives",
-      "threads_topic": "北海道旅遊",
+      "date_taipei": "2026-11-28",
+      "time_taipei": "15:00",
+      "id": "applist-C3",
+      "topic": "app list",
       "thread": [
         {
-          "text": "北海道雪景人擠人的地方，改去這些\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "我們是請 okie 把支笏湖冰濤祭排進落地那天傍晚，前一晚再提醒大家帶暖暖包\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "去泰國，手機裡留這 4 個就夠了 🛺",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C3.jpg",
+              "alt": "一排手機 App 圖示：Grab、Bolt、THIM、okie"
             }
           ]
+        },
+        {
+          "text": "1. Grab 🛵\n上車前就知道車資，刷卡、付現都可以！\n\n2. Bolt ⚡\n曼谷、普吉、清邁都叫得到車，機場接送還能提前預約！\n\n3. THIM 🛂\n泰國官方入境App，TDAC入境卡出發前在手機填好，全家可以一起送出！\n\n4. okie 🍮\n泰文菜單拍照就幫我們翻，行程、提醒也一起搞定，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "泰國旅遊"
     },
     {
-      "date_taipei": "2026-12-07",
+      "date_taipei": "2026-11-28",
       "time_taipei": "18:00",
-      "id": "text-K06",
-      "topic": "crowd alternatives",
-      "threads_topic": "首爾旅遊",
+      "id": "applist-A5",
+      "topic": "app list",
       "thread": [
         {
-          "text": "首爾聖誕跨年人擠人的地方，改去這些\n\n首爾燈節今年12/11–1/31在清溪川，每晚18:00–23:00點燈，年底市中心只會更擠，現在排還來得及\n\n❌ 明洞新世界百貨外牆\n✅ DDP冬季版「首爾燈光DDP」：首爾市公布12/17起登場，就在東大門歷史文化公園站旁，廣場大不用擠人行道\n\n❌ 汝矣島The Hyundai聖誕村\n✅ 現代百貨貿易中心店：一樣是「紐約聖誕」主題，正門廣場13m大樹，三成站5號出口直通\n\n❌ 普信閣跨年敲鐘\n✅ DDP跨年倒數：首爾市公布12/31會在DDP辦新年倒數，跟聖誕燈光同一個地方\n\n⚠️ 去年普信閣跨年，周邊道路18:00就封，鐘閣站23:00–1:00直接不停車，想去要提早走\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "我們是請 okie 把平安夜排成「貿易中心店看大樹→搭2號線去DDP看燈光」，當天早上還會傳行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "早知道出國前就先裝這些了…😮‍💨",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K06_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
+              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
             }
           ]
+        },
+        {
+          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "旅遊"
     },
     {
-      "date_taipei": "2026-12-09",
-      "time_taipei": "18:00",
-      "id": "text-K07",
-      "topic": "crowd alternatives",
-      "threads_topic": "曼谷旅遊",
+      "date_taipei": "2026-11-28",
+      "time_taipei": "21:00",
+      "id": "applist-C5",
+      "topic": "app list",
       "thread": [
         {
-          "text": "曼谷夜市人擠人的地方，改去這些\n\nJodd Fairs拉瑪九那家已經收掉了，現在要去是Ratchada那家（泰國文化中心站旁）\n\n❌ Jodd Fairs Ratchada\n✅ 倫披尼公園小吃中心：今年4月曼谷市政府新開，沙拉信路一帶的老攤搬進來，晚班16:00–24:00\n\n❌ 恰圖恰週末市集\n✅ Or Tor Kor市場：就在恰圖恰對面、MRT甘烹碧站旁，2017年被CNN選進全球十大生鮮市場\n\n❌ Asiatique河濱夜市\n✅ 席娜卡琳火車夜市：只開週四到週日17:00–24:00，在東邊Seacon Square後面，19:00後攤位才開齊\n\n⚠️ 泰國今年5/29起正式把賣酒時間定為11:00–24:00，下午14:00–17:00不再禁賣，但過了午夜一般攤位就不能賣酒\n\n🌙 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "我們是請 okie 把週四晚上排去席娜卡琳火車夜市，早上它還會在群組傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "冬天去北海道，這幾個先裝好 ❄️",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K07_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
+              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
             }
           ]
+        },
+        {
+          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\n\n4. okie 🍮\n雪季行程幫我們排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "北海道"
     },
     {
-      "date_taipei": "2026-12-16",
-      "time_taipei": "18:00",
-      "id": "text-K04",
-      "topic": "crowd alternatives",
-      "threads_topic": "日本旅遊",
+      "date_taipei": "2026-11-29",
+      "time_taipei": "15:00",
+      "id": "applist-C2",
+      "topic": "app list",
       "thread": [
         {
-          "text": "日本新年參拜人擠人的神社，改去這些\n\n2027年元旦是週五，1/1–1/3直接連到週末；大阪住吉大社每年光是這三天就超過200萬人參拜\n\n❌ 東京 明治神宮\n✅ 鳩森八幡神社：北參道站步行5分，境內有東京都指定文化財的迷你富士山「富士塚」，24小時都能參拜\n\n❌ 京都 伏見稻荷大社\n✅ 上賀茂神社：京都站搭市巴士4號可到（往年1/1–1/3白天改停「上賀茂御薗橋」，走約5分），整個境內都是世界遺產，二之鳥居內有圓錐形的「立砂」\n\n❌ 大阪 住吉大社\n✅ 難波八阪神社：難波站步行約6分，高12公尺的大獅子頭「獅子殿」超好拍\n\n⚠️ 日本公家機關12/29–1/3放假，2027年1/4（一）開工；想避開最擠的三天，排在1/4之後去\n\n⛩️ 這幾間我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "這次跨年去關西，是 okie 幫我們把參拜排在1/4之後，元旦早上還在群組傳了當天行程和天氣 ☀️\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "首爾逛街買到手軟的秘密 🛍️",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K04_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C2.jpg",
+              "alt": "一排手機 App 圖示：WOWPASS、NAMANE、Creatrip、okie"
             }
           ]
+        },
+        {
+          "text": "1. WOWPASS 💳\n台幣直接換韓幣存進卡，刷卡、搭地鐵一張搞定！\n\n2. NAMANE 🪪\n放自己喜歡的照片做成卡，逛街刷卡、搭車都能用！\n\n3. Creatrip 🛍️\n樂天、新羅、新世界免稅店優惠券，App 裡就領得到！\n\n4. okie 🍮\n買了什麼丟進群組就幫我們記帳，回國分帳一下就算好，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "首爾"
+    },
+    {
+      "date_taipei": "2026-11-29",
+      "time_taipei": "18:00",
+      "id": "applist-C6",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "第一次去歐洲，手機裡一定要有這些 🇪🇺",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C6.jpg",
+              "alt": "一排手機 App 圖示：Trainline、Citymapper、Google 翻譯、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Trainline 🚆\n歐洲火車、巴士票一個App比價訂好，車票直接存手機！\n\n2. Citymapper 🚏\n巴黎、倫敦、羅馬地鐵怎麼搭一查就懂，還有離線路線圖！\n\n3. Google 翻譯 🔤\n菜單、路牌鏡頭一照就翻成中文，沒網路也能翻！\n\n4. okie 🍮\n跨國行程幫我們排順，大家的花費記帳分帳一起算，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "歐洲旅遊"
     }
   ]
 }

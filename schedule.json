@@ -195,50 +195,28 @@
     {
       "date_taipei": "2026-11-12",
       "time_taipei": "18:00",
-      "id": "applist-A3",
-      "topic": "app list",
+      "id": "text-M05",
+      "topic": "crowd alternatives",
+      "threads_topic": "箱根旅遊",
       "thread": [
         {
-          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
-              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
-            }
-          ]
+          "text": "箱根賞楓人擠人的地方，改去這些\n\n這週末到下週跟朋友去箱根的話，我會這樣挑：Weathernews預估長安寺11/17左右最美、蓬莱園11/13左右就開始，11/27前去剛好\n\n❌ 箱根美術館\n✅ 長安寺：我會選這裡，因為五百羅漢就散在楓樹間，境內免費；湯本搭T路線巴士在「仙石」下車就到。Weathernews估整季人潮約2千人，箱根美術館約4萬\n\n❌ 箱根強羅公園\n✅ 蓬莱園：小涌谷的免費庭園，全年開放散步；湯本搭H路線巴士約19分，「蓬莱園」站下車就到\n\n❌ 大涌谷\n✅ 甘酒茶屋：江戶初期就在箱根舊街道上的茶屋，甘酒400円、7:00就開；湯本搭K路線巴士下車就是，不在纜車那條人潮線上\n\n⚠️ 11/21–22週末，箱根空中纜車在早雲山站、大涌谷站試辦付費快速通道，纜車票另計、當天現金加付每人500円，11/13 18:00開放網路預約，每15分鐘限100人，額滿為止\n\n🍁 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
         },
         {
-          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券手機訂好，入場直接出示憑證！\n\n3. okie 🍮\n加進 LINE 群組就能用，推薦景點、翻譯菜單一次搞定！\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
-          "images": []
+          "text": "要跟朋友去箱根的話，我會請 okie 挑人少一點的賞楓點，再把長安寺、蓬莱園、甘酒茶屋排進同一天 🍁\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
         }
-      ],
-      "threads_topic": "旅遊"
+      ]
     },
     {
       "date_taipei": "2026-11-12",
       "time_taipei": "21:00",
-      "id": "applist-B4",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "日本吃東西不踩雷的秘密 🍣",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
-              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "日本旅遊"
-    },
-    {
-      "date_taipei": "2026-11-13",
-      "time_taipei": "12:00",
       "id": "text-K07",
       "topic": "crowd alternatives",
       "threads_topic": "曼谷旅遊",
@@ -252,6 +230,28 @@
           "images": [
             {
               "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K07_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-11-13",
+      "time_taipei": "12:00",
+      "id": "text-M04",
+      "topic": "crowd alternatives",
+      "threads_topic": "河口湖旅遊",
+      "thread": [
+        {
+          "text": "河口湖賞楓人擠人的地方，改去這些\n\n這週跟朋友去河口湖的話，我會這樣排：富士河口湖紅葉祭到11/29，紅葉迴廊11/12才剛開始轉紅，每天點燈到21:00，現在排還來得及\n\n❌ 河口湖紅葉迴廊\n✅ 西湖いやしの里根場：我會選這裡，茅草屋聚落配紅葉，入場500円，9:00–17:00（16:30最後入場），搭西湖周遊巴士就到\n\n❌ 新倉山淺間公園\n✅ 紅葉台：散步和停車都免費，想上休息站屋頂展望台360度看富士山、青木原樹海和湖要另外付費，自駕最方便，例年11/3–11/23最美\n\n❌ 大石公園\n✅ 精進湖：富士五湖裡最小的湖，看富士山抱著大室山的「子抱き富士」配楓葉，河口湖站搭巴士約40分\n\n⚠️ 紅葉祭第一停車場今年開始收費，普通車1,000円、只收無現金，官方也建議搭電車或周遊巴士\n\n🍂 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "要跟朋友去河口湖的話，我會請 okie 推薦周邊人少一點的賞楓點、排好一天的順序，前一晚再提醒大家紅葉祭停車場只收無現金 🍂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M04_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
@@ -327,19 +327,19 @@
     {
       "date_taipei": "2026-11-14",
       "time_taipei": "18:00",
-      "id": "text-M05",
+      "id": "text-M02",
       "topic": "crowd alternatives",
-      "threads_topic": "箱根旅遊",
+      "threads_topic": "奈良旅遊",
       "thread": [
         {
-          "text": "箱根賞楓人擠人的地方，改去這些\n\n這週末到下週跟朋友去箱根的話，我會這樣挑：Weathernews預估長安寺11/17左右最美、蓬莱園11/13左右就開始，11/27前去剛好\n\n❌ 箱根美術館\n✅ 長安寺：我會選這裡，因為五百羅漢就散在楓樹間，境內免費；湯本搭T路線巴士在「仙石」下車就到。Weathernews估整季人潮約2千人，箱根美術館約4萬\n\n❌ 箱根強羅公園\n✅ 蓬莱園：小涌谷的免費庭園，全年開放散步；湯本搭H路線巴士約19分，「蓬莱園」站下車就到\n\n❌ 大涌谷\n✅ 甘酒茶屋：江戶初期就在箱根舊街道上的茶屋，甘酒400円、7:00就開；湯本搭K路線巴士下車就是，不在纜車那條人潮線上\n\n⚠️ 11/21–22週末，箱根空中纜車在早雲山站、大涌谷站試辦付費快速通道，纜車票另計、當天現金加付每人500円，11/13 18:00起已開放網路預約，每15分鐘限100人，額滿為止\n\n🍁 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "text": "奈良賞楓人擠人的地方，改去這些\n\n我自己會挑這幾個：tenki.jp 11/12更新，長谷寺已經紅葉見頃，奈良公園、正暦寺才剛開始變色，正暦寺今年預估11月中旬～12月上旬最美\n\n❌ 奈良公園\n✅ 吉城園：近鉄奈良站走約10分，免費，有苔之庭，借景春日山和若草山，我會逛完東大寺順路繞進去\n\n❌ 談山神社\n✅ 正暦寺：古稱「錦の里」有3千多棵楓樹，平常沒公車，11/14–11/29每天有臨時巴士從JR奈良站經近鉄奈良站直達，特別拜觀成人800円\n\n❌ 長谷寺\n✅ 円成寺：同樣是山裡古寺，奈良站搭巴士約33分「忍辱山」下車就到但班次少，500円，有運慶國寶大日如來，樓門前淨土式庭園配紅葉\n\n⚠️ 晚上想留在奈良公園的話，春日大社11/21、11/28（六）有萬燈籠和本殿夜間特別參拜，17:30–20:00，700円\n\n🍂 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
           "images": []
         },
         {
-          "text": "要跟朋友去箱根的話，我會請 okie 挑人少一點的賞楓點，再把長安寺、蓬莱園、甘酒茶屋排進同一天 🍁\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "去奈良的話，我會請 okie 幫我們挑人少的楓葉寺，把萬燈籠排進晚上，前一晚再提醒大家 🍂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M05_chat.jpg",
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M02_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
@@ -393,19 +393,19 @@
     {
       "date_taipei": "2026-11-15",
       "time_taipei": "18:00",
-      "id": "text-M04",
+      "id": "text-M01",
       "topic": "crowd alternatives",
-      "threads_topic": "河口湖旅遊",
+      "threads_topic": "大阪旅遊",
       "thread": [
         {
-          "text": "河口湖賞楓人擠人的地方，改去這些\n\n這週跟朋友去河口湖的話，我會這樣排：富士河口湖紅葉祭到11/29，紅葉迴廊11/12才剛開始轉紅，每天點燈到21:00，現在排還來得及\n\n❌ 河口湖紅葉迴廊\n✅ 西湖いやしの里根場：我會選這裡，茅草屋聚落配紅葉，入場500円，9:00–17:00（16:30最後入場），搭西湖周遊巴士就到\n\n❌ 新倉山淺間公園\n✅ 紅葉台：散步和停車都免費，想上休息站屋頂展望台360度看富士山、青木原樹海和湖要另外付費，自駕最方便，例年11/3–11/23最美\n\n❌ 大石公園\n✅ 精進湖：富士五湖裡最小的湖，看富士山抱著大室山的「子抱き富士」配楓葉，河口湖站搭巴士約40分\n\n⚠️ 紅葉祭第一停車場今年開始收費，普通車1,000円、只收無現金，官方也建議搭電車或周遊巴士\n\n🍂 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "text": "大阪賞楓人擠人的地方，改去這些\n\n這週跟朋友去大阪的話我會這樣排：tenki.jp 11/12更新，箕面還完全沒變色，今年預估11月下旬～12月上旬才最美\n\n❌ 箕面大瀑布\n✅ 高槻摂津峡：我會選這裡，JR高槻站搭高槻市營巴士到「塚脇」再走約10分，免費，11/12已經部分變色\n\n❌ 大阪城公園\n✅ 慶沢園：天王寺站走約5分，成人300円，「植治」做的池泉庭園，池邊有イロハモミジ，例年11月下旬～12月上旬轉紅\n\n❌ 萬博紀念公園日本庭園\n✅ 堺・大仙公園日本庭園：JR百舌鳥站走約10分，今年夜間點燈「紅葉の灯」11/21–23、11/27–29、12/4–6，17:00–21:00，成人500円\n\n⚠️ 慶沢園和大仙日本庭園週一休園，11/23週一是假日照開、改成11/24休\n\n🍁 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
           "images": []
         },
         {
-          "text": "要跟朋友去河口湖的話，我會請 okie 推薦周邊人少一點的賞楓點、排好一天的順序，前一晚再提醒大家紅葉祭停車場只收無現金 🍂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "要跟朋友去大阪的話，我會請 okie 幫我們挑人少的賞楓點，再把大仙公園的夜間點燈排進晚上 🍁\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M04_chat.jpg",
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M01_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
@@ -525,24 +525,24 @@
     {
       "date_taipei": "2026-11-17",
       "time_taipei": "18:00",
-      "id": "text-M02",
-      "topic": "crowd alternatives",
-      "threads_topic": "奈良旅遊",
+      "id": "applist-A3",
+      "topic": "app list",
       "thread": [
         {
-          "text": "奈良賞楓人擠人的地方，改去這些\n\n我自己會挑這幾個：tenki.jp 11/12更新，長谷寺已經紅葉見頃，奈良公園、正暦寺才剛開始變色，正暦寺今年預估11月中旬～12月上旬最美\n\n❌ 奈良公園\n✅ 吉城園：近鉄奈良站走約10分，免費，有苔之庭，借景春日山和若草山，我會逛完東大寺順路繞進去\n\n❌ 談山神社\n✅ 正暦寺：古稱「錦の里」有3千多棵楓樹，平常沒公車，11/14–11/29每天有臨時巴士從JR奈良站經近鉄奈良站直達，特別拜觀成人800円\n\n❌ 長谷寺\n✅ 円成寺：同樣是山裡古寺，奈良站搭巴士約33分「忍辱山」下車就到但班次少，500円，有運慶國寶大日如來，樓門前淨土式庭園配紅葉\n\n⚠️ 晚上想留在奈良公園的話，春日大社11/21、11/28（六）有萬燈籠和本殿夜間特別參拜，17:30–20:00，700円\n\n🍂 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "去奈良的話，我會請 okie 幫我們挑人少的楓葉寺，把萬燈籠排進晚上，前一晚再提醒大家 🍂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M02_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
+              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
             }
           ]
+        },
+        {
+          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券手機訂好，入場直接出示憑證！\n\n3. okie 🍮\n加進 LINE 群組就能用，推薦景點、翻譯菜單一次搞定！\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "旅遊"
     },
     {
       "date_taipei": "2026-11-17",
@@ -591,24 +591,24 @@
     {
       "date_taipei": "2026-11-18",
       "time_taipei": "18:00",
-      "id": "text-M01",
-      "topic": "crowd alternatives",
-      "threads_topic": "大阪旅遊",
+      "id": "applist-B4",
+      "topic": "app list",
       "thread": [
         {
-          "text": "大阪賞楓人擠人的地方，改去這些\n\n這週跟朋友去大阪的話我會這樣排：tenki.jp 11/12更新，箕面還完全沒變色，今年預估11月下旬～12月上旬才最美\n\n❌ 箕面大瀑布\n✅ 高槻摂津峡：我會選這裡，JR高槻站搭高槻市營巴士到「塚脇」再走約10分，免費，11/12已經部分變色\n\n❌ 大阪城公園\n✅ 慶沢園：天王寺站走約5分，成人300円，「植治」做的池泉庭園，池邊有イロハモミジ，例年11月下旬～12月上旬轉紅\n\n❌ 萬博紀念公園日本庭園\n✅ 堺・大仙公園日本庭園：JR百舌鳥站走約10分，今年夜間點燈「紅葉の灯」11/14、11/21–23、11/27–29、12/4–6，17:00–21:00，成人500円\n\n⚠️ 慶沢園和大仙日本庭園週一休園，11/23週一是假日照開、改成11/24休\n\n🍁 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "要跟朋友去大阪的話，我會請 okie 幫我們挑人少的賞楓點，再把大仙公園的夜間點燈排進晚上 🍁\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "日本吃東西不踩雷的秘密 🍣",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/M01_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
+              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
             }
           ]
+        },
+        {
+          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
         }
-      ]
+      ],
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-18",

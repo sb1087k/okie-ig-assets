@@ -459,24 +459,24 @@
     {
       "date_taipei": "2026-11-16",
       "time_taipei": "18:00",
-      "id": "text-T02",
-      "topic": "text list",
+      "id": "text-K01",
+      "topic": "crowd alternatives",
+      "threads_topic": "東京旅遊",
       "thread": [
         {
-          "text": "大阪自由行別再這樣排了\n\n❌ 梅田、難波來回跑\n✅ 照區域排：北區（梅田、中之島）一天，南區（難波、道頓堀、新世界）一天\n\n❌ 到了USJ才想任天堂區\n✅ 人多的日子要用官方APP領整理券，發完改抽選；一定要進就先買入場確約券\n\n❌ 去奈良搭JR\n✅ 近鐵大阪難波→近鐵奈良最快約35分，出站走5分鐘到奈良公園（JR奈良站約15分）\n\n❌ 去京都一律到京都站\n✅ 要逛祇園、河原町，阪急大阪梅田→京都河原町約43分、410円，下車就是市中心\n\n❌ 京都奈良塞同一天\n✅ 各排一天，或奈良半天、晚上回難波吃\n\n🚀 我都是丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 排順路線，用法放留言～",
+          "text": "東京賞銀杏紅葉人擠人的地方，改去這些\n\n日本氣象株式會社預估東京銀杏11/29、楓葉11/30左右最美，現在排還來得及\n\n❌ 神宮外苑銀杏並木\n✅ 昭和記念公園：西立川站走約2分到西立川口，約300m的「かたらい銀杏並木」11/12已開始轉黃，11/29前每晚16:30–20:30點燈，入園450円\n\n❌ 六義園\n✅ 肥後細川庭園：池邊的楓樹會倒映在水面，11/20–11/29晚上17:30–20:00有「ひごあかり」點燈（500円）\n\n❌ 新宿御苑\n✅ 殿ヶ谷戸庭園：國分寺站步行約2分，約200棵楓樹，入園只要150円\n\n⚠️ 六義園夜間點燈11/25–12/6，17:00會先清場，要另買夜間特別觀賞券18:00再入園\n\n🍁 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
           "images": []
         },
         {
-          "text": "這次大阪3天是 okie 在群組裡幫我們照區域排的，USJ、奈良、梅田各一天，完全沒走回頭路。加進 LINE 群組就能用👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "這次是請 okie 推薦人少一點的賞楓點，再把殿ヶ谷戸庭園和昭和記念公園排進同一天，白天看楓、傍晚剛好看點燈\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T02_chat.jpg",
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K01_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
         }
-      ],
-      "threads_topic": "大阪"
+      ]
     },
     {
       "date_taipei": "2026-11-16",
@@ -1030,6 +1030,28 @@
     },
     {
       "date_taipei": "2026-11-25",
+      "time_taipei": "18:00",
+      "id": "text-T02",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "大阪自由行別再這樣排了\n\n❌ 梅田、難波來回跑\n✅ 照區域排：北區（梅田、中之島）一天，南區（難波、道頓堀、新世界）一天\n\n❌ 到了USJ才想任天堂區\n✅ 人多的日子要用官方APP領整理券，發完改抽選；一定要進就先買入場確約券\n\n❌ 去奈良搭JR\n✅ 近鐵大阪難波→近鐵奈良最快約35分，出站走5分鐘到奈良公園（JR奈良站約15分）\n\n❌ 去京都一律到京都站\n✅ 要逛祇園、河原町，阪急大阪梅田→京都河原町約43分、410円，下車就是市中心\n\n❌ 京都奈良塞同一天\n✅ 各排一天，或奈良半天、晚上回難波吃\n\n🚀 我都是丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 排順路線，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "這次大阪3天是 okie 在群組裡幫我們照區域排的，USJ、奈良、梅田各一天，完全沒走回頭路。加進 LINE 群組就能用👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T02_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "大阪"
+    },
+    {
+      "date_taipei": "2026-11-25",
       "time_taipei": "21:00",
       "id": "applist-A7",
       "topic": "app list",
@@ -1049,6 +1071,138 @@
         }
       ],
       "threads_topic": "旅遊"
+    },
+    {
+      "date_taipei": "2026-11-27",
+      "time_taipei": "18:00",
+      "id": "text-K02",
+      "topic": "crowd alternatives",
+      "threads_topic": "東京旅遊",
+      "thread": [
+        {
+          "text": "東京聖誕燈飾人擠人的地方，改去這些\n\n今年澀谷「青の洞窟」12/11才點燈、只到12/27，六本木けやき坂也只亮到12/25，現在排還來得及\n\n❌ 澀谷青の洞窟\n✅ 代々木公園「光の森」：今年第一次辦，1.8km步道17個光區，只賣預售票、沒有現場票，17:30–22:00\n\n❌ 六本木けやき坂\n✅ 日本橋櫻通 TOKYO ILLUMILIA：東京站八重洲側，每天亮到23:30，比けやき坂晚1個半小時熄燈\n\n❌ 惠比壽 Baccarat 吊燈\n✅ 東京巨蛋城：超過100萬顆燈，今年和大耳狗聯名，每天亮到24:00，巨蛋散場後人潮退了再去比較鬆\n\n⚠️ 東京中城的泡泡燈光秀只到12/20，之後只剩燈光沒有泡泡，想看要排在前面\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "我們是請 okie 把燈飾排進晚上的行程，吃完晚餐再去日本橋，出發那天早上它還會傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K02_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "18:00",
+      "id": "text-K03",
+      "topic": "crowd alternatives",
+      "threads_topic": "大阪旅遊",
+      "thread": [
+        {
+          "text": "大阪／神戶聖誕燈飾人擠人的地方，改去這些\n\n今年大阪「光之饗宴」御堂筋燈飾11/3–12/31，每天17點左右亮到凌晨1點\n\n❌ 環球影城聖誕\n✅ 枚方公園「光之遊園地」：京阪枚方公園站，只要入園票就能看，今年新登場17公尺高的花之城堡；週末和12/21–25、12/28–30點燈\n\n❌ 中之島中央公會堂光雕（只辦12/11–25）\n✅ 大阪城Illuminage：西之丸庭園，11/20–2/14每天17:00–21:30，地鐵谷町四丁目站步行約10分，成人2,000円\n\n❌ 神戶Meriken Park聖誕（只辦12/19–25）\n✅ 旁邊新港町的「NEW SEAPORT Night Light」：12/4–2/7每天17–23點，還有3處展出神戶Luminarie作品\n\n⚠️ 神戶Luminarie已經不在12月辦了，第32屆是2027/1/29–2/7\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "這趟大阪神戶是請 okie 幫我們挑人少一點的燈飾，再照點燈時間排好每晚要去哪 ✨\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K03_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-12-03",
+      "time_taipei": "18:00",
+      "id": "text-K05",
+      "topic": "crowd alternatives",
+      "threads_topic": "北海道旅遊",
+      "thread": [
+        {
+          "text": "北海道雪景人擠人的地方，改去這些\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "我們是請 okie 把支笏湖冰濤祭排進落地那天傍晚，前一晚再提醒大家帶暖暖包\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-12-07",
+      "time_taipei": "18:00",
+      "id": "text-K06",
+      "topic": "crowd alternatives",
+      "threads_topic": "首爾旅遊",
+      "thread": [
+        {
+          "text": "首爾聖誕跨年人擠人的地方，改去這些\n\n首爾燈節今年12/11–1/31在清溪川，每晚18:00–23:00點燈，年底市中心只會更擠，現在排還來得及\n\n❌ 明洞新世界百貨外牆\n✅ DDP冬季版「首爾燈光DDP」：首爾市公布12/17起登場，就在東大門歷史文化公園站旁，廣場大不用擠人行道\n\n❌ 汝矣島The Hyundai聖誕村\n✅ 現代百貨貿易中心店：一樣是「紐約聖誕」主題，正門廣場13m大樹，三成站5號出口直通\n\n❌ 普信閣跨年敲鐘\n✅ DDP跨年倒數：首爾市公布12/31會在DDP辦新年倒數，跟聖誕燈光同一個地方\n\n⚠️ 去年普信閣跨年，周邊道路18:00就封，鐘閣站23:00–1:00直接不停車，想去要提早走\n\n🎄 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "我們是請 okie 把平安夜排成「貿易中心店看大樹→搭2號線去DDP看燈光」，當天早上還會傳行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K06_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-12-09",
+      "time_taipei": "18:00",
+      "id": "text-K07",
+      "topic": "crowd alternatives",
+      "threads_topic": "曼谷旅遊",
+      "thread": [
+        {
+          "text": "曼谷夜市人擠人的地方，改去這些\n\nJodd Fairs拉瑪九那家已經收掉了，現在要去是Ratchada那家（泰國文化中心站旁）\n\n❌ Jodd Fairs Ratchada\n✅ 倫披尼公園小吃中心：今年4月曼谷市政府新開，沙拉信路一帶的老攤搬進來，晚班16:00–24:00\n\n❌ 恰圖恰週末市集\n✅ Or Tor Kor市場：就在恰圖恰對面、MRT甘烹碧站旁，2017年被CNN選進全球十大生鮮市場\n\n❌ Asiatique河濱夜市\n✅ 席娜卡琳火車夜市：只開週四到週日17:00–24:00，在東邊Seacon Square後面，19:00後攤位才開齊\n\n⚠️ 泰國今年5/29起正式把賣酒時間定為11:00–24:00，下午14:00–17:00不再禁賣，但過了午夜一般攤位就不能賣酒\n\n🌙 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "我們是請 okie 把週四晚上排去席娜卡琳火車夜市，早上它還會在群組傳當天行程和天氣\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K07_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date_taipei": "2026-12-16",
+      "time_taipei": "18:00",
+      "id": "text-K04",
+      "topic": "crowd alternatives",
+      "threads_topic": "日本旅遊",
+      "thread": [
+        {
+          "text": "日本新年參拜人擠人的神社，改去這些\n\n2027年元旦是週五，1/1–1/3直接連到週末；大阪住吉大社每年光是這三天就超過200萬人參拜\n\n❌ 東京 明治神宮\n✅ 鳩森八幡神社：北參道站步行5分，境內有東京都指定文化財的迷你富士山「富士塚」，24小時都能參拜\n\n❌ 京都 伏見稻荷大社\n✅ 上賀茂神社：京都站搭市巴士4號可到（往年1/1–1/3白天改停「上賀茂御薗橋」，走約5分），整個境內都是世界遺產，二之鳥居內有圓錐形的「立砂」\n\n❌ 大阪 住吉大社\n✅ 難波八阪神社：難波站步行約6分，高12公尺的大獅子頭「獅子殿」超好拍\n\n⚠️ 日本公家機關12/29–1/3放假，2027年1/4（一）開工；想避開最擠的三天，排在1/4之後去\n\n⛩️ 這幾間我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "這次跨年去關西，是 okie 幫我們把參拜排在1/4之後，元旦早上還在群組傳了當天行程和天氣 ☀️\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K04_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

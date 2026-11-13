@@ -1427,7 +1427,8 @@
           "images": []
         }
       ],
-      "threads_topic": "韓國旅遊"
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6af6f102d414da1f7d9e4a70"
     },
     {
       "date_taipei": "2026-12-01",
@@ -1449,7 +1450,8 @@
           "images": []
         }
       ],
-      "threads_topic": "福岡旅遊"
+      "threads_topic": "福岡旅遊",
+      "buffer_post_id": "6af6f103bd1182b0d3eb80e2"
     },
     {
       "date_taipei": "2026-12-02",
@@ -1471,7 +1473,8 @@
           "images": []
         }
       ],
-      "threads_topic": "泰國旅遊"
+      "threads_topic": "泰國旅遊",
+      "buffer_post_id": "6af6f10466ff9797d87a1a27"
     },
     {
       "date_taipei": "2026-12-03",
@@ -1493,7 +1496,8 @@
           "images": []
         }
       ],
-      "threads_topic": "日本旅遊"
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6f10666ff9797d87a1a79"
     },
     {
       "date_taipei": "2026-12-05",
@@ -1515,7 +1519,8 @@
           "images": []
         }
       ],
-      "threads_topic": "日本旅遊"
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6f1079a21933fface256c"
     }
   ]
 }

@@ -1,371 +1,371 @@
 {
- "_readme": "Threads posting queue for @fly.kiam (NOT okie.chat or chuu.travel). A cloud routine runs at Taipei 10:00, 12:00, 17:00, 18:00, 21:00 (slots: weekdays 12/18/21, weekends 10/17/21; up to 3 posts a day) and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. An entry may have \"replies\": self-reply texts posted as the rest of the thread (no images).",
- "channel_id": "6af5809462b70b94b0052e4e",
- "organization_id": "6aec374ace73907529f5e6d6",
- "slots": [
-  "10:00",
-  "12:00",
-  "17:00",
-  "18:00",
-  "21:00"
- ],
- "posts": [
-  {
-   "date_taipei": "2026-11-14",
-   "time_taipei": "10:00",
-   "id": "fly-12",
-   "topic": "日本旅遊",
-   "text": "2027 春節去大阪，晚 5 天出發，機票差 NT$9,488😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了機票，連假一開始就出發真的最貴💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再出國\n多用這 2 天假，大阪來回就省快一萬🧧\n\n清明也一樣，晚 4 天出發、多請 2 天假，省 NT$6,977🌸\n但別在連假前一天出發，那天反而最貴🙅\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起出國的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
-   "images": [
+  "_readme": "Threads posting queue for @fly.kiam (NOT okie.chat or chuu.travel). A cloud routine runs at Taipei 10:00, 12:00, 17:00, 18:00, 21:00 (slots: weekdays 12/18/21, weekends 10/17/21; up to 3 posts a day) and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. An entry may have \"replies\": self-reply texts posted as the rest of the thread (no images).",
+  "channel_id": "6af5809462b70b94b0052e4e",
+  "organization_id": "6aec374ace73907529f5e6d6",
+  "slots": [
+    "10:00",
+    "12:00",
+    "17:00",
+    "18:00",
+    "21:00"
+  ],
+  "posts": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-12/01_card.jpg",
-     "alt": "2027 請假攻略機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明晚幾天出發的大阪來回票價，和清明別在連假前一天出發"
+      "date_taipei": "2026-11-14",
+      "time_taipei": "10:00",
+      "id": "fly-12",
+      "topic": "日本旅遊",
+      "text": "2027 春節去大阪，晚 5 天出發，機票差 NT$9,488😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了機票，連假一開始就出發真的最貴💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再出國\n多用這 2 天假，大阪來回就省快一萬🧧\n\n清明也一樣，晚 4 天出發、多請 2 天假，省 NT$6,977🌸\n但別在連假前一天出發，那天反而最貴🙅\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起出國的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-12/01_card.jpg",
+          "alt": "2027 請假攻略機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明晚幾天出發的大阪來回票價，和清明別在連假前一天出發"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-12/02_card.jpg",
+          "alt": "2027 請假攻略機票省錢版（iPhone 備忘錄）：第 2 頁，東京票價、兩趟加起來省多少和排假前 checklist"
+        }
+      ],
+      "replies": [
+        "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛大阪來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6cec8f66277c9ba42d38d"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-12/02_card.jpg",
-     "alt": "2027 請假攻略機票省錢版（iPhone 備忘錄）：第 2 頁，東京票價、兩趟加起來省多少和排假前 checklist"
-    }
-   ],
-   "replies": [
-    "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛大阪來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6cec8f66277c9ba42d38d"
-  },
-  {
-   "date_taipei": "2026-11-14",
-   "time_taipei": "17:00",
-   "id": "fly-01",
-   "topic": "日本旅遊",
-   "text": "同樣去日本刷 NT$3 萬，做對做錯至少差 NT$1,650😵‍💫\n\n我自己算過，整理成這份刷卡換錢小筆記💰\n\n結帳問要不要付台幣，我一律選日圓💴\n\n回饋卡要先綁「帳戶自動扣繳」，而且早一期帳單就設好，不然回饋直接縮水💳\n\n在日本 7-11 ATM 領錢也一樣，畫面問要不要換成台幣，選日圓🏧\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n旅伴誰先墊錢，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post01/01_card.jpg",
-     "alt": "去日本刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-14",
+      "time_taipei": "17:00",
+      "id": "fly-01",
+      "topic": "日本旅遊",
+      "text": "同樣去日本刷 NT$3 萬，做對做錯至少差 NT$1,650😵‍💫\n\n我自己算過，整理成這份刷卡換錢小筆記💰\n\n結帳問要不要付台幣，我一律選日圓💴\n\n回饋卡要先綁「帳戶自動扣繳」，而且早一期帳單就設好，不然回饋直接縮水💳\n\n在日本 7-11 ATM 領錢也一樣，畫面問要不要換成台幣，選日圓🏧\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n旅伴誰先墊錢，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post01/01_card.jpg",
+          "alt": "去日本刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post01/02_card.jpg",
+          "alt": "去日本刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "誰刷卡、誰先墊、哪筆不用平分，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c8a2ac315c828ef5216d"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post01/02_card.jpg",
-     "alt": "去日本刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "誰刷卡、誰先墊、哪筆不用平分，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c8a2ac315c828ef5216d"
-  },
-  {
-   "date_taipei": "2026-11-15",
-   "time_taipei": "17:00",
-   "id": "fly-13",
-   "topic": "沖繩旅遊",
-   "text": "2027 春節去沖繩，晚 5 天出發，機票從 NT$19,167 變 NT$7,990😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛沖繩，連假一開始就出發真的貴很多💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再去沖繩\n多請這 2 天假，來回就省 NT$11,177🧧\n\n清明也一樣，晚 4 天出發、多請 2 天假，省 NT$6,828🌺\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去沖繩的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-13/01_card.jpg",
-     "alt": "2027 請假攻略沖繩機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明哪天出發的沖繩來回票價，和清明別在連假前一天出發"
+      "date_taipei": "2026-11-15",
+      "time_taipei": "17:00",
+      "id": "fly-13",
+      "topic": "沖繩旅遊",
+      "text": "2027 春節去沖繩，晚 5 天出發，機票從 NT$19,167 變 NT$7,990😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛沖繩，連假一開始就出發真的貴很多💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再去沖繩\n多請這 2 天假，來回就省 NT$11,177🧧\n\n清明也一樣，晚 4 天出發、多請 2 天假，省 NT$6,828🌺\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去沖繩的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-13/01_card.jpg",
+          "alt": "2027 請假攻略沖繩機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明哪天出發的沖繩來回票價，和清明別在連假前一天出發"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-13/02_card.jpg",
+          "alt": "2027 請假攻略沖繩機票省錢版（iPhone 備忘錄）：第 2 頁，兩趟加起來省多少和排假前 checklist"
+        }
+      ],
+      "replies": [
+        "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛沖繩來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6cef3d8381a679efe04da"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-13/02_card.jpg",
-     "alt": "2027 請假攻略沖繩機票省錢版（iPhone 備忘錄）：第 2 頁，兩趟加起來省多少和排假前 checklist"
-    }
-   ],
-   "replies": [
-    "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛沖繩來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6cef3d8381a679efe04da"
-  },
-  {
-   "date_taipei": "2026-11-15",
-   "time_taipei": "21:00",
-   "id": "fly-08",
-   "topic": "日本旅遊",
-   "text": "Suica 儲 ¥2 萬，刷 J 卡比付現金最多省 NT$292🚃\n\nSuica 就是日本的悠遊卡，怎麼儲最划算我自己算過💰\n\n車站買的 Suica 卡只能投現金加值，我都直接在 iPhone 錢包開一張，就能用信用卡儲💳\n\n富邦 J 卡用 iPhone 錢包儲 Suica，一次儲滿 NT$2,000 回饋最高 10%，活動到 12/31⏰\n\n其中 7% 要另外上 Fubon+ App 登錄，跟刷卡加碼是不同活動，11/18 下午 4 點開搶、限量📝\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到日本照著儲📌\n\nSuica 各刷各的，但計程車、新幹線常常一個人先付，我都叫群組裡的 AI @okie.chat 記，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post08/01_card.jpg",
-     "alt": "日本 Suica 開在 iPhone，刷卡儲值拿回饋（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-15",
+      "time_taipei": "21:00",
+      "id": "fly-08",
+      "topic": "日本旅遊",
+      "text": "Suica 儲 ¥2 萬，刷 J 卡比付現金最多省 NT$292🚃\n\nSuica 就是日本的悠遊卡，怎麼儲最划算我自己算過💰\n\n車站買的 Suica 卡只能投現金加值，我都直接在 iPhone 錢包開一張，就能用信用卡儲💳\n\n富邦 J 卡用 iPhone 錢包儲 Suica，一次儲滿 NT$2,000 回饋最高 10%，活動到 12/31⏰\n\n其中 7% 要另外上 Fubon+ App 登錄，跟刷卡加碼是不同活動，11/18 下午 4 點開搶、限量📝\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到日本照著儲📌\n\nSuica 各刷各的，但計程車、新幹線常常一個人先付，我都叫群組裡的 AI @okie.chat 記，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post08/01_card.jpg",
+          "alt": "日本 Suica 開在 iPhone，刷卡儲值拿回饋（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post08/02_card.jpg",
+          "alt": "日本 Suica 開在 iPhone，刷卡儲值拿回饋（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "車錢誰先墊，我在群組打一句叫 @okie.chat 記就好，回國它會算好誰要給誰多少，不用再翻收據😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c8b26bb977bd3df1369a"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post08/02_card.jpg",
-     "alt": "日本 Suica 開在 iPhone，刷卡儲值拿回饋（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "車錢誰先墊，我在群組打一句叫 @okie.chat 記就好，回國它會算好誰要給誰多少，不用再翻收據😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c8b26bb977bd3df1369a"
-  },
-  {
-   "date_taipei": "2026-11-16",
-   "time_taipei": "12:00",
-   "id": "fly-02",
-   "topic": "韓國旅遊",
-   "text": "去韓國刷 NT$3 萬，做對做錯差 NT$2,500 多😵‍💫\n\n首爾 5 天我自己算過，刷卡、換錢、交通卡整理成這份小筆記💰\n\n店員問要刷台幣還韓元，我一律選韓元💳\n\n韓元現鈔我只先換一點，換太多回國再換回台幣，一來一回會虧💸\n\n在首爾天天搭地鐵，我改買氣候同行卡 5 天搭到飽，不用一直加值 T-money🚇\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n誰先墊錢、誰刷卡，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言👇",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post02/01_card.jpg",
-     "alt": "韓國刷卡換錢小筆記（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-16",
+      "time_taipei": "12:00",
+      "id": "fly-02",
+      "topic": "韓國旅遊",
+      "text": "去韓國刷 NT$3 萬，做對做錯差 NT$2,500 多😵‍💫\n\n首爾 5 天我自己算過，刷卡、換錢、交通卡整理成這份小筆記💰\n\n店員問要刷台幣還韓元，我一律選韓元💳\n\n韓元現鈔我只先換一點，換太多回國再換回台幣，一來一回會虧💸\n\n在首爾天天搭地鐵，我改買氣候同行卡 5 天搭到飽，不用一直加值 T-money🚇\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n誰先墊錢、誰刷卡，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言👇",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post02/01_card.jpg",
+          "alt": "韓國刷卡換錢小筆記（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post02/02_card.jpg",
+          "alt": "韓國刷卡換錢小筆記（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "富邦 J 卡在韓國實體店「每筆刷滿 NT$1,000，回饋再加 3%」要先上網登錄，11/20 下午 4 點開放、額滿就沒了，我直接在群組叫 @okie.chat 提醒我；誰先刷卡墊錢也叫它記，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c8c86bb977bd3df13b2d"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post02/02_card.jpg",
-     "alt": "韓國刷卡換錢小筆記（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "富邦 J 卡在韓國實體店「每筆刷滿 NT$1,000，回饋再加 3%」要先上網登錄，11/20 下午 4 點開放、額滿就沒了，我直接在群組叫 @okie.chat 提醒我；誰先刷卡墊錢也叫它記，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c8c86bb977bd3df13b2d"
-  },
-  {
-   "date_taipei": "2026-11-16",
-   "time_taipei": "18:00",
-   "id": "fly-14",
-   "topic": "日本旅遊",
-   "text": "2027 清明去福岡，晚 4 天出發，機票差 NT$14,297😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛福岡，連假一開始就出發真的最貴💸\n\n清明請 4/7–4/9 可以放 9 天👉 前 4 天連假先在台灣掃墓、休息，後面請假接週末再出國\n比連假第一天就飛多請 2 天假，福岡來回省 NT$14,297🌸\n\n春節也一樣，晚 5 天出發、多請 2 天假，省 NT$11,700🧧\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去福岡的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-14/01_card.jpg",
-     "alt": "2027 請假攻略福岡機票省錢版（iPhone 備忘錄）：第 1 頁，清明、春節哪天出發的福岡來回票價"
+      "date_taipei": "2026-11-16",
+      "time_taipei": "18:00",
+      "id": "fly-14",
+      "topic": "日本旅遊",
+      "text": "2027 清明去福岡，晚 4 天出發，機票差 NT$14,297😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛福岡，連假一開始就出發真的最貴💸\n\n清明請 4/7–4/9 可以放 9 天👉 前 4 天連假先在台灣掃墓、休息，後面請假接週末再出國\n比連假第一天就飛多請 2 天假，福岡來回省 NT$14,297🌸\n\n春節也一樣，晚 5 天出發、多請 2 天假，省 NT$11,700🧧\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去福岡的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-14/01_card.jpg",
+          "alt": "2027 請假攻略福岡機票省錢版（iPhone 備忘錄）：第 1 頁，清明、春節哪天出發的福岡來回票價"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-14/02_card.jpg",
+          "alt": "2027 請假攻略福岡機票省錢版（iPhone 備忘錄）：第 2 頁，清明前一天出發反而更貴、兩趟加起來省多少和排假前 checklist"
+        }
+      ],
+      "replies": [
+        "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 4/7–4/11 台北飛福岡來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6cef46d858908964d23ad"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-14/02_card.jpg",
-     "alt": "2027 請假攻略福岡機票省錢版（iPhone 備忘錄）：第 2 頁，清明前一天出發反而更貴、兩趟加起來省多少和排假前 checklist"
-    }
-   ],
-   "replies": [
-    "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 4/7–4/11 台北飛福岡來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6cef46d858908964d23ad"
-  },
-  {
-   "date_taipei": "2026-11-17",
-   "time_taipei": "18:00",
-   "id": "fly-16",
-   "topic": "北海道旅遊",
-   "text": "2027 清明去札幌，晚 4 天出發，機票差 NT$11,260😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛札幌，清明連假一開始就出發真的最貴💸\n\n清明請 4/7–4/9 可以放 9 天👉 前半段在台灣休息，後半段再去北海道\n比連假第一天出發多請 2 天假，札幌來回就省 NT$11,260🌸\n\n但春節去札幌，晚幾天出發也沒差多少，又剛好撞到雪祭❄️\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去北海道的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-16/01_card.jpg",
-     "alt": "2027 請假攻略札幌機票省錢版（iPhone 備忘錄）：第 1 頁，清明晚幾天出發的札幌來回票價，和清明別在連假前一天出發"
+      "date_taipei": "2026-11-17",
+      "time_taipei": "18:00",
+      "id": "fly-16",
+      "topic": "北海道旅遊",
+      "text": "2027 清明去札幌，晚 4 天出發，機票差 NT$11,260😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛札幌，清明連假一開始就出發真的最貴💸\n\n清明請 4/7–4/9 可以放 9 天👉 前半段在台灣休息，後半段再去北海道\n比連假第一天出發多請 2 天假，札幌來回就省 NT$11,260🌸\n\n但春節去札幌，晚幾天出發也沒差多少，又剛好撞到雪祭❄️\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去北海道的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-16/01_card.jpg",
+          "alt": "2027 請假攻略札幌機票省錢版（iPhone 備忘錄）：第 1 頁，清明晚幾天出發的札幌來回票價，和清明別在連假前一天出發"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-16/02_card.jpg",
+          "alt": "2027 請假攻略札幌機票省錢版（iPhone 備忘錄）：第 2 頁，春節去札幌晚出發也省不多（撞到雪祭）、清明後半段最划算，和排假前 checklist"
+        }
+      ],
+      "replies": [
+        "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 4/7–4/11 台北飛札幌來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6cef56da77f9a4687a704"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-16/02_card.jpg",
-     "alt": "2027 請假攻略札幌機票省錢版（iPhone 備忘錄）：第 2 頁，春節去札幌晚出發也省不多（撞到雪祭）、清明後半段最划算，和排假前 checklist"
-    }
-   ],
-   "replies": [
-    "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 4/7–4/11 台北飛札幌來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6cef56da77f9a4687a704"
-  },
-  {
-   "date_taipei": "2026-11-17",
-   "time_taipei": "21:00",
-   "id": "fly-09",
-   "topic": "日本旅遊",
-   "text": "日本藥妝買 ¥3 萬，結帳疊對最多省 NT$1,480😵‍💫\n\n跟什麼都沒做比，優惠券＋退稅＋刷卡疊起來，我自己算過💊\n\n結帳前先拿手機裡的訪日優惠券給店員掃，結完帳通常就不能補了🎟️\n\n日本退稅 11/1 起改了：結帳先照付稅，出境給海關看過東西才退，所以免稅品別托運🧳\n\n退稅可能會被扣手續費，結帳時我都先問店員怎麼退、扣多少💴\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著結帳📌\n\n藥妝誰刷的、誰該還多少，我都丟給 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post09/01_card.jpg",
-     "alt": "日本藥妝結帳，優惠券＋退稅＋刷卡怎麼疊（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-17",
+      "time_taipei": "21:00",
+      "id": "fly-09",
+      "topic": "日本旅遊",
+      "text": "日本藥妝買 ¥3 萬，結帳疊對最多省 NT$1,480😵‍💫\n\n跟什麼都沒做比，優惠券＋退稅＋刷卡疊起來，我自己算過💊\n\n結帳前先拿手機裡的訪日優惠券給店員掃，結完帳通常就不能補了🎟️\n\n日本退稅 11/1 起改了：結帳先照付稅，出境給海關看過東西才退，所以免稅品別托運🧳\n\n退稅可能會被扣手續費，結帳時我都先問店員怎麼退、扣多少💴\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著結帳📌\n\n藥妝誰刷的、誰該還多少，我都丟給 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post09/01_card.jpg",
+          "alt": "日本藥妝結帳，優惠券＋退稅＋刷卡怎麼疊（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post09/02_card.jpg",
+          "alt": "日本藥妝結帳，優惠券＋退稅＋刷卡怎麼疊（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "一起逛藥妝、一張卡結帳最划算，但回飯店就要算誰買了什麼😂 我都直接在群組跟 @okie.chat 說「這筆 ¥31,350 是我刷的，裡面 ¥8,000 是小美的」，回國它會算好誰要給誰多少\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c8dccf5e7843507f760c"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post09/02_card.jpg",
-     "alt": "日本藥妝結帳，優惠券＋退稅＋刷卡怎麼疊（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "一起逛藥妝、一張卡結帳最划算，但回飯店就要算誰買了什麼😂 我都直接在群組跟 @okie.chat 說「這筆 ¥31,350 是我刷的，裡面 ¥8,000 是小美的」，回國它會算好誰要給誰多少\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c8dccf5e7843507f760c"
-  },
-  {
-   "date_taipei": "2026-11-18",
-   "time_taipei": "12:00",
-   "id": "fly-17",
-   "topic": "日本旅遊",
-   "text": "在日本吃飯沒注意這 3 筆錢，4 個人一晚可能多付約 NT$880😵‍💫\n\n我把常見的幾筆額外費用算了一下💸\n\n居酒屋一坐下就上一小碟「お通し」，沒點也要收錢，一人 ¥300–500🍶\n\n有些酒吧收「チャージ」（座位費），坐下就算，一人幾百到一千多日圓都有🍸\n\n家庭餐廳ガスト晚上 10 點後點餐，要多加 10% 深夜料金🌙\n\n3 筆怎麼避開、我怎麼算的都在圖裡，去日本前先存📌 也傳給要一起去的人\n\n菜單看不懂的話，我都拍照丟給 LINE 群組裡的 AI @okie.chat，問它有沒有寫要另外收的錢，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/01_card.jpg",
-     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 1 頁，居酒屋お通し、酒吧チャージ各多付多少和怎麼避開"
+      "date_taipei": "2026-11-18",
+      "time_taipei": "12:00",
+      "id": "fly-17",
+      "topic": "日本旅遊",
+      "text": "在日本吃飯沒注意這 3 筆錢，4 個人一晚可能多付約 NT$880😵‍💫\n\n我把常見的幾筆額外費用算了一下💸\n\n居酒屋一坐下就上一小碟「お通し」，沒點也要收錢，一人 ¥300–500🍶\n\n有些酒吧收「チャージ」（座位費），坐下就算，一人幾百到一千多日圓都有🍸\n\n家庭餐廳ガスト晚上 10 點後點餐，要多加 10% 深夜料金🌙\n\n3 筆怎麼避開、我怎麼算的都在圖裡，去日本前先存📌 也傳給要一起去的人\n\n菜單看不懂的話，我都拍照丟給 LINE 群組裡的 AI @okie.chat，問它有沒有寫要另外收的錢，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/01_card.jpg",
+          "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 1 頁，居酒屋お通し、酒吧チャージ各多付多少和怎麼避開"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/02_card.jpg",
+          "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 2 頁，ガスト深夜料金、3 筆加起來多少和點餐前 checklist"
+        }
+      ],
+      "replies": [
+        "點菜前我會拍菜單丟群組，問 @okie.chat「這張菜單有寫お通し或チャージ嗎？」，它會照菜單上寫的翻給大家看，不用一群人對著日文猜😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6db10b185663f9f9861e8"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/02_card.jpg",
-     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 2 頁，ガスト深夜料金、3 筆加起來多少和點餐前 checklist"
-    }
-   ],
-   "replies": [
-    "點菜前我會拍菜單丟群組，問 @okie.chat「這張菜單有寫お通し或チャージ嗎？」，它會照菜單上寫的翻給大家看，不用一群人對著日文猜😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6db10b185663f9f9861e8"
-  },
-  {
-   "date_taipei": "2026-11-18",
-   "time_taipei": "18:00",
-   "id": "fly-15",
-   "topic": "泰國旅遊",
-   "text": "2027 春節去曼谷，晚 5 天出發，機票差 NT$7,591😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛曼谷，結果春節跟清明不太一樣💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再去曼谷\n多用這 2 天假，來回省 NT$7,591🧧\n\n清明我查了，晚幾天出發沒有比較便宜，照連假出發就好，不用多請假🌴\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去曼谷的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-15/01_card.jpg",
-     "alt": "2027 請假攻略曼谷機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明哪天出發的曼谷來回票價"
+      "date_taipei": "2026-11-18",
+      "time_taipei": "18:00",
+      "id": "fly-15",
+      "topic": "泰國旅遊",
+      "text": "2027 春節去曼谷，晚 5 天出發，機票差 NT$7,591😵‍💫\n\n2027 行事曆出來，大家都在算怎麼請假📅 我順便查了台北飛曼谷，結果春節跟清明不太一樣💸\n\n春節請 2/11、2/12 可以放 11 天👉 前半段在家過年，後半段再去曼谷\n多用這 2 天假，來回省 NT$7,591🧧\n\n清明我查了，晚幾天出發沒有比較便宜，照連假出發就好，不用多請假🌴\n\n哪天出發、請幾天、多少錢都整理在圖裡，排假前先存📌 也傳給要一起去曼谷的人\n\n票價每天在變，我都丟給 LINE 群組裡的 AI @okie.chat 幫我盯，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-15/01_card_v2.jpg",
+          "alt": "2027 請假攻略曼谷機票省錢版（iPhone 備忘錄）：第 1 頁，春節、清明哪天出發的曼谷來回票價"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-15/02_card.jpg",
+          "alt": "2027 請假攻略曼谷機票省錢版（iPhone 備忘錄）：第 2 頁，清明別在連假前一天出發、兩趟加起來省多少和排假前 checklist"
+        }
+      ],
+      "replies": [
+        "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛曼谷來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6cef66d858908964d255b"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-15/02_card.jpg",
-     "alt": "2027 請假攻略曼谷機票省錢版（iPhone 備忘錄）：第 2 頁，清明別在連假前一天出發、兩趟加起來省多少和排假前 checklist"
-    }
-   ],
-   "replies": [
-    "機票我都叫群組裡的 @okie.chat 幫我盯，像是「幫我盯 2/9–2/13 台北飛曼谷來回，降價跟我們說」，降價它會直接在群組講，不用每天自己刷😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6cef66d858908964d255b"
-  },
-  {
-   "date_taipei": "2026-11-18",
-   "time_taipei": "21:00",
-   "id": "fly-03",
-   "topic": "泰國旅遊",
-   "text": "同樣去泰國刷 NT$2 萬、換 1 萬泰銖，做對做錯試算差約 NT$1,700😵‍💫\n\n我自己算過，整理成這份泰國刷卡換錢小筆記💰\n\n結帳時店員問要刷台幣還泰銖，我一律選泰銖🇹🇭\n\n要現金，我會帶台幣到曼谷的 SuperRich（很有名的換錢所）換，比在台灣先買泰銖划算💵\n\n真的要在泰國 ATM 領錢，每領一次就收一次手續費，所以我都一次領完🏧\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n在泰國誰先墊了多少，我都丟給 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post03/01_card.jpg",
-     "alt": "去泰國刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-18",
+      "time_taipei": "21:00",
+      "id": "fly-03",
+      "topic": "泰國旅遊",
+      "text": "同樣去泰國刷 NT$2 萬、換 1 萬泰銖，做對做錯試算差約 NT$1,700😵‍💫\n\n我自己算過，整理成這份泰國刷卡換錢小筆記💰\n\n結帳時店員問要刷台幣還泰銖，我一律選泰銖🇹🇭\n\n要現金，我會帶台幣到曼谷的 SuperRich（很有名的換錢所）換，比在台灣先買泰銖划算💵\n\n真的要在泰國 ATM 領錢，每領一次就收一次手續費，所以我都一次領完🏧\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n在泰國誰先墊了多少，我都丟給 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post03/01_card.jpg",
+          "alt": "去泰國刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post03/02_card.jpg",
+          "alt": "去泰國刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "換錢、搭車、吃飯誰先墊，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c8ef3890f6d4a9ca5d11"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post03/02_card.jpg",
-     "alt": "去泰國刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "換錢、搭車、吃飯誰先墊，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c8ef3890f6d4a9ca5d11"
-  },
-  {
-   "date_taipei": "2026-11-19",
-   "time_taipei": "21:00",
-   "id": "fly-10",
-   "topic": "日本旅遊",
-   "text": "4 個人去日本花 NT$8 萬，1 個人刷回饋卡最多能多拿 NT$2,400😵‍💫\n\n跟大家各刷沒回饋的卡比，我算過，差別只在用哪張卡刷💳\n\n在日本付的住宿、交通、聚餐，都由 1 個人刷日本回饋高、沒上限的卡，其他人再轉帳給他🏨\n\n刷卡的人出發前就要設好帳戶自動扣繳或電子帳單，不然回饋可能只剩 0.5%⚠️\n\n分錢照信用卡帳單上的台幣算，銀行多收的海外手續費也要一起分🧾\n\n4 個做法跟我怎麼算的都在圖裡，揪團前先存起來，傳給旅伴看📌\n\n誰刷了哪筆、誰該轉多少，我都叫 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post10/01_card.jpg",
-     "alt": "揪團誰刷卡，一人刷高回饋卡、其他人轉帳（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-19",
+      "time_taipei": "21:00",
+      "id": "fly-10",
+      "topic": "日本旅遊",
+      "text": "4 個人去日本花 NT$8 萬，1 個人刷回饋卡最多能多拿 NT$2,400😵‍💫\n\n跟大家各刷沒回饋的卡比，我算過，差別只在用哪張卡刷💳\n\n在日本付的住宿、交通、聚餐，都由 1 個人刷日本回饋高、沒上限的卡，其他人再轉帳給他🏨\n\n刷卡的人出發前就要設好帳戶自動扣繳或電子帳單，不然回饋可能只剩 0.5%⚠️\n\n分錢照信用卡帳單上的台幣算，銀行多收的海外手續費也要一起分🧾\n\n4 個做法跟我怎麼算的都在圖裡，揪團前先存起來，傳給旅伴看📌\n\n誰刷了哪筆、誰該轉多少，我都叫 LINE 群組裡的 AI @okie.chat 記，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post10/01_card.jpg",
+          "alt": "揪團誰刷卡，一人刷高回饋卡、其他人轉帳（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post10/02_card.jpg",
+          "alt": "揪團誰刷卡，一人刷高回饋卡、其他人轉帳（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "刷卡的人在群組跟 @okie.chat 說「晚餐刷了 NT$5,100，4 個人分」，它就記下來；回國叫它算，誰要轉給誰多少一次列好，不用一個一個去催😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c9036bb977bd3df148a7"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post10/02_card.jpg",
-     "alt": "揪團誰刷卡，一人刷高回饋卡、其他人轉帳（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "刷卡的人在群組跟 @okie.chat 說「晚餐刷了 NT$5,100，4 個人分」，它就記下來；回國叫它算，誰要轉給誰多少一次列好，不用一個一個去催😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c9036bb977bd3df148a7"
-  },
-  {
-   "date_taipei": "2026-11-20",
-   "time_taipei": "12:00",
-   "id": "fly-06",
-   "topic": "歐洲旅遊",
-   "text": "同樣去歐洲刷 NT$5 萬，我算過做對做錯差 NT$3,150😵‍💫\n\n整理成這份歐洲刷卡領錢小筆記，結帳前看一眼就好💶\n\n刷卡機問要刷台幣還是當地貨幣，我一律選當地的（歐元區就是歐元），選台幣比較貴，手續費還照收💳\n\n路邊 Euronet 這種 ATM 也可能問要不要換成台幣，我都按不要換🏧\n\n回饋卡要先看在歐洲有沒有回饋，有些卡在歐盟、英國的實體店刷是不算的🔍\n\n3 個做法跟我怎麼算的都在圖裡，出發前先存起來，結帳時照著做📌\n\n旅伴誰先墊錢，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post06/01_card.jpg",
-     "alt": "歐洲刷卡選台幣（DCC）最常被坑（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-20",
+      "time_taipei": "12:00",
+      "id": "fly-06",
+      "topic": "歐洲旅遊",
+      "text": "同樣去歐洲刷 NT$5 萬，我算過做對做錯差 NT$3,150😵‍💫\n\n整理成這份歐洲刷卡領錢小筆記，結帳前看一眼就好💶\n\n刷卡機問要刷台幣還是當地貨幣，我一律選當地的（歐元區就是歐元），選台幣比較貴，手續費還照收💳\n\n路邊 Euronet 這種 ATM 也可能問要不要換成台幣，我都按不要換🏧\n\n回饋卡要先看在歐洲有沒有回饋，有些卡在歐盟、英國的實體店刷是不算的🔍\n\n3 個做法跟我怎麼算的都在圖裡，出發前先存起來，結帳時照著做📌\n\n旅伴誰先墊錢，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post06/01_card.jpg",
+          "alt": "歐洲刷卡選台幣（DCC）最常被坑（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post06/02_card.jpg",
+          "alt": "歐洲刷卡選台幣（DCC）最常被坑（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "在歐洲一天刷好幾筆，誰先墊、哪筆不用平分，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再翻收據對帳😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c917ac315c828ef53aac"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post06/02_card.jpg",
-     "alt": "歐洲刷卡選台幣（DCC）最常被坑（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "在歐洲一天刷好幾筆，誰先墊、哪筆不用平分，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再翻收據對帳😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c917ac315c828ef53aac"
-  },
-  {
-   "date_taipei": "2026-11-21",
-   "time_taipei": "17:00",
-   "id": "fly-07",
-   "topic": "日本旅遊",
-   "text": "日本花 ¥10 萬，刷錯卡最多差 NT$622😵‍💫\n\n我把換現金、刷卡、掃碼一個一個算過💰\n\n刷沒有日本回饋的卡，1.5% 海外手續費一毛都少不了💳\n\n掃 PayPay（日本很多店用的 QR code 付款）雖然免 1.5%，但匯率是銀行換現金的價，大筆跟回饋卡比不一定划算📱\n\n大筆我都刷富邦 J 卡或玉山熊本熊卡，回饋扣掉手續費還有剩🎌\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，結帳前看一眼📌\n\n要刷哪張卡，我都先在 LINE 群組問 AI @okie.chat，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post07/01_card.jpg",
-     "alt": "日本花 ¥10 萬，刷哪張卡、要不要掃碼（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-21",
+      "time_taipei": "17:00",
+      "id": "fly-07",
+      "topic": "日本旅遊",
+      "text": "日本花 ¥10 萬，刷錯卡最多差 NT$622😵‍💫\n\n我把換現金、刷卡、掃碼一個一個算過💰\n\n刷沒有日本回饋的卡，1.5% 海外手續費一毛都少不了💳\n\n掃 PayPay（日本很多店用的 QR code 付款）雖然免 1.5%，但匯率是銀行換現金的價，大筆跟回饋卡比不一定划算📱\n\n大筆我都刷富邦 J 卡或玉山熊本熊卡，回饋扣掉手續費還有剩🎌\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，結帳前看一眼📌\n\n要刷哪張卡，我都先在 LINE 群組問 AI @okie.chat，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post07/01_card.jpg",
+          "alt": "日本花 ¥10 萬，刷哪張卡、要不要掃碼（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post07/02_card.jpg",
+          "alt": "日本花 ¥10 萬，刷哪張卡、要不要掃碼（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "我會直接在旅遊群組問 @okie.chat「我有富邦 J 卡跟熊本熊卡，日本先刷哪張？」，它會跟我說先刷哪張、為什麼。誰刷卡、誰先墊也順便叫它記，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c92a1d6346d52a67b1a3"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post07/02_card.jpg",
-     "alt": "日本花 ¥10 萬，刷哪張卡、要不要掃碼（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "我會直接在旅遊群組問 @okie.chat「我有富邦 J 卡跟熊本熊卡，日本先刷哪張？」，它會跟我說先刷哪張、為什麼。誰刷卡、誰先墊也順便叫它記，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c92a1d6346d52a67b1a3"
-  },
-  {
-   "date_taipei": "2026-11-22",
-   "time_taipei": "21:00",
-   "id": "fly-11",
-   "topic": "旅遊",
-   "text": "回國剩 ¥2 萬＋₩20 萬，賣回台幣、下次再買，我算過一來一回差 NT$1,036😵‍💫\n\n匯率照 11/13 台銀公告的算，整理成這份回國剩外幣小筆記💰\n\n銀行賣你外幣比較貴，跟你買回來比較便宜，韓元一來一回差快 15%💸\n\n所以剩的鈔票我都收好，下次去日本、韓國先用這包，不夠再換🧳\n\n真的要換回台幣，我會去市區分行，台銀機場分行換鈔要另收手續費🏦\n\n4 個做法跟我怎麼算的都在圖裡，先存起來，回國整理錢包時照著做📌\n\n回國跟旅伴分帳，我都丟給 LINE 群組裡的 AI @okie.chat 算，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post11/01_card.jpg",
-     "alt": "回國剩的外幣，賣回台銀虧多少 vs 留著下次用（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-22",
+      "time_taipei": "21:00",
+      "id": "fly-11",
+      "topic": "旅遊",
+      "text": "回國剩 ¥2 萬＋₩20 萬，賣回台幣、下次再買，我算過一來一回差 NT$1,036😵‍💫\n\n匯率照 11/13 台銀公告的算，整理成這份回國剩外幣小筆記💰\n\n銀行賣你外幣比較貴，跟你買回來比較便宜，韓元一來一回差快 15%💸\n\n所以剩的鈔票我都收好，下次去日本、韓國先用這包，不夠再換🧳\n\n真的要換回台幣，我會去市區分行，台銀機場分行換鈔要另收手續費🏦\n\n4 個做法跟我怎麼算的都在圖裡，先存起來，回國整理錢包時照著做📌\n\n回國跟旅伴分帳，我都丟給 LINE 群組裡的 AI @okie.chat 算，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post11/01_card.jpg",
+          "alt": "回國剩的外幣，賣回台銀虧多少 vs 留著下次用（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post11/02_card.jpg",
+          "alt": "回國剩的外幣，賣回台銀虧多少 vs 留著下次用（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "回國最麻煩的除了剩的外幣，還有跟旅伴對帳。誰先墊、哪筆不用平分，我在旅途中就叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再翻收據😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c93e6bb977bd3df155e8"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post11/02_card.jpg",
-     "alt": "回國剩的外幣，賣回台銀虧多少 vs 留著下次用（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "回國最麻煩的除了剩的外幣，還有跟旅伴對帳。誰先墊、哪筆不用平分，我在旅途中就叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再翻收據😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c93e6bb977bd3df155e8"
-  },
-  {
-   "date_taipei": "2026-11-23",
-   "time_taipei": "12:00",
-   "id": "fly-04",
-   "topic": "越南旅遊",
-   "text": "去越南刷卡、換錢、叫 Grab，做對做錯試算差約 NT$1,789😵‍💫\n\n我是用刷 NT$2 萬、換 500 萬越南盾（其中 200 萬叫 Grab）下去算的，整理成這份小筆記💰\n\n結帳時店員問要刷台幣還越南盾，我一律選越南盾💳\n\n在台灣我不直接買越南盾，會先換美金帶過去，到越南的銀行再換💵\n\n叫 Grab（東南亞的叫車 App）用台灣的卡付款，會多收 4%，所以我都選付現🚕\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n越南盾位數多到算不清，誰先墊多少，我都丟給 LINE 群組的 AI @okie.chat 記，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post04/01_card.jpg",
-     "alt": "去越南刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+      "date_taipei": "2026-11-23",
+      "time_taipei": "12:00",
+      "id": "fly-04",
+      "topic": "越南旅遊",
+      "text": "去越南刷卡、換錢、叫 Grab，做對做錯試算差約 NT$1,789😵‍💫\n\n我是用刷 NT$2 萬、換 500 萬越南盾（其中 200 萬叫 Grab）下去算的，整理成這份小筆記💰\n\n結帳時店員問要刷台幣還越南盾，我一律選越南盾💳\n\n在台灣我不直接買越南盾，會先換美金帶過去，到越南的銀行再換💵\n\n叫 Grab（東南亞的叫車 App）用台灣的卡付款，會多收 4%，所以我都選付現🚕\n\n5 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n越南盾位數多到算不清，誰先墊多少，我都丟給 LINE 群組的 AI @okie.chat 記，用法放留言～",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post04/01_card.jpg",
+          "alt": "去越南刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post04/02_card.jpg",
+          "alt": "去越南刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "換錢、叫車、吃飯誰先墊，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c953ac315c828ef5473f"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post04/02_card.jpg",
-     "alt": "去越南刷卡、換錢省錢小筆記（iPhone 備忘錄）：第 2 頁"
+      "date_taipei": "2026-11-24",
+      "time_taipei": "21:00",
+      "id": "fly-05",
+      "topic": "沖繩旅遊",
+      "text": "去沖繩現金、刷卡用錯，一個人就差 NT$398😵‍💫\n\n我自己算過，哪裡只收現金、哪裡能刷卡，整理成這份小筆記🌺\n\n沖繩單軌電車（ゆいレール）每站都能拿信用卡直接感應進站，但一天搭 4 趟以上，我會改買 1 日券🚝\n\n沖縄バス不找零，車上只能拿千元鈔換零錢，所以千元鈔我在台灣就先換好🚌\n\n美麗海水族館（美ら海）門票能刷卡，我都用日本回饋高的卡刷，扣掉 1.5% 手續費還划算💳\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n誰付現金、誰刷卡，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言👇",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post05/01_card.jpg",
+          "alt": "沖繩哪裡只收現金、哪裡能刷（iPhone 備忘錄）：第 1 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post05/02_card.jpg",
+          "alt": "沖繩哪裡只收現金、哪裡能刷（iPhone 備忘錄）：第 2 頁"
+        }
+      ],
+      "replies": [
+        "沖繩一下付現金、一下刷卡，帳最容易亂。我都在群組直接跟 @okie.chat 說「巴士錢我先付現金」「美ら海門票我刷的」，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+      ],
+      "buffer_post_id": "6af6c96a3890f6d4a9ca7ec5"
     }
-   ],
-   "replies": [
-    "換錢、叫車、吃飯誰先墊，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再對帳對到吵架😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c953ac315c828ef5473f"
-  },
-  {
-   "date_taipei": "2026-11-24",
-   "time_taipei": "21:00",
-   "id": "fly-05",
-   "topic": "沖繩旅遊",
-   "text": "去沖繩現金、刷卡用錯，一個人就差 NT$398😵‍💫\n\n我自己算過，哪裡只收現金、哪裡能刷卡，整理成這份小筆記🌺\n\n沖繩單軌電車（ゆいレール）每站都能拿信用卡直接感應進站，但一天搭 4 趟以上，我會改買 1 日券🚝\n\n沖縄バス不找零，車上只能拿千元鈔換零錢，所以千元鈔我在台灣就先換好🚌\n\n美麗海水族館（美ら海）門票能刷卡，我都用日本回饋高的卡刷，扣掉 1.5% 手續費還划算💳\n\n4 個做法跟我怎麼算的都在圖裡，出發前先存起來，到時候照著做📌\n\n誰付現金、誰刷卡，我都丟給 LINE 群組裡的 AI @okie.chat 記帳，用法放留言👇",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post05/01_card.jpg",
-     "alt": "沖繩哪裡只收現金、哪裡能刷（iPhone 備忘錄）：第 1 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/post05/02_card.jpg",
-     "alt": "沖繩哪裡只收現金、哪裡能刷（iPhone 備忘錄）：第 2 頁"
-    }
-   ],
-   "replies": [
-    "沖繩一下付現金、一下刷卡，帳最容易亂。我都在群組直接跟 @okie.chat 說「巴士錢我先付現金」「美ら海門票我刷的」，回國它會算好誰要給誰多少😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6c96a3890f6d4a9ca7ec5"
-  }
- ]
+  ]
 }

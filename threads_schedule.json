@@ -880,45 +880,41 @@
   {
    "date_taipei": "2026-11-18",
    "time_taipei": "20:00",
-   "id": "travel-danang_couple",
-   "topic": "峴港旅遊",
-   "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "id": "pocket-tokyo_cafe",
+   "topic": "日本旅遊",
+   "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
-     "alt": "跟另一半去峴港：封面"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
+     "alt": "東京咖啡廳口袋名單：第 01 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
-     "alt": "跟另一半去峴港：每日行程表"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
+     "alt": "東京咖啡廳口袋名單：第 02 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
-     "alt": "跟另一半去峴港：每日行程表"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
+     "alt": "東京咖啡廳口袋名單：第 03 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
+     "alt": "東京咖啡廳口袋名單：第 04 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
+     "alt": "東京咖啡廳口袋名單：第 05 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
+     "alt": "東京咖啡廳口袋名單：第 06 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
-     "alt": "跟另一半去峴港：出發前確認清單"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
+     "alt": "東京咖啡廳口袋名單：第 07 頁"
     }
    ],
    "replies": [
-    "行程是叫LINE小幫手排的，想試的可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
    ]
   },
   {
@@ -996,41 +992,45 @@
   {
    "date_taipei": "2026-11-19",
    "time_taipei": "20:00",
-   "id": "pocket-tokyo_cafe",
-   "topic": "日本旅遊",
-   "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "travel-danang_couple",
+   "topic": "峴港旅遊",
+   "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
-     "alt": "東京咖啡廳口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
+     "alt": "跟另一半去峴港：封面"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
-     "alt": "東京咖啡廳口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
-     "alt": "東京咖啡廳口袋名單：第 03 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
-     "alt": "東京咖啡廳口袋名單：第 04 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
-     "alt": "東京咖啡廳口袋名單：第 05 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
-     "alt": "東京咖啡廳口袋名單：第 06 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
-     "alt": "東京咖啡廳口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
+     "alt": "跟另一半去峴港：出發前確認清單"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
+    "行程是叫LINE小幫手排的，想試的可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
    ]
   },
   {
@@ -1199,46 +1199,6 @@
   },
   {
    "date_taipei": "2026-11-21",
-   "time_taipei": "12:00",
-   "id": "pocket-oliveyoung",
-   "topic": "韓國旅遊",
-   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方得獎各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
-     "alt": "Olive Young 必買口袋名單：第 01 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
-     "alt": "Olive Young 必買口袋名單：第 02 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
-     "alt": "Olive Young 必買口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
-     "alt": "Olive Young 必買口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
-     "alt": "Olive Young 必買口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
-     "alt": "Olive Young 必買口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
-     "alt": "Olive Young 必買口袋名單：第 07 頁"
-    }
-   ],
-   "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
-   ]
-  },
-  {
-   "date_taipei": "2026-11-21",
    "time_taipei": "21:00",
    "id": "pocket-seoul_food",
    "topic": "韓國旅遊",
@@ -1279,82 +1239,42 @@
   },
   {
    "date_taipei": "2026-11-22",
-   "time_taipei": "09:00",
-   "id": "pocket-osaka_food",
-   "topic": "日本旅遊",
-   "text": "要去大阪的 請收🐙\n\nお好み焼、章魚燒、串炸、烏龍麵照類別排好，只收現金、賣完就收的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/01_cover.jpg",
-     "alt": "大阪必吃口袋名單：第 01 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/02_okonomiyaki.jpg",
-     "alt": "大阪必吃口袋名單：第 02 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/03_takoyaki.jpg",
-     "alt": "大阪必吃口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/04_kushikatsu.jpg",
-     "alt": "大阪必吃口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/05_udon.jpg",
-     "alt": "大阪必吃口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/06_tips.jpg",
-     "alt": "大阪必吃口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/07_okie.jpg",
-     "alt": "大阪必吃口袋名單：第 07 頁"
-    }
-   ],
-   "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在難波，幫我把附近的排進行程」"
-   ]
-  },
-  {
-   "date_taipei": "2026-11-22",
    "time_taipei": "12:00",
-   "id": "pocket-japan_konbini",
-   "topic": "日本旅遊",
-   "text": "要去日本的 請收🍫\n\n超商炸雞、甜點跟東京ばな奈、白い恋人這些伴手禮，官網價格跟羽田限定都整理好了\n\n截圖丟給LINE小幫手存起來，最後一天叫它把伴手禮排進行程（用法在下面👇）",
+   "id": "pocket-oliveyoung",
+   "topic": "韓國旅遊",
+   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方得獎各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
+     "alt": "Olive Young 必買口袋名單：第 01 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
+     "alt": "Olive Young 必買口袋名單：第 02 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
+     "alt": "Olive Young 必買口袋名單：第 03 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
+     "alt": "Olive Young 必買口袋名單：第 04 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
+     "alt": "Olive Young 必買口袋名單：第 05 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
+     "alt": "Olive Young 必買口袋名單：第 06 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
-     "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
+     "alt": "Olive Young 必買口袋名單：第 07 頁"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」"
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
    ]
   },
   {
@@ -1395,6 +1315,86 @@
    ],
    "replies": [
     "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-23",
+   "time_taipei": "20:00",
+   "id": "pocket-osaka_food",
+   "topic": "日本旅遊",
+   "text": "要去大阪的 請收🐙\n\nお好み焼、章魚燒、串炸、烏龍麵照類別排好，只收現金、賣完就收的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/01_cover.jpg",
+     "alt": "大阪必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/02_okonomiyaki.jpg",
+     "alt": "大阪必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/03_takoyaki.jpg",
+     "alt": "大阪必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/04_kushikatsu.jpg",
+     "alt": "大阪必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/05_udon.jpg",
+     "alt": "大阪必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/06_tips.jpg",
+     "alt": "大阪必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/07_okie.jpg",
+     "alt": "大阪必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在難波，幫我把附近的排進行程」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-24",
+   "time_taipei": "20:00",
+   "id": "pocket-japan_konbini",
+   "topic": "日本旅遊",
+   "text": "要去日本的 請收🍫\n\n超商炸雞、甜點跟東京ばな奈、白い恋人這些伴手禮，官網價格跟羽田限定都整理好了\n\n截圖丟給LINE小幫手存起來，最後一天叫它把伴手禮排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」"
    ]
   }
  ]

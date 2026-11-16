@@ -490,25 +490,32 @@
     {
       "date_taipei": "2026-11-16",
       "time_taipei": "20:00",
-      "id": "text-T15",
-      "topic": "text list",
+      "id": "fare-flex-chuu-3",
+      "topic": "盯機票 v0.4：跨年機票等降價，整段日期一起盯",
       "thread": [
         {
-          "text": "去大阪不花門票也能玩，我們會排這6個地方\n\n跟朋友去大阪，我很愛穿插幾個免費景點，走累了也不心疼門票\n\n𝟭 大阪城公園：我都只逛公園、看石垣，這些免費，只有進天守閣要買票\n𝟮 住吉大社：真心推，參拜免費，國寶本殿＋超陡的紅色反橋，南海住吉大社站走3分\n𝟯 造幣博物館：免費看日本硬幣怎麼做，9:00–16:45（16:00前要入館）\n𝟰 杯麵博物館大阪池田：入館免費，阪急池田站走5分（自己做杯麵另外收費）\n𝟱 うめきた公園（JR大阪站北側）：24小時開放，11/20新開「うめきたの森」，有瀑布水景，這個我一定排進去\n𝟲 中之島圖書館：重要文化財的百年建築，免費進館，週日休\n\n💡 省下的門票錢拿去吃。怎麼排比較順路，我都是問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "揪團跨年去東京，一個月前大家嫌機票貴沒買…還好沒買🤣\n\n那時候查 每人來回要1萬2多\n群組直接冷掉\n\n這禮拜有人想到 直接丟給群組裡的 @okie.chat\n「12/28到12/31出發都可以 玩5天 哪天最便宜？」\n\n它整段翻完 12/28去 1/1回最便宜\n現在每人8,528\n\n等一個月 每人少了快3,700\n4個人就差快1萬5🤯",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T15_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-3/01_ask.jpg",
+              "alt": "LINE 群組畫面示意：朋友說上個月看跨年東京要 1 萬 2 多，問 @okie.chat 12/28 到 12/31 出發、玩 5 天哪天最便宜，它回 12/28 去 1/1 回每人 NT$8,528"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-3/02_days.jpg",
+              "alt": "「便宜的日子」卡示意：台北飛東京 12/28–12/31 出發、5 天、4 人，12/28 出發每人 NT$8,528 最便宜，其他天 NT$10,057–10,941"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-3/03_wait.jpg",
+              "alt": "LINE 群組畫面示意：朋友發現上個月 1 萬 2 多、現在 8 千 5，等一個月一人少快 3700，決定再等等，請 @okie.chat 盯每人 8000 以下"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-3/04_watch.jpg",
+              "alt": "LINE 群組畫面示意：@okie.chat 回覆開始盯台北⇄東京 12/28–12/31 出發、玩 5 天，現在最低是 12/28 出發每人約 NT$8,528，低於 NT$8,000 就通知，附「機票價格追蹤」卡"
             }
           ]
         }
       ],
-      "threads_topic": "大阪",
-      "buffer_post_id": "6af6cbcb2960b358b6b73fd5"
+      "threads_topic": "便宜機票"
     },
     {
       "date_taipei": "2026-11-17",
@@ -559,25 +566,32 @@
     {
       "date_taipei": "2026-11-17",
       "time_taipei": "20:00",
-      "id": "text-K05",
-      "topic": "crowd alternatives",
-      "threads_topic": "北海道旅遊",
+      "id": "fare-flex-chuu-2",
+      "topic": "盯機票 v0.4：揪團不知道去哪，比日本哪裡最便宜",
       "thread": [
         {
-          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "揪團出國你們都怎麼決定去哪？我們這團是讓機票決定的 一人還省快4千😂\n\n明年4/7去 4/11回 假都請好了\n結果東京派跟大阪派吵了三天\n乾脆丟給群組裡的 @okie.chat\n「4/7到4/11 台北飛日本 哪裡最便宜？」\n\n它把日本各城市一次比完\n大阪每人12,051 東京10,515\n沖繩只要8,215\n\n跟大阪比 4個人加起來省1萬5🤯\n兩派秒和好 一起改去沖繩曬太陽☀️",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-2/01_ask.jpg",
+              "alt": "LINE 群組畫面示意：朋友一個想去東京、一個想去大阪，問 @okie.chat 明年 4/7 去 4/11 回台北飛日本哪裡最便宜，它回沖繩每人 NT$8,215 最便宜，東京 NT$10,515、大阪 NT$12,051"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-2/02_places.jpg",
+              "alt": "「便宜的地方」卡示意：台北飛日本 4/7–4/11、4 人，沖繩每人 NT$8,215、東京 NT$10,515、大阪 NT$12,051、福岡 NT$12,433"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-2/03_okinawa.jpg",
+              "alt": "LINE 群組畫面示意：朋友說沖繩比大阪便宜快 4 千，想去迪士尼的那位也同意下次再說，大家決定去沖繩，請 @okie.chat 盯每人 8000 以下"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu-2/04_watch.jpg",
+              "alt": "LINE 群組畫面示意：@okie.chat 回覆開始盯台北⇄沖繩 4/7–4/11、4 人，現在每人約 NT$8,215，低於 NT$8,000 就通知，附「機票價格追蹤」卡"
             }
           ]
         }
       ],
-      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
+      "threads_topic": "便宜機票"
     },
     {
       "date_taipei": "2026-11-18",
@@ -1406,6 +1420,52 @@
       ],
       "threads_topic": "日本旅遊",
       "buffer_post_id": "6af6db11b52ddd180244cc9d"
+    },
+    {
+      "date_taipei": "2026-11-30",
+      "time_taipei": "12:00",
+      "id": "text-T15",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "去大阪不花門票也能玩，我們會排這6個地方\n\n跟朋友去大阪，我很愛穿插幾個免費景點，走累了也不心疼門票\n\n𝟭 大阪城公園：我都只逛公園、看石垣，這些免費，只有進天守閣要買票\n𝟮 住吉大社：真心推，參拜免費，國寶本殿＋超陡的紅色反橋，南海住吉大社站走3分\n𝟯 造幣博物館：免費看日本硬幣怎麼做，9:00–16:45（16:00前要入館）\n𝟰 杯麵博物館大阪池田：入館免費，阪急池田站走5分（自己做杯麵另外收費）\n𝟱 うめきた公園（JR大阪站北側）：24小時開放，11/20新開「うめきたの森」，有瀑布水景，這個我一定排進去\n𝟲 中之島圖書館：重要文化財的百年建築，免費進館，週日休\n\n💡 省下的門票錢拿去吃。怎麼排比較順路，我都是問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T15_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "大阪",
+      "buffer_post_id": "6af6cbcb2960b358b6b73fd5"
+    },
+    {
+      "date_taipei": "2026-11-30",
+      "time_taipei": "17:00",
+      "id": "text-K05",
+      "topic": "crowd alternatives",
+      "threads_topic": "北海道旅遊",
+      "thread": [
+        {
+          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
     },
     {
       "date_taipei": "2026-11-30",

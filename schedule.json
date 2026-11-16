@@ -621,25 +621,32 @@
     {
       "date_taipei": "2026-11-18",
       "time_taipei": "17:00",
-      "id": "applist-B4",
-      "topic": "app list",
+      "id": "fare-flex-chuu",
+      "topic": "盯機票 v0.4：揪團喬日期，找最便宜那天",
       "thread": [
         {
-          "text": "日本吃東西不踩雷的秘密 🍣",
+          "text": "跟朋友揪團出國，最難喬的不是行程，是日期😵‍💫\n\n明年3月要去大阪\n群組喬了一個禮拜還是喬不攏\n後來直接丟給群組裡的 @okie.chat\n「3月隨便哪天出發 玩5天 哪天最便宜？」\n\n它把整個3月翻一遍丟回來\n3/4出發每人來回7,750\n原本大家想3月底才走\n3/31出發 同樣5天要1萬5千多\n\n直接差一倍…大家秒同意改3月初🤣\n現在叫它繼續盯 降價再一起手刀🛫",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
-              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu/01_ask.jpg",
+              "alt": "LINE 群組畫面示意：朋友還在喬去大阪哪天走，問 @okie.chat 3 月隨便哪天出發、玩 5 天哪天便宜，它回 3/4 去 3/8 回比較便宜，每人 NT$7,750"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu/02_days.jpg",
+              "alt": "「便宜的日子」卡示意：台北飛大阪 3 月出發、5 天、4 人，列出 5 個出發日，3/4 出發每人 NT$7,750 排第一"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu/03_late.jpg",
+              "alt": "LINE 群組畫面示意：問原本說的 3/31 出發，Google 現在每人約 NT$15,600 起，差不多是 3/4 的兩倍，大家決定改 3 月初"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/fare-flex-chuu/04_watch.jpg",
+              "alt": "LINE 群組畫面示意：請 @okie.chat 盯 3 月大阪整段、每人 7500 以下通知，它說現在最低是 3/4 出發、先盯到 12/16，附「機票價格追蹤」卡"
             }
           ]
-        },
-        {
-          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
         }
       ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6cb63d63384b8e431c41c"
+      "threads_topic": "便宜機票"
     },
     {
       "date_taipei": "2026-11-18",
@@ -1491,6 +1498,29 @@
       ],
       "threads_topic": "韓國旅遊",
       "buffer_post_id": "6af6f102d414da1f7d9e4a70"
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "12:00",
+      "id": "applist-B4",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "日本吃東西不踩雷的秘密 🍣",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
+              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6cb63d63384b8e431c41c"
     },
     {
       "date_taipei": "2026-12-01",

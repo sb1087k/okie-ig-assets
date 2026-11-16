@@ -1053,43 +1053,30 @@
   {
    "date_taipei": "2026-11-20",
    "time_taipei": "12:00",
-   "id": "pocket-tokyo_ramen",
-   "topic": "日本旅遊",
-   "text": "要去東京吃拉麵的 請收🍜\n\nTabelog 百名店 13 家照區域排好，只收現金、要先拿整理券（號碼牌）的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "fare-flex-cheap",
+   "topic": "便宜機票",
+   "text": "每個想買便宜機票的人都應該試試這個！\n\n幾個朋友想明年3月去日本玩5天，還在猶豫東京或大阪、哪天走也沒定，只想要越便宜越好\n\n發現LINE裡的這個旅遊AI可以直接幫忙盯機票價錢\n不用先決定哪天出發，也不用先選好去哪，\n直接問它「3月隨便哪天出發，東京或大阪都可以，哪天最便宜？」\n\n它會把整個3月翻了一遍，最便宜的幾天直接列出來...真的超讚",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/01_cover.jpg",
-     "alt": "東京拉麵口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/01_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友在吵東京還大阪、哪天走，問小幫手 3 月隨便哪天出發、玩 5 天哪天便宜，它回大阪 3/4 出發每人約 NT$7,750、東京 3/10 出發約 NT$9,280"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/02_shinjuku_shibuya.jpg",
-     "alt": "東京拉麵口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北飛大阪或東京 3 月出發、5 天、4 人，列出 7 個出發日，大阪 3/4 出發每人 NT$7,750 最低，東京 3/10 出發 NT$9,280"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/03_ikebukuro.jpg",
-     "alt": "東京拉麵口袋名單：第 03 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/03_watch.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手盯 3 月大阪整段、每人 7500 以下通知，它確認後附「機票價格追蹤」卡"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/04_tokyo_ginza.jpg",
-     "alt": "東京拉麵口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/05_ueno_asakusa.jpg",
-     "alt": "東京拉麵口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/06_kenbaiki.jpg",
-     "alt": "東京拉麵口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/07_okie.jpg",
-     "alt": "東京拉麵口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/04_weekly.jpg",
+     "alt": "LINE 群組畫面示意：三天後收到機票追蹤週報，現在每人 NT$7,750、最便宜那天 3/4 去 3/8 回、目標 NT$7,500"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的拉麵排進行程」"
-   ],
-   "buffer_post_id": "6af6cb543890f6d4a9cb25ea"
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「3月隨便哪天出發，玩5天，台北飛東京或大阪，哪天最便宜？」\n「就盯3月大阪這段，每人7500以下通知我們」"
+   ]
   },
   {
    "date_taipei": "2026-11-20",
@@ -1505,6 +1492,47 @@
     "韓文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪個是冰美式？」\n「我們 3 個人點這些，一共多少？」"
    ],
    "buffer_post_id": "6af6db6cfe8cb9dc19097dad"
+  },
+  {
+   "date_taipei": "2026-11-24",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_ramen",
+   "topic": "日本旅遊",
+   "text": "要去東京吃拉麵的 請收🍜\n\nTabelog 百名店 13 家照區域排好，只收現金、要先拿整理券（號碼牌）的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/01_cover.jpg",
+     "alt": "東京拉麵口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/02_shinjuku_shibuya.jpg",
+     "alt": "東京拉麵口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/03_ikebukuro.jpg",
+     "alt": "東京拉麵口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/04_tokyo_ginza.jpg",
+     "alt": "東京拉麵口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/05_ueno_asakusa.jpg",
+     "alt": "東京拉麵口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/06_kenbaiki.jpg",
+     "alt": "東京拉麵口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/07_okie.jpg",
+     "alt": "東京拉麵口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的拉麵排進行程」"
+   ],
+   "buffer_post_id": "6af6cb543890f6d4a9cb25ea"
   },
   {
    "date_taipei": "2026-11-24",

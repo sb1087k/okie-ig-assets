@@ -723,43 +723,30 @@
   {
    "date_taipei": "2026-11-17",
    "time_taipei": "08:00",
-   "id": "pocket-tokyo_yakiniku",
-   "topic": "日本旅遊",
-   "text": "要去東京吃燒肉的 請收🥩\n\n百名店 10 家照預算排好，只收現金、要訂位、加服務費的都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "fare-flex-norefresh",
+   "topic": "便宜機票",
+   "text": "機票不用每天自己刷了，連哪天出發最便宜都可以叫它找\n\n之前想去首爾，每天睡前都在刷訂票網站\n日期換來換去，刷到眼睛好痠😮‍💨\n\n後來直接問LINE裡的這個旅遊AI\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n它自動把每一天都翻過一遍找最便宜的票價給你！\n也可以再請它持續盯價，如果降價第一時間通知你",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/01_cover.jpg",
-     "alt": "東京燒肉口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/01_ask.jpg",
+     "alt": "LINE 對話示意：問小幫手 4/15 到 5/31 之間出發、玩 5 天，台北飛首爾哪天最便宜，它說日曆上比較便宜的像 5/25 去 5/29 回，每人約 NT$5,030"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/02_budget.jpg",
-     "alt": "東京燒肉口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到首爾 4/15–5/31 出發、玩 5 天、1 人，5/25 和 5/31 出發每人 NT$5,029，5/10、5/11、5/18、5/24、5/29 出發 NT$5,229"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/03_classic.jpg",
-     "alt": "東京燒肉口袋名單：第 03 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/03_watch.jpg",
+     "alt": "LINE 對話示意：請小幫手盯這整段、每人 4800 以下通知，它確認後說離出發還遠先每 7 天查一次、盯到 12/16，附「機票價格追蹤」卡和每天回報價格按鈕"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/04_splurge.jpg",
-     "alt": "東京燒肉口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/05_cuts.jpg",
-     "alt": "東京燒肉口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/06_tips.jpg",
-     "alt": "東京燒肉口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/07_okie.jpg",
-     "alt": "東京燒肉口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/04_weekly.jpg",
+     "alt": "機票追蹤週報卡示意：現在每人 NT$5,029、最便宜那天 5/25 去 5/29 回、目標 NT$4,800、下次查價 11/23、盯到 12/16，下面有繼續盯、改目標價、不盯了按鈕"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的燒肉排進行程」"
-   ],
-   "buffer_post_id": "6af6cb97d63384b8e431d402"
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n「那就盯這整段，每人4800以下通知我」"
+   ]
   },
   {
    "date_taipei": "2026-11-17",
@@ -896,84 +883,50 @@
   {
    "date_taipei": "2026-11-18",
    "time_taipei": "20:00",
-   "id": "pocket-tokyo_cafe",
-   "topic": "日本旅遊",
-   "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "fare-flex-p",
+   "topic": "便宜機票",
+   "text": "每個p人訂機票前都應該試試這個！\n\n朋友說3月要出國\n問去哪 大家都回「都可以」😂\n以前要一個城市一個日期慢慢查\n現在直接在LINE問這個旅遊AI\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n\n它把三個地方整個3月一起查\n三個裡面沖繩最便宜\n廉航來回每人約5,600 看到直接心動\n連哪幾天出發便宜都列好了\n\n還能跟它說「日本有便宜機票就通知我」\n比平常便宜才會講\n一週最多一則 不會一直吵\np人真的可以不用做功課了🙌\n快傳給那個永遠說「都可以」的旅伴",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
-     "alt": "東京咖啡廳口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/01_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友說 3 月請假出國、哪裡便宜去哪，問小幫手 3 月玩 5 天、沖繩大阪東京都可以哪天最便宜，它說沖繩比較便宜，日曆上像 3/1 去 3/5 回每人約 NT$5,590"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
-     "alt": "東京咖啡廳口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到沖繩、大阪、東京，3 月出發、玩 5 天、4 人，沖繩 3/1、3/2、3/4、3/5、3/6 出發每人 NT$5,590，大阪 3/4 出發 7,752，東京 3/10 出發 9,194"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
-     "alt": "東京咖啡廳口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
-     "alt": "東京咖啡廳口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
-     "alt": "東京咖啡廳口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
-     "alt": "東京咖啡廳口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
-     "alt": "東京咖啡廳口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/03_region.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手日本有便宜機票就通知，它說先假設台北出發、玩 5 天、看未來 3 個月，比平常便宜才通知、一週最多一則"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
-   ],
-   "buffer_post_id": "6af6cb6acf5e784350803d84"
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n「日本有便宜機票就通知我們」"
+   ]
   },
   {
    "date_taipei": "2026-11-19",
    "time_taipei": "08:00",
-   "id": "pocket-tokyo_sushi",
-   "topic": "日本旅遊",
-   "text": "要去東京吃壽司的 請收🍣\n\n不用訂位的迴轉壽司、立食い（站著吃）、豐洲市場都整理好了，怎麼抽號碼牌、哪家只收現金都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "fare-flex-10k",
+   "topic": "便宜機票",
+   "text": "好奇大家都怎麼訂到萬元以下的來回機票嗎？\n\n我的方法很簡單\n日期先不要定死\n直接問LINE裡的這個旅遊AI\n「3月哪天出發最便宜？」\n它會把整個月翻一遍\n比較便宜的7天直接列給你\n\n看到喜歡的日子就叫它幫我盯著\n降到我要的價錢就會通知我\n排假之前先存起來",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/01_cover.jpg",
-     "alt": "東京壽司口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/01_cover.jpg",
+     "alt": "奶油色整理卡：3 月來回機票一萬以下就能飛，台北出發、玩 5 天、每人來回：沖繩 NT$5,590（3/1 去 3/5 回）、首爾 5,857（3/27 去）、大阪 7,752（3/4 去）、東京 9,194（3/10 去），2026/11/16 Google Flights 日曆價"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/02_kaiten.jpg",
-     "alt": "東京壽司口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/02_ask.jpg",
+     "alt": "LINE 對話示意：問小幫手 3 月台北飛沖繩玩 5 天哪天最便宜，它說日曆上比較便宜的每人約 NT$5,590，列出的 7 天都是這個價"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/03_tachigui.jpg",
-     "alt": "東京壽司口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/04_market.jpg",
-     "alt": "東京壽司口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/05_fish.jpg",
-     "alt": "東京壽司口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/06_tips.jpg",
-     "alt": "東京壽司口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/07_okie.jpg",
-     "alt": "東京壽司口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/03_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到沖繩 3 月出發、玩 5 天、1 人，3/1 到 3/8 之間 7 個出發日每人都是 NT$5,590"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在東京站，幫我把附近的壽司排進行程」"
-   ],
-   "buffer_post_id": "6af6cb87d63384b8e431d06a"
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月台北飛沖繩，玩5天，哪天出發最便宜？」\n「就盯3月沖繩，每人5000以下通知我」"
+   ]
   },
   {
    "date_taipei": "2026-11-19",
@@ -1590,6 +1543,129 @@
     "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」"
    ],
    "buffer_post_id": "6af6cb653890f6d4a9cb2a77"
+  },
+  {
+   "date_taipei": "2026-11-25",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_yakiniku",
+   "topic": "日本旅遊",
+   "text": "要去東京吃燒肉的 請收🥩\n\n百名店 10 家照預算排好，只收現金、要訂位、加服務費的都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/01_cover.jpg",
+     "alt": "東京燒肉口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/02_budget.jpg",
+     "alt": "東京燒肉口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/03_classic.jpg",
+     "alt": "東京燒肉口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/04_splurge.jpg",
+     "alt": "東京燒肉口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/05_cuts.jpg",
+     "alt": "東京燒肉口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/06_tips.jpg",
+     "alt": "東京燒肉口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/07_okie.jpg",
+     "alt": "東京燒肉口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的燒肉排進行程」"
+   ],
+   "buffer_post_id": "6af6cb97d63384b8e431d402"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_cafe",
+   "topic": "日本旅遊",
+   "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
+     "alt": "東京咖啡廳口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
+     "alt": "東京咖啡廳口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
+     "alt": "東京咖啡廳口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
+     "alt": "東京咖啡廳口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
+     "alt": "東京咖啡廳口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
+     "alt": "東京咖啡廳口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
+     "alt": "東京咖啡廳口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
+   ],
+   "buffer_post_id": "6af6cb6acf5e784350803d84"
+  },
+  {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_sushi",
+   "topic": "日本旅遊",
+   "text": "要去東京吃壽司的 請收🍣\n\n不用訂位的迴轉壽司、立食い（站著吃）、豐洲市場都整理好了，怎麼抽號碼牌、哪家只收現金都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/01_cover.jpg",
+     "alt": "東京壽司口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/02_kaiten.jpg",
+     "alt": "東京壽司口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/03_tachigui.jpg",
+     "alt": "東京壽司口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/04_market.jpg",
+     "alt": "東京壽司口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/05_fish.jpg",
+     "alt": "東京壽司口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/06_tips.jpg",
+     "alt": "東京壽司口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/07_okie.jpg",
+     "alt": "東京壽司口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在東京站，幫我把附近的壽司排進行程」"
+   ],
+   "buffer_post_id": "6af6cb87d63384b8e431d06a"
   }
  ]
 }

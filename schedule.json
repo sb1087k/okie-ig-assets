@@ -656,25 +656,21 @@
     {
       "date_taipei": "2026-11-18",
       "time_taipei": "20:00",
-      "id": "text-T17",
-      "topic": "text list",
+      "id": "split-rant-chuu",
+      "topic": "每次出國都當會計的人：跟 @okie.chat 說誰吃了什麼，它照品項分好（大阪燒肉，文字對話）",
       "thread": [
         {
-          "text": "跟朋友去日本跨年，我們會先確認這6件事\n\n跨年很多地方會休，我都先在群組把這些講好再排行程\n\n❶ 銀行12/31–1/3全休（法律規定），2027年要到1/4（一）才開→換錢我一定在12/30前搞定\n❷ 要領日圓我都找7-11 ATM：Visa、Mastercard 0:00–24:00都能用，畫面有中文\n❸ 百貨元旦多半休：參考今年2026年元旦，西武・SOGO全店休、1/2才開，高島屋、大丸松坂屋到1/3才開→想搶福袋先看各店初賣日\n❹ 明治神宮12/31可以整晚參拜，但12/31–1/3有數百萬人→想輕鬆拜就錯開\n❺ 澀谷車站周邊全年18:00到隔天5:00禁止路上喝酒，跨年倒數別拿酒上街\n❻ 想看初日出：東京1/1約6:50日出，我會先設好鬧鐘\n\n🚀 跨年哪裡有開、怎麼排，我都先在 LINE 群組問 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "每次出國都在當會計的人 真的辛苦了\n\n先幫大家墊錢 墊到卡費爆掉\n吃完飯還要一個一個問誰點了什麼\n算到半夜 還被說「怎麼跟我算的不一樣」…\n\n結果這次去大阪吃燒肉\n我直接在群組跟 @okie.chat 說誰吃了什麼\n它竟然馬上照每個人吃的分好了😭\n\n跟朋友出國都是你在算錢的 趕快拉它進群組用起來🫶🏻",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T17_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-rant-chuu/01_split.jpg",
+              "alt": "LINE 群組截圖：Chuu 說幫忙記帳，燒肉 ¥21,400 我付，和牛 ¥6,800 是我跟鉛筆點的，啤酒 ¥2,200 是高山的，其他大家分；okie 回燒肉記好了，再傳已記帳卡片：燒肉 ¥21,400，Chuu 付，10/31，Chuu ¥6,500、鉛筆 ¥6,500、高山 ¥5,300、星球 ¥3,100；星球回沒吃和牛的我終於不用跟著分了"
             }
           ]
         }
       ],
       "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6cb7bac315c828ef606b3"
+      "buffer_post_id": "6afc2c809efcd3b26f696bbf"
     },
     {
       "date_taipei": "2026-11-19",
@@ -1649,21 +1645,25 @@
     {
       "date_taipei": "2026-12-03",
       "time_taipei": "17:00",
-      "id": "split-rant-chuu",
-      "topic": "每次出國都當會計的人：跟 @okie.chat 說誰吃了什麼，它照品項分好（大阪燒肉，文字對話）",
+      "id": "text-T17",
+      "topic": "text list",
       "thread": [
         {
-          "text": "每次出國都在當會計的人 真的辛苦了\n\n先幫大家墊錢 墊到卡費爆掉\n吃完飯還要一個一個問誰點了什麼\n算到半夜 還被說「怎麼跟我算的不一樣」…\n\n結果這次去大阪吃燒肉\n我直接在群組跟 @okie.chat 說誰吃了什麼\n它竟然馬上照每個人吃的分好了😭\n\n跟朋友出國都是你在算錢的 趕快拉它進群組用起來🫶🏻",
+          "text": "跟朋友去日本跨年，我們會先確認這6件事\n\n跨年很多地方會休，我都先在群組把這些講好再排行程\n\n❶ 銀行12/31–1/3全休（法律規定），2027年要到1/4（一）才開→換錢我一定在12/30前搞定\n❷ 要領日圓我都找7-11 ATM：Visa、Mastercard 0:00–24:00都能用，畫面有中文\n❸ 百貨元旦多半休：參考今年2026年元旦，西武・SOGO全店休、1/2才開，高島屋、大丸松坂屋到1/3才開→想搶福袋先看各店初賣日\n❹ 明治神宮12/31可以整晚參拜，但12/31–1/3有數百萬人→想輕鬆拜就錯開\n❺ 澀谷車站周邊全年18:00到隔天5:00禁止路上喝酒，跨年倒數別拿酒上街\n❻ 想看初日出：東京1/1約6:50日出，我會先設好鬧鐘\n\n🚀 跨年哪裡有開、怎麼排，我都先在 LINE 群組問 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-rant-chuu/01_split.jpg",
-              "alt": "LINE 群組截圖：Chuu 說幫忙記帳，燒肉 ¥21,400 我付，和牛 ¥6,800 是我跟鉛筆點的，啤酒 ¥2,200 是高山的，其他大家分；okie 回燒肉記好了，再傳已記帳卡片：燒肉 ¥21,400，Chuu 付，10/31，Chuu ¥6,500、鉛筆 ¥6,500、高山 ¥5,300、星球 ¥3,100；星球回沒吃和牛的我終於不用跟著分了"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T17_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
         }
       ],
       "threads_topic": "日本旅遊",
-      "buffer_post_id": "6afc2c809efcd3b26f696bbf"
+      "buffer_post_id": "6af6cb7bac315c828ef606b3"
     },
     {
       "date_taipei": "2026-12-03",

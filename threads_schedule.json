@@ -851,35 +851,23 @@
   {
    "date_taipei": "2026-11-18",
    "time_taipei": "12:00",
-   "id": "pay-kr",
-   "topic": "韓國旅遊",
-   "text": "年底前要去韓國的人 刷卡請收！💳\n\n6 張卡的韓國回饋、上限、登錄日期都整理在圖裡\n\n富邦加碼 11/20 下午4點開放登錄，名額有限，先記起來🤣\n\n登錄日可以叫LINE小幫手提醒，用法在下面👇",
+   "id": "split-oneline",
+   "topic": "日本旅遊",
+   "text": "出國記帳，我從來沒撐過第二天😂\n\n第一天還很認真，每筆都打在備忘錄\n後來玩到太累，回飯店只想躺平，帳就直接放生了\n\n現在付完錢，就在群組打一句「計程車3200我付的」\n結果 LINE小幫手竟然就記好了，連每個人要出多少都分好了\n\n跟我一樣記帳三分鐘熱度的，真的趕快用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/01_sheet.jpg",
-     "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/01_taxi.jpg",
+     "alt": "LINE 群組截圖：鉛筆說終於到新宿的飯店了，我在群組打「計程車 3200 我付的」，LINE小幫手回已記帳卡片：計程車 ¥3,200，Momo 付，11/1（日），Momo、星球、鉛筆、高山各 ¥800；星球回「欸這樣就記好了喔」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/02_sheet.jpg",
-     "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/03_tips.jpg",
-     "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
-     "alt": "LINE 群組畫面示意：小幫手依手上的卡排先刷哪張"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
-     "alt": "LINE 群組畫面示意：小幫手用韓元記帳並結算"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/02_konbini.jpg",
+     "alt": "LINE 群組截圖：隔天早上我打「便利商店 1280 我付的，我跟星球分就好」，LINE小幫手回已記帳卡片：便利商店 ¥1,280，Momo 付，11/2（一），Momo、星球各 ¥640；高山回「這比記在備忘錄快太多了」"
     }
    ],
    "replies": [
-    "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去韓國先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
+    "想用的點主頁連結加好友，拉進旅遊群組\n出發前跟它說一聲這趟去日本，之後付完錢打一句就好👇\n「計程車 3200 我付的」\n「便利商店 1280 我付的，我跟星球分就好」"
    ],
-   "buffer_post_id": "6af6cb4dac315c828ef5fa79"
+   "buffer_post_id": "6afc2c79b587675a0d11947a"
   },
   {
    "date_taipei": "2026-11-18",
@@ -934,35 +922,35 @@
   {
    "date_taipei": "2026-11-19",
    "time_taipei": "12:00",
-   "id": "pay-oka",
-   "topic": "沖繩旅遊",
-   "text": "年底前要去沖繩的人 現金還是刷卡？請收！🌺\n\n單軌全站能感應刷卡，但巴士只有部分路線可以，其他要用 OKICA（沖繩交通卡）或零錢\n\n懶人包整理在圖裡，記帳分帳就丟給LINE小幫手🤣（用法在下面👇）",
+   "id": "pay-kr",
+   "topic": "韓國旅遊",
+   "text": "年底前要去韓國的人 刷卡請收！💳\n\n6 張卡的韓國回饋、上限、登錄日期都整理在圖裡\n\n富邦加碼 11/20 下午4點開放登錄，名額有限，先記起來🤣\n\n登錄日可以叫LINE小幫手提醒，用法在下面👇",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/01_transport.jpg",
-     "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/01_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/02_spots.jpg",
-     "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/02_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/03_prep.jpg",
-     "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/03_tips.jpg",
+     "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
-     "alt": "LINE 群組畫面示意：朋友問小幫手 沖繩停車場和公車能不能刷卡"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
+     "alt": "LINE 群組畫面示意：小幫手依手上的卡排先刷哪張"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
-     "alt": "LINE 群組畫面示意：小幫手記帳刷卡和付現金並結算"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
+     "alt": "LINE 群組畫面示意：小幫手用韓元記帳並結算"
     }
    ],
    "replies": [
-    "記帳分帳懶得算的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」"
+    "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去韓國先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
    ],
-   "buffer_post_id": "6af6cba61d6346d52a687399"
+   "buffer_post_id": "6af6cb4dac315c828ef5fa79"
   },
   {
    "date_taipei": "2026-11-19",
@@ -1515,23 +1503,35 @@
   {
    "date_taipei": "2026-11-25",
    "time_taipei": "08:00",
-   "id": "split-oneline",
-   "topic": "日本旅遊",
-   "text": "出國記帳，我從來沒撐過第二天😂\n\n第一天還很認真，每筆都打在備忘錄\n後來玩到太累，回飯店只想躺平，帳就直接放生了\n\n現在付完錢，就在群組打一句「計程車3200我付的」\n結果 LINE小幫手竟然就記好了，連每個人要出多少都分好了\n\n跟我一樣記帳三分鐘熱度的，真的趕快用起來！",
+   "id": "pay-oka",
+   "topic": "沖繩旅遊",
+   "text": "年底前要去沖繩的人 現金還是刷卡？請收！🌺\n\n單軌全站能感應刷卡，但巴士只有部分路線可以，其他要用 OKICA（沖繩交通卡）或零錢\n\n懶人包整理在圖裡，記帳分帳就丟給LINE小幫手🤣（用法在下面👇）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/01_taxi.jpg",
-     "alt": "LINE 群組截圖：鉛筆說終於到新宿的飯店了，我在群組打「計程車 3200 我付的」，LINE小幫手回已記帳卡片：計程車 ¥3,200，Momo 付，11/1（日），Momo、星球、鉛筆、高山各 ¥800；星球回「欸這樣就記好了喔」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/01_transport.jpg",
+     "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/02_konbini.jpg",
-     "alt": "LINE 群組截圖：隔天早上我打「便利商店 1280 我付的，我跟星球分就好」，LINE小幫手回已記帳卡片：便利商店 ¥1,280，Momo 付，11/2（一），Momo、星球各 ¥640；高山回「這比記在備忘錄快太多了」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/02_spots.jpg",
+     "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/03_prep.jpg",
+     "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 沖繩停車場和公車能不能刷卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
+     "alt": "LINE 群組畫面示意：小幫手記帳刷卡和付現金並結算"
     }
    ],
    "replies": [
-    "想用的點主頁連結加好友，拉進旅遊群組\n出發前跟它說一聲這趟去日本，之後付完錢打一句就好👇\n「計程車 3200 我付的」\n「便利商店 1280 我付的，我跟星球分就好」"
+    "記帳分帳懶得算的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」"
    ],
-   "buffer_post_id": "6afc2c79b587675a0d11947a"
+   "buffer_post_id": "6af6cba61d6346d52a687399"
   },
   {
    "date_taipei": "2026-11-25",

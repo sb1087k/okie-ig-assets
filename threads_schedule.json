@@ -972,7 +972,7 @@
    "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/maps-nearby.mp4",
+     "url": "https://cdn.jsdelivr.net/gh/sb1087k/okie-ig-assets@8368dc9/okie_chat/maps-nearby/maps-nearby.mp4",
      "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
     },
     {
@@ -986,7 +986,8 @@
    ],
    "replies": [
     "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
-   ]
+   ],
+   "buffer_post_id": "6afbde42df36f4d8256ca29a"
   },
   {
    "date_taipei": "2026-11-20",
@@ -1076,7 +1077,8 @@
    ],
    "replies": [
     "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
-   ]
+   ],
+   "buffer_post_id": "6afbdeb7797935b975e1f4ce"
   },
   {
    "date_taipei": "2026-11-21",
@@ -1096,7 +1098,8 @@
    ],
    "replies": [
     "想用的點主頁連結加好友，拉進旅遊群組\n然後 tag 它這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
-   ]
+   ],
+   "buffer_post_id": "6afbdeb84b26315855c111db"
   },
   {
    "date_taipei": "2026-11-21",

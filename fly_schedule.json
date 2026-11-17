@@ -229,7 +229,8 @@
      "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-25/02_cards.jpg",
      "alt": "LINE 群組截圖：okie 的店家卡片（日高屋 東銀座店，24 小時營業，中華そば ¥420 起），朋友回「420円？？在銀座？」「日高屋走起」"
     }
-   ]
+   ],
+   "buffer_post_id": "6afbdeb4df36f4d8256ccc72"
   },
   {
    "date_taipei": "2026-11-18",
@@ -302,7 +303,8 @@
      "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-26/02_cards.jpg",
      "alt": "LINE 群組截圖（示意）：okie 的店家卡片（日高屋 東銀座店 ★3.5、24 小時營業、中華そば ¥420 起），朋友回「日高屋是連鎖的 不會踩雷啦」「拉麵加煎餃才700円 我可以」"
     }
-   ]
+   ],
+   "buffer_post_id": "6afbdeb54b26315855c11166"
   },
   {
    "date_taipei": "2026-11-19",
@@ -361,7 +363,8 @@
      "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-27/02_cards.jpg",
      "alt": "LINE 群組截圖（示意）：okie 的日高屋店家卡片，朋友說「壽司開到5點欸 但一個人要三四千吧…」，我回「日高屋拉麵加煎餃才700円」，朋友說「一人少花兩千多 日高屋走起」"
     }
-   ]
+   ],
+   "buffer_post_id": "6afbdeb64b26315855c1118c"
   },
   {
    "date_taipei": "2026-11-20",
@@ -491,27 +494,6 @@
   },
   {
    "date_taipei": "2026-11-24",
-   "time_taipei": "12:00",
-   "id": "fly-17",
-   "topic": "日本旅遊",
-   "text": "在日本吃飯沒注意這 3 筆錢，4 個人一晚可能多付約 NT$880😵‍💫\n\n我把常見的幾筆額外費用算了一下💸\n\n居酒屋一坐下就上一小碟「お通し」，沒點也要收錢，一人 ¥300–500🍶\n\n有些酒吧收「チャージ」（座位費），坐下就算，一人幾百到一千多日圓都有🍸\n\n家庭餐廳ガスト晚上 10 點後點餐，要多加 10% 深夜料金🌙\n\n3 筆怎麼避開、我怎麼算的都在圖裡，去日本前先存📌 也傳給要一起去的人\n\n菜單看不懂的話，我都拍照丟給 LINE 群組裡的 AI @okie.chat，問它有沒有寫要另外收的錢，用法放留言～",
-   "images": [
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/01_card.jpg",
-     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 1 頁，居酒屋お通し、酒吧チャージ各多付多少和怎麼避開"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/02_card.jpg",
-     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 2 頁，ガスト深夜料金、3 筆加起來多少和點餐前 checklist"
-    }
-   ],
-   "replies": [
-    "點菜前我會拍菜單丟群組，問 @okie.chat「這張菜單有寫お通し或チャージ嗎？」，它會照菜單上寫的翻給大家看，不用一群人對著日文猜😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
-   ],
-   "buffer_post_id": "6af6db10b185663f9f9861e8"
-  },
-  {
-   "date_taipei": "2026-11-24",
    "time_taipei": "21:00",
    "id": "fly-05",
    "topic": "沖繩旅遊",
@@ -551,6 +533,27 @@
     "我會在群組問 @okie.chat「這間一晚 ¥39,000 住 2 個人，京都住宿稅一人一晚多少？」，它會幫大家算好，不用自己翻規定😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
    ],
    "buffer_post_id": "6afaf10837f9e5273be61f61"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "12:00",
+   "id": "fly-17",
+   "topic": "日本旅遊",
+   "text": "在日本吃飯沒注意這 3 筆錢，4 個人一晚可能多付約 NT$880😵‍💫\n\n我把常見的幾筆額外費用算了一下💸\n\n居酒屋一坐下就上一小碟「お通し」，沒點也要收錢，一人 ¥300–500🍶\n\n有些酒吧收「チャージ」（座位費），坐下就算，一人幾百到一千多日圓都有🍸\n\n家庭餐廳ガスト晚上 10 點後點餐，要多加 10% 深夜料金🌙\n\n3 筆怎麼避開、我怎麼算的都在圖裡，去日本前先存📌 也傳給要一起去的人\n\n菜單看不懂的話，我都拍照丟給 LINE 群組裡的 AI @okie.chat，問它有沒有寫要另外收的錢，用法放留言～",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/01_card.jpg",
+     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 1 頁，居酒屋お通し、酒吧チャージ各多付多少和怎麼避開"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-17/02_card.jpg",
+     "alt": "在日本吃飯容易多付的 3 筆錢 🍶（iPhone 備忘錄）：第 2 頁，ガスト深夜料金、3 筆加起來多少和點餐前 checklist"
+    }
+   ],
+   "replies": [
+    "點菜前我會拍菜單丟群組，問 @okie.chat「這張菜單有寫お通し或チャージ嗎？」，它會照菜單上寫的翻給大家看，不用一群人對著日文猜😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
+   ],
+   "buffer_post_id": "6af6db10b185663f9f9861e8"
   }
  ]
 }

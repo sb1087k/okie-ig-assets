@@ -544,25 +544,24 @@
     {
       "date_taipei": "2026-11-17",
       "time_taipei": "17:00",
-      "id": "applist-A3",
-      "topic": "app list",
+      "id": "maps-nearby-chuu",
+      "topic": "丟 Google 地圖連結，okie 推薦附近還開著的宵夜（凌晨1點銀座真實案例）",
       "thread": [
         {
-          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
+          "text": "以前出國找吃的：每個人各查各的、各貼各的連結，吵半天還是不知道吃哪間\n\n這次去東京\n我們發現只要在LINE裡用 @okie.chat\n傳自己的位置然後問「這附近有推薦的宵夜嗎？」\n\n它馬上回我給了好多家選項\n\n之前試過很多 AI，貼地圖連結都打不開\n這個一貼就知道我在哪\n要出國玩的趕快用起來！",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
-              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu/01_ask.jpg",
+              "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問 @okie 這附近有推薦的宵夜嗎，okie 列出附近還開著的三間店"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu/02_cards.jpg",
+              "alt": "LINE 群組截圖：okie 的店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」"
             }
           ]
-        },
-        {
-          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券用手機先訂好，入場直接秀手機就好\n\n3. okie 🍮\n我們直接加進 LINE 群組用，問景點、翻菜單都丟給它，不用另外下載\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
-          "images": []
         }
       ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6cb18d63384b8e431b130"
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-17",
@@ -598,25 +597,28 @@
     {
       "date_taipei": "2026-11-18",
       "time_taipei": "12:00",
-      "id": "text-T08",
-      "topic": "text list",
+      "id": "maps-nearby-chuu-2",
+      "topic": "丟 Google 地圖連結問 okie 附近宵夜，取代大家各自滑地圖（凌晨1點銀座真實案例）",
       "thread": [
         {
-          "text": "泰國入境前，我們會先做好這6件事\n\n清單我直接丟群組，大家各自打勾\n\n① 我會在抵達前3天內上 tdac.immigration.go.th 填TDAC數位入境卡（免費，小孩也要填，每次入境都要重填）\n② 免簽變30天：2026/9/15起台灣觀光免簽從60天改成30天，行程別排超過\n③ 護照效期要超過抵達日6個月，至少留1頁空白頁\n④ 回程機票和旅費證明我都放手機（入境可能被抽查，要拿得出每人1萬泰銖、一家2萬泰銖）\n⑤ 電子菸、加熱菸別帶：在泰國持有、使用都違法\n⑥ 身上外幣超過等值2萬美元，入境要向海關申報\n\n🚀 TDAC 什麼時候填，我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "跟朋友出國最花時間的不是排隊，是大家各自滑 Google Maps 找餐廳🤣\n\n這次去東京 凌晨1點大家在飯店餓到睡不著\n結果又是各查各的 這間關了 那間要走超遠\n群組洗了一大串還是選不出來\n\n後來我直接把飯店的地圖連結丟到群組\n問 @okie.chat「這附近有推薦的宵夜嗎？」\n它馬上回我給了好幾間還開著的\n\n大家看同一則訊息 一下就決定去吃拉麵了😂\n跟朋友出國玩的趕快用起來！",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T08_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-2/01_search.jpg",
+              "alt": "LINE 群組截圖：凌晨快 1 點，朋友各自查餐廳，一間關了、一間太遠，最後貼上銀座飯店的 Google 地圖連結問 @okie 這附近有推薦的宵夜嗎"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-2/02_list.jpg",
+              "alt": "LINE 群組截圖：okie 回覆附近還開著的三間（函館らーめん 船見坂開到 4 點走路約 6 分鐘、日高屋東銀座店 24 小時、すしざんまい 匠開到 5 點），朋友回「欸 還真的有開著的」「不用再滑了」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-2/03_cards.jpg",
+              "alt": "LINE 群組截圖：okie 的店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「早知道一開始就問它」「+1 我穿外套」"
             }
           ]
         }
       ],
-      "threads_topic": "泰國旅遊",
-      "buffer_post_id": "6af6cb4fac315c828ef5fad2"
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-18",
@@ -675,25 +677,28 @@
     {
       "date_taipei": "2026-11-19",
       "time_taipei": "12:00",
-      "id": "text-T12",
-      "topic": "text list",
+      "id": "maps-nearby-chuu-3",
+      "topic": "丟 Google 地圖連結問 okie 附近宵夜，p人沒做功課也找得到（凌晨1點銀座真實案例）",
       "thread": [
         {
-          "text": "首爾在地人愛的平價美食，我跟朋友會排這8個\n\n去首爾我都把預算留給市場跟小吃，這幾個是我們群組的口袋名單\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，油炒年糕我一定點\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵，這個真心推\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "我們這團全是p人 出國從來不查餐廳🤣\n\n行程都是起床再說 餓了才開始找吃的\n\n這次去東京 凌晨1點大家在飯店餓到不行\n問了一圈 根本沒人查過附近有什麼😂\n\n我就把飯店的地圖連結丟到LINE群組\n問 @okie.chat「這附近有推薦的宵夜嗎？」\n它馬上回我好幾間還開著的 最近那間走路6分鐘就到\n\n跟我們一樣的p人 趕快揪朋友用起來！",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-3/01_ask.jpg",
+              "alt": "LINE 群組截圖：朋友說明天去哪起床再說；凌晨快 1 點問有沒有人查附近吃的，大家都說沒有，於是貼上銀座飯店的 Google 地圖連結問 @okie 這附近有推薦的宵夜嗎"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-3/02_list.jpg",
+              "alt": "LINE 群組截圖：okie 回覆附近還開著的三間（函館らーめん 船見坂開到 4 點走路約 6 分鐘、日高屋東銀座店 24 小時、すしざんまい 匠開到 5 點），朋友回「還真的有！」「p人有救了」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/maps-nearby-chuu-3/03_cards.jpg",
+              "alt": "LINE 群組截圖：okie 的店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」「等我 拿錢包」"
             }
           ]
         }
       ],
-      "threads_topic": "首爾",
-      "buffer_post_id": "6af6cb993890f6d4a9cb385b"
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-19",
@@ -1525,6 +1530,29 @@
     },
     {
       "date_taipei": "2026-12-01",
+      "time_taipei": "17:00",
+      "id": "applist-A3",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
+              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
+            }
+          ]
+        },
+        {
+          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券用手機先訂好，入場直接秀手機就好\n\n3. okie 🍮\n我們直接加進 LINE 群組用，問景點、翻菜單都丟給它，不用另外下載\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6cb18d63384b8e431b130"
+    },
+    {
+      "date_taipei": "2026-12-01",
       "time_taipei": "20:00",
       "id": "hakata-ramen-hardness",
       "topic": "博多拉麵麵條硬度",
@@ -1545,6 +1573,52 @@
       ],
       "threads_topic": "福岡旅遊",
       "buffer_post_id": "6af6f103bd1182b0d3eb80e2"
+    },
+    {
+      "date_taipei": "2026-12-02",
+      "time_taipei": "12:00",
+      "id": "text-T08",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "泰國入境前，我們會先做好這6件事\n\n清單我直接丟群組，大家各自打勾\n\n① 我會在抵達前3天內上 tdac.immigration.go.th 填TDAC數位入境卡（免費，小孩也要填，每次入境都要重填）\n② 免簽變30天：2026/9/15起台灣觀光免簽從60天改成30天，行程別排超過\n③ 護照效期要超過抵達日6個月，至少留1頁空白頁\n④ 回程機票和旅費證明我都放手機（入境可能被抽查，要拿得出每人1萬泰銖、一家2萬泰銖）\n⑤ 電子菸、加熱菸別帶：在泰國持有、使用都違法\n⑥ 身上外幣超過等值2萬美元，入境要向海關申報\n\n🚀 TDAC 什麼時候填，我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T08_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "泰國旅遊",
+      "buffer_post_id": "6af6cb4fac315c828ef5fad2"
+    },
+    {
+      "date_taipei": "2026-12-02",
+      "time_taipei": "17:00",
+      "id": "text-T12",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "首爾在地人愛的平價美食，我跟朋友會排這8個\n\n去首爾我都把預算留給市場跟小吃，這幾個是我們群組的口袋名單\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，油炒年糕我一定點\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵，這個真心推\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "首爾",
+      "buffer_post_id": "6af6cb993890f6d4a9cb385b"
     },
     {
       "date_taipei": "2026-12-02",

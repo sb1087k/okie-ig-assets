@@ -967,47 +967,26 @@
   {
    "date_taipei": "2026-11-19",
    "time_taipei": "20:00",
-   "id": "travel-danang_couple",
-   "topic": "峴港旅遊",
-   "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "id": "maps-nearby",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
-     "alt": "跟另一半去峴港：封面"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/maps-nearby.mp4",
+     "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
-     "alt": "跟另一半去峴港：每日行程表"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/02_ask.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問「這附近有推薦的宵夜嗎？」，LINE小幫手列出附近還開著的三間：函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
-     "alt": "跟另一半去峴港：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
-     "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
-     "alt": "跟另一半去峴港：出發前確認清單"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/03_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
     }
    ],
    "replies": [
-    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
-   ],
-   "buffer_post_id": "6af6cb02ac315c828ef5e2c3"
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
+   ]
   },
   {
    "date_taipei": "2026-11-20",
@@ -1082,88 +1061,42 @@
   {
    "date_taipei": "2026-11-20",
    "time_taipei": "20:00",
-   "id": "travel-chiangmai_besties",
-   "topic": "清邁旅遊",
-   "text": "跟閨蜜去清邁真的不要排太滿…5天4夜慢活版直接抄這份🐘\n\n一天一區、剛好逛到週日夜市、不騎大象的大象營，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "id": "maps-nearby-p",
+   "topic": "日本旅遊",
+   "text": "p人朋友們出國想輕鬆找哪裡有好吃的，都來試試這個！\n\n我們出國都不排餐廳\n走到哪、餓了再說\n以前都要每個人低頭滑 Google 地圖\n查到一間就丟群組，洗了一大串還是選不出來🤣\n\n現在直接在群組分享位置\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n結果它馬上列出好幾家還開著的\n大家看同一則訊息，直接選就好\n\np人真的不用再做功課了\n要出國玩的趕快用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/01_cover.jpg",
-     "alt": "跟閨蜜去清邁：封面"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/01_share.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓睡不著，我在群組分享位置（KOKO HOTEL 銀座一丁目），再 tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它列出附近還開著的三間：函館拉麵開到 4 點、走路約 6 分鐘，日高屋 24 小時，壽司三昧開到 5 點"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/02_days.jpg",
-     "alt": "跟閨蜜去清邁：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/03_days.jpg",
-     "alt": "跟閨蜜去清邁：每日行程表"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/04_trip_image.jpg",
-     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手把行程做成圖"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/05_links.jpg",
-     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手整理大家傳的連結"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/06_split.jpg",
-     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手記帳分帳"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/07_reminder.jpg",
-     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手設提醒"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/08_checklist.jpg",
-     "alt": "跟閨蜜去清邁：出發前確認清單"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/02_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
     }
    ],
    "replies": [
-    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們 4 個人去清邁 5 天，幫我排行程」\n「誰先付的都記帳，最後幫我們算」"
-   ],
-   "buffer_post_id": "6af6cb77cf5e784350804043"
+    "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
+   ]
   },
   {
    "date_taipei": "2026-11-21",
    "time_taipei": "09:00",
-   "id": "pocket-tokyo_rainy",
+   "id": "maps-nearby-ai",
    "topic": "日本旅遊",
-   "text": "要去東京怕下雨的 請收☔\n\n下雨天室內景點照區域排好，票價、公休、要不要先買時段票都標好了\n\n截圖丟給LINE小幫手存起來，遇到下雨叫它排進行程（用法在下面👇）",
+   "text": "你也常遇到 AI 打不開 Google 地圖連結嗎😵‍💫\n\n出國想問附近有什麼吃的\n把地圖連結丟過去，它只回我打不開，叫我自己打地址\n在國外連地名都不會念，是要怎麼打…\n\n結果丟進 LINE 群組問 LINE小幫手\n連結一貼它就知道我們在哪\n直接列出附近還開著的店，大家看同一則訊息就能選\n\n出國玩的朋友趕快用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/01_cover.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/01_link.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓，我說剛把飯店的地圖連結丟給別的 AI，它說打不開；接著貼上 KOKO HOTEL 銀座一丁目的 Google 地圖連結，tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它回「你在 KOKO HOTEL 銀座一丁目附近」，列出函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/02_shinjuku.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 02 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/03_ikebukuro.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/04_oshiage.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/05_roppongi.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/06_tips.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/07_okie.jpg",
-     "alt": "東京下雨天室內景點口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/02_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「欸它真的看得懂連結」「函館拉麵！走」"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下雨，幫我把新宿、澀谷的排進行程」"
-   ],
-   "buffer_post_id": "6af6cb982960b358b6b730b2"
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後 tag 它這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
+   ]
   },
   {
    "date_taipei": "2026-11-21",
@@ -1618,6 +1551,51 @@
    "buffer_post_id": "6af6cb97d63384b8e431d402"
   },
   {
+   "date_taipei": "2026-11-25",
+   "time_taipei": "20:00",
+   "id": "travel-danang_couple",
+   "topic": "峴港旅遊",
+   "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
+     "alt": "跟另一半去峴港：封面"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
+     "alt": "跟另一半去峴港：出發前確認清單"
+    }
+   ],
+   "replies": [
+    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
+   ],
+   "buffer_post_id": "6af6cb02ac315c828ef5e2c3"
+  },
+  {
    "date_taipei": "2026-11-26",
    "time_taipei": "12:00",
    "id": "pocket-tokyo_cafe",
@@ -1659,6 +1637,51 @@
    "buffer_post_id": "6af6cb6acf5e784350803d84"
   },
   {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "20:00",
+   "id": "travel-chiangmai_besties",
+   "topic": "清邁旅遊",
+   "text": "跟閨蜜去清邁真的不要排太滿…5天4夜慢活版直接抄這份🐘\n\n一天一區、剛好逛到週日夜市、不騎大象的大象營，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/01_cover.jpg",
+     "alt": "跟閨蜜去清邁：封面"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/02_days.jpg",
+     "alt": "跟閨蜜去清邁：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/03_days.jpg",
+     "alt": "跟閨蜜去清邁：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/04_trip_image.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手把行程做成圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/05_links.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手整理大家傳的連結"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/06_split.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手記帳分帳"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/07_reminder.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手設提醒"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/08_checklist.jpg",
+     "alt": "跟閨蜜去清邁：出發前確認清單"
+    }
+   ],
+   "replies": [
+    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們 4 個人去清邁 5 天，幫我排行程」\n「誰先付的都記帳，最後幫我們算」"
+   ],
+   "buffer_post_id": "6af6cb77cf5e784350804043"
+  },
+  {
    "date_taipei": "2026-11-27",
    "time_taipei": "12:00",
    "id": "pocket-tokyo_sushi",
@@ -1698,6 +1721,47 @@
     "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在東京站，幫我把附近的壽司排進行程」"
    ],
    "buffer_post_id": "6af6cb87d63384b8e431d06a"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "09:00",
+   "id": "pocket-tokyo_rainy",
+   "topic": "日本旅遊",
+   "text": "要去東京怕下雨的 請收☔\n\n下雨天室內景點照區域排好，票價、公休、要不要先買時段票都標好了\n\n截圖丟給LINE小幫手存起來，遇到下雨叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/01_cover.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/02_shinjuku.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/03_ikebukuro.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/04_oshiage.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/05_roppongi.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/06_tips.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/07_okie.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下雨，幫我把新宿、澀谷的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb982960b358b6b730b2"
   }
  ]
 }

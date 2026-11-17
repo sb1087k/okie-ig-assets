@@ -1648,6 +1648,24 @@
     },
     {
       "date_taipei": "2026-12-03",
+      "time_taipei": "17:00",
+      "id": "split-rant-chuu",
+      "topic": "每次出國都當會計的人：跟 @okie.chat 說誰吃了什麼，它照品項分好（大阪燒肉，文字對話）",
+      "thread": [
+        {
+          "text": "每次出國都在當會計的人 真的辛苦了\n\n先幫大家墊錢 墊到卡費爆掉\n吃完飯還要一個一個問誰點了什麼\n算到半夜 還被說「怎麼跟我算的不一樣」…\n\n結果這次去大阪吃燒肉\n我直接在群組跟 @okie.chat 說誰吃了什麼\n它竟然馬上照每個人吃的分好了😭\n\n跟朋友出國都是你在算錢的 趕快拉它進群組用起來🫶🏻",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-rant-chuu/01_split.jpg",
+              "alt": "LINE 群組截圖：Chuu 說幫忙記帳，燒肉 ¥21,400 我付，和牛 ¥6,800 是我跟鉛筆點的，啤酒 ¥2,200 是高山的，其他大家分；okie 回燒肉記好了，再傳已記帳卡片：燒肉 ¥21,400，Chuu 付，10/31，Chuu ¥6,500、鉛筆 ¥6,500、高山 ¥5,300、星球 ¥3,100；星球回沒吃和牛的我終於不用跟著分了"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "日本旅遊"
+    },
+    {
+      "date_taipei": "2026-12-03",
       "time_taipei": "20:00",
       "id": "yakiniku-cuts",
       "topic": "日本燒肉部位",
@@ -1668,6 +1686,46 @@
       ],
       "threads_topic": "日本旅遊",
       "buffer_post_id": "6af6f10666ff9797d87a1a79"
+    },
+    {
+      "date_taipei": "2026-12-04",
+      "time_taipei": "20:00",
+      "id": "split-pool-chuu",
+      "topic": "出國收公費的人：公費交給 @okie.chat 記，用公費付的烤肉照誰喝燒酒分，順便說公費還剩多少（首爾烤肉，文字對話）",
+      "thread": [
+        {
+          "text": "出國被推去收公費的 心真的好累🥲\n\n以前每天晚上都在記帳 有人沒喝酒還要另外扣\n算到半夜 還被問「我還要補多少？」^_^⋯⋯\n\n這次去首爾吃完烤肉，跟群組裡的 @okie.chat 說用公費付\n燒酒只算有喝的人\n結果它竟然直接分好 連公費還剩多少都順便跟我說了😳\n\n每次都被推去收公費的 真的趕快用起來！",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-pool-chuu/01_pool.jpg",
+              "alt": "LINE 群組截圖：早上星球問公費誰要收，高山說老樣子 Chuu，鉛筆說 ₩100,000 轉你了；Chuu 說大家都轉我了，幫忙記一下公費，每人 ₩100,000；okie 回公費記好了，目前 ₩400,000，Chuu 保管；晚上 Chuu 說幫忙記帳，烤肉 ₩142,000 用公費付，裡面燒酒 ₩24,000 是我跟高山喝的"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-pool-chuu/02_card.jpg",
+              "alt": "LINE 群組截圖：okie 回烤肉記好了，公費還剩 ₩258,000，再傳已記帳卡片：烤肉 ₩142,000，付款 公費，10/24，Chuu ₩41,500、高山 ₩41,500、鉛筆 ₩29,500、星球 ₩29,500；鉛筆回沒喝酒的不用分燒酒 讚，星球回收公費的終於不用熬夜對帳了"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "韓國旅遊"
+    },
+    {
+      "date_taipei": "2026-12-05",
+      "time_taipei": "17:00",
+      "id": "receipt-jp-chuu",
+      "topic": "跟朋友出國不用一個人當會計：日文收據拍給 @okie.chat，照誰吃什麼分好（淺草今半）",
+      "thread": [
+        {
+          "text": "跟朋友出國，終於不用一個人當會計了😭\n以前每次都是我對著看不懂的日文收據 算誰吃什麼算半天^_^⋯⋯\n\n去淺草吃壽喜燒那天，收據拍給群組裡的 @okie.chat\n再跟它說誰吃哪個\n結果它竟然連服務費都幫我們分好了.ᐟ.ᐟ.ᐟ\n\n每次都被抓去當會計的，真的一定要用這個🫶🏻",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/receipt-jp-chuu/01_receipt.jpg",
+              "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片，說幫忙記帳、我吃菲力還有喝啤酒、神戶牛是鉛筆的；okie 回已記帳卡片：浅草今半 ¥31,897，Chuu 付，10/9，Chuu ¥16,454、鉛筆 ¥15,443；鉛筆回這次不用等你算到半夜了"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-12-05",

@@ -1514,6 +1514,26 @@
   },
   {
    "date_taipei": "2026-11-25",
+   "time_taipei": "08:00",
+   "id": "split-oneline",
+   "topic": "日本旅遊",
+   "text": "出國記帳，我從來沒撐過第二天😂\n\n第一天還很認真，每筆都打在備忘錄\n後來玩到太累，回飯店只想躺平，帳就直接放生了\n\n現在付完錢，就在群組打一句「計程車3200我付的」\n結果 LINE小幫手竟然就記好了，連每個人要出多少都分好了\n\n跟我一樣記帳三分鐘熱度的，真的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/01_taxi.jpg",
+     "alt": "LINE 群組截圖：鉛筆說終於到新宿的飯店了，我在群組打「計程車 3200 我付的」，LINE小幫手回已記帳卡片：計程車 ¥3,200，Momo 付，11/1（日），Momo、星球、鉛筆、高山各 ¥800；星球回「欸這樣就記好了喔」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/02_konbini.jpg",
+     "alt": "LINE 群組截圖：隔天早上我打「便利商店 1280 我付的，我跟星球分就好」，LINE小幫手回已記帳卡片：便利商店 ¥1,280，Momo 付，11/2（一），Momo、星球各 ¥640；高山回「這比記在備忘錄快太多了」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n出發前跟它說一聲這趟去日本，之後付完錢打一句就好👇\n「計程車 3200 我付的」\n「便利商店 1280 我付的，我跟星球分就好」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-25",
    "time_taipei": "12:00",
    "id": "pocket-tokyo_yakiniku",
    "topic": "日本旅遊",
@@ -1597,6 +1617,22 @@
     "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
    ],
    "buffer_post_id": "6af6cb02ac315c828ef5e2c3"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "08:00",
+   "id": "receipt-jp",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國記帳，現在拍張收據丟群組就好📸\n\n以前出國吃完飯\n總要有人對著看不懂的日文收據\n一行一行對誰點了什麼、再算每個人多少😵‍💫\n\n現在吃完直接把收據拍照丟進群組\n跟 LINE小幫手說一聲誰吃了什麼\n它自己看得懂日文，連服務費都照比例分好\n回國要結算，再叫它換成台幣就行\n\n一起出國的朋友趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/receipt-jp/01_receipt.jpg",
+     "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片（菲力壽喜燒、神戶牛壽喜燒、生啤酒，合計 ¥31,897），說幫忙記帳、菲力跟啤酒是我的、神戶牛是鉛筆的；LINE小幫手回已記帳卡片：浅草今半 ¥31,897，Momo 付，10/9，Momo ¥16,454、鉛筆 ¥15,443，下面有看收據按鈕；鉛筆回神戶牛的我認了"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣用就好👇\n「（拍收據）幫忙記帳，菲力跟啤酒是我的，神戶牛是鉛筆的」\n「回國要結算了，幫我們換成台幣」"
+   ]
   },
   {
    "date_taipei": "2026-11-26",
@@ -1686,6 +1722,26 @@
   },
   {
    "date_taipei": "2026-11-27",
+   "time_taipei": "08:00",
+   "id": "split-advance",
+   "topic": "日本旅遊",
+   "text": "每次出國我都是那個先墊錢的人😮‍💨\n\n晚餐我刷、計程車我付，連早餐都我先出\n墊到最後，連我自己都搞不清楚誰還欠我多少\n\n這次每筆付完都順手在群組講一聲，LINE小幫手就記下來\n回國打一句「幫我們結算換台幣」\n結果它竟然直接算好大家要轉我多少\n\n常常幫大家先墊錢的，真的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/01_settle.jpg",
+     "alt": "LINE 群組截圖：我打「回國了，幫我們結算換台幣」，LINE小幫手回結算單：5 筆 ¥49,530，全部換成台幣（11/3 市場匯率），Momo 應收 NT$6,367，星球應付 NT$2,959，鉛筆應付 NT$3,408；轉帳：鉛筆→Momo NT$3,408、星球→Momo NT$2,959"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/02_log.jpg",
+     "alt": "LINE 群組截圖：旅行中我打「燒肉 21300 我先付」，LINE小幫手回已記帳卡片：燒肉 ¥21,300，Momo 付，11/1（日），三個人各 ¥7,100；鉛筆說又是你付、回國再算，星球說 Momo 根本是我們的錢包"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n付完錢打一句，回國再叫它結算就好👇\n「燒肉 21300 我先付」\n「回國了，幫我們結算換台幣」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-27",
    "time_taipei": "12:00",
    "id": "pocket-tokyo_sushi",
    "topic": "日本旅遊",
@@ -1765,6 +1821,26 @@
     "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下雨，幫我把新宿、澀谷的排進行程」"
    ],
    "buffer_post_id": "6af6cb982960b358b6b730b2"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "12:00",
+   "id": "split-noapp",
+   "topic": "日本旅遊",
+   "text": "出國分帳 App 載了，結果整團只有我在用🥲\n\n光叫大家下載、註冊就搞了半天\n最後每一筆還是我一個人在 key\n\n這次乾脆不載了，直接在 LINE 群組講\n誰付錢誰自己打一句，LINE小幫手就幫我們記好分好\n\n群裡只有你在記帳的，趕快傳給他們！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/01_ticket.jpg",
+     "alt": "LINE 群組截圖：我說這次不用載 App，誰付錢就直接在群組講；星球打「門票 6000 我付的」，LINE小幫手回已記帳卡片：門票 ¥6,000，星球付，10/31（六），四個人各 ¥1,500；我回「欸你自己會記了耶」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/02_ramen.jpg",
+     "alt": "LINE 群組截圖：高山打「拉麵 4320 我付」，LINE小幫手回已記帳卡片：拉麵 ¥4,320，高山付，四個人各 ¥1,080；鉛筆說晚上居酒屋換他付，星球說比之前那個 App 簡單太多了"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
+   ]
   }
  ]
 }

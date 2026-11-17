@@ -1662,7 +1662,8 @@
           ]
         }
       ],
-      "threads_topic": "日本旅遊"
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6afc2c809efcd3b26f696bbf"
     },
     {
       "date_taipei": "2026-12-03",
@@ -1707,7 +1708,8 @@
           ]
         }
       ],
-      "threads_topic": "韓國旅遊"
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6afc2c81b587675a0d11975a"
     },
     {
       "date_taipei": "2026-12-05",
@@ -1716,7 +1718,7 @@
       "topic": "跟朋友出國不用一個人當會計：日文收據拍給 @okie.chat，照誰吃什麼分好（淺草今半）",
       "thread": [
         {
-          "text": "跟朋友出國，終於不用一個人當會計了😭\n以前每次都是我對著看不懂的日文收據 算誰吃什麼算半天^_^⋯⋯\n\n去淺草吃壽喜燒那天，收據拍給群組裡的 @okie.chat\n再跟它說誰吃哪個\n結果它竟然連服務費都幫我們分好了.ᐟ.ᐟ.ᐟ\n\n每次都被抓去當會計的，真的一定要用這個🫶🏻",
+          "text": "跟朋友出國，終於不用一個人當會計了😭\n以前每次都是我對著看不懂的日文收據 算誰吃什麼算半天^_^⋯⋯\n\n去淺草吃壽喜燒那天，收據拍給群組裡的 @okie.chat\n再跟它說誰吃哪個\n結果它竟然連服務費都幫我們分好了！\n\n每次都被抓去當會計的，真的一定要用這個🫶🏻",
           "images": [
             {
               "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/receipt-jp-chuu/01_receipt.jpg",
@@ -1725,7 +1727,8 @@
           ]
         }
       ],
-      "threads_topic": "日本旅遊"
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6afc2c839efcd3b26f696c8d"
     },
     {
       "date_taipei": "2026-12-05",

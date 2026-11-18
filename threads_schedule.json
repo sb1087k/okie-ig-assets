@@ -955,27 +955,22 @@
   {
    "date_taipei": "2026-11-19",
    "time_taipei": "20:00",
-   "id": "maps-nearby",
-   "topic": "日本旅遊",
-   "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
+   "id": "ski-kokusai",
+   "topic": "滑雪",
+   "text": "札幌國際的套票 等到我好焦慮😩\n\n官方的巴士套票頁面都出來了 就是不能訂\n每天點進去看 每天都一樣…\n\n後來直接丟給群組裡的LINE小幫手 讓它每天幫我顧\n結果它竟然找到別家現在就能訂的套票！\n\n還在乾等官網的 先叫它幫你找備案！",
    "images": [
     {
-     "url": "https://cdn.jsdelivr.net/gh/sb1087k/okie-ig-assets@8368dc9/okie_chat/maps-nearby/maps-nearby.mp4",
-     "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/01_found.jpg",
+     "alt": "LINE 群組截圖（示意）：11/10 早上鉛筆問札幌國際的套票還是不能訂嗎，我說官網昨天看還沒有；9 點小幫手說札幌國際官方的巴士套票頁面出來了，但還不能訂；另外找到一個現在就能訂的：札幌市區出發，來回巴士＋一日纜車券，每人 ¥9,500；我說那先把這個當備案；鉛筆說原來不是只有官網能訂"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/02_ask.jpg",
-     "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問「這附近有推薦的宵夜嗎？」，LINE小幫手列出附近還開著的三間：函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/03_cards.jpg",
-     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/02_page.jpg",
+     "alt": "北海道アクセスネットワーク「札幌国際：リフト券パック（札幌市内⇒国際⇒札幌市内）」頁面截圖：運行期間 2026年12月2日～2027年3月31日、毎日運行；旅行代金 大人 9,500円、小人 7,400円；パッケージ內容：往復バス＋リフト券"
     }
    ],
    "replies": [
-    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
-   ],
-   "buffer_post_id": "6afbde42df36f4d8256ca29a"
+    "想用的 主頁有連結 加好友拉進旅遊群組就好\n官網一直不能訂的時候 可以直接這樣問它👇\n「札幌出發去札幌國際 有沒有現在就能訂的巴士套票？」\n「官方套票可以訂了 也跟我說一聲」\n\n備案那個 12/2 才開始跑 雪場還沒開的話巴士會停駛 訂之前先看一下開幕日"
+   ]
   },
   {
    "date_taipei": "2026-11-20",
@@ -1125,43 +1120,26 @@
   {
    "date_taipei": "2026-11-21",
    "time_taipei": "21:00",
-   "id": "pocket-seoul_food",
-   "topic": "韓國旅遊",
-   "text": "要去首爾覓食的 請收🇰🇷\n\n米其林必比登＋老店，營業時間、公休、地鐵出口都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "ski-earlybird",
+   "topic": "滑雪",
+   "text": "今年訂滑雪票 真的差點崩潰😵‍💫\n\n每個雪場的早鳥票 開賣跟截止都不一樣\n有的停賣了 過幾天又突然開\n每天官網一家一家點進去看 還是怕漏掉\n\n後來乾脆在群組叫LINE小幫手每天幫我看\n結果早鳥票竟然又開賣了 它一早就跟我說！\n\n真的太好用\n今年要去日本滑雪的 趕快用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/01_cover.jpg",
-     "alt": "首爾必吃口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/01_reopen.jpg",
+     "alt": "LINE 群組截圖（示意）：9/25 我請小幫手每天幫我看手稻、志賀跟札幌國際的票，有變化再跟我說；它回 🔎 好，每天早上 9 點幫你查，有開賣、停賣或賣完才通知你。10/23 早上它通知：手稻的早鳥時數券又可以網路買了，賣到 10/31；志賀高原熊の湯的早鳥券也是賣到 10/31；鉛筆說原來還會再開賣、我以為早就沒了；我說今天就買"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/02_bbq.jpg",
-     "alt": "首爾必吃口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/02_delay.jpg",
+     "alt": "LINE 群組截圖（示意）：11/18 早上鉛筆問札幌國際的套票到底開了沒，我說還沒、我也在等；9 點小幫手通知：札幌國際因為積雪不足，原本 11/20 的開幕延後了，官方巴士套票跟網路一日券要等新的開幕日公布才會開賣，有開再通知；我說那我們再等等；鉛筆說連延後開幕都會講也太貼心"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/03_chicken.jpg",
-     "alt": "首爾必吃口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/04_noodles.jpg",
-     "alt": "首爾必吃口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/05_market.jpg",
-     "alt": "首爾必吃口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/06_soup.jpg",
-     "alt": "首爾必吃口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/07_okie.jpg",
-     "alt": "首爾必吃口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/03_notice.jpg",
+     "alt": "札幌国際スキー場官網新聞頁截圖：2026.11.18 (Wed)「オープン延期のお知らせ [Notice of postponement of opening]」，原定 11/20（金）開幕，因積雪不足、雪道狀況還沒準備好而延後；開幕日確定後會在官網和社群公布（下面是英文版公告）"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在鐘路，幫我把附近的排進行程」"
-   ],
-   "buffer_post_id": "6af6cbb6cf5e7843508053ed"
+    "想用的點主頁連結加好友，拉進旅遊群組\n直接跟它說要盯哪幾家、幾點查，有變化它才會講👇\n「每天早上幫我看手稻跟志賀高原的早鳥票，有變化再跟我說」\n「每天幫我看札幌國際的巴士套票，開賣就通知我」"
+   ]
   },
   {
    "date_taipei": "2026-11-22",
@@ -1785,6 +1763,31 @@
    "buffer_post_id": "6af6cb87d63384b8e431d06a"
   },
   {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "20:00",
+   "id": "maps-nearby",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
+   "images": [
+    {
+     "url": "https://cdn.jsdelivr.net/gh/sb1087k/okie-ig-assets@8368dc9/okie_chat/maps-nearby/maps-nearby.mp4",
+     "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/02_ask.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問「這附近有推薦的宵夜嗎？」，LINE小幫手列出附近還開著的三間：函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/03_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
+   ],
+   "buffer_post_id": "6afbde42df36f4d8256ca29a"
+  },
+  {
    "date_taipei": "2026-11-28",
    "time_taipei": "09:00",
    "id": "pocket-tokyo_rainy",
@@ -1845,6 +1848,47 @@
     "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
    ],
    "buffer_post_id": "6afc2c7e01f5535fb8799808"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "21:00",
+   "id": "pocket-seoul_food",
+   "topic": "韓國旅遊",
+   "text": "要去首爾覓食的 請收🇰🇷\n\n米其林必比登＋老店，營業時間、公休、地鐵出口都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/01_cover.jpg",
+     "alt": "首爾必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/02_bbq.jpg",
+     "alt": "首爾必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/03_chicken.jpg",
+     "alt": "首爾必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/04_noodles.jpg",
+     "alt": "首爾必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/05_market.jpg",
+     "alt": "首爾必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/06_soup.jpg",
+     "alt": "首爾必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/07_okie.jpg",
+     "alt": "首爾必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在鐘路，幫我把附近的排進行程」"
+   ],
+   "buffer_post_id": "6af6cbb6cf5e7843508053ed"
   }
  ]
 }

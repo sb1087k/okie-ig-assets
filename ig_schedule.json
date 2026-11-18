@@ -408,41 +408,20 @@
     },
     {
       "date_taipei": "2026-11-19",
-      "time_taipei": "20:00",
-      "id": "pocket-tokyo_cafe",
-      "topic": "口袋名單",
-      "text": "東京咖啡廳去哪家？☕ 我們從 Tabelog 喫茶店・咖啡廳百名店挑了 15 家，照區域排好\n\n✔️ 神保町、淺草、表參道、中目黑、銀座，一區一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 神保町老喫茶很多只收現金，日幣現金先準備好\n✔️ 早上 8 點就開的、可以訂位的、週日公休的都標好了\n\n我們把這份清單截圖丟給 LINE小幫手 存起來，逛到哪一區就叫它把附近的咖啡廳排進行程\n要去東京喝咖啡的快存起來，丟到群組一起看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」\n\n不用下載 App，大家都會用👍",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-01",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": true,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_01.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
-          "alt": "東京咖啡廳口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
-          "alt": "東京咖啡廳口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
-          "alt": "東京咖啡廳口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
-          "alt": "東京咖啡廳口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
-          "alt": "東京咖啡廳口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
-          "alt": "東京咖啡廳口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
-          "alt": "東京咖啡廳口袋名單：第 07 頁"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_01_cover.jpg",
+          "alt": "reel cover"
         }
       ],
-      "buffer_post_id": "6af6c8ee6bb977bd3df1432f"
+      "text": "自從LINE群組多了這個小幫手\n機票要買貴真的很難✈️\n想試的👉主頁連結點進去 加LINE好友就能用\n\n以前想出國都要自己一直刷機票\n刷到最後還是不知道該不該買🥲\n\n現在只要在群組跟它說哪幾天要飛\n它就會自己幫我們盯著\n像上次大阪來回 結果竟然便宜了四千多😳\n通知一來我就直接訂了\n\n一直說要去日本 機票都還沒買的朋友\n傳給他 叫他趕快用起來！\n\n#便宜機票 #機票 #大阪自由行 #日本自由行 #機票優惠",
+      "buffer_post_id": "6afd8658be723dbbcfda2f6f"
     },
     {
       "date_taipei": "2026-11-20",
@@ -680,33 +659,20 @@
     },
     {
       "date_taipei": "2026-11-23",
-      "time_taipei": "20:00",
-      "id": "thai-order",
-      "topic": "",
-      "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成💸\n點餐最常用的 12 句跟菜單上常寫的 4 句，我整理成字卡了\n\n✔️ ++：服務費 10% 跟稅 7% 還沒加\n✔️ NET：已經含服務費和稅\n✔️ ไม่เผ็ด（mai phet）：不要辣，泰國的小辣對很多台灣人已經很辣\n✔️ ไม่ใส่ผักชี（mai sai phak chi）：不要香菜\n✔️ หวานน้อย（wan noi）：少甜，點泰式奶茶、果汁前先講\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍菜單）幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」\n\n不用下載 App，大家都會用👍",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-02a",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": false,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
-          "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
-          "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
-          "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
-          "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a_cover.jpg",
+          "alt": "reel cover"
         }
       ],
-      "buffer_post_id": "6af6dbbafe8cb9dc19099464"
+      "text": "用這招 大阪來回少花四千多✈️\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
+      "buffer_post_id": "6afd8667812f982833122234"
     },
     {
       "date_taipei": "2026-11-24",
@@ -800,33 +766,20 @@
     },
     {
       "date_taipei": "2026-11-25",
-      "time_taipei": "20:00",
-      "id": "ramen-ticket",
-      "topic": "",
-      "text": "日本很多拉麵店要先在門口的機器買票，按鈕全是日文，後面一排人在等你，到底要按哪顆？🍜\n拉麵店最常看到的 12 個字跟店裡常貼的 4 句，我整理成字卡了\n\n✔️ 券売機（kenbaiki）：買票機，進門先買票，再把票交給店員\n✔️ 替え玉（kaedama）：加麵，湯留著只加一球麵（主要是博多豚骨店才有）\n✔️ 硬め／柔らかめ（katame／yawarakame）：麵硬一點／軟一點，聽不懂就說「普通」（futsu）\n✔️ 一万円札は使えません：不收一萬日圓大鈔，千元鈔先準備好\n\n最後一張是 LINE小幫手翻好的買票機（示意）\n要去日本吃拉麵的先存起來，排隊時翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍買票機）幫我翻這台機器，哪個是加麵？」\n「我們 3 個人點這些，一共多少？」\n\n不用下載 App，大家都會用👍",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-02b",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": false,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/01_cover.jpg",
-          "alt": "日本拉麵店先認得這 12 個字（買票・點麵・加麵）封面：券売機＝買票機、替え玉＝加麵、硬め／柔らかめ＝麵硬一點／軟一點，另有店裡常貼的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/02_words_r.jpg",
-          "alt": "拉麵店 12 個字（買票・點麵）：券売機、食券、並／大盛り、特製、トッピング、味玉"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/03_words_r.jpg",
-          "alt": "拉麵店 12 個字（口味・加麵）：硬め／柔らかめ、バリカタ、濃いめ／薄め、多め／少なめ、替え玉、チャーシュー"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/04_phrases.jpg",
-          "alt": "拉麵店常貼的 4 句：先に食券をお買い求めください、一万円札は使えません、大盛り無料、お一人様一杯以上"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張拉麵店買票機照片，LINE小幫手一顆一顆按鈕翻成中文並提醒不收一萬日圓鈔"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b_cover.jpg",
+          "alt": "reel cover"
         }
       ],
-      "buffer_post_id": "6af6dbbcb185663f9f989016"
+      "text": "別再每天自己刷機票了！\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
+      "buffer_post_id": "6afd8669812f98283312228f"
     },
     {
       "date_taipei": "2026-11-26",
@@ -920,7 +873,122 @@
     },
     {
       "date_taipei": "2026-11-27",
-      "time_taipei": "20:00",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-02c",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": false,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02c.mp4",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02c_cover.jpg",
+          "alt": "reel cover"
+        }
+      ],
+      "text": "機票怎麼買才便宜？我現在都不自己刷了\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
+      "buffer_post_id": "6afd866a27a97c2bc6355d69"
+    },
+    {
+      "date_taipei": "2026-11-28",
+      "time_taipei": "12:00",
+      "id": "pocket-tokyo_cafe",
+      "topic": "口袋名單",
+      "text": "東京咖啡廳去哪家？☕ 我們從 Tabelog 喫茶店・咖啡廳百名店挑了 15 家，照區域排好\n\n✔️ 神保町、淺草、表參道、中目黑、銀座，一區一頁\n✔️ 每家都寫好點什麼、營業時間、公休、離哪站近\n✔️ 神保町老喫茶很多只收現金，日幣現金先準備好\n✔️ 早上 8 點就開的、可以訂位的、週日公休的都標好了\n\n我們把這份清單截圖丟給 LINE小幫手 存起來，逛到哪一區就叫它把附近的咖啡廳排進行程\n要去東京喝咖啡的快存起來，丟到群組一起看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」\n\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
+          "alt": "東京咖啡廳口袋名單：第 01 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
+          "alt": "東京咖啡廳口袋名單：第 02 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
+          "alt": "東京咖啡廳口袋名單：第 03 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
+          "alt": "東京咖啡廳口袋名單：第 04 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
+          "alt": "東京咖啡廳口袋名單：第 05 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
+          "alt": "東京咖啡廳口袋名單：第 06 頁"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
+          "alt": "東京咖啡廳口袋名單：第 07 頁"
+        }
+      ],
+      "buffer_post_id": "6af6c8ee6bb977bd3df1432f"
+    },
+    {
+      "date_taipei": "2026-11-29",
+      "time_taipei": "12:00",
+      "id": "thai-order",
+      "topic": "",
+      "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成💸\n點餐最常用的 12 句跟菜單上常寫的 4 句，我整理成字卡了\n\n✔️ ++：服務費 10% 跟稅 7% 還沒加\n✔️ NET：已經含服務費和稅\n✔️ ไม่เผ็ด（mai phet）：不要辣，泰國的小辣對很多台灣人已經很辣\n✔️ ไม่ใส่ผักชี（mai sai phak chi）：不要香菜\n✔️ หวานน้อย（wan noi）：少甜，點泰式奶茶、果汁前先講\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍菜單）幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」\n\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
+          "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
+          "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
+          "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
+          "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
+          "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
+        }
+      ],
+      "buffer_post_id": "6af6dbbafe8cb9dc19099464"
+    },
+    {
+      "date_taipei": "2026-11-30",
+      "time_taipei": "12:00",
+      "id": "ramen-ticket",
+      "topic": "",
+      "text": "日本很多拉麵店要先在門口的機器買票，按鈕全是日文，後面一排人在等你，到底要按哪顆？🍜\n拉麵店最常看到的 12 個字跟店裡常貼的 4 句，我整理成字卡了\n\n✔️ 券売機（kenbaiki）：買票機，進門先買票，再把票交給店員\n✔️ 替え玉（kaedama）：加麵，湯留著只加一球麵（主要是博多豚骨店才有）\n✔️ 硬め／柔らかめ（katame／yawarakame）：麵硬一點／軟一點，聽不懂就說「普通」（futsu）\n✔️ 一万円札は使えません：不收一萬日圓大鈔，千元鈔先準備好\n\n最後一張是 LINE小幫手翻好的買票機（示意）\n要去日本吃拉麵的先存起來，排隊時翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍買票機）幫我翻這台機器，哪個是加麵？」\n「我們 3 個人點這些，一共多少？」\n\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/01_cover.jpg",
+          "alt": "日本拉麵店先認得這 12 個字（買票・點麵・加麵）封面：券売機＝買票機、替え玉＝加麵、硬め／柔らかめ＝麵硬一點／軟一點，另有店裡常貼的 4 句"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/02_words_r.jpg",
+          "alt": "拉麵店 12 個字（買票・點麵）：券売機、食券、並／大盛り、特製、トッピング、味玉"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/03_words_r.jpg",
+          "alt": "拉麵店 12 個字（口味・加麵）：硬め／柔らかめ、バリカタ、濃いめ／薄め、多め／少なめ、替え玉、チャーシュー"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/04_phrases.jpg",
+          "alt": "拉麵店常貼的 4 句：先に食券をお買い求めください、一万円札は使えません、大盛り無料、お一人様一杯以上"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/05_chat.jpg",
+          "alt": "LINE 群組畫面示意：自己丟一張拉麵店買票機照片，LINE小幫手一顆一顆按鈕翻成中文並提醒不收一萬日圓鈔"
+        }
+      ],
+      "buffer_post_id": "6af6dbbcb185663f9f989016"
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "12:00",
       "id": "korea-cafe-menu",
       "topic": "",
       "text": "在韓國咖啡廳點完，店員突然問「드시고 가세요?」（deusigo gaseyo），當場愣住？其實是在問你內用還是外帶☕\n咖啡廳最常看到的 12 個字跟店裡常寫的 4 句，我整理成字卡了\n\n✔️ 아아（a-a）：冰美式，韓國人冬天也在喝\n✔️ 매장／포장（maejang／pojang）：內用／外帶，被問 드시고 가세요? 就回這個\n✔️ 샷 추가（syat chuga）：加一份濃縮，想濃一點就加\n✔️ 1인 1음료：一個人至少要點一杯\n\n要去韓國的先存起來，點之前翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍菜單）幫我翻這張菜單，哪個是冰美式？」\n「我們 3 個人點這些，一共多少？」\n\n不用下載 App，大家都會用👍",

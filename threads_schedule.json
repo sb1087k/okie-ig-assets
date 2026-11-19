@@ -1030,31 +1030,36 @@
   {
    "date_taipei": "2026-11-20",
    "time_taipei": "12:00",
-   "id": "fare-flex-cheap",
-   "topic": "便宜機票",
-   "text": "每個想買便宜機票的人都應該試試這個！\n\n幾個朋友想明年3月去日本玩5天，還在猶豫東京或大阪、哪天走也沒定，只想要越便宜越好\n\n發現LINE裡的這個旅遊AI可以直接幫忙盯機票價錢\n不用先決定哪天出發，也不用先選好去哪，\n直接問它「3月隨便哪天出發，東京或大阪都可以，哪天最便宜？」\n\n它會把整個3月翻了一遍，最便宜的幾天直接列出來...真的超讚",
+   "id": "trip-fukuoka",
+   "topic": "福岡旅遊",
+   "text": "閨蜜：12月要不要去福岡\n我：12月？？機票一定超貴吧⋯\n（叫群組裡的LINE小幫手查一下）\n結果查完我直接去翻護照🤣\n\n算了一下 機票加四星飯店住3晚\n一個人1萬1左右\nGoogle還說這機票比平常便宜2千多😳",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/01_ask.jpg",
-     "alt": "LINE 群組畫面示意：朋友在吵東京還大阪、哪天走，問小幫手 3 月隨便哪天出發、玩 5 天哪天便宜，它回大阪 3/4 出發每人約 NT$7,750、東京 3/10 出發約 NT$9,280"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/01_flights.jpg",
+     "alt": "LINE 群組截圖（示意）：星球問 12 月要不要去福岡、12/7 到 12/10；我 tag LINE小幫手問台北飛福岡 2 個人最便宜的機票；小幫手回機票卡：TPE → FUK 12/7（一）–12/10（四）來回 2 人，Google Flights 即時票價 11:45，Google 認為這個價格偏低（通常每人 NT$8,600–13,000），第一班亞洲航空 AK 1510 每人 NT$7,654（12:00 → 15:20，2 人共 NT$15,308），第二班台灣虎航 IT 240 每人 NT$7,833"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/02_days.jpg",
-     "alt": "「便宜的日子」卡示意：台北飛大阪或東京 3 月出發、5 天、4 人，列出 7 個出發日，大阪 3/4 出發每人 NT$7,750 最低，東京 3/10 出發 NT$9,280"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/02_hotels.jpg",
+     "alt": "LINE 群組截圖（示意）：星球說朋友推博多這間 FFFFFF Hotel；我 tag LINE小幫手問 FFFFFF Hotel 12/7 到 12/10 2 個人一間哪裡訂最便宜；小幫手回飯店價格卡：住宿 FFFFFF Hotel 12/7（一）–12/10（四）3 晚 2 人 1 間房，各訂房網站價格 11:46，★4.1（171）、4 星級，往右滑看 10 個訂房網站；1/10 Booking.com 每間每晚 NT$2,307（3 晚共 NT$6,921），2/10 Agoda NT$2,530（3 晚共 NT$7,590）；星球說四星一晚才 2307；我說好我去拿護照"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/03_watch.jpg",
-     "alt": "LINE 群組畫面示意：請小幫手盯 3 月大阪整段、每人 7500 以下通知，它確認後附「機票價格追蹤」卡"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/03_google_flights.jpg",
+     "alt": "Google 航班截圖：臺北 TPE → 福岡 FUK，12 月 7 日週一 – 12 月 10 日週四來回，最低價格 $7,654 起；目前的票價偏低，價格比平常便宜了 $2,449；亞洲航空中午 12:00 → 下午 3:20 直達 $7,654 來回票價"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/04_weekly.jpg",
-     "alt": "LINE 群組畫面示意：三天後收到機票追蹤週報，現在每人 NT$7,750、最便宜那天 3/4 去 3/8 回、目標 NT$7,500"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/04_ffffff.jpg",
+     "alt": "Google 飯店截圖：FFFFFF Hotel 外觀和地圖，$2,307，4.1 顆星（171）、4 星級飯店，12 月 7 日週一 – 12 月 10 日週四、2 位房客；下方 Booking.com 豪華雙人房 $2,555（劃掉）、雙人房 $2,307"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/05_ffffff_photos.jpg",
+     "alt": "Google 飯店的 FFFFFF Hotel 相片：雙人床客房、洗手台、飯店入口和招牌、雙床房，下方 $2,307、12 月 7 日至 10 日"
     }
    ],
    "replies": [
-    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「3月隨便哪天出發，玩5天，台北飛東京或大阪，哪天最便宜？」\n「就盯3月大阪這段，每人7500以下通知我們」"
+    "我們揪團的群組本來就有LINE小幫手\n有人丟日期 tag它一下 機票整理好給大家挑 想住哪間也能叫它比哪個網站最便宜\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n我們是這樣問的👇\n「12/7到12/10 台北飛福岡 2個人 最便宜的機票」\n「FFFFFF Hotel 12/7到12/10 2個人一間 哪裡訂最便宜」",
+    "最後看上的是這班跟這間👇\n✈️ 亞洲航空 去程中午12:00飛 回程16:40飛\n來回一個人 7,654 廉航票 託運行李要另外加\n🏨 FFFFFF Hotel 四星 在博多車站南邊\n兩個人一間雙人床 Booking.com上一晚2,307\n住3晚一個人分下來大概3,460\n\n11/19 中午查的 價格每天都在跳 12月想去的趕快查一下！"
    ],
-   "buffer_post_id": "6afaf0ba0c2af02527dcc683"
+   "buffer_post_id": "6afea4d0b16549e9b832c9d2"
   },
   {
    "date_taipei": "2026-11-20",
@@ -1233,36 +1238,31 @@
   {
    "date_taipei": "2026-11-22",
    "time_taipei": "21:00",
-   "id": "trip-fukuoka",
-   "topic": "福岡旅遊",
-   "text": "閨蜜：12月要不要去福岡\n我：12月？？機票一定超貴吧⋯\n（叫群組裡的LINE小幫手查一下）\n結果查完我直接去翻護照🤣\n\n算了一下 機票加四星飯店住3晚\n一個人1萬1左右\nGoogle還說這機票比平常便宜2千多😳",
+   "id": "fare-flex-cheap",
+   "topic": "便宜機票",
+   "text": "每個想買便宜機票的人都應該試試這個！\n\n幾個朋友想明年3月去日本玩5天，還在猶豫東京或大阪、哪天走也沒定，只想要越便宜越好\n\n發現LINE裡的這個旅遊AI可以直接幫忙盯機票價錢\n不用先決定哪天出發，也不用先選好去哪，\n直接問它「3月隨便哪天出發，東京或大阪都可以，哪天最便宜？」\n\n它會把整個3月翻了一遍，最便宜的幾天直接列出來...真的超讚",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/01_flights.jpg",
-     "alt": "LINE 群組截圖（示意）：星球問 12 月要不要去福岡、12/7 到 12/10；我 tag LINE小幫手問台北飛福岡 2 個人最便宜的機票；小幫手回機票卡：TPE → FUK 12/7（一）–12/10（四）來回 2 人，Google Flights 即時票價 11:45，Google 認為這個價格偏低（通常每人 NT$8,600–13,000），第一班亞洲航空 AK 1510 每人 NT$7,654（12:00 → 15:20，2 人共 NT$15,308），第二班台灣虎航 IT 240 每人 NT$7,833"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/01_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友在吵東京還大阪、哪天走，問小幫手 3 月隨便哪天出發、玩 5 天哪天便宜，它回大阪 3/4 出發每人約 NT$7,750、東京 3/10 出發約 NT$9,280"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/02_hotels.jpg",
-     "alt": "LINE 群組截圖（示意）：星球說朋友推博多這間 FFFFFF Hotel；我 tag LINE小幫手問 FFFFFF Hotel 12/7 到 12/10 2 個人一間哪裡訂最便宜；小幫手回飯店價格卡：住宿 FFFFFF Hotel 12/7（一）–12/10（四）3 晚 2 人 1 間房，各訂房網站價格 11:46，★4.1（171）、4 星級，往右滑看 10 個訂房網站；1/10 Booking.com 每間每晚 NT$2,307（3 晚共 NT$6,921），2/10 Agoda NT$2,530（3 晚共 NT$7,590）；星球說四星一晚才 2307；我說好我去拿護照"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北飛大阪或東京 3 月出發、5 天、4 人，列出 7 個出發日，大阪 3/4 出發每人 NT$7,750 最低，東京 3/10 出發 NT$9,280"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/03_google_flights.jpg",
-     "alt": "Google 航班截圖：臺北 TPE → 福岡 FUK，12 月 7 日週一 – 12 月 10 日週四來回，最低價格 $7,654 起；目前的票價偏低，價格比平常便宜了 $2,449；亞洲航空中午 12:00 → 下午 3:20 直達 $7,654 來回票價"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/03_watch.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手盯 3 月大阪整段、每人 7500 以下通知，它確認後附「機票價格追蹤」卡"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/04_ffffff.jpg",
-     "alt": "Google 飯店截圖：FFFFFF Hotel 外觀和地圖，$2,307，4.1 顆星（171）、4 星級飯店，12 月 7 日週一 – 12 月 10 日週四、2 位房客；下方 Booking.com 豪華雙人房 $2,555（劃掉）、雙人房 $2,307"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/05_ffffff_photos.jpg",
-     "alt": "Google 飯店的 FFFFFF Hotel 相片：雙人床客房、洗手台、飯店入口和招牌、雙床房，下方 $2,307、12 月 7 日至 10 日"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/04_weekly.jpg",
+     "alt": "LINE 群組畫面示意：三天後收到機票追蹤週報，現在每人 NT$7,750、最便宜那天 3/4 去 3/8 回、目標 NT$7,500"
     }
    ],
    "replies": [
-    "我們揪團的群組本來就有LINE小幫手\n有人丟日期 tag它一下 機票整理好給大家挑 想住哪間也能叫它比哪個網站最便宜\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n我們是這樣問的👇\n「12/7到12/10 台北飛福岡 2個人 最便宜的機票」\n「FFFFFF Hotel 12/7到12/10 2個人一間 哪裡訂最便宜」",
-    "最後看上的是這班跟這間👇\n✈️ 亞洲航空 去程中午12:00飛 回程16:40飛\n來回一個人 7,654 廉航票 託運行李要另外加\n🏨 FFFFFF Hotel 四星 在博多車站南邊\n兩個人一間雙人床 Booking.com上一晚2,307\n住3晚一個人分下來大概3,460\n\n11/19 中午查的 價格每天都在跳 12月想去的趕快查一下！"
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「3月隨便哪天出發，玩5天，台北飛東京或大阪，哪天最便宜？」\n「就盯3月大阪這段，每人7500以下通知我們」"
    ],
-   "buffer_post_id": "6afea4d0b16549e9b832c9d2"
+   "buffer_post_id": "6afaf0ba0c2af02527dcc683"
   },
   {
    "date_taipei": "2026-11-23",

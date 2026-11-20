@@ -936,6 +936,53 @@
     },
     {
       "date_taipei": "2026-11-22",
+      "time_taipei": "13:00",
+      "id": "jp-trending-chuu",
+      "topic": "第一人稱：12/8 去日本前在群組問 @okie.chat 超商跟速食店的期間限定，連 BE:FIRST 聯名抹茶塔都查到；附口袋名單（Paul prod 實測）",
+      "thread": [
+        {
+          "text": "要去日本的 真的拜託出發前先問一下最近有什麼限定（我上次就是照著去年的清單去買 結果早就換季了啦）\n\n這次學乖了 在群組裡 tag @okie.chat\n叫它幫我們查超商跟麥當勞的限定\n它馬上回我一整串\n結果竟然連 BE:FIRST 聯名的抹茶塔都有🥹\n\n我們的口袋名單👇\n- 全家 BE:FIRST 抹茶塔 👈 朋友看到直接尖叫\n- 全家 BE:FIRST 抹茶巧克力費南雪\n- 7-11 開心果／焦糖巧克力蝴蝶餅\n- 麥當勞 肉醬焗烤可樂餅堡 👈 我們第一餐就要去\n- 麥當勞雞塊 沾壽喜燒醬\n\n跟我們一樣 12 月去日本的姐妹 照著吃就對了！",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/01_konbini.jpg",
+              "alt": "LINE 群組截圖：星球說「12/8 就要出發了！吃的還沒排😭」，我 tag okie 問「12月初去日本 超商有什麼期間限定必吃？」，okie 回：全家 BE:FIRST 聯名抹茶塔 ¥298、抹茶巧克力費南雪 ¥210，抹茶派可以收；7-11 12/8 起有開心果、焦糖巧克力蝴蝶餅各 ¥300 左右。鉛筆說「BE:FIRST 聯名！！我要掃貨🥹」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/02_tart.jpg",
+              "alt": "商品圖：全家 BE:FIRST 聯名抹茶塔切面（全家官方圖）"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/03_fin.jpg",
+              "alt": "商品圖：全家 BE:FIRST 聯名抹茶巧克力費南雪（全家官方圖）"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/04_711.jpg",
+              "alt": "商品圖：7-11 焦糖、開心果巧克力蝴蝶餅（7-Eleven 官方圖）"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/05_mcd.jpg",
+              "alt": "LINE 群組截圖：星球說那麥當勞呢我想吃雞塊，我問 okie「那麥當勞呢？」，okie 回：麥當勞 11/25 起有冬季定番グラコロ焗烤可樂餅堡，新口味濃郁肉醬グラコロ ¥510 起賣到 12 月中；15 塊麥克雞塊特價 ¥490 可選壽喜燒醬到 12/15。第二則：麥當勞 12/9 還會再公布一波グラコロ消息，胃容量要留彈性😏。鉛筆說「我們 12/8 就到了 第一餐麥當勞🤣」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/06_gracoro.jpg",
+              "alt": "商品圖：日本麥當勞グラコロ焗烤可樂餅堡和新口味濃郁肉醬グラコロ，11/25 起期間限定（日本麥當勞官方圖）"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/jp-trending-chuu/07_nugget.jpg",
+              "alt": "商品圖：日本麥當勞 15 塊麥克雞塊和壽喜燒風味沾醬（日本麥當勞官方圖）"
+            }
+          ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友 拉進旅遊群組\n限定一直在換 出發前直接問它最準\n我們連第一餐吃麥當勞都是它查的🤣",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6b00182e3409fcd68aa0995c"
+    },
+    {
+      "date_taipei": "2026-11-22",
       "time_taipei": "17:00",
       "id": "ski-kiroro-chuu",
       "topic": "跟朋友去喜樂樂滑四天：@okie.chat 說小樽到喜樂樂的巴士開放預約，當天就把四天套票訂好，還問到纜車券在巴士上拿（監控系列・滑雪變化 2，附官網訂票頁截圖）",

@@ -1900,6 +1900,26 @@
   },
   {
    "date_taipei": "2026-11-29",
+   "time_taipei": "09:00",
+   "id": "ticket-countdown",
+   "topic": "追星",
+   "text": "搶票群組一定要有這個🥹\n\n每次約好一起搶票\n前一天大家都說「我一定準時」\n開賣那一刻 群組只剩我一個在喊🤣\n\n這次直接叫 LINE小幫手 開賣前幫我們倒數\n時間到它就 tag 全部人\n\n結果竟然真的沒有人睡過頭\n\n追星的姐妹們 趕快把它拉進搶票群！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/01_set.jpg",
+     "alt": "LINE 群組截圖：晚上 11 點朋友說明天早上 10 點開賣、有人說上次睡過頭，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人提醒，它回「⏰ 好！明天 09:50、09:55、09:59 都會 tag 所有人提醒」，朋友回「太好了 這樣誰都不能睡過頭了🤣」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天早上 LINE小幫手 9:50、9:55、9:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友回「醒了醒了😂」，10:04「搶到了！！🥹」"
+    }
+   ],
+   "replies": [
+    "搶票怕有人睡過頭的，可以在群組加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天 10 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\n「抽票星期五截止，前一天晚上 9 點提醒大家去登記」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-29",
    "time_taipei": "12:00",
    "id": "pocket-sapporo_food",
    "topic": "日本旅遊",
@@ -1959,6 +1979,46 @@
     "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
    ],
    "buffer_post_id": "6afbdeb7797935b975e1f4ce"
+  },
+  {
+   "date_taipei": "2026-11-30",
+   "time_taipei": "08:00",
+   "id": "ticket-checklist",
+   "topic": "搶票攻略",
+   "text": "演唱會搶票除了拚手速跟運氣\n開賣前這三件事要先確認好 ✅\n\n1️⃣ 會員帳號跟手機驗證\n有些售票網站要先驗證完才能買\n不要開賣當下才在等簡訊🙃\n\n2️⃣ 付款方式\n卡片額度夠不夠、網路刷卡有沒有開\n收驗證碼的手機記得放旁邊\n\n3️⃣ 群組每個人都要準時\n我們直接叫 LINE小幫手 開賣前倒數\n時間到它就 tag 全部人\n\n第三點真的太好用 這次連在上班的都準時開好網頁🤣\n\n要搶票的姐妹 先存起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/01_prep.jpg",
+     "alt": "LINE 群組截圖：晚上 10 點朋友說明天中午 12 點開賣、問會員都驗證好了嗎，一個回「手機驗證好了✅」、一個回「卡片額度也確認了✅」，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 11:50、11:55、11:59 都會 tag 所有人提醒」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天 LINE小幫手 11:50、11:55、11:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友說「在公司偷偷開好網頁了🤫」，12:06「全部都搶到了！！🥹」"
+    }
+   ],
+   "replies": [
+    "怕群組有人不準時的，可以加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天中午 12 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」"
+   ]
+  },
+  {
+   "date_taipei": "2026-12-01",
+   "time_taipei": "08:00",
+   "id": "ticket-fangirl",
+   "topic": "追星人",
+   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
+     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
+     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
+    }
+   ],
+   "replies": [
+    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
+   ]
   }
  ]
 }

@@ -1798,6 +1798,32 @@
     },
     {
       "date_taipei": "2026-12-05",
+      "time_taipei": "10:00",
+      "id": "ticket-countdown-chuu",
+      "topic": "跟朋友搶首爾演唱會的票，時差交給 @okie.chat 換算，開賣前 tag 所有人倒數",
+      "thread": [
+        {
+          "text": "跟閨蜜搶首爾演唱會的票 上次因為時差直接錯過😭\n\n上次我們三個都設了晚上 8 點的鬧鐘\n沒想到韓國的 8 點 是台灣的 7 點⋯\n鬧鐘響的時候 票早就沒了🙃\n\n這次學乖了 直接在群組 tag @okie.chat\n講韓國時間就好 它自己會換算\n開賣前還一直 tag 我們全部人\n\n結果竟然三個人都搶到了🥹\n\n要搶韓國場的姐妹 不要再自己算時差了！",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/ticket-countdown-chuu/01_set.jpg",
+              "alt": "LINE 群組截圖：朋友說明天韓國時間晚上 8 點開賣、上次就是時差算錯，我 tag @okie 請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天台灣時間 18:50、18:55、18:59（韓國 19:50、19:55、19:59）都會 tag 所有人提醒」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/ticket-countdown-chuu/02_countdown.jpg",
+              "alt": "LINE 群組截圖：隔天台灣時間晚上 6:50、6:55、6:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，朋友回「差點以為還有一個小時😱」，7:06「三張都搶到了！！🥹」"
+            }
+          ]
+        },
+        {
+          "text": "@okie.chat 就是我們拉進群組的LINE小幫手\n講韓國或日本時間就好 它會自己換算 時間到就 tag 大家\n\n可以這樣問👇\n「明天韓國時間晚上 8 點開賣，前 10、5、1 分鐘都 tag 大家」\n「日本時間星期五中午 12 點抽選截止，前一天晚上提醒大家登記」\n\nLINE 搜尋 @okie.chat 加好友，拉進搶票群組就能用",
+          "images": []
+        }
+      ],
+      "threads_topic": "韓國旅遊"
+    },
+    {
+      "date_taipei": "2026-12-05",
       "time_taipei": "17:00",
       "id": "receipt-jp-chuu",
       "topic": "跟朋友出國不用一個人當會計：日文收據拍給 @okie.chat，照誰吃什麼分好（淺草今半）",
@@ -1837,6 +1863,32 @@
       ],
       "threads_topic": "日本旅遊",
       "buffer_post_id": "6af6f1079a21933fface256c"
+    },
+    {
+      "date_taipei": "2026-12-06",
+      "time_taipei": "10:00",
+      "id": "ticket-queue-chuu",
+      "topic": "跟閨蜜搶首爾場：排隊、轉圈圈、被踢出來的輪迴，@okie.chat 開賣前 tag 大家，最後是手最慢的搶到",
+      "thread": [
+        {
+          "text": "上次搶首爾場的票 經歷了\n排隊>轉圈圈>被踢出來>排隊>轉圈圈>被踢出來\n無限輪迴到我媽跑來敲門關心\n\n👩🏻：妳在房間跟誰吵架？\n🙋🏻‍♀️：沒有 我在跟全世界搶票（拭淚\n\n還好開賣前 @okie.chat 在群組一直 tag 我們\n三個人至少都準時排進去了\n\n結果竟然是手最慢的那個搶到兩張🥹\n\n一起搶韓國場的姐妹 祝大家都不用輪迴🙏",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/ticket-queue-chuu/01_set.jpg",
+              "alt": "LINE 群組截圖：晚上 11 點朋友說明天台灣時間晚上 7 點開賣、大家記得準時排隊、這次一定要大家一起排進去🙏，我 tag okie 請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 18:50、18:55、18:59 都會 tag 所有人提醒」，朋友回「這樣誰都不能說忘記了🤣」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/ticket-queue-chuu/02_queue.jpg",
+              "alt": "LINE 群組截圖：今天晚上 6:50、6:55、6:59 okie 三次 @All 倒數，7:03 我說「排進去了 但一直在轉圈圈😭」，7:18 朋友說「我又被踢出來了⋯」，7:41 另一個朋友說「欸 我搶到兩張了？？🥹」"
+            }
+          ]
+        },
+        {
+          "text": "@okie.chat 就是我們拉進群組的LINE小幫手 開賣前叫它倒數就好👇\n\n「明天台灣時間晚上 7 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\nLINE 搜尋 @okie.chat 加好友，拉進搶票群組就能用",
+          "images": []
+        }
+      ],
+      "threads_topic": "追星人"
     }
   ]
 }

@@ -1,2072 +1,2072 @@
 {
-  "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 08:00, 09:00, 12:00, 20:00, 21:00 (weekdays use 08/12/20, weekends 09/12/21, a 3-week test from 11/13) and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. Travel guides already on @okie.chat (posted 11/2–11/9 outside this queue) were removed to avoid duplicates. An entry may have \"replies\": a list of self-reply texts posted as the rest of the thread (no images).",
-  "channel_id": "6af1a77d62b70b94b0ce11ea",
-  "organization_id": "6aec374ace73907529f5e6d6",
-  "slots": [
-    "08:00",
-    "09:00",
-    "12:00",
-    "20:00",
-    "21:00"
-  ],
-  "posts": [
+ "_readme": "Threads posting queue for @okie.chat (NOT chuu.travel; schedule.json is chuu.travel, ig_schedule.json is Instagram). A cloud routine runs at Taipei 08:00, 09:00, 12:00, 20:00, 21:00 (weekdays use 08/12/20, weekends 09/12/21, a 3-week test from 11/13) and publishes the entry whose date_taipei + time_taipei match the current slot, via Buffer shareNow with metadata.threads.topic = entry.topic. A slot with no entry is skipped. Travel guides already on @okie.chat (posted 11/2–11/9 outside this queue) were removed to avoid duplicates. An entry may have \"replies\": a list of self-reply texts posted as the rest of the thread (no images).",
+ "channel_id": "6af1a77d62b70b94b0ce11ea",
+ "organization_id": "6aec374ace73907529f5e6d6",
+ "slots": [
+  "08:00",
+  "09:00",
+  "12:00",
+  "20:00",
+  "21:00"
+ ],
+ "posts": [
+  {
+   "date_taipei": "2026-11-10",
+   "time_taipei": "12:00",
+   "id": "taxfree-nrt",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從成田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n\n舊制新制差在哪、成田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
+   "images": [
     {
-      "date_taipei": "2026-11-10",
-      "time_taipei": "12:00",
-      "id": "taxfree-nrt",
-      "topic": "日本退稅新制",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從成田回台灣的先存這篇\n現在是「先付含稅價、出境再退」，最重要的一句：免稅品確認完才能托運！\n\n✔️ 到機場先別托運，免稅品全部帶在身上\n✔️ 出發大廳找退稅機台掃護照，或用 Visit Japan Web 連海關專用 Wi-Fi 辦\n✔️ 綠燈就完成，紅燈要帶商品去海關檢查處\n✔️ 退款照購買時的說明線上辦，要現金可以找機場現金退稅機（會扣手續費）\n⚠️ 同一張收據少帶一件，整張都不退\n\n舊制新制差在哪、成田每一步怎麼走，都整理在圖裡了\n要去日本玩的快存起來，丟到旅遊群組一起看！\n\n（也大推旅遊LINE群組裡加okie這個工具，排行程、推薦景點、記帳分帳、翻譯菜單、設定提醒等等都可以，出國玩有它超方便！）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/02_steps.jpg",
-          "alt": "成田退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/03_refund.jpg",
-          "alt": "成田退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問 okie 成田退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：okie 把成田退稅步驟做成一張圖"
-        }
-      ]
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
     },
     {
-      "date_taipei": "2026-11-10",
-      "time_taipei": "17:00",
-      "id": "notes-tokyo_newyear",
-      "topic": "日本旅遊",
-      "text": "今年跨年終於要去東京了🎆\n\n功課整理成筆記，4天3夜要去的直接抄\n\n群組裡用 okie 提醒大家抽晴空塔，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/01_cover.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：封面・先講結論"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/02_day1.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 1"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/03_day2.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 2"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/04_day3.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 3"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/05_day4.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 4"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/06_checklist.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：出發前清單"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/07_okie.jpg",
-          "alt": "跨年東京 4天3夜（iPhone 備忘錄）：群組小幫手 okie 和 LINE 截圖"
-        }
-      ],
-      "replies": [
-        "okie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「11/26 晚上9點提醒大家抽晴空塔」\n「把 12/31 跨年夜的行程做成一張圖」\n\n不用下載 App，大家都會用👍"
-      ]
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/02_steps.jpg",
+     "alt": "成田退稅步驟：托運前先到出發大廳的機台或用手機確認"
     },
     {
-      "date_taipei": "2026-11-10",
-      "time_taipei": "20:00",
-      "id": "fare-t1-lazy",
-      "topic": "便宜機票",
-      "text": "不想每天自己刷機票的人都應該試試這個！\n\n真的是買機票神隊友欸\n\n而且不用裝app，LINE上面直接可以用\n\n跟朋友在群組喬好日期，直接叫它幫忙盯台北飛東京，之後它會自己定期去查\n\n一降價就直接丟到群組，現在多少、比上次便宜幾%、哪一班都寫好，大家看到就能決定\n\n還可以設預算，跟它說「每人8000以下再通知我們」，沒降到就不會一直吵你🤣",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_1_setup.jpg",
-          "alt": "LINE 群組畫面示意：請小幫手盯台北飛東京 12/16–12/20 的來回機票"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_2_drop.jpg",
-          "alt": "LINE 群組畫面示意：機票降價通知，每人 NT$9,538 降到 NT$8,460，附航班卡片"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_3_bought.jpg",
-          "alt": "LINE 群組畫面示意：大家看到降價都買了，按下停止追蹤"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
-      ]
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/03_refund.jpg",
+     "alt": "成田退稅：退款方式、現金退稅機位置和常見踩雷"
     },
     {
-      "date_taipei": "2026-11-11",
-      "time_taipei": "12:00",
-      "id": "taxfree-kix",
-      "topic": "日本退稅新制",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n\n免稅品要先給機台確認完才能托運，每一步怎麼走都整理在圖裡\n\n退稅步驟記不住的，出發前在LINE群組問小幫手就好（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
-          "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
-          "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 關西機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把關西機場退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「明天從關西機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ]
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問 okie 成田退稅怎麼辦"
     },
     {
-      "date_taipei": "2026-11-11",
-      "time_taipei": "17:00",
-      "id": "pocket-japan_drugstore",
-      "topic": "日本旅遊",
-      "text": "要去日本掃藥妝的 請收💊\n\n@cosme 2025 大賞 13 樣，價格、日文全名都標好，11/1 退稅新制也整理了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/01_cover.jpg",
-          "alt": "日本藥妝口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/02_skincare.jpg",
-          "alt": "日本藥妝口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/03_base.jpg",
-          "alt": "日本藥妝口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/04_makeup.jpg",
-          "alt": "日本藥妝口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/05_body.jpg",
-          "alt": "日本藥妝口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/06_tips.jpg",
-          "alt": "日本藥妝口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/07_okie.jpg",
-          "alt": "日本藥妝口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在新宿逛藥妝，幫我把要買的排進行程」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-11",
-      "time_taipei": "20:00",
-      "id": "fare-t2-group",
-      "topic": "機票",
-      "text": "揪團出國的人真的要試試這個！\n\n買機票最怕的就是等大家都說好，價格就跑了\n\n而且不用裝app，拉進LINE群組就能用\n\n先在群組講好預算，叫它幫忙盯，一降價就直接在群組通知所有人，當下就能決定要不要買\n\n降價通常撐不久，它這兩週發的降價通知，有4成到下一次查就漲回去了，所以看到就快買🤣\n\n也可以叫它每天報一次今天的價格，誰說要再等等的，價格都在群組裡",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_1_setup.jpg",
-          "alt": "LINE 群組畫面示意：4 人群組請小幫手盯台北飛大阪的機票"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_2_drop.jpg",
-          "alt": "LINE 群組畫面示意：機票降價通知，每人 NT$10,621 降到 NT$9,501"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_3_bought.jpg",
-          "alt": "LINE 群組畫面示意：有人先買了，大家跟上，停止追蹤"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-12",
-      "time_taipei": "12:00",
-      "id": "taxfree-hnd",
-      "topic": "日本退稅新制",
-      "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n\n免稅品要先給機台確認完才能托運，每一步怎麼走都整理在圖裡\n\n退稅步驟記不住的，出發前在LINE群組問小幫手就好（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
-          "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
-          "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 羽田退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把羽田退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「明天從羽田回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-12",
-      "time_taipei": "17:00",
-      "id": "pocket-tokyo_xmas",
-      "topic": "日本旅遊",
-      "text": "要去東京過聖誕的 請收🎄\n\n2026 官方已公布的燈飾＋聖誕市集照區域排好，還附一晚走完的路線（けやき坂 22:00 就關，記得早點去）\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/01_cover.jpg",
-          "alt": "東京聖誕燈口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/02_marunouchi.jpg",
-          "alt": "東京聖誕燈口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/03_roppongi.jpg",
-          "alt": "東京聖誕燈口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/04_ebisu_omotesando.jpg",
-          "alt": "東京聖誕燈口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/05_market.jpg",
-          "alt": "東京聖誕燈口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/06_route.jpg",
-          "alt": "東京聖誕燈口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/07_okie.jpg",
-          "alt": "東京聖誕燈口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「12/24 晚上，幫我把這幾個燈排成一晚」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-12",
-      "time_taipei": "20:00",
-      "id": "fare-t3-routes",
-      "topic": "日本旅遊",
-      "text": "要去日本還沒買機票的可以看一下\n\n這兩週小幫手幫大家盯機票，群組裡發出的降價通知👇\n\n台北⇄札幌 12月：27,122 → 20,841\n\n台中⇄名古屋 1月：32,149 → 23,096\n\n高雄⇄東京 3月：15,249 → 10,859\n\n（每人價格，跟上一次通知的價格比）\n\n都是LINE上的小幫手自己查、自己通知的，不用裝app，拉進群組就能用",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t3_1_sapporo.jpg",
-          "alt": "LINE 群組畫面示意：台北⇄札幌機票降價通知，每人 NT$27,122 降到 NT$20,841"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t3_2_nagoya.jpg",
-          "alt": "LINE 群組畫面示意：台中⇄名古屋機票降價通知，每人 NT$32,149 降到 NT$23,096"
-        }
-      ],
-      "replies": [
-        "不想每天刷機票的，LINE小幫手可以幫你盯，降價就通知👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-13",
-      "time_taipei": "08:00",
-      "id": "notes-fukuoka",
-      "topic": "日本旅遊",
-      "text": "年底第一次去福岡的 請收🍜\n\n4天3夜整理成筆記，多排一天去柳川坐船，直接抄\n\n大家丟的屋台、拉麵連結都叫LINE小幫手記起來，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/01_cover.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：封面・先講結論"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/02_day1.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 1"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/03_day2.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 2"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/04_day3.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 3"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/05_day4.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 4"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/06_checklist.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：出發前清單"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/07_okie.jpg",
-          "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
-        }
-      ],
-      "replies": [
-        "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「這攤屋台幫我記起來 instagram.com/p/…」\n「我們存過哪些想吃的？」"
-      ]
-    },
-    {
-      "date_taipei": "2026-11-13",
-      "time_taipei": "17:00",
-      "id": "taxfree-oka",
-      "topic": "日本退稅新制",
-      "text": "從沖繩回台灣，這次有買免稅品的先收藏這篇🌺\n\n新制其實沒有很麻煩，記住一句就好：免稅品確認完才能托運\n\n1️⃣ 到機場先別托運，免稅品全部帶在身上\n2️⃣ 國際線 3F 出發大廳找海關機台刷護照\n3️⃣ 綠燈就可以去托運，紅燈要帶商品去海關檢查處\n4️⃣ 想領現金：出境後 2F 有現金退稅機（6:45–21:30，會扣手續費）\n\n💡 不想排機台：手機連機場的「Customs_WiFi_For_TaxRefund」，用 Visit Japan Web 就能辦\n\n⚠️ 最多人踩的坑：同一張收據少帶一件，整張都不退\n⚠️ 能不能退現金是店家合作的退稅公司決定的，結帳時先問店員\n\n買不多的話，不退也沒關係，省得排隊😂\n有寫錯的歡迎留言告訴我！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
-          "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
-          "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 那霸退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把那霸退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從那霸回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ],
-      "src": "buffer",
-      "note": "Posted by Buffer custom schedule (post 6af68e835ec1c9d5be5b83ca), not by the routine (no 17:00 slot). The 12:07 routine copy was deleted by Paul on Threads.",
-      "buffer_post_id": "6af68e835ec1c9d5be5b83ca"
-    },
-    {
-      "date_taipei": "2026-11-13",
-      "time_taipei": "20:00",
-      "id": "koyo-kyoto",
-      "topic": "日本旅遊",
-      "text": "11月底要去京都看楓葉的先存這篇🍁\n\n今年京都紅葉偏晚，日本氣象協會 11/11 最新預測：嵐山 11/17 起最美，比去年晚 4 天\n\n照時間排好了👇\n\n🍂 11月中先去\n・嵐山：預測 11/17 起最美，天龍寺 11/14～30 提早 7:30 開\n・貴船：點燈只到 11/24，日落～20:30\n\n🍁 11月下旬～12月初\n・東福寺：通天橋 ¥1,000，禁用腳架\n・清水寺：夜間拜觀 11/21～30\n・毘沙門堂：11月 16:00、12月起 15:30 停止受理，紅葉季別開車去\n\n🌙 晚上看夜楓\n・永觀堂：點燈 11/20～12/6，17:30～20:30 受理，¥1,000\n・高台寺：點燈到 12/13，17:00 點燈、21:30 停止受理，¥800\n・北野天滿宮 紅葉苑：點燈 11/13～12/6，19:40 就停止受理，¥1,500 附茶點\n\n⚠️ 夜楓最後受理時間從 19:40 到 21:30 都有，北野最早，排行程先看清楚\n⚠️ 紅葉每週都在變，出發前一天再看一次 tenki.jp 的色づき情報\n\n要去京都的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/01_map.jpg",
-          "alt": "京都賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/02_early.jpg",
-          "alt": "京都賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/03_late.jpg",
-          "alt": "京都賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/04_night.jpg",
-          "alt": "京都賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/05_chat.jpg",
-          "alt": "京都賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "京都景點太多不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/28 在京都兩天，幫我排賞楓＋夜楓行程」\n「北野天滿宮紅葉苑晚上幾點前要到？」"
-      ],
-      "buffer_post_id": "6af6c8a66bb977bd3df13179"
-    },
-    {
-      "date_taipei": "2026-11-14",
-      "time_taipei": "09:00",
-      "id": "notes-osaka",
-      "topic": "日本旅遊",
-      "text": "年底要帶爸媽去大阪的 請收🏯\n\n4天3夜不累版整理成筆記，每天10點出門、下午回飯店休息，直接抄就好\n\n集合時間、翻譯菜單、找廁所都問LINE小幫手，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/01_cover.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：封面・先講結論"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/02_day1.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 1"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/03_day2.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 2"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/04_day3.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 3"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/05_day4.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 4"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/06_checklist.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：出發前清單"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/07_okie.jpg",
-          "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
-        }
-      ],
-      "replies": [
-        "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進家族群組或私訊都可以\n\n「今天晚上9點提醒大家：明天10點飯店大廳集合」\n「這菜單寫什麼？我爸不吃牛」"
-      ],
-      "buffer_post_id": "6af6c8466bb977bd3df11579"
-    },
-    {
-      "date_taipei": "2026-11-14",
-      "time_taipei": "12:00",
-      "id": "taxfree-fuk",
-      "topic": "日本退稅新制",
-      "text": "福岡機場回台灣的看這篇就好✈️\n\n日本退稅 11/1 改成「先付含稅價、出境再退」，聽起來很麻煩，其實多一個步驟而已\n\n1️⃣ 先別托運，免稅品帶在身上\n2️⃣ 國際線 3F 南側、J～M 櫃台前有海關機台，刷護照\n3️⃣ 綠燈就去托運，紅燈帶商品去機台旁的海關檢查處\n4️⃣ 要領現金：出境後找現金退稅機（會扣手續費）\n\n💡 機台排隊的話，手機連「Customs_WiFi_For_TaxRefund」用 Visit Japan Web 辦，一樣有效\n\n⚠️ 一定要在托運前辦，托運了就沒辦法確認\n⚠️ 同一張收據少帶一件，整張都不退\n\n買得少可以直接不退，不用勉強😂\n還有什麼不清楚的留言問我～",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
-          "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
-          "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 福岡機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把福岡機場退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從福岡機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ],
-      "buffer_post_id": "6af6c8b76bb977bd3df1377d"
-    },
-    {
-      "date_taipei": "2026-11-14",
-      "time_taipei": "21:00",
-      "id": "koyo-kyushu",
-      "topic": "日本旅遊",
-      "text": "11月要去九州看楓葉的先存這篇🍁\n\n今年九州紅葉偏晚，日本氣象協會 11/11 最新預測：深耶馬溪 11/15 起、高千穗峽 11/21 起最美\n\n照時間排好了👇\n\n🍂 11月中先去\n・深耶馬溪（大分）：已經有紅葉，預測 11/15 起最美\n・九醉溪（大分）：例年 10月下旬～11月中旬，順路走九重夢大吊橋（¥500）\n・菊池溪谷（熊本）：例年 11月上旬～下旬，現在剛開始變色\n\n🍁 11月下旬最剛好\n・高千穗峽（宮崎）：預測 11/21 起最美\n・秋月城跡（福岡）：例年 11月中旬～下旬，現在還是綠的\n・九年庵（佐賀）：一年只開春秋兩次，秋天只開 11/14～11/29，8:00 開門・16:00 最後入場，¥1,000\n\n🌙 晚上看夜楓\n・御船山樂園（佐賀）：紅葉祭 11/6～12/6，晚上 17:30～22:00，¥600\n・竈門神社（太宰府）：點燈 11/21～12/6，日落到 21:00（依紅葉狀況可能調整）\n\n⚠️ 高千穗、深耶馬溪、九醉溪都在山裡，大眾運輸比較花時間，租車或報一日遊比較輕鬆\n\n要去九州的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/01_map.jpg",
-          "alt": "九州賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/02_mid.jpg",
-          "alt": "九州賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/03_late.jpg",
-          "alt": "九州賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/04_night.jpg",
-          "alt": "九州賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/05_chat.jpg",
-          "alt": "九州賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/25 從福岡出發 3 天，幫我排賞楓行程」\n「九年庵跟御船山樂園一天跑得完嗎？」"
-      ],
-      "buffer_post_id": "6af6c8c91d6346d52a6799e2"
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "09:00",
-      "id": "koyo-tokyo",
-      "topic": "日本旅遊",
-      "text": "11月底、12月初要去東京的，賞楓先存這篇🍁\n\n今年關東紅葉比去年晚，日本氣象協會 11/11 最新預測：高尾山 11/15 起、六義園 12/1 起最美（比去年晚 10 天）\n\n照時間排好了👇\n\n🍂 11月中先去\n・高尾山：預測 11/15 起最美，纜車來回 ¥980\n・河口湖 楓葉迴廊：紅葉祭只到 11/29，日落～21:00 點燈\n・井之頭公園：例年 11月中旬～12月上旬，吉祥寺站走路 5 分鐘\n\n🍁 11月下旬～12月初\n・明治神宮外苑 銀杏大道：約 300m 的黃金隧道\n・新宿御苑：銀杏 11 月、楓紅 12 月，¥500\n・小石川後樂園：深山紅葉 11/21～12/6，¥300\n\n🌙 晚上看夜楓\n・昭和紀念公園：點燈到 11/29，16:30～20:30\n・六義園：點燈 11/25～12/6，18:00～20:30，¥1,000 要線上預購\n\n⚠️ 新宿御苑週一休園，11/23 連假照開、改休 11/24\n⚠️ 六義園夜楓預售票 ¥1,000 要前一天 23:59 前網購，當天票 ¥1,200\n\n要去東京的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/01_map.jpg",
-          "alt": "東京賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/02_early.jpg",
-          "alt": "東京賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/03_late.jpg",
-          "alt": "東京賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/04_night.jpg",
-          "alt": "東京賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/05_chat.jpg",
-          "alt": "東京賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「12/1 在東京 3 天，幫我排賞楓行程」\n「六義園夜楓的票要怎麼買？」"
-      ],
-      "buffer_post_id": "6af6c8e46bb977bd3df14165"
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "12:00",
-      "id": "taxfree-cts",
-      "topic": "日本退稅新制",
-      "text": "北海道玩完要從新千歲回台灣的，出發前先看這篇❄️\n\n退稅新制記一句就好：免稅品確認完才能托運\n\n1️⃣ 免稅品先不要放進托運行李\n2️⃣ 國際線航廈 3F 出發大廳找海關機台刷護照\n3️⃣ 綠燈→去托運；紅燈→帶商品去海關檢查處\n4️⃣ 想退現金：3F 有 Cash Japan 退稅機（會扣手續費）\n\n💡 不想排機台，手機連「Customs_WiFi_For_TaxRefund」上 Visit Japan Web 就能辦\n\n⚠️ 白色戀人、藥妝如果是免稅買的，也要帶著給機台確認完才能托運\n⚠️ 同一張收據少帶一件，整張都不退\n⚠️ 退現金要看店家合作哪家退稅公司，結帳時先問\n\n有寫錯的歡迎留言跟我說！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
-          "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
-          "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 新千歲退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把新千歲退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從新千歲回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ],
-      "buffer_post_id": "6af6c8f93890f6d4a9ca5e53"
-    },
-    {
-      "date_taipei": "2026-11-15",
-      "time_taipei": "21:00",
-      "id": "notes-bangkok",
-      "topic": "泰國旅遊",
-      "text": "年底第一次去曼谷的 請收🛺\n\n4天3夜新手版整理成筆記，一天只排一區，直接抄就好\n\n想吃的店丟到群組，LINE小幫手會幫我們列成清單，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/01_cover.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：封面・先講結論"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/02_day1.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 1"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/03_day2.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 2"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/04_day3.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 3"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/05_day4.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 4"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/06_checklist.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：出發前清單"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/07_okie.jpg",
-          "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
-        }
-      ],
-      "replies": [
-        "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們傳過哪些想吃的店？幫我列出來」\n「按摩 ฿1,400 我先付，幫大家記帳」"
-      ],
-      "buffer_post_id": "6af6cafb1d6346d52a684307"
-    },
-    {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "08:00",
-      "id": "pocket-fukuoka_food",
-      "topic": "日本旅遊",
-      "text": "要去福岡的 請收🍜\n\n屋台、豚骨拉麵、牛腸鍋、水炊き（雞肉鍋）、餃子、明太子 一篇整理好\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/01_cover.jpg",
-          "alt": "福岡必吃口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/02_yatai.jpg",
-          "alt": "福岡必吃口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/03_ramen.jpg",
-          "alt": "福岡必吃口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/04_nabe.jpg",
-          "alt": "福岡必吃口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/05_gyoza.jpg",
-          "alt": "福岡必吃口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/06_tips.jpg",
-          "alt": "福岡必吃口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/07_okie.jpg",
-          "alt": "福岡必吃口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在博多站，幫我把附近的排進行程」"
-      ],
-      "buffer_post_id": "6af6cb166bb977bd3df1e7c9"
-    },
-    {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "12:00",
-      "id": "taxfree-ngo",
-      "topic": "日本退稅新制",
-      "text": "從名古屋中部機場回台灣的，先收藏這篇，不然到機場會手忙腳亂😵‍💫\n\n新制其實不難，順序對就好：先確認免稅品，再托運\n\n1️⃣ 免稅品帶在身上，先不要托運\n2️⃣ 找海關機台刷護照：第 1 航廈在 3F，第 2 航廈在 2F\n3️⃣ 綠燈就可以去托運，紅燈帶商品去機台附近的海關檢查處\n4️⃣ 要領現金：出境審查後有 Cash Japan 退稅機（會扣手續費）\n\n💡 手機連「Customs_WiFi_For_TaxRefund」用 Visit Japan Web 辦，就不用排機台\n\n⚠️ 同一張收據少帶一件，整張都不退\n⚠️ 不是每家店都能退現金，看店家合作的退稅公司，結帳時先問\n\n買不多的話，放棄退稅也 OK😂\n有問題留言問我～",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
-          "alt": "日本退稅新制：舊制和新制比較一張看懂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
-          "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
-          "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 名古屋中部機場退稅怎麼辦"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
-          "alt": "LINE 群組畫面示意：小幫手把名古屋中部機場退稅步驟做成一張圖"
-        }
-      ],
-      "replies": [
-        "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從中部機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
-      ],
-      "buffer_post_id": "6af6cb4bcf5e784350803260"
-    },
-    {
-      "date_taipei": "2026-11-16",
-      "time_taipei": "20:00",
-      "id": "koyo-kansai",
-      "topic": "日本旅遊",
-      "text": "11月底去大阪、奈良看楓葉的先存這篇🍁\n\n今年西日本紅葉偏晚，日本氣象協會 11/11 最新預測，很多地方又比之前預測晚了 3～5 天，平地到 12 月都還看得到\n\n照時間排好了👇\n\n🍂 11月中先去\n・長谷寺：例年 11月上旬～下旬，已經開始紅，¥500\n・吉野山：夜間點燈到 11/30，纜車 11/30 前每天開\n・奈良公園・依水園：公園免費，依水園 ¥1,200（週二休）\n\n🍁 11月下旬～12月初\n・大阪城公園：天守閣前有 300 年大銀杏，公園免費\n・萬博紀念公園：紅葉祭 11/7～11/29，¥450\n・勝尾寺：週末夜間點燈到 11/29，¥500\n\n🌙 晚上看夜楓\n・箕面大瀑布：點燈 11/14～12/6，日落～21:30\n・談山神社：點燈 11/14～12/6，日落～20:30\n\n⚠️ 箕面紅葉祭的週末，勝尾寺停車場全預約制，搭電車＋公車比較順\n⚠️ 談山神社點燈後已經沒有公車，回櫻井站要叫計程車（約 15 分）\n\n要去關西的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/01_map.jpg",
-          "alt": "大阪・奈良賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/02_early.jpg",
-          "alt": "大阪・奈良賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/03_late.jpg",
-          "alt": "大阪・奈良賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/04_night.jpg",
-          "alt": "大阪・奈良賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/05_chat.jpg",
-          "alt": "大阪・奈良賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在大阪，幫我排一天賞楓＋夜楓」\n「談山神社晚上看完點燈怎麼回去？」"
-      ],
-      "buffer_post_id": "6af6cb75ac315c828ef60582"
-    },
-    {
-      "date_taipei": "2026-11-17",
-      "time_taipei": "08:00",
-      "id": "fare-flex-norefresh",
-      "topic": "便宜機票",
-      "text": "機票不用每天自己刷了，連哪天出發最便宜都可以叫它找\n\n之前想去首爾，每天睡前都在刷訂票網站\n日期換來換去，刷到眼睛好痠😮‍💨\n\n後來直接問LINE裡的這個旅遊AI\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n它自動把每一天都翻過一遍找最便宜的票價給你！\n也可以再請它持續盯價，如果降價第一時間通知你",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/01_ask.jpg",
-          "alt": "LINE 對話示意：問小幫手 4/15 到 5/31 之間出發、玩 5 天，台北飛首爾哪天最便宜，它說日曆上比較便宜的像 5/25 去 5/29 回，每人約 NT$5,030"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/02_days.jpg",
-          "alt": "「便宜的日子」卡示意：台北到首爾 4/15–5/31 出發、玩 5 天、1 人，5/25 和 5/31 出發每人 NT$5,029，5/10、5/11、5/18、5/24、5/29 出發 NT$5,229"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/03_watch.jpg",
-          "alt": "LINE 對話示意：請小幫手盯這整段、每人 4800 以下通知，它確認後說離出發還遠先每 7 天查一次、盯到 12/16，附「機票價格追蹤」卡和每天回報價格按鈕"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/04_weekly.jpg",
-          "alt": "機票追蹤週報卡示意：現在每人 NT$5,029、最便宜那天 5/25 去 5/29 回、目標 NT$4,800、下次查價 11/23、盯到 12/16，下面有繼續盯、改目標價、不盯了按鈕"
-        }
-      ],
-      "replies": [
-        "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n「那就盯這整段，每人4800以下通知我」"
-      ],
-      "buffer_post_id": "6afacdb806e1675856dfaead"
-    },
-    {
-      "date_taipei": "2026-11-17",
-      "time_taipei": "12:00",
-      "id": "pay-jp",
-      "topic": "日本旅遊",
-      "text": "年底前要去日本的人 刷卡請收！💳\n\n7 張卡的日本回饋、上限、要不要登錄都整理在圖裡\n\n懶得比的，直接在LINE群組問小幫手幫你算🤣（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/01_cards.jpg",
-          "alt": "年底去日本刷卡懶人包①：熊本熊、富邦J、星展eco、吉鶴卡的日本回饋"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/02_cards.jpg",
-          "alt": "年底去日本刷卡懶人包②：CUBE、Richart、滙豐和免手續費掃碼付"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/03_tips.jpg",
-          "alt": "刷卡前 5 件事：選日圓、算手續費、先登錄、看上限、留現金"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/04_compare.jpg",
-          "alt": "LINE 群組畫面示意：小幫手幫忙算兩張卡怎麼刷最划算"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/05_split.jpg",
-          "alt": "LINE 群組畫面示意：小幫手記帳誰刷卡、算誰要給誰"
-        }
-      ],
-      "replies": [
-        "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去日本先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
-      ],
-      "buffer_post_id": "6af6cbb3d63384b8e431dcad"
-    },
-    {
-      "date_taipei": "2026-11-17",
-      "time_taipei": "20:00",
-      "id": "koyo-nagoya",
-      "topic": "日本旅遊",
-      "text": "要去名古屋近郊賞楓的先存這篇🍁\n\n日本氣象協會 11/11 最新預測：香嵐溪 11/19 起最美\n\n照時間排好了👇\n\n🍂 11月中先去\n・香嵐溪：預測 11/19 起最美，點燈到 11/30，免費入場\n・岩屋堂公園：點燈只到 11/23，17:30～21:00\n\n🍁 11月下旬～12月初\n・小原四季櫻：秋天開的四季櫻配紅葉\n・定光寺：西側高台展望台看紅葉\n・東山動植物園：11/21 起週末有夜楓，¥800\n・養老公園：約 3,000 棵楓樹，免費\n\n🌙 晚上看夜楓\n・白鳥庭園：週末點燈 11/14～29，¥300\n・德川園：紅葉祭 11/14～12/6，¥300，只有 11/20～23、27～29 開到 20:00，其他天 17:30 就關\n\n⚠️ 香嵐溪週末塞車很嚴重，今年沒有八草直達巴士，平日去最順\n⚠️ 白鳥庭園、德川園、東山動植物園週一休園，11/23 連假照開、改休 11/24\n\n要去名古屋的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/01_map.jpg",
-          "alt": "名古屋賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/02_early.jpg",
-          "alt": "名古屋賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/03_late.jpg",
-          "alt": "名古屋賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/04_night.jpg",
-          "alt": "名古屋賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/05_chat.jpg",
-          "alt": "名古屋賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在名古屋，沒租車，幫我排一天賞楓」\n「香嵐溪平日怎麼搭車去？」"
-      ],
-      "buffer_post_id": "6af6cb031d6346d52a6844a1"
-    },
-    {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "08:00",
-      "id": "koyo-hiroshima",
-      "topic": "日本旅遊",
-      "text": "11月下旬要去廣島、宮島的，賞楓先存這篇🍁\n\n日本氣象協會 11/11 最新預測：宮島紅葉谷 11/21 起最美，山區的帝釋峽現在已經全紅了\n\n照時間排好了👇\n\n🍂 11月中先去\n・帝釋峽：現在已經全紅，免費，在山區自駕比較方便\n・三段峽：部分已轉紅，有些步道封閉，出發前先查\n・佛通寺：特別拜觀 11/7～11/29，¥500\n\n🍁 11月下旬～12月初\n・宮島 紅葉谷公園：預測 11/21 起最美，點燈 11/13～12/6 免費\n・錦帶橋・吉香公園：錦帶橋往返 ¥500，隔壁的紅葉谷公園免費\n・耕三寺・未來心之丘：¥1,800，門票含未來心之丘\n\n🌙 晚上看夜楓\n・縮景園：點燈 11/20～11/29（預定），開到 21:00，¥350\n・大聖院（宮島）：點燈 11/17～11/29，17:30 起，費用和結束時間以現場為準\n\n⚠️ 搭船去宮島，船票外要另付宮島訪問稅 ¥100／人\n⚠️ 宮島回程最後一班 JR 渡輪 22:14，看完夜楓再回來來得及\n\n要去廣島的快存起來，丟到旅遊群組一起看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/01_map.jpg",
-          "alt": "廣島・宮島賞楓地圖 2026：地圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/02_early.jpg",
-          "alt": "廣島・宮島賞楓地圖 2026：11月中先去"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/03_late.jpg",
-          "alt": "廣島・宮島賞楓地圖 2026：11月下旬～12月初"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/04_night.jpg",
-          "alt": "廣島・宮島賞楓地圖 2026：晚上看夜楓"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/05_chat.jpg",
-          "alt": "廣島・宮島賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
-        }
-      ],
-      "replies": [
-        "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在廣島兩天，幫我排賞楓＋夜楓」\n「宮島晚上看完點燈，最後一班船幾點？」"
-      ],
-      "buffer_post_id": "6af6cb1e3890f6d4a9cb12d1"
-    },
-    {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "12:00",
-      "id": "split-oneline",
-      "topic": "日本旅遊",
-      "text": "出國記帳，我從來沒撐過第二天😂\n\n第一天還很認真，每筆都打在備忘錄\n後來玩到太累，回飯店只想躺平，帳就直接放生了\n\n現在付完錢，就在群組打一句「計程車3200我付的」\n結果 LINE小幫手竟然就記好了，連每個人要出多少都分好了\n\n跟我一樣記帳三分鐘熱度的，真的趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/01_taxi.jpg",
-          "alt": "LINE 群組截圖：鉛筆說終於到新宿的飯店了，我在群組打「計程車 3200 我付的」，LINE小幫手回已記帳卡片：計程車 ¥3,200，Momo 付，11/1（日），Momo、星球、鉛筆、高山各 ¥800；星球回「欸這樣就記好了喔」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/02_konbini.jpg",
-          "alt": "LINE 群組截圖：隔天早上我打「便利商店 1280 我付的，我跟星球分就好」，LINE小幫手回已記帳卡片：便利商店 ¥1,280，Momo 付，11/2（一），Momo、星球各 ¥640；高山回「這比記在備忘錄快太多了」"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n出發前跟它說一聲這趟去日本，之後付完錢打一句就好👇\n「計程車 3200 我付的」\n「便利商店 1280 我付的，我跟星球分就好」"
-      ],
-      "buffer_post_id": "6afc2c79b587675a0d11947a"
-    },
-    {
-      "date_taipei": "2026-11-18",
-      "time_taipei": "20:00",
-      "id": "fare-flex-p",
-      "topic": "便宜機票",
-      "text": "每個p人訂機票前都應該試試這個！\n\n朋友說3月要出國\n問去哪 大家都回「都可以」😂\n以前要一個城市一個日期慢慢查\n現在直接在LINE問這個旅遊AI\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n\n它把三個地方整個3月一起查\n三個裡面沖繩最便宜\n廉航來回每人約5,600 看到直接心動\n連哪幾天出發便宜都列好了\n\n還能跟它說「日本有便宜機票就通知我」\n比平常便宜才會講\n一週最多一則 不會一直吵\np人真的可以不用做功課了🙌\n快傳給那個永遠說「都可以」的旅伴",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/01_ask.jpg",
-          "alt": "LINE 群組畫面示意：朋友說 3 月請假出國、哪裡便宜去哪，問小幫手 3 月玩 5 天、沖繩大阪東京都可以哪天最便宜，它說沖繩比較便宜，日曆上像 3/1 去 3/5 回每人約 NT$5,590"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/02_days.jpg",
-          "alt": "「便宜的日子」卡示意：台北到沖繩、大阪、東京，3 月出發、玩 5 天、4 人，沖繩 3/1、3/2、3/4、3/5、3/6 出發每人 NT$5,590，大阪 3/4 出發 7,752，東京 3/10 出發 9,194"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/03_region.jpg",
-          "alt": "LINE 群組畫面示意：請小幫手日本有便宜機票就通知，它說先假設台北出發、玩 5 天、看未來 3 個月，比平常便宜才通知、一週最多一則"
-        }
-      ],
-      "replies": [
-        "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n「日本有便宜機票就通知我們」"
-      ],
-      "buffer_post_id": "6afacdba8e87c256a3c8e1b1"
-    },
-    {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "08:00",
-      "id": "fare-flex-10k",
-      "topic": "便宜機票",
-      "text": "好奇大家都怎麼訂到萬元以下的來回機票嗎？\n\n我的方法很簡單\n日期先不要定死\n直接問LINE裡的這個旅遊AI\n「3月哪天出發最便宜？」\n它會把整個月翻一遍\n比較便宜的7天直接列給你\n\n看到喜歡的日子就叫它幫我盯著\n降到我要的價錢就會通知我\n排假之前先存起來",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/01_cover.jpg",
-          "alt": "奶油色整理卡：3 月來回機票一萬以下就能飛，台北出發、玩 5 天、每人來回：沖繩 NT$5,590（3/1 去 3/5 回）、首爾 5,857（3/27 去）、大阪 7,752（3/4 去）、東京 9,194（3/10 去），2026/11/16 Google Flights 日曆價"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/02_ask.jpg",
-          "alt": "LINE 對話示意：問小幫手 3 月台北飛沖繩玩 5 天哪天最便宜，它說日曆上比較便宜的每人約 NT$5,590，列出的 7 天都是這個價"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/03_days.jpg",
-          "alt": "「便宜的日子」卡示意：台北到沖繩 3 月出發、玩 5 天、1 人，3/1 到 3/8 之間 7 個出發日每人都是 NT$5,590"
-        }
-      ],
-      "replies": [
-        "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月台北飛沖繩，玩5天，哪天出發最便宜？」\n「就盯3月沖繩，每人5000以下通知我」"
-      ],
-      "buffer_post_id": "6afacdbb8e87c256a3c8e202"
-    },
-    {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "12:00",
-      "id": "pay-kr",
-      "topic": "韓國旅遊",
-      "text": "年底前要去韓國的人 刷卡請收！💳\n\n6 張卡的韓國回饋、上限、登錄日期都整理在圖裡\n\n富邦加碼 11/20 下午4點開放登錄，名額有限，先記起來🤣\n\n登錄日可以叫LINE小幫手提醒，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/01_sheet.jpg",
-          "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/02_sheet.jpg",
-          "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/03_tips.jpg",
-          "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
-          "alt": "LINE 群組畫面示意：小幫手依手上的卡排先刷哪張"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
-          "alt": "LINE 群組畫面示意：小幫手用韓元記帳並結算"
-        }
-      ],
-      "replies": [
-        "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去韓國先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
-      ],
-      "buffer_post_id": "6af6cb4dac315c828ef5fa79"
-    },
-    {
-      "date_taipei": "2026-11-19",
-      "time_taipei": "20:00",
-      "id": "trip-okinawa",
-      "topic": "沖繩旅遊",
-      "text": "閨蜜：下週要不要去沖繩\n我：月底了欸 我在吃土⋯\n（丟給LINE小幫手查了一下）\n結果查完換我一直催她訂🤣\n\n來回機票加五星級飯店住3晚\n一個人才8千多😳\n這價錢在台灣連假住一晚溫泉飯店就沒了",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/01_flights.jpg",
-          "alt": "LINE 群組截圖（示意）：星球問下週要不要去沖繩；我 tag LINE小幫手問下週一到週四台北飛沖繩 2 個人最便宜的機票；小幫手回機票卡：TPE → OKA 11/23（一）–11/26（四）來回 2 人，Google Flights 即時票價 23:59，Google 認為價格普通（通常每人 NT$5,000–6,300），第一班樂桃 MM 930 每人 NT$5,590（18:20 → 20:50，2 人共 NT$11,180），第二班樂桃 MM 926 每人 NT$6,290"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/02_hotels.jpg",
-          "alt": "LINE 群組截圖（示意）：我問那霸住這幾天 2 個人一間、一晚 2000 以內的飯店；小幫手回住宿卡：那霸 11/23–11/26 3 晚 2 人 1 間、預算每間每晚 NT$2,000，往右滑看 5 個住宿；卡片滑到第 4 間 LOISIR HOTEL NAHA 每間每晚 NT$1,727（★4.0、5 星級、3 晚共 NT$5,181、比市價便宜 34%）和第 5 間 Okinawa NaHaNa Hotel & Spa NT$1,855；星球說這間五星級欸一晚才 1727；我說快訂快訂快訂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/03_google_flights.jpg",
-          "alt": "Google 航班截圖：臺北 TPE → 沖繩 OKA，11 月 23 日週一 – 11 月 26 日週四來回，最低價格 $5,590 起，目前的價格一般；樂桃 18:20 → 20:50 直達 $5,590、泰國亞洲航空 13:25 → 15:55 $6,830（來回票價）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/04_loisir.jpg",
-          "alt": "Google 飯店截圖：LOISIR HOTEL NAHA 外觀和泳池照片，超值優惠 $1,727、比市價便宜 34%，4.0 顆星、5 星級飯店，11 月 23 日 – 26 日、2 位房客"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/05_loisir_photos.jpg",
-          "alt": "Google 飯店的 LOISIR HOTEL NAHA 相片：海港旁的飯店外觀、夜晚泳池、雙床客房、棚架下的泳池、浴室，下方 $1,727 超值優惠、11 月 23 日至 26 日"
-        }
-      ],
-      "replies": [
-        "我們就是在群組裡加了LINE小幫手\n機票跟飯店直接問它 它馬上列出好幾個選項 大家在群組一起看一起挑\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n像這樣問就好👇\n「下週一到週四 台北飛沖繩 2個人 最便宜的機票」\n「那霸住3晚 2個人一間 一晚2000以內的飯店」",
-        "我們查到的是這班跟這間👇\n✈️ 樂桃 去程晚上18:20飛 回程下午16:50飛\n來回一個人 5,590 只有手提行李喔\n🏨 LOISIR HOTEL NAHA 兩個人一間 一晚1,727\n住3晚一個人分下來大概2,590\n\n11/18 半夜查的 價格每天在變 要去的趕快查一下！"
-      ],
-      "buffer_post_id": "6afea204749099bdc71b26f2"
-    },
-    {
-      "date_taipei": "2026-11-20",
-      "time_taipei": "08:00",
-      "id": "notes-seoul",
-      "topic": "韓國旅遊",
-      "text": "年底要跟閨蜜去首爾的 請收🎄\n\n4天3夜聖誕版整理成筆記，一天只逛一區直接抄\n\n代購清單我都丟給LINE小幫手記，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/01_cover.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：封面・先講結論"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/02_day1.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 1"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/03_day2.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 2"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/04_day3.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 3"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/05_day4.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 4"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/06_checklist.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：出發前清單"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/07_okie.jpg",
-          "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
-        }
-      ],
-      "replies": [
-        "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我記：化妝水 2 瓶，到 Olive Young 再給我清單」\n「烤肉 ₩96,000 我先付，幫大家記帳」"
-      ],
-      "buffer_post_id": "6af6cb333890f6d4a9cb1d79"
-    },
-    {
-      "date_taipei": "2026-11-20",
-      "time_taipei": "12:00",
-      "id": "trip-fukuoka",
-      "topic": "福岡旅遊",
-      "text": "閨蜜：12月要不要去福岡\n我：12月？？機票一定超貴吧⋯\n（叫群組裡的LINE小幫手查一下）\n結果查完我直接去翻護照🤣\n\n算了一下 機票加四星飯店住3晚\n一個人1萬1左右\nGoogle還說這機票比平常便宜2千多😳",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/01_flights.jpg",
-          "alt": "LINE 群組截圖（示意）：星球問 12 月要不要去福岡、12/7 到 12/10；我 tag LINE小幫手問台北飛福岡 2 個人最便宜的機票；小幫手回機票卡：TPE → FUK 12/7（一）–12/10（四）來回 2 人，Google Flights 即時票價 11:45，Google 認為這個價格偏低（通常每人 NT$8,600–13,000），第一班亞洲航空 AK 1510 每人 NT$7,654（12:00 → 15:20，2 人共 NT$15,308），第二班台灣虎航 IT 240 每人 NT$7,833"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/02_hotels.jpg",
-          "alt": "LINE 群組截圖（示意）：星球說朋友推博多這間 FFFFFF Hotel；我 tag LINE小幫手問 FFFFFF Hotel 12/7 到 12/10 2 個人一間哪裡訂最便宜；小幫手回飯店價格卡：住宿 FFFFFF Hotel 12/7（一）–12/10（四）3 晚 2 人 1 間房，各訂房網站價格 11:46，★4.1（171）、4 星級，往右滑看 10 個訂房網站；1/10 Booking.com 每間每晚 NT$2,307（3 晚共 NT$6,921），2/10 Agoda NT$2,530（3 晚共 NT$7,590）；星球說四星一晚才 2307；我說好我去拿護照"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/03_google_flights.jpg",
-          "alt": "Google 航班截圖：臺北 TPE → 福岡 FUK，12 月 7 日週一 – 12 月 10 日週四來回，最低價格 $7,654 起；目前的票價偏低，價格比平常便宜了 $2,449；亞洲航空中午 12:00 → 下午 3:20 直達 $7,654 來回票價"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/04_ffffff.jpg",
-          "alt": "Google 飯店截圖：FFFFFF Hotel 外觀和地圖，$2,307，4.1 顆星（171）、4 星級飯店，12 月 7 日週一 – 12 月 10 日週四、2 位房客；下方 Booking.com 豪華雙人房 $2,555（劃掉）、雙人房 $2,307"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/05_ffffff_photos.jpg",
-          "alt": "Google 飯店的 FFFFFF Hotel 相片：雙人床客房、洗手台、飯店入口和招牌、雙床房，下方 $2,307、12 月 7 日至 10 日"
-        }
-      ],
-      "replies": [
-        "我們揪團的群組本來就有LINE小幫手\n有人丟日期 tag它一下 機票整理好給大家挑 想住哪間也能叫它比哪個網站最便宜\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n我們是這樣問的👇\n「12/7到12/10 台北飛福岡 2個人 最便宜的機票」\n「FFFFFF Hotel 12/7到12/10 2個人一間 哪裡訂最便宜」",
-        "最後看上的是這班跟這間👇\n✈️ 亞洲航空 去程中午12:00飛 回程16:40飛\n來回一個人 7,654 廉航票 託運行李要另外加\n🏨 FFFFFF Hotel 四星 在博多車站南邊\n兩個人一間雙人床 Booking.com上一晚2,307\n住3晚一個人分下來大概3,460\n\n11/19 中午查的 價格每天都在跳 12月想去的趕快查一下！"
-      ],
-      "buffer_post_id": "6afea4d0b16549e9b832c9d2"
-    },
-    {
-      "date_taipei": "2026-11-20",
-      "time_taipei": "20:00",
-      "id": "ski-kokusai",
-      "topic": "滑雪",
-      "text": "札幌國際的套票 等到我好焦慮😩\n\n官方的巴士套票頁面都出來了 就是不能訂\n每天點進去看 每天都一樣…\n\n後來直接丟給群組裡的LINE小幫手 讓它每天幫我顧\n結果它竟然找到別家現在就能訂的套票！\n\n還在乾等官網的 先叫它幫你找備案！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/01_found.jpg",
-          "alt": "LINE 群組截圖（示意）：11/10 早上鉛筆問札幌國際的套票還是不能訂嗎，我說官網昨天看還沒有；9 點小幫手說札幌國際官方的巴士套票頁面出來了，但還不能訂；另外找到一個現在就能訂的：札幌市區出發，來回巴士＋一日纜車券，每人 ¥9,500；我說那先把這個當備案；鉛筆說原來不是只有官網能訂"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/02_page.jpg",
-          "alt": "北海道アクセスネットワーク「札幌国際：リフト券パック（札幌市内⇒国際⇒札幌市内）」頁面截圖：運行期間 2026年12月2日～2027年3月31日、毎日運行；旅行代金 大人 9,500円、小人 7,400円；パッケージ內容：往復バス＋リフト券"
-        }
-      ],
-      "replies": [
-        "想用的 主頁有連結 加好友拉進旅遊群組就好\n官網一直不能訂的時候 可以直接這樣問它👇\n「札幌出發去札幌國際 有沒有現在就能訂的巴士套票？」\n「官方套票可以訂了 也跟我說一聲」\n\n備案那個 12/2 才開始跑 雪場還沒開的話巴士會停駛 訂之前先看一下開幕日"
-      ],
-      "buffer_post_id": "6afd7eafe6ccf7cfbbbdf352"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "09:00",
-      "id": "maps-nearby-ai",
-      "topic": "日本旅遊",
-      "text": "你也常遇到 AI 打不開 Google 地圖連結嗎😵‍💫\n\n出國想問附近有什麼吃的\n把地圖連結丟過去，它只回我打不開，叫我自己打地址\n在國外連地名都不會念，是要怎麼打…\n\n結果丟進 LINE 群組問 LINE小幫手\n連結一貼它就知道我們在哪\n直接列出附近還開著的店，大家看同一則訊息就能選\n\n出國玩的朋友趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/01_link.jpg",
-          "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓，我說剛把飯店的地圖連結丟給別的 AI，它說打不開；接著貼上 KOKO HOTEL 銀座一丁目的 Google 地圖連結，tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它回「你在 KOKO HOTEL 銀座一丁目附近」，列出函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/02_cards.jpg",
-          "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「欸它真的看得懂連結」「函館拉麵！走」"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n然後 tag 它這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
-      ],
-      "buffer_post_id": "6afbdeb84b26315855c111db"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "12:00",
-      "id": "ticket-countdown",
-      "topic": "追星",
-      "text": "搶票群組一定要有這個🥹\n\n每次約好一起搶票\n前一天大家都說「我一定準時」\n開賣那一刻 群組只剩我一個在喊🤣\n\n這次直接叫 LINE小幫手 開賣前幫我們倒數\n時間到它就 tag 全部人\n\n結果竟然真的沒有人睡過頭\n\n追星的姐妹們 趕快把它拉進搶票群！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/01_set.jpg",
-          "alt": "LINE 群組截圖：晚上 11 點朋友說明天早上 10 點開賣、有人說上次睡過頭，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人提醒，它回「⏰ 好！明天 09:50、09:55、09:59 都會 tag 所有人提醒」，朋友回「太好了 這樣誰都不能睡過頭了🤣」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/02_countdown.jpg",
-          "alt": "LINE 群組截圖：隔天早上 LINE小幫手 9:50、9:55、9:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友回「醒了醒了😂」，10:04「搶到了！！🥹」"
-        }
-      ],
-      "replies": [
-        "搶票怕有人睡過頭的，可以在群組加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天 10 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\n「抽票星期五截止，前一天晚上 9 點提醒大家去登記」"
-      ],
-      "buffer_post_id": "6affc52c0f5eda1a57bd0b62"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "17:00",
-      "id": "jp-trending",
-      "topic": "日本旅遊",
-      "text": "12 月去日本必吃的期間限定🍽️\n- 7-11 開心果／焦糖巧克力蝴蝶餅\n- 全家 BE:FIRST 聯名抹茶塔\n- 全家 BE:FIRST 抹茶巧克力費南雪\n- 麥當勞 濃郁肉醬焗烤可樂餅堡\n- 麥當勞 牛肉蒜香醬油搖搖薯條\n- 麥克雞塊 壽喜燒醬\n- 星巴克 抹茶提拉米蘇星冰樂\n\n以前出發前都要自己滑好幾個帳號\n好不容易排好 去了才發現早就賣完了😵‍💫\n\n這次直接在群組問 LINE小幫手\n超商跟速食店最近有什麼期間限定\n結果竟然連還沒開賣的都查到了😳\n\n真的太好用 12 月要去日本的趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/01_konbini.jpg",
-          "alt": "LINE 群組截圖：高山問下個月東京有什麼一定要吃的，我 tag LINE小幫手 問「12月去日本 超商跟速食店最近有什麼期間限定必吃？」，它先說「我查一下 12 月日本超商跟速食店的冬季限定🍗」，再回：7-11 12/8 起有開心果、焦糖巧克力蝴蝶餅各 ¥300 左右；全家 BE:FIRST 聯名抹茶塔 ¥298、抹茶巧克力費南雪 ¥210，抹茶派可以收。星球說「BE:FIRST？？我要去全家😍」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/02_tart.jpg",
-          "alt": "商品圖：全家 BE:FIRST 聯名抹茶塔切面（全家官方圖）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/03_711.jpg",
-          "alt": "商品圖：7-11 焦糖、開心果巧克力蝴蝶餅（7-Eleven 官方圖）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/04_fin.jpg",
-          "alt": "商品圖：全家 BE:FIRST 聯名抹茶巧克力費南雪（全家官方圖）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/05_fastfood.jpg",
-          "alt": "LINE 群組截圖：我問 LINE小幫手「那麥當勞跟星巴克呢？」，它回：麥當勞 11/25 起有冬季定番グラコロ焗烤可樂餅堡，新口味濃郁肉醬グラコロ ¥510 起賣到 12 月中；牛肉蒜香醬油搖搖薯條加 ¥50 起；15 塊麥克雞塊特價 ¥490 可選壽喜燒醬到 12/15。第二則：星巴克提拉米蘇拿鐵 Tall 店內 ¥630、抹茶提拉米蘇星冰樂 Tall 店內 ¥720。鉛筆說「雞塊沾壽喜燒醬？？這個我一定要吃😳」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/06_gracoro.jpg",
-          "alt": "商品圖：日本麥當勞グラコロ焗烤可樂餅堡和新口味濃郁肉醬グラコロ，11/25 起期間限定（日本麥當勞官方圖）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/07_nugget.jpg",
-          "alt": "商品圖：日本麥當勞 15 塊麥克雞塊和壽喜燒風味沾醬（日本麥當勞官方圖）"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/08_sbux.jpg",
-          "alt": "商品圖：日本星巴克抹茶提拉米蘇星冰樂（日本星巴克官方圖）"
-        }
-      ],
-      "replies": [
-        "限定一直在換 出發前自己問一下最準👇\n\n點主頁連結就能加 LINE小幫手\n拉進旅遊群組 直接問「12月去日本 超商跟速食店有什麼期間限定？」就好"
-      ],
-      "buffer_post_id": "6b00182db3576a91c14d6d85"
-    },
-    {
-      "date_taipei": "2026-11-21",
-      "time_taipei": "21:00",
-      "id": "ski-earlybird",
-      "topic": "滑雪",
-      "text": "今年訂滑雪票 真的差點崩潰😵‍💫\n\n每個雪場的早鳥票 開賣跟截止都不一樣\n有的停賣了 過幾天又突然開\n每天官網一家一家點進去看 還是怕漏掉\n\n後來乾脆在群組叫LINE小幫手每天幫我看\n結果早鳥票竟然又開賣了 它一早就跟我說！\n\n真的太好用\n今年要去日本滑雪的 趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/01_reopen.jpg",
-          "alt": "LINE 群組截圖（示意）：9/25 我請小幫手每天幫我看手稻、志賀跟札幌國際的票，有變化再跟我說；它回 🔎 好，每天早上 9 點幫你查，有開賣、停賣或賣完才通知你。10/23 早上它通知：手稻的早鳥時數券又可以網路買了，賣到 10/31；志賀高原熊の湯的早鳥券也是賣到 10/31；鉛筆說原來還會再開賣、我以為早就沒了；我說今天就買"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/02_delay.jpg",
-          "alt": "LINE 群組截圖（示意）：11/18 早上鉛筆問札幌國際的套票到底開了沒，我說還沒、我也在等；9 點小幫手通知：札幌國際因為積雪不足，原本 11/20 的開幕延後了，官方巴士套票跟網路一日券要等新的開幕日公布才會開賣，有開再通知；我說那我們再等等；鉛筆說連延後開幕都會講也太貼心"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/03_notice.jpg",
-          "alt": "札幌国際スキー場官網新聞頁截圖：2026.11.18 (Wed)「オープン延期のお知らせ [Notice of postponement of opening]」，原定 11/20（金）開幕，因積雪不足、雪道狀況還沒準備好而延後；開幕日確定後會在官網和社群公布（下面是英文版公告）"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n直接跟它說要盯哪幾家、幾點查，有變化它才會講👇\n「每天早上幫我看手稻跟志賀高原的早鳥票，有變化再跟我說」\n「每天幫我看札幌國際的巴士套票，開賣就通知我」"
-      ],
-      "buffer_post_id": "6afd7eb0e6ccf7cfbbbdf3a8"
-    },
-    {
-      "date_taipei": "2026-11-22",
-      "time_taipei": "09:00",
-      "id": "izakaya-menu",
-      "topic": "日本旅遊",
-      "text": "去日本居酒屋，沒點的小菜自己上桌，結帳才發現要收錢？那就是「お通し」（otoshi）\n\n我把居酒屋菜單最常看到的 12 個字整理好了，點餐、喝到飽、結帳都用得到\n像「飲み放題」（nomihodai）是喝到飽、「L.O.」（Last Order）是最後點餐\n最要注意「税抜」（zeinuki）：價錢沒含稅，結帳要再加 10%\n寫「税込」（zeikomi）的就是含稅價，不用再加\n菜單上常寫的 4 句也放在圖裡，看到「2名様から」（ni-mei-sama kara），一個人就點不了那一項\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去日本的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/01_cover.jpg",
-          "alt": "日本居酒屋菜單先認得這 12 個字（點餐・喝酒・結帳）封面：お通し＝入座小菜、飲み放題＝喝到飽、税抜／税別＝未稅價，另有菜單上常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/02_words_r.jpg",
-          "alt": "居酒屋菜單 12 個字（點餐・結帳）：お通し、飲み放題、L.O.、税抜／税別、お冷、お会計"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/03_words_r.jpg",
-          "alt": "居酒屋菜單 12 個字（飲料・菜色）：生ビール、ハイボール、サワー、盛り合わせ、塩／タレ、時価"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/04_phrases.jpg",
-          "alt": "居酒屋菜單上常寫的 4 句：お通し代、飲み放題は2名様から、2時間制、現金のみ"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張居酒屋菜單照片，LINE小幫手一道一道翻成中文並提醒お通し和稅"
-        }
-      ],
-      "replies": [
-        "菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪些要另外收錢？」\n「我們 4 個人點這些，一人多少？」"
-      ],
-      "buffer_post_id": "6af6db47bcd7cfc9abb287ad"
-    },
-    {
-      "date_taipei": "2026-11-22",
-      "time_taipei": "12:00",
-      "id": "ticket-checklist",
-      "topic": "搶票攻略",
-      "text": "演唱會搶票除了拚手速跟運氣\n開賣前這三件事要先確認好 ✅\n\n1️⃣ 會員帳號跟手機驗證\n有些售票網站要先驗證完才能買\n不要開賣當下才在等簡訊🙃\n\n2️⃣ 付款方式\n卡片額度夠不夠、網路刷卡有沒有開\n收驗證碼的手機記得放旁邊\n\n3️⃣ 群組每個人都要準時\n我們直接叫 LINE小幫手 開賣前倒數\n時間到它就 tag 全部人\n\n第三點真的太好用 這次連在上班的都準時開好網頁🤣\n\n要搶票的姐妹 先存起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/01_prep.jpg",
-          "alt": "LINE 群組截圖：晚上 10 點朋友說明天中午 12 點開賣、問會員都驗證好了嗎，一個回「手機驗證好了✅」、一個回「卡片額度也確認了✅」，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 11:50、11:55、11:59 都會 tag 所有人提醒」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/02_countdown.jpg",
-          "alt": "LINE 群組截圖：隔天 LINE小幫手 11:50、11:55、11:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友說「在公司偷偷開好網頁了🤫」，12:06「全部都搶到了！！🥹」"
-        }
-      ],
-      "replies": [
-        "怕群組有人不準時的，可以加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天中午 12 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」"
-      ],
-      "buffer_post_id": "6affc52d7b0a126ceba6c5d7"
-    },
-    {
-      "date_taipei": "2026-11-22",
-      "time_taipei": "21:00",
-      "id": "fare-flex-cheap",
-      "topic": "便宜機票",
-      "text": "每個想買便宜機票的人都應該試試這個！\n\n幾個朋友想明年3月去日本玩5天，還在猶豫東京或大阪、哪天走也沒定，只想要越便宜越好\n\n發現LINE裡的這個旅遊AI可以直接幫忙盯機票價錢\n不用先決定哪天出發，也不用先選好去哪，\n直接問它「3月隨便哪天出發，東京或大阪都可以，哪天最便宜？」\n\n它會把整個3月翻了一遍，最便宜的幾天直接列出來...真的超讚",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/01_ask.jpg",
-          "alt": "LINE 群組畫面示意：朋友在吵東京還大阪、哪天走，問小幫手 3 月隨便哪天出發、玩 5 天哪天便宜，它回大阪 3/4 出發每人約 NT$7,750、東京 3/10 出發約 NT$9,280"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/02_days.jpg",
-          "alt": "「便宜的日子」卡示意：台北飛大阪或東京 3 月出發、5 天、4 人，列出 7 個出發日，大阪 3/4 出發每人 NT$7,750 最低，東京 3/10 出發 NT$9,280"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/03_watch.jpg",
-          "alt": "LINE 群組畫面示意：請小幫手盯 3 月大阪整段、每人 7500 以下通知，它確認後附「機票價格追蹤」卡"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/04_weekly.jpg",
-          "alt": "LINE 群組畫面示意：三天後收到機票追蹤週報，現在每人 NT$7,750、最便宜那天 3/4 去 3/8 回、目標 NT$7,500"
-        }
-      ],
-      "replies": [
-        "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「3月隨便哪天出發，玩5天，台北飛東京或大阪，哪天最便宜？」\n「就盯3月大阪這段，每人7500以下通知我們」"
-      ],
-      "buffer_post_id": "6afaf0ba0c2af02527dcc683"
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "08:00",
-      "id": "ramen-ticket",
-      "topic": "日本旅遊",
-      "text": "日本很多拉麵店要先在門口的機器買票，按鈕全是日文，後面一排人在等你，到底要按哪顆？\n\n我把拉麵店最常看到的 12 個字整理好了，買票、點麵、加麵都用得到\n像「大盛り」（oomori）是大碗，博多豚骨店的「替え玉」（kaedama）是加麵\n豚骨店點餐時常會問麵要多硬，聽不懂就說「普通」（futsu），不會錯\n有的機器不收一萬日圓大鈔，千元鈔先準備好\n店裡常貼的 4 句也放在圖裡，看到「一万円札は使えません」就知道要換錢了\n整台機器看不懂的話，拍照丟給群組裡的 LINE小幫手，它會把每顆按鈕都翻給你，最後一張是它翻好的樣子（示意）\n\n要去日本吃拉麵的先存起來，排隊時翻出來對一下，也丟到旅遊群組給旅伴看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/01_cover.jpg",
-          "alt": "日本拉麵店先認得這 12 個字（買票・點麵・加麵）封面：券売機＝買票機、替え玉＝加麵、硬め／柔らかめ＝麵硬一點／軟一點，另有店裡常貼的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/02_words_r.jpg",
-          "alt": "拉麵店 12 個字（買票・點麵）：券売機、食券、並／大盛り、特製、トッピング、味玉"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/03_words_r.jpg",
-          "alt": "拉麵店 12 個字（口味・加麵）：硬め／柔らかめ、バリカタ、濃いめ／薄め、多め／少なめ、替え玉、チャーシュー"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/04_phrases.jpg",
-          "alt": "拉麵店常貼的 4 句：先に食券をお買い求めください、一万円札は使えません、大盛り無料、お一人様一杯以上"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張拉麵店買票機照片，LINE小幫手一顆一顆按鈕翻成中文並提醒不收一萬日圓鈔"
-        }
-      ],
-      "replies": [
-        "拉麵店買票機看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這台買票機，哪個是加麵？」\n「我們 3 個人點這些，一共多少？」"
-      ],
-      "buffer_post_id": "6af6db48b52ddd180244d661"
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "12:00",
-      "id": "korea-bbq-menu",
-      "topic": "韓國旅遊",
-      "text": "在韓國吃烤肉，肉都上桌了白飯還沒來？因為白飯大多沒附，要另外點「공기밥」（gonggibap）\n\n我把烤肉店菜單最常看到的 12 個字整理好了，點肉、加點、配飯都用得到\n像「삼겹살」（samgyeopsal）是五花肉、「목살」（moksal）是梅花肉\n菜單上的價錢大多是「1인분」（irinbun），就是一人份\n吃不夠就說「1인분 추가요」（irinbun chugayo），再加一份\n小菜和生菜大多可以續，看到「셀프」（selpeu）就是自己去拿\n菜單上常寫的 4 句也放在圖裡\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去韓國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/01_cover.jpg",
-          "alt": "韓國烤肉店先認得這 12 個字（點肉・加點・配飯）封面：공기밥＝白飯、1인분＝一人份、셀프＝自己拿，另有菜單上常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/02_words.jpg",
-          "alt": "烤肉店 12 個字（點肉・加點）：삼겹살、목살、항정살、갈비、1인분、추가"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/03_words.jpg",
-          "alt": "烤肉店 12 個字（配飯・小菜）：공기밥、된장찌개、냉면、상추、쌈장、셀프"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/04_phrases.jpg",
-          "alt": "韓國烤肉店菜單上常寫的 4 句：공기밥 별도、후식 냉면、반찬은 셀프입니다、원산지"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張韓國烤肉店菜單照片，LINE小幫手一道一道翻成中文並提醒白飯另點、小菜自取"
-        }
-      ],
-      "replies": [
-        "韓文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，白飯要另外點嗎？」\n「我們 4 個人點這些，一人多少？」"
-      ],
-      "buffer_post_id": "6af6db6bb185663f9f9874fd"
-    },
-    {
-      "date_taipei": "2026-11-23",
-      "time_taipei": "20:00",
-      "id": "pocket-osaka_food",
-      "topic": "日本旅遊",
-      "text": "要去大阪覓食的 請收🐙\n\n大阪燒、章魚燒、串炸、烏龍麵照類別排好，只收現金、賣完就收的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/01_cover.jpg",
-          "alt": "大阪必吃口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/02_okonomiyaki.jpg",
-          "alt": "大阪必吃口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/03_takoyaki.jpg",
-          "alt": "大阪必吃口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/04_kushikatsu.jpg",
-          "alt": "大阪必吃口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/05_udon.jpg",
-          "alt": "大阪必吃口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/06_tips.jpg",
-          "alt": "大阪必吃口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/07_okie.jpg",
-          "alt": "大阪必吃口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在難波，幫我把附近的排進行程」"
-      ],
-      "buffer_post_id": "6af6cb42cf5e7843508030c8"
-    },
-    {
-      "date_taipei": "2026-11-24",
-      "time_taipei": "08:00",
-      "id": "korea-cafe-menu",
-      "topic": "韓國旅遊",
-      "text": "在韓國咖啡廳點完，店員突然問「드시고 가세요?」（deusigo gaseyo），當場愣住？其實是在問你內用還是外帶\n\n我把咖啡廳最常看到的 12 個字整理好了，點咖啡、內用外帶、取餐都用得到\n像「아아」（a-a）是冰美式，韓國人冬天也在喝\n內用說「매장」（maejang），外帶說「포장」（pojang）\n很多店會寫「1인 1음료」，意思是一個人至少要點一杯\n店裡常寫的 4 句也放在圖裡\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一項一項翻給你，最後一張是它翻好的樣子（示意）\n\n要去韓國的先存起來，點之前翻出來對一下，也丟到旅遊群組給旅伴看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/01_cover.jpg",
-          "alt": "韓國咖啡廳先認得這 12 個字（點咖啡・內用外帶・取餐）封面：아아＝冰美式、매장／포장＝內用／外帶、1인 1음료＝一人一杯，另有店裡常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/02_words.jpg",
-          "alt": "咖啡廳 12 個字（點咖啡）：아메리카노、아아、아이스／핫、샷 추가、연하게、디카페인"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/03_words.jpg",
-          "alt": "咖啡廳 12 個字（內用外帶・取餐）：매장、포장、키오스크、진동벨、사이즈 업、시럽"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/04_phrases.jpg",
-          "alt": "韓國咖啡廳常寫的 4 句：1인 1음료、아이스만 가능、텀블러 할인、리필 불가"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張韓國咖啡廳菜單照片，LINE小幫手一樣一樣翻成中文並提醒一人一杯"
-        }
-      ],
-      "replies": [
-        "韓文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪個是冰美式？」\n「我們 3 個人點這些，一共多少？」"
-      ],
-      "buffer_post_id": "6af6db6cfe8cb9dc19097dad"
-    },
-    {
-      "date_taipei": "2026-11-24",
-      "time_taipei": "12:00",
-      "id": "pocket-tokyo_ramen",
-      "topic": "日本旅遊",
-      "text": "要去東京吃拉麵的 請收🍜\n\nTabelog 百名店 13 家照區域排好，只收現金、要先拿整理券（號碼牌）的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/01_cover.jpg",
-          "alt": "東京拉麵口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/02_shinjuku_shibuya.jpg",
-          "alt": "東京拉麵口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/03_ikebukuro.jpg",
-          "alt": "東京拉麵口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/04_tokyo_ginza.jpg",
-          "alt": "東京拉麵口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/05_ueno_asakusa.jpg",
-          "alt": "東京拉麵口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/06_kenbaiki.jpg",
-          "alt": "東京拉麵口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/07_okie.jpg",
-          "alt": "東京拉麵口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的拉麵排進行程」"
-      ],
-      "buffer_post_id": "6af6cb543890f6d4a9cb25ea"
-    },
-    {
-      "date_taipei": "2026-11-24",
-      "time_taipei": "20:00",
-      "id": "pocket-japan_konbini",
-      "topic": "日本旅遊",
-      "text": "要去日本逛超商的 請收🍫\n\n超商炸雞、甜點跟東京ばな奈、白い恋人這些伴手禮，官網價格跟羽田限定都整理好了\n\n截圖丟給LINE小幫手存起來，最後一天叫它把伴手禮排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
-          "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」"
-      ],
-      "buffer_post_id": "6af6cb653890f6d4a9cb2a77"
-    },
-    {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "08:00",
-      "id": "pay-oka",
-      "topic": "沖繩旅遊",
-      "text": "年底前要去沖繩的人 現金還是刷卡？請收！🌺\n\n單軌全站能感應刷卡，但巴士只有部分路線可以，其他要用 OKICA（沖繩交通卡）或零錢\n\n懶人包整理在圖裡，記帳分帳就丟給LINE小幫手🤣（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/01_transport.jpg",
-          "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/02_spots.jpg",
-          "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/03_prep.jpg",
-          "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
-          "alt": "LINE 群組畫面示意：朋友問小幫手 沖繩停車場和公車能不能刷卡"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
-          "alt": "LINE 群組畫面示意：小幫手記帳刷卡和付現金並結算"
-        }
-      ],
-      "replies": [
-        "記帳分帳懶得算的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」"
-      ],
-      "buffer_post_id": "6af6cba61d6346d52a687399"
-    },
-    {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "12:00",
-      "id": "pocket-tokyo_yakiniku",
-      "topic": "日本旅遊",
-      "text": "要去東京吃燒肉的 請收🥩\n\n百名店 10 家照預算排好，只收現金、要訂位、加服務費的都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/01_cover.jpg",
-          "alt": "東京燒肉口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/02_budget.jpg",
-          "alt": "東京燒肉口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/03_classic.jpg",
-          "alt": "東京燒肉口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/04_splurge.jpg",
-          "alt": "東京燒肉口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/05_cuts.jpg",
-          "alt": "東京燒肉口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/06_tips.jpg",
-          "alt": "東京燒肉口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/07_okie.jpg",
-          "alt": "東京燒肉口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的燒肉排進行程」"
-      ],
-      "buffer_post_id": "6af6cb97d63384b8e431d402"
-    },
-    {
-      "date_taipei": "2026-11-25",
-      "time_taipei": "20:00",
-      "id": "travel-danang_couple",
-      "topic": "峴港旅遊",
-      "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
-          "alt": "跟另一半去峴港：封面"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
-          "alt": "跟另一半去峴港：每日行程表"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
-          "alt": "跟另一半去峴港：每日行程表"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
-          "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
-          "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
-          "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
-          "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
-          "alt": "跟另一半去峴港：出發前確認清單"
-        }
-      ],
-      "replies": [
-        "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
-      ],
-      "buffer_post_id": "6af6cb02ac315c828ef5e2c3"
-    },
-    {
-      "date_taipei": "2026-11-26",
-      "time_taipei": "08:00",
-      "id": "receipt-jp",
-      "topic": "日本旅遊",
-      "text": "跟朋友出國記帳，現在拍張收據丟群組就好📸\n\n以前出國吃完飯\n總要有人對著看不懂的日文收據\n一行一行對誰點了什麼、再算每個人多少😵‍💫\n\n現在吃完直接把收據拍照丟進群組\n跟 LINE小幫手說一聲誰吃了什麼\n它自己看得懂日文，連服務費都照比例分好\n回國要結算，再叫它換成台幣就行\n\n一起出國的朋友趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/receipt-jp/01_receipt.jpg",
-          "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片（菲力壽喜燒、神戶牛壽喜燒、生啤酒，合計 ¥31,897），說幫忙記帳、菲力跟啤酒是我的、神戶牛是鉛筆的；LINE小幫手回已記帳卡片：浅草今半 ¥31,897，Momo 付，10/9，Momo ¥16,454、鉛筆 ¥15,443，下面有看收據按鈕；鉛筆回神戶牛的我認了"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣用就好👇\n「（拍收據）幫忙記帳，菲力跟啤酒是我的，神戶牛是鉛筆的」\n「回國要結算了，幫我們換成台幣」"
-      ],
-      "buffer_post_id": "6afc2c7bb587675a0d11950f"
-    },
-    {
-      "date_taipei": "2026-11-26",
-      "time_taipei": "12:00",
-      "id": "pocket-tokyo_cafe",
-      "topic": "日本旅遊",
-      "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
-          "alt": "東京咖啡廳口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
-          "alt": "東京咖啡廳口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
-          "alt": "東京咖啡廳口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
-          "alt": "東京咖啡廳口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
-          "alt": "東京咖啡廳口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
-          "alt": "東京咖啡廳口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
-          "alt": "東京咖啡廳口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
-      ],
-      "buffer_post_id": "6af6cb6acf5e784350803d84"
-    },
-    {
-      "date_taipei": "2026-11-26",
-      "time_taipei": "20:00",
-      "id": "travel-chiangmai_besties",
-      "topic": "清邁旅遊",
-      "text": "跟閨蜜去清邁真的不要排太滿…5天4夜慢活版直接抄這份🐘\n\n一天一區、剛好逛到週日夜市、不騎大象的大象營，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/01_cover.jpg",
-          "alt": "跟閨蜜去清邁：封面"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/02_days.jpg",
-          "alt": "跟閨蜜去清邁：每日行程表"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/03_days.jpg",
-          "alt": "跟閨蜜去清邁：每日行程表"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/04_trip_image.jpg",
-          "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手把行程做成圖"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/05_links.jpg",
-          "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手整理大家傳的連結"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/06_split.jpg",
-          "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手記帳分帳"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/07_reminder.jpg",
-          "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手設提醒"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/08_checklist.jpg",
-          "alt": "跟閨蜜去清邁：出發前確認清單"
-        }
-      ],
-      "replies": [
-        "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們 4 個人去清邁 5 天，幫我排行程」\n「誰先付的都記帳，最後幫我們算」"
-      ],
-      "buffer_post_id": "6af6cb77cf5e784350804043"
-    },
-    {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "08:00",
-      "id": "split-advance",
-      "topic": "日本旅遊",
-      "text": "每次出國我都是那個先墊錢的人😮‍💨\n\n晚餐我刷、計程車我付，連早餐都我先出\n墊到最後，連我自己都搞不清楚誰還欠我多少\n\n這次每筆付完都順手在群組講一聲，LINE小幫手就記下來\n回國打一句「幫我們結算換台幣」\n結果它竟然直接算好大家要轉我多少\n\n常常幫大家先墊錢的，真的趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/01_settle.jpg",
-          "alt": "LINE 群組截圖：我打「回國了，幫我們結算換台幣」，LINE小幫手回結算單：5 筆 ¥49,530，全部換成台幣（11/3 市場匯率），Momo 應收 NT$6,367，星球應付 NT$2,959，鉛筆應付 NT$3,408；轉帳：鉛筆→Momo NT$3,408、星球→Momo NT$2,959"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/02_log.jpg",
-          "alt": "LINE 群組截圖：旅行中我打「燒肉 21300 我先付」，LINE小幫手回已記帳卡片：燒肉 ¥21,300，Momo 付，11/1（日），三個人各 ¥7,100；鉛筆說又是你付、回國再算，星球說 Momo 根本是我們的錢包"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n付完錢打一句，回國再叫它結算就好👇\n「燒肉 21300 我先付」\n「回國了，幫我們結算換台幣」"
-      ],
-      "buffer_post_id": "6afc2c7d01f5535fb87997c8"
-    },
-    {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "12:00",
-      "id": "pocket-tokyo_sushi",
-      "topic": "日本旅遊",
-      "text": "要去東京吃壽司的 請收🍣\n\n不用訂位的迴轉壽司、立食い（站著吃）、豐洲市場都整理好了，怎麼抽號碼牌、哪家只收現金都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/01_cover.jpg",
-          "alt": "東京壽司口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/02_kaiten.jpg",
-          "alt": "東京壽司口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/03_tachigui.jpg",
-          "alt": "東京壽司口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/04_market.jpg",
-          "alt": "東京壽司口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/05_fish.jpg",
-          "alt": "東京壽司口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/06_tips.jpg",
-          "alt": "東京壽司口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/07_okie.jpg",
-          "alt": "東京壽司口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在東京站，幫我把附近的壽司排進行程」"
-      ],
-      "buffer_post_id": "6af6cb87d63384b8e431d06a"
-    },
-    {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "20:00",
-      "id": "maps-nearby",
-      "topic": "日本旅遊",
-      "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/sb1087k/okie-ig-assets@8368dc9/okie_chat/maps-nearby/maps-nearby.mp4",
-          "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/02_ask.jpg",
-          "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問「這附近有推薦的宵夜嗎？」，LINE小幫手列出附近還開著的三間：函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/03_cards.jpg",
-          "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
-      ],
-      "buffer_post_id": "6afbde42df36f4d8256ca29a"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "09:00",
-      "id": "pocket-tokyo_rainy",
-      "topic": "日本旅遊",
-      "text": "要去東京怕下雨的 請收☔\n\n下雨天室內景點照區域排好，票價、公休、要不要先買時段票都標好了\n\n截圖丟給LINE小幫手存起來，遇到下雨叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/01_cover.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/02_shinjuku.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/03_ikebukuro.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/04_oshiage.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/05_roppongi.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/06_tips.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/07_okie.jpg",
-          "alt": "東京下雨天室內景點口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下雨，幫我把新宿、澀谷的排進行程」"
-      ],
-      "buffer_post_id": "6af6cb982960b358b6b730b2"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "12:00",
-      "id": "split-noapp",
-      "topic": "日本旅遊",
-      "text": "出國分帳 App 載了，結果整團只有我在用🥲\n\n光叫大家下載、註冊就搞了半天\n最後每一筆還是我一個人在 key\n\n這次乾脆不載了，直接在 LINE 群組講\n誰付錢誰自己打一句，LINE小幫手就幫我們記好分好\n\n群裡只有你在記帳的，趕快傳給他們！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/01_ticket.jpg",
-          "alt": "LINE 群組截圖：我說這次不用載 App，誰付錢就直接在群組講；星球打「門票 6000 我付的」，LINE小幫手回已記帳卡片：門票 ¥6,000，星球付，10/31（六），四個人各 ¥1,500；我回「欸你自己會記了耶」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/02_ramen.jpg",
-          "alt": "LINE 群組截圖：高山打「拉麵 4320 我付」，LINE小幫手回已記帳卡片：拉麵 ¥4,320，高山付，四個人各 ¥1,080；鉛筆說晚上居酒屋換他付，星球說比之前那個 App 簡單太多了"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
-      ],
-      "buffer_post_id": "6afc2c7e01f5535fb8799808"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "21:00",
-      "id": "pocket-seoul_food",
-      "topic": "韓國旅遊",
-      "text": "要去首爾覓食的 請收🇰🇷\n\n米其林必比登＋老店，營業時間、公休、地鐵出口都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/01_cover.jpg",
-          "alt": "首爾必吃口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/02_bbq.jpg",
-          "alt": "首爾必吃口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/03_chicken.jpg",
-          "alt": "首爾必吃口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/04_noodles.jpg",
-          "alt": "首爾必吃口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/05_market.jpg",
-          "alt": "首爾必吃口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/06_soup.jpg",
-          "alt": "首爾必吃口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/07_okie.jpg",
-          "alt": "首爾必吃口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在鐘路，幫我把附近的排進行程」"
-      ],
-      "buffer_post_id": "6af6cbb6cf5e7843508053ed"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "09:00",
-      "id": "thai-order",
-      "topic": "泰國旅遊",
-      "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成\n\n「++」就是服務費 10% 跟稅 7% 還沒加，寫「NET」的就是已經含服務費和稅\n我把點餐最常用的 12 句整理好了，辣度、香菜、冰塊、外帶都有\n最實用的是「ไม่เผ็ด」（mai phet）＝不要辣，泰國的小辣對很多台灣人來說已經很辣\n句尾加「ค่ะ」（女生）或「ครับ」（男生）會比較有禮貌\n菜單上常寫的 4 句也放在圖裡，像「พิเศษ」是加大份、會多收錢\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
-          "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
-          "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
-          "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
-          "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
-        }
-      ],
-      "replies": [
-        "泰文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」"
-      ],
-      "buffer_post_id": "6af6db46b52ddd180244d5ff"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "12:00",
-      "id": "pocket-sapporo_food",
-      "topic": "日本旅遊",
-      "text": "要去札幌覓食的 請收❄️\n\n湯咖哩、味噌拉麵、成吉思汗烤羊肉、海鮮丼，公休、只收現金、地下街怎麼走都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
-          "alt": "札幌必吃口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
-          "alt": "札幌必吃口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
-          "alt": "札幌必吃口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
-          "alt": "札幌必吃口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
-          "alt": "札幌必吃口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
-          "alt": "札幌必吃口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
-          "alt": "札幌必吃口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」"
-      ],
-      "buffer_post_id": "6af6cb24cf5e7843508022ae"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "21:00",
-      "id": "maps-nearby-p",
-      "topic": "日本旅遊",
-      "text": "p人朋友們出國想輕鬆找哪裡有好吃的，都來試試這個！\n\n我們出國都不排餐廳\n走到哪、餓了再說\n以前都要每個人低頭滑 Google 地圖\n查到一間就丟群組，洗了一大串還是選不出來🤣\n\n現在直接在群組分享位置\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n結果它馬上列出好幾家還開著的\n大家看同一則訊息，直接選就好\n\np人真的不用再做功課了\n要出國玩的趕快用起來！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/01_share.jpg",
-          "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓睡不著，我在群組分享位置（KOKO HOTEL 銀座一丁目），再 tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它列出附近還開著的三間：函館拉麵開到 4 點、走路約 6 分鐘，日高屋 24 小時，壽司三昧開到 5 點"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/02_cards.jpg",
-          "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
-        }
-      ],
-      "replies": [
-        "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
-      ],
-      "buffer_post_id": "6afbdeb7797935b975e1f4ce"
-    },
-    {
-      "date_taipei": "2026-11-30",
-      "time_taipei": "08:00",
-      "id": "pocket-oliveyoung",
-      "topic": "韓國旅遊",
-      "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
-          "alt": "Olive Young 必買口袋名單：第 01 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
-          "alt": "Olive Young 必買口袋名單：第 02 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
-          "alt": "Olive Young 必買口袋名單：第 03 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
-          "alt": "Olive Young 必買口袋名單：第 04 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
-          "alt": "Olive Young 必買口袋名單：第 05 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
-          "alt": "Olive Young 必買口袋名單：第 06 頁"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
-          "alt": "Olive Young 必買口袋名單：第 07 頁"
-        }
-      ],
-      "replies": [
-        "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
-      ],
-      "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
-    },
-    {
-      "date_taipei": "2026-12-01",
-      "time_taipei": "08:00",
-      "id": "ticket-fangirl",
-      "topic": "追星人",
-      "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
-      "images": [
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
-          "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
-          "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
-        }
-      ],
-      "replies": [
-        "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
-      ],
-      "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/nrt/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：okie 把成田退稅步驟做成一張圖"
     }
-  ]
+   ]
+  },
+  {
+   "date_taipei": "2026-11-10",
+   "time_taipei": "17:00",
+   "id": "notes-tokyo_newyear",
+   "topic": "日本旅遊",
+   "text": "今年跨年終於要去東京了🎆\n\n功課整理成筆記，4天3夜要去的直接抄\n\n群組裡用 okie 提醒大家抽晴空塔，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/01_cover.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：封面・先講結論"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/02_day1.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 1"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/03_day2.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 2"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/04_day3.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 3"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/05_day4.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：Day 4"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/06_checklist.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：出發前清單"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/tokyo_newyear/07_okie.jpg",
+     "alt": "跨年東京 4天3夜（iPhone 備忘錄）：群組小幫手 okie 和 LINE 截圖"
+    }
+   ],
+   "replies": [
+    "okie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「11/26 晚上9點提醒大家抽晴空塔」\n「把 12/31 跨年夜的行程做成一張圖」\n\n不用下載 App，大家都會用👍"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-10",
+   "time_taipei": "20:00",
+   "id": "fare-t1-lazy",
+   "topic": "便宜機票",
+   "text": "不想每天自己刷機票的人都應該試試這個！\n\n真的是買機票神隊友欸\n\n而且不用裝app，LINE上面直接可以用\n\n跟朋友在群組喬好日期，直接叫它幫忙盯台北飛東京，之後它會自己定期去查\n\n一降價就直接丟到群組，現在多少、比上次便宜幾%、哪一班都寫好，大家看到就能決定\n\n還可以設預算，跟它說「每人8000以下再通知我們」，沒降到就不會一直吵你🤣",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_1_setup.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手盯台北飛東京 12/16–12/20 的來回機票"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_2_drop.jpg",
+     "alt": "LINE 群組畫面示意：機票降價通知，每人 NT$9,538 降到 NT$8,460，附航班卡片"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t1_3_bought.jpg",
+     "alt": "LINE 群組畫面示意：大家看到降價都買了，按下停止追蹤"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "12:00",
+   "id": "taxfree-kix",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從關西機場回台灣的先存這篇\n\n免稅品要先給機台確認完才能托運，每一步怎麼走都整理在圖裡\n\n退稅步驟記不住的，出發前在LINE群組問小幫手就好（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/02_steps.jpg",
+     "alt": "關西機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/03_refund.jpg",
+     "alt": "關西機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 關西機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/kix/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把關西機場退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「明天從關西機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "17:00",
+   "id": "pocket-japan_drugstore",
+   "topic": "日本旅遊",
+   "text": "要去日本掃藥妝的 請收💊\n\n@cosme 2025 大賞 13 樣，價格、日文全名都標好，11/1 退稅新制也整理了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/01_cover.jpg",
+     "alt": "日本藥妝口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/02_skincare.jpg",
+     "alt": "日本藥妝口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/03_base.jpg",
+     "alt": "日本藥妝口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/04_makeup.jpg",
+     "alt": "日本藥妝口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/05_body.jpg",
+     "alt": "日本藥妝口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/06_tips.jpg",
+     "alt": "日本藥妝口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_drugstore/07_okie.jpg",
+     "alt": "日本藥妝口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在新宿逛藥妝，幫我把要買的排進行程」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-11",
+   "time_taipei": "20:00",
+   "id": "fare-t2-group",
+   "topic": "機票",
+   "text": "揪團出國的人真的要試試這個！\n\n買機票最怕的就是等大家都說好，價格就跑了\n\n而且不用裝app，拉進LINE群組就能用\n\n先在群組講好預算，叫它幫忙盯，一降價就直接在群組通知所有人，當下就能決定要不要買\n\n降價通常撐不久，它這兩週發的降價通知，有4成到下一次查就漲回去了，所以看到就快買🤣\n\n也可以叫它每天報一次今天的價格，誰說要再等等的，價格都在群組裡",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_1_setup.jpg",
+     "alt": "LINE 群組畫面示意：4 人群組請小幫手盯台北飛大阪的機票"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_2_drop.jpg",
+     "alt": "LINE 群組畫面示意：機票降價通知，每人 NT$10,621 降到 NT$9,501"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t2_3_bought.jpg",
+     "alt": "LINE 群組畫面示意：有人先買了，大家跟上，停止追蹤"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-12",
+   "time_taipei": "12:00",
+   "id": "taxfree-hnd",
+   "topic": "日本退稅新制",
+   "text": "日本退稅 11/1 起真的變麻煩了😵‍💫 從羽田回台灣的先存這篇\n\n免稅品要先給機台確認完才能托運，每一步怎麼走都整理在圖裡\n\n退稅步驟記不住的，出發前在LINE群組問小幫手就好（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/02_steps.jpg",
+     "alt": "羽田退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/03_refund.jpg",
+     "alt": "羽田退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 羽田退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/hnd/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把羽田退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「明天從羽田回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-12",
+   "time_taipei": "17:00",
+   "id": "pocket-tokyo_xmas",
+   "topic": "日本旅遊",
+   "text": "要去東京過聖誕的 請收🎄\n\n2026 官方已公布的燈飾＋聖誕市集照區域排好，還附一晚走完的路線（けやき坂 22:00 就關，記得早點去）\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/01_cover.jpg",
+     "alt": "東京聖誕燈口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/02_marunouchi.jpg",
+     "alt": "東京聖誕燈口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/03_roppongi.jpg",
+     "alt": "東京聖誕燈口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/04_ebisu_omotesando.jpg",
+     "alt": "東京聖誕燈口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/05_market.jpg",
+     "alt": "東京聖誕燈口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/06_route.jpg",
+     "alt": "東京聖誕燈口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_xmas/07_okie.jpg",
+     "alt": "東京聖誕燈口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「12/24 晚上，幫我把這幾個燈排成一晚」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-12",
+   "time_taipei": "20:00",
+   "id": "fare-t3-routes",
+   "topic": "日本旅遊",
+   "text": "要去日本還沒買機票的可以看一下\n\n這兩週小幫手幫大家盯機票，群組裡發出的降價通知👇\n\n台北⇄札幌 12月：27,122 → 20,841\n\n台中⇄名古屋 1月：32,149 → 23,096\n\n高雄⇄東京 3月：15,249 → 10,859\n\n（每人價格，跟上一次通知的價格比）\n\n都是LINE上的小幫手自己查、自己通知的，不用裝app，拉進群組就能用",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t3_1_sapporo.jpg",
+     "alt": "LINE 群組畫面示意：台北⇄札幌機票降價通知，每人 NT$27,122 降到 NT$20,841"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fare_drop/t3_2_nagoya.jpg",
+     "alt": "LINE 群組畫面示意：台中⇄名古屋機票降價通知，每人 NT$32,149 降到 NT$23,096"
+    }
+   ],
+   "replies": [
+    "不想每天刷機票的，LINE小幫手可以幫你盯，降價就通知👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我盯 12/20 台北飛東京來回，降價跟我們說」\n「每人 8000 以下再通知我們」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "08:00",
+   "id": "notes-fukuoka",
+   "topic": "日本旅遊",
+   "text": "年底第一次去福岡的 請收🍜\n\n4天3夜整理成筆記，多排一天去柳川坐船，直接抄\n\n大家丟的屋台、拉麵連結都叫LINE小幫手記起來，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/01_cover.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：封面・先講結論"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/02_day1.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 1"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/03_day2.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 2"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/04_day3.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 3"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/05_day4.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：Day 4"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/06_checklist.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：出發前清單"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/fukuoka/07_okie.jpg",
+     "alt": "第一次去福岡 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
+    }
+   ],
+   "replies": [
+    "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「這攤屋台幫我記起來 instagram.com/p/…」\n「我們存過哪些想吃的？」"
+   ]
+  },
+  {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "17:00",
+   "id": "taxfree-oka",
+   "topic": "日本退稅新制",
+   "text": "從沖繩回台灣，這次有買免稅品的先收藏這篇🌺\n\n新制其實沒有很麻煩，記住一句就好：免稅品確認完才能托運\n\n1️⃣ 到機場先別托運，免稅品全部帶在身上\n2️⃣ 國際線 3F 出發大廳找海關機台刷護照\n3️⃣ 綠燈就可以去托運，紅燈要帶商品去海關檢查處\n4️⃣ 想領現金：出境後 2F 有現金退稅機（6:45–21:30，會扣手續費）\n\n💡 不想排機台：手機連機場的「Customs_WiFi_For_TaxRefund」，用 Visit Japan Web 就能辦\n\n⚠️ 最多人踩的坑：同一張收據少帶一件，整張都不退\n⚠️ 能不能退現金是店家合作的退稅公司決定的，結帳時先問店員\n\n買不多的話，不退也沒關係，省得排隊😂\n有寫錯的歡迎留言告訴我！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/02_steps.jpg",
+     "alt": "那霸退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/03_refund.jpg",
+     "alt": "那霸退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 那霸退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/oka/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把那霸退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從那霸回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ],
+   "src": "buffer",
+   "note": "Posted by Buffer custom schedule (post 6af68e835ec1c9d5be5b83ca), not by the routine (no 17:00 slot). The 12:07 routine copy was deleted by Paul on Threads.",
+   "buffer_post_id": "6af68e835ec1c9d5be5b83ca"
+  },
+  {
+   "date_taipei": "2026-11-13",
+   "time_taipei": "20:00",
+   "id": "koyo-kyoto",
+   "topic": "日本旅遊",
+   "text": "11月底要去京都看楓葉的先存這篇🍁\n\n今年京都紅葉偏晚，日本氣象協會 11/11 最新預測：嵐山 11/17 起最美，比去年晚 4 天\n\n照時間排好了👇\n\n🍂 11月中先去\n・嵐山：預測 11/17 起最美，天龍寺 11/14～30 提早 7:30 開\n・貴船：點燈只到 11/24，日落～20:30\n\n🍁 11月下旬～12月初\n・東福寺：通天橋 ¥1,000，禁用腳架\n・清水寺：夜間拜觀 11/21～30\n・毘沙門堂：11月 16:00、12月起 15:30 停止受理，紅葉季別開車去\n\n🌙 晚上看夜楓\n・永觀堂：點燈 11/20～12/6，17:30～20:30 受理，¥1,000\n・高台寺：點燈到 12/13，17:00 點燈、21:30 停止受理，¥800\n・北野天滿宮 紅葉苑：點燈 11/13～12/6，19:40 就停止受理，¥1,500 附茶點\n\n⚠️ 夜楓最後受理時間從 19:40 到 21:30 都有，北野最早，排行程先看清楚\n⚠️ 紅葉每週都在變，出發前一天再看一次 tenki.jp 的色づき情報\n\n要去京都的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/01_map.jpg",
+     "alt": "京都賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/02_early.jpg",
+     "alt": "京都賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/03_late.jpg",
+     "alt": "京都賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/04_night.jpg",
+     "alt": "京都賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyoto/05_chat.jpg",
+     "alt": "京都賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "京都景點太多不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/28 在京都兩天，幫我排賞楓＋夜楓行程」\n「北野天滿宮紅葉苑晚上幾點前要到？」"
+   ],
+   "buffer_post_id": "6af6c8a66bb977bd3df13179"
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "09:00",
+   "id": "notes-osaka",
+   "topic": "日本旅遊",
+   "text": "年底要帶爸媽去大阪的 請收🏯\n\n4天3夜不累版整理成筆記，每天10點出門、下午回飯店休息，直接抄就好\n\n集合時間、翻譯菜單、找廁所都問LINE小幫手，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/01_cover.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：封面・先講結論"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/02_day1.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 1"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/03_day2.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 2"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/04_day3.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 3"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/05_day4.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：Day 4"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/06_checklist.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：出發前清單"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/osaka/07_okie.jpg",
+     "alt": "帶爸媽去大阪 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
+    }
+   ],
+   "replies": [
+    "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進家族群組或私訊都可以\n\n「今天晚上9點提醒大家：明天10點飯店大廳集合」\n「這菜單寫什麼？我爸不吃牛」"
+   ],
+   "buffer_post_id": "6af6c8466bb977bd3df11579"
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "12:00",
+   "id": "taxfree-fuk",
+   "topic": "日本退稅新制",
+   "text": "福岡機場回台灣的看這篇就好✈️\n\n日本退稅 11/1 改成「先付含稅價、出境再退」，聽起來很麻煩，其實多一個步驟而已\n\n1️⃣ 先別托運，免稅品帶在身上\n2️⃣ 國際線 3F 南側、J～M 櫃台前有海關機台，刷護照\n3️⃣ 綠燈就去托運，紅燈帶商品去機台旁的海關檢查處\n4️⃣ 要領現金：出境後找現金退稅機（會扣手續費）\n\n💡 機台排隊的話，手機連「Customs_WiFi_For_TaxRefund」用 Visit Japan Web 辦，一樣有效\n\n⚠️ 一定要在托運前辦，托運了就沒辦法確認\n⚠️ 同一張收據少帶一件，整張都不退\n\n買得少可以直接不退，不用勉強😂\n還有什麼不清楚的留言問我～",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/02_steps.jpg",
+     "alt": "福岡機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/03_refund.jpg",
+     "alt": "福岡機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 福岡機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/fuk/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把福岡機場退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從福岡機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ],
+   "buffer_post_id": "6af6c8b76bb977bd3df1377d"
+  },
+  {
+   "date_taipei": "2026-11-14",
+   "time_taipei": "21:00",
+   "id": "koyo-kyushu",
+   "topic": "日本旅遊",
+   "text": "11月要去九州看楓葉的先存這篇🍁\n\n今年九州紅葉偏晚，日本氣象協會 11/11 最新預測：深耶馬溪 11/15 起、高千穗峽 11/21 起最美\n\n照時間排好了👇\n\n🍂 11月中先去\n・深耶馬溪（大分）：已經有紅葉，預測 11/15 起最美\n・九醉溪（大分）：例年 10月下旬～11月中旬，順路走九重夢大吊橋（¥500）\n・菊池溪谷（熊本）：例年 11月上旬～下旬，現在剛開始變色\n\n🍁 11月下旬最剛好\n・高千穗峽（宮崎）：預測 11/21 起最美\n・秋月城跡（福岡）：例年 11月中旬～下旬，現在還是綠的\n・九年庵（佐賀）：一年只開春秋兩次，秋天只開 11/14～11/29，8:00 開門・16:00 最後入場，¥1,000\n\n🌙 晚上看夜楓\n・御船山樂園（佐賀）：紅葉祭 11/6～12/6，晚上 17:30～22:00，¥600\n・竈門神社（太宰府）：點燈 11/21～12/6，日落到 21:00（依紅葉狀況可能調整）\n\n⚠️ 高千穗、深耶馬溪、九醉溪都在山裡，大眾運輸比較花時間，租車或報一日遊比較輕鬆\n\n要去九州的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/01_map.jpg",
+     "alt": "九州賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/02_mid.jpg",
+     "alt": "九州賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/03_late.jpg",
+     "alt": "九州賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/04_night.jpg",
+     "alt": "九州賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kyushu/05_chat.jpg",
+     "alt": "九州賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/25 從福岡出發 3 天，幫我排賞楓行程」\n「九年庵跟御船山樂園一天跑得完嗎？」"
+   ],
+   "buffer_post_id": "6af6c8c91d6346d52a6799e2"
+  },
+  {
+   "date_taipei": "2026-11-15",
+   "time_taipei": "09:00",
+   "id": "koyo-tokyo",
+   "topic": "日本旅遊",
+   "text": "11月底、12月初要去東京的，賞楓先存這篇🍁\n\n今年關東紅葉比去年晚，日本氣象協會 11/11 最新預測：高尾山 11/15 起、六義園 12/1 起最美（比去年晚 10 天）\n\n照時間排好了👇\n\n🍂 11月中先去\n・高尾山：預測 11/15 起最美，纜車來回 ¥980\n・河口湖 楓葉迴廊：紅葉祭只到 11/29，日落～21:00 點燈\n・井之頭公園：例年 11月中旬～12月上旬，吉祥寺站走路 5 分鐘\n\n🍁 11月下旬～12月初\n・明治神宮外苑 銀杏大道：約 300m 的黃金隧道\n・新宿御苑：銀杏 11 月、楓紅 12 月，¥500\n・小石川後樂園：深山紅葉 11/21～12/6，¥300\n\n🌙 晚上看夜楓\n・昭和紀念公園：點燈到 11/29，16:30～20:30\n・六義園：點燈 11/25～12/6，18:00～20:30，¥1,000 要線上預購\n\n⚠️ 新宿御苑週一休園，11/23 連假照開、改休 11/24\n⚠️ 六義園夜楓預售票 ¥1,000 要前一天 23:59 前網購，當天票 ¥1,200\n\n要去東京的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/01_map.jpg",
+     "alt": "東京賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/02_early.jpg",
+     "alt": "東京賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/03_late.jpg",
+     "alt": "東京賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/04_night.jpg",
+     "alt": "東京賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/tokyo/05_chat.jpg",
+     "alt": "東京賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「12/1 在東京 3 天，幫我排賞楓行程」\n「六義園夜楓的票要怎麼買？」"
+   ],
+   "buffer_post_id": "6af6c8e46bb977bd3df14165"
+  },
+  {
+   "date_taipei": "2026-11-15",
+   "time_taipei": "12:00",
+   "id": "taxfree-cts",
+   "topic": "日本退稅新制",
+   "text": "北海道玩完要從新千歲回台灣的，出發前先看這篇❄️\n\n退稅新制記一句就好：免稅品確認完才能托運\n\n1️⃣ 免稅品先不要放進托運行李\n2️⃣ 國際線航廈 3F 出發大廳找海關機台刷護照\n3️⃣ 綠燈→去托運；紅燈→帶商品去海關檢查處\n4️⃣ 想退現金：3F 有 Cash Japan 退稅機（會扣手續費）\n\n💡 不想排機台，手機連「Customs_WiFi_For_TaxRefund」上 Visit Japan Web 就能辦\n\n⚠️ 白色戀人、藥妝如果是免稅買的，也要帶著給機台確認完才能托運\n⚠️ 同一張收據少帶一件，整張都不退\n⚠️ 退現金要看店家合作哪家退稅公司，結帳時先問\n\n有寫錯的歡迎留言跟我說！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/02_steps.jpg",
+     "alt": "新千歲退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/03_refund.jpg",
+     "alt": "新千歲退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 新千歲退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/cts/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把新千歲退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從新千歲回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ],
+   "buffer_post_id": "6af6c8f93890f6d4a9ca5e53"
+  },
+  {
+   "date_taipei": "2026-11-15",
+   "time_taipei": "21:00",
+   "id": "notes-bangkok",
+   "topic": "泰國旅遊",
+   "text": "年底第一次去曼谷的 請收🛺\n\n4天3夜新手版整理成筆記，一天只排一區，直接抄就好\n\n想吃的店丟到群組，LINE小幫手會幫我們列成清單，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/01_cover.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：封面・先講結論"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/02_day1.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 1"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/03_day2.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 2"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/04_day3.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 3"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/05_day4.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：Day 4"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/06_checklist.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：出發前清單"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/bangkok/07_okie.jpg",
+     "alt": "第一次去曼谷 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
+    }
+   ],
+   "replies": [
+    "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們傳過哪些想吃的店？幫我列出來」\n「按摩 ฿1,400 我先付，幫大家記帳」"
+   ],
+   "buffer_post_id": "6af6cafb1d6346d52a684307"
+  },
+  {
+   "date_taipei": "2026-11-16",
+   "time_taipei": "08:00",
+   "id": "pocket-fukuoka_food",
+   "topic": "日本旅遊",
+   "text": "要去福岡的 請收🍜\n\n屋台、豚骨拉麵、牛腸鍋、水炊き（雞肉鍋）、餃子、明太子 一篇整理好\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/01_cover.jpg",
+     "alt": "福岡必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/02_yatai.jpg",
+     "alt": "福岡必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/03_ramen.jpg",
+     "alt": "福岡必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/04_nabe.jpg",
+     "alt": "福岡必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/05_gyoza.jpg",
+     "alt": "福岡必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/06_tips.jpg",
+     "alt": "福岡必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/fukuoka_food/07_okie.jpg",
+     "alt": "福岡必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在博多站，幫我把附近的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb166bb977bd3df1e7c9"
+  },
+  {
+   "date_taipei": "2026-11-16",
+   "time_taipei": "12:00",
+   "id": "taxfree-ngo",
+   "topic": "日本退稅新制",
+   "text": "從名古屋中部機場回台灣的，先收藏這篇，不然到機場會手忙腳亂😵‍💫\n\n新制其實不難，順序對就好：先確認免稅品，再托運\n\n1️⃣ 免稅品帶在身上，先不要托運\n2️⃣ 找海關機台刷護照：第 1 航廈在 3F，第 2 航廈在 2F\n3️⃣ 綠燈就可以去托運，紅燈帶商品去機台附近的海關檢查處\n4️⃣ 要領現金：出境審查後有 Cash Japan 退稅機（會扣手續費）\n\n💡 手機連「Customs_WiFi_For_TaxRefund」用 Visit Japan Web 辦，就不用排機台\n\n⚠️ 同一張收據少帶一件，整張都不退\n⚠️ 不是每家店都能退現金，看店家合作的退稅公司，結帳時先問\n\n買不多的話，放棄退稅也 OK😂\n有問題留言問我～",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/common/01_compare_v2.jpg",
+     "alt": "日本退稅新制：舊制和新制比較一張看懂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/02_steps.jpg",
+     "alt": "名古屋中部機場退稅步驟：托運前先到出發大廳的機台或用手機確認"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/03_refund.jpg",
+     "alt": "名古屋中部機場退稅：退款方式、現金退稅機位置和常見踩雷"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/04_chat.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 名古屋中部機場退稅怎麼辦"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/taxfree/ngo/05_chat_image.jpg",
+     "alt": "LINE 群組畫面示意：小幫手把名古屋中部機場退稅步驟做成一張圖"
+    }
+   ],
+   "replies": [
+    "退稅步驟記不住的，可以在LINE群組加一個小幫手，出發前直接問它👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「明天從中部機場回台灣，退稅要怎麼弄？」\n「藥妝可以放托運嗎？」"
+   ],
+   "buffer_post_id": "6af6cb4bcf5e784350803260"
+  },
+  {
+   "date_taipei": "2026-11-16",
+   "time_taipei": "20:00",
+   "id": "koyo-kansai",
+   "topic": "日本旅遊",
+   "text": "11月底去大阪、奈良看楓葉的先存這篇🍁\n\n今年西日本紅葉偏晚，日本氣象協會 11/11 最新預測，很多地方又比之前預測晚了 3～5 天，平地到 12 月都還看得到\n\n照時間排好了👇\n\n🍂 11月中先去\n・長谷寺：例年 11月上旬～下旬，已經開始紅，¥500\n・吉野山：夜間點燈到 11/30，纜車 11/30 前每天開\n・奈良公園・依水園：公園免費，依水園 ¥1,200（週二休）\n\n🍁 11月下旬～12月初\n・大阪城公園：天守閣前有 300 年大銀杏，公園免費\n・萬博紀念公園：紅葉祭 11/7～11/29，¥450\n・勝尾寺：週末夜間點燈到 11/29，¥500\n\n🌙 晚上看夜楓\n・箕面大瀑布：點燈 11/14～12/6，日落～21:30\n・談山神社：點燈 11/14～12/6，日落～20:30\n\n⚠️ 箕面紅葉祭的週末，勝尾寺停車場全預約制，搭電車＋公車比較順\n⚠️ 談山神社點燈後已經沒有公車，回櫻井站要叫計程車（約 15 分）\n\n要去關西的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/01_map.jpg",
+     "alt": "大阪・奈良賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/02_early.jpg",
+     "alt": "大阪・奈良賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/03_late.jpg",
+     "alt": "大阪・奈良賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/04_night.jpg",
+     "alt": "大阪・奈良賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/kansai/05_chat.jpg",
+     "alt": "大阪・奈良賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在大阪，幫我排一天賞楓＋夜楓」\n「談山神社晚上看完點燈怎麼回去？」"
+   ],
+   "buffer_post_id": "6af6cb75ac315c828ef60582"
+  },
+  {
+   "date_taipei": "2026-11-17",
+   "time_taipei": "08:00",
+   "id": "fare-flex-norefresh",
+   "topic": "便宜機票",
+   "text": "機票不用每天自己刷了，連哪天出發最便宜都可以叫它找\n\n之前想去首爾，每天睡前都在刷訂票網站\n日期換來換去，刷到眼睛好痠😮‍💨\n\n後來直接問LINE裡的這個旅遊AI\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n它自動把每一天都翻過一遍找最便宜的票價給你！\n也可以再請它持續盯價，如果降價第一時間通知你",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/01_ask.jpg",
+     "alt": "LINE 對話示意：問小幫手 4/15 到 5/31 之間出發、玩 5 天，台北飛首爾哪天最便宜，它說日曆上比較便宜的像 5/25 去 5/29 回，每人約 NT$5,030"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到首爾 4/15–5/31 出發、玩 5 天、1 人，5/25 和 5/31 出發每人 NT$5,029，5/10、5/11、5/18、5/24、5/29 出發 NT$5,229"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/03_watch.jpg",
+     "alt": "LINE 對話示意：請小幫手盯這整段、每人 4800 以下通知，它確認後說離出發還遠先每 7 天查一次、盯到 12/16，附「機票價格追蹤」卡和每天回報價格按鈕"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-norefresh/04_weekly.jpg",
+     "alt": "機票追蹤週報卡示意：現在每人 NT$5,029、最便宜那天 5/25 去 5/29 回、目標 NT$4,800、下次查價 11/23、盯到 12/16，下面有繼續盯、改目標價、不盯了按鈕"
+    }
+   ],
+   "replies": [
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「4/15到5/31之間哪天出發都可以，玩5天，台北飛首爾哪天最便宜？」\n「那就盯這整段，每人4800以下通知我」"
+   ],
+   "buffer_post_id": "6afacdb806e1675856dfaead"
+  },
+  {
+   "date_taipei": "2026-11-17",
+   "time_taipei": "12:00",
+   "id": "pay-jp",
+   "topic": "日本旅遊",
+   "text": "年底前要去日本的人 刷卡請收！💳\n\n7 張卡的日本回饋、上限、要不要登錄都整理在圖裡\n\n懶得比的，直接在LINE群組問小幫手幫你算🤣（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/01_cards.jpg",
+     "alt": "年底去日本刷卡懶人包①：熊本熊、富邦J、星展eco、吉鶴卡的日本回饋"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/02_cards.jpg",
+     "alt": "年底去日本刷卡懶人包②：CUBE、Richart、滙豐和免手續費掃碼付"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/cream/03_tips.jpg",
+     "alt": "刷卡前 5 件事：選日圓、算手續費、先登錄、看上限、留現金"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/04_compare.jpg",
+     "alt": "LINE 群組畫面示意：小幫手幫忙算兩張卡怎麼刷最划算"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_jp/05_split.jpg",
+     "alt": "LINE 群組畫面示意：小幫手記帳誰刷卡、算誰要給誰"
+    }
+   ],
+   "replies": [
+    "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去日本先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
+   ],
+   "buffer_post_id": "6af6cbb3d63384b8e431dcad"
+  },
+  {
+   "date_taipei": "2026-11-17",
+   "time_taipei": "20:00",
+   "id": "koyo-nagoya",
+   "topic": "日本旅遊",
+   "text": "要去名古屋近郊賞楓的先存這篇🍁\n\n日本氣象協會 11/11 最新預測：香嵐溪 11/19 起最美\n\n照時間排好了👇\n\n🍂 11月中先去\n・香嵐溪：預測 11/19 起最美，點燈到 11/30，免費入場\n・岩屋堂公園：點燈只到 11/23，17:30～21:00\n\n🍁 11月下旬～12月初\n・小原四季櫻：秋天開的四季櫻配紅葉\n・定光寺：西側高台展望台看紅葉\n・東山動植物園：11/21 起週末有夜楓，¥800\n・養老公園：約 3,000 棵楓樹，免費\n\n🌙 晚上看夜楓\n・白鳥庭園：週末點燈 11/14～29，¥300\n・德川園：紅葉祭 11/14～12/6，¥300，只有 11/20～23、27～29 開到 20:00，其他天 17:30 就關\n\n⚠️ 香嵐溪週末塞車很嚴重，今年沒有八草直達巴士，平日去最順\n⚠️ 白鳥庭園、德川園、東山動植物園週一休園，11/23 連假照開、改休 11/24\n\n要去名古屋的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/01_map.jpg",
+     "alt": "名古屋賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/02_early.jpg",
+     "alt": "名古屋賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/03_late.jpg",
+     "alt": "名古屋賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/04_night.jpg",
+     "alt": "名古屋賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/nagoya/05_chat.jpg",
+     "alt": "名古屋賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在名古屋，沒租車，幫我排一天賞楓」\n「香嵐溪平日怎麼搭車去？」"
+   ],
+   "buffer_post_id": "6af6cb031d6346d52a6844a1"
+  },
+  {
+   "date_taipei": "2026-11-18",
+   "time_taipei": "08:00",
+   "id": "koyo-hiroshima",
+   "topic": "日本旅遊",
+   "text": "11月下旬要去廣島、宮島的，賞楓先存這篇🍁\n\n日本氣象協會 11/11 最新預測：宮島紅葉谷 11/21 起最美，山區的帝釋峽現在已經全紅了\n\n照時間排好了👇\n\n🍂 11月中先去\n・帝釋峽：現在已經全紅，免費，在山區自駕比較方便\n・三段峽：部分已轉紅，有些步道封閉，出發前先查\n・佛通寺：特別拜觀 11/7～11/29，¥500\n\n🍁 11月下旬～12月初\n・宮島 紅葉谷公園：預測 11/21 起最美，點燈 11/13～12/6 免費\n・錦帶橋・吉香公園：錦帶橋往返 ¥500，隔壁的紅葉谷公園免費\n・耕三寺・未來心之丘：¥1,800，門票含未來心之丘\n\n🌙 晚上看夜楓\n・縮景園：點燈 11/20～11/29（預定），開到 21:00，¥350\n・大聖院（宮島）：點燈 11/17～11/29，17:30 起，費用和結束時間以現場為準\n\n⚠️ 搭船去宮島，船票外要另付宮島訪問稅 ¥100／人\n⚠️ 宮島回程最後一班 JR 渡輪 22:14，看完夜楓再回來來得及\n\n要去廣島的快存起來，丟到旅遊群組一起看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/01_map.jpg",
+     "alt": "廣島・宮島賞楓地圖 2026：地圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/02_early.jpg",
+     "alt": "廣島・宮島賞楓地圖 2026：11月中先去"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/03_late.jpg",
+     "alt": "廣島・宮島賞楓地圖 2026：11月下旬～12月初"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/04_night.jpg",
+     "alt": "廣島・宮島賞楓地圖 2026：晚上看夜楓"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/koyo/hiroshima/05_chat.jpg",
+     "alt": "廣島・宮島賞楓地圖 2026：丟到群組叫 LINE 小幫手排行程"
+    }
+   ],
+   "replies": [
+    "賞楓景點太分散不知道怎麼排的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「11/21 在廣島兩天，幫我排賞楓＋夜楓」\n「宮島晚上看完點燈，最後一班船幾點？」"
+   ],
+   "buffer_post_id": "6af6cb1e3890f6d4a9cb12d1"
+  },
+  {
+   "date_taipei": "2026-11-18",
+   "time_taipei": "12:00",
+   "id": "split-oneline",
+   "topic": "日本旅遊",
+   "text": "出國記帳，我從來沒撐過第二天😂\n\n第一天還很認真，每筆都打在備忘錄\n後來玩到太累，回飯店只想躺平，帳就直接放生了\n\n現在付完錢，就在群組打一句「計程車3200我付的」\n結果 LINE小幫手竟然就記好了，連每個人要出多少都分好了\n\n跟我一樣記帳三分鐘熱度的，真的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/01_taxi.jpg",
+     "alt": "LINE 群組截圖：鉛筆說終於到新宿的飯店了，我在群組打「計程車 3200 我付的」，LINE小幫手回已記帳卡片：計程車 ¥3,200，Momo 付，11/1（日），Momo、星球、鉛筆、高山各 ¥800；星球回「欸這樣就記好了喔」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-oneline/02_konbini.jpg",
+     "alt": "LINE 群組截圖：隔天早上我打「便利商店 1280 我付的，我跟星球分就好」，LINE小幫手回已記帳卡片：便利商店 ¥1,280，Momo 付，11/2（一），Momo、星球各 ¥640；高山回「這比記在備忘錄快太多了」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n出發前跟它說一聲這趟去日本，之後付完錢打一句就好👇\n「計程車 3200 我付的」\n「便利商店 1280 我付的，我跟星球分就好」"
+   ],
+   "buffer_post_id": "6afc2c79b587675a0d11947a"
+  },
+  {
+   "date_taipei": "2026-11-18",
+   "time_taipei": "20:00",
+   "id": "fare-flex-p",
+   "topic": "便宜機票",
+   "text": "每個p人訂機票前都應該試試這個！\n\n朋友說3月要出國\n問去哪 大家都回「都可以」😂\n以前要一個城市一個日期慢慢查\n現在直接在LINE問這個旅遊AI\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n\n它把三個地方整個3月一起查\n三個裡面沖繩最便宜\n廉航來回每人約5,600 看到直接心動\n連哪幾天出發便宜都列好了\n\n還能跟它說「日本有便宜機票就通知我」\n比平常便宜才會講\n一週最多一則 不會一直吵\np人真的可以不用做功課了🙌\n快傳給那個永遠說「都可以」的旅伴",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/01_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友說 3 月請假出國、哪裡便宜去哪，問小幫手 3 月玩 5 天、沖繩大阪東京都可以哪天最便宜，它說沖繩比較便宜，日曆上像 3/1 去 3/5 回每人約 NT$5,590"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到沖繩、大阪、東京，3 月出發、玩 5 天、4 人，沖繩 3/1、3/2、3/4、3/5、3/6 出發每人 NT$5,590，大阪 3/4 出發 7,752，東京 3/10 出發 9,194"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-p/03_region.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手日本有便宜機票就通知，它說先假設台北出發、玩 5 天、看未來 3 個月，比平常便宜才通知、一週最多一則"
+    }
+   ],
+   "replies": [
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月想玩5天，沖繩、大阪、東京都可以，哪天出發最便宜？」\n「日本有便宜機票就通知我們」"
+   ],
+   "buffer_post_id": "6afacdba8e87c256a3c8e1b1"
+  },
+  {
+   "date_taipei": "2026-11-19",
+   "time_taipei": "08:00",
+   "id": "fare-flex-10k",
+   "topic": "便宜機票",
+   "text": "好奇大家都怎麼訂到萬元以下的來回機票嗎？\n\n我的方法很簡單\n日期先不要定死\n直接問LINE裡的這個旅遊AI\n「3月哪天出發最便宜？」\n它會把整個月翻一遍\n比較便宜的7天直接列給你\n\n看到喜歡的日子就叫它幫我盯著\n降到我要的價錢就會通知我\n排假之前先存起來",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/01_cover.jpg",
+     "alt": "奶油色整理卡：3 月來回機票一萬以下就能飛，台北出發、玩 5 天、每人來回：沖繩 NT$5,590（3/1 去 3/5 回）、首爾 5,857（3/27 去）、大阪 7,752（3/4 去）、東京 9,194（3/10 去），2026/11/16 Google Flights 日曆價"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/02_ask.jpg",
+     "alt": "LINE 對話示意：問小幫手 3 月台北飛沖繩玩 5 天哪天最便宜，它說日曆上比較便宜的每人約 NT$5,590，列出的 7 天都是這個價"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-10k/03_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北到沖繩 3 月出發、玩 5 天、1 人，3/1 到 3/8 之間 7 個出發日每人都是 NT$5,590"
+    }
+   ],
+   "replies": [
+    "想試的點主頁連結加LINE好友就能用\n加進旅遊群組或私訊都可以，直接這樣問👇\n\n「3月台北飛沖繩，玩5天，哪天出發最便宜？」\n「就盯3月沖繩，每人5000以下通知我」"
+   ],
+   "buffer_post_id": "6afacdbb8e87c256a3c8e202"
+  },
+  {
+   "date_taipei": "2026-11-19",
+   "time_taipei": "12:00",
+   "id": "pay-kr",
+   "topic": "韓國旅遊",
+   "text": "年底前要去韓國的人 刷卡請收！💳\n\n6 張卡的韓國回饋、上限、登錄日期都整理在圖裡\n\n富邦加碼 11/20 下午4點開放登錄，名額有限，先記起來🤣\n\n登錄日可以叫LINE小幫手提醒，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/01_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包①：富邦J、星展eco、樂天Panda J的韓國回饋"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/02_sheet.jpg",
+     "alt": "年底去韓國刷卡懶人包②：Richart、CUBE、滙豐和韓國加碼"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/cream/03_tips.jpg",
+     "alt": "在韓國刷卡 5 件事：選韓元、算手續費、先登錄切換、看上限、儲值不算"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/04_which.jpg",
+     "alt": "LINE 群組畫面示意：小幫手依手上的卡排先刷哪張"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_kr/05_split.jpg",
+     "alt": "LINE 群組畫面示意：小幫手用韓元記帳並結算"
+    }
+   ],
+   "replies": [
+    "懶得比卡的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我有這兩張卡，去韓國先刷哪張？」\n「這筆我刷卡先墊，幫我記帳」"
+   ],
+   "buffer_post_id": "6af6cb4dac315c828ef5fa79"
+  },
+  {
+   "date_taipei": "2026-11-19",
+   "time_taipei": "20:00",
+   "id": "trip-okinawa",
+   "topic": "沖繩旅遊",
+   "text": "閨蜜：下週要不要去沖繩\n我：月底了欸 我在吃土⋯\n（丟給LINE小幫手查了一下）\n結果查完換我一直催她訂🤣\n\n來回機票加五星級飯店住3晚\n一個人才8千多😳\n這價錢在台灣連假住一晚溫泉飯店就沒了",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/01_flights.jpg",
+     "alt": "LINE 群組截圖（示意）：星球問下週要不要去沖繩；我 tag LINE小幫手問下週一到週四台北飛沖繩 2 個人最便宜的機票；小幫手回機票卡：TPE → OKA 11/23（一）–11/26（四）來回 2 人，Google Flights 即時票價 23:59，Google 認為價格普通（通常每人 NT$5,000–6,300），第一班樂桃 MM 930 每人 NT$5,590（18:20 → 20:50，2 人共 NT$11,180），第二班樂桃 MM 926 每人 NT$6,290"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/02_hotels.jpg",
+     "alt": "LINE 群組截圖（示意）：我問那霸住這幾天 2 個人一間、一晚 2000 以內的飯店；小幫手回住宿卡：那霸 11/23–11/26 3 晚 2 人 1 間、預算每間每晚 NT$2,000，往右滑看 5 個住宿；卡片滑到第 4 間 LOISIR HOTEL NAHA 每間每晚 NT$1,727（★4.0、5 星級、3 晚共 NT$5,181、比市價便宜 34%）和第 5 間 Okinawa NaHaNa Hotel & Spa NT$1,855；星球說這間五星級欸一晚才 1727；我說快訂快訂快訂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/03_google_flights.jpg",
+     "alt": "Google 航班截圖：臺北 TPE → 沖繩 OKA，11 月 23 日週一 – 11 月 26 日週四來回，最低價格 $5,590 起，目前的價格一般；樂桃 18:20 → 20:50 直達 $5,590、泰國亞洲航空 13:25 → 15:55 $6,830（來回票價）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/04_loisir.jpg",
+     "alt": "Google 飯店截圖：LOISIR HOTEL NAHA 外觀和泳池照片，超值優惠 $1,727、比市價便宜 34%，4.0 顆星、5 星級飯店，11 月 23 日 – 26 日、2 位房客"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-okinawa/05_loisir_photos.jpg",
+     "alt": "Google 飯店的 LOISIR HOTEL NAHA 相片：海港旁的飯店外觀、夜晚泳池、雙床客房、棚架下的泳池、浴室，下方 $1,727 超值優惠、11 月 23 日至 26 日"
+    }
+   ],
+   "replies": [
+    "我們就是在群組裡加了LINE小幫手\n機票跟飯店直接問它 它馬上列出好幾個選項 大家在群組一起看一起挑\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n像這樣問就好👇\n「下週一到週四 台北飛沖繩 2個人 最便宜的機票」\n「那霸住3晚 2個人一間 一晚2000以內的飯店」",
+    "我們查到的是這班跟這間👇\n✈️ 樂桃 去程晚上18:20飛 回程下午16:50飛\n來回一個人 5,590 只有手提行李喔\n🏨 LOISIR HOTEL NAHA 兩個人一間 一晚1,727\n住3晚一個人分下來大概2,590\n\n11/18 半夜查的 價格每天在變 要去的趕快查一下！"
+   ],
+   "buffer_post_id": "6afea204749099bdc71b26f2"
+  },
+  {
+   "date_taipei": "2026-11-20",
+   "time_taipei": "08:00",
+   "id": "notes-seoul",
+   "topic": "韓國旅遊",
+   "text": "年底要跟閨蜜去首爾的 請收🎄\n\n4天3夜聖誕版整理成筆記，一天只逛一區直接抄\n\n代購清單我都丟給LINE小幫手記，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/01_cover.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：封面・先講結論"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/02_day1.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 1"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/03_day2.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 2"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/04_day3.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 3"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/05_day4.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：Day 4"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/06_checklist.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：出發前清單"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/notes/seoul/07_okie.jpg",
+     "alt": "跟閨蜜去首爾 4天3夜（iPhone 備忘錄）：群組小幫手 小幫手和 LINE 截圖"
+    }
+   ],
+   "replies": [
+    "行程、記帳懶得自己弄的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我記：化妝水 2 瓶，到 Olive Young 再給我清單」\n「烤肉 ₩96,000 我先付，幫大家記帳」"
+   ],
+   "buffer_post_id": "6af6cb333890f6d4a9cb1d79"
+  },
+  {
+   "date_taipei": "2026-11-20",
+   "time_taipei": "12:00",
+   "id": "trip-fukuoka",
+   "topic": "福岡旅遊",
+   "text": "閨蜜：12月要不要去福岡\n我：12月？？機票一定超貴吧⋯\n（叫群組裡的LINE小幫手查一下）\n結果查完我直接去翻護照🤣\n\n算了一下 機票加四星飯店住3晚\n一個人1萬1左右\nGoogle還說這機票比平常便宜2千多😳",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/01_flights.jpg",
+     "alt": "LINE 群組截圖（示意）：星球問 12 月要不要去福岡、12/7 到 12/10；我 tag LINE小幫手問台北飛福岡 2 個人最便宜的機票；小幫手回機票卡：TPE → FUK 12/7（一）–12/10（四）來回 2 人，Google Flights 即時票價 11:45，Google 認為這個價格偏低（通常每人 NT$8,600–13,000），第一班亞洲航空 AK 1510 每人 NT$7,654（12:00 → 15:20，2 人共 NT$15,308），第二班台灣虎航 IT 240 每人 NT$7,833"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/02_hotels.jpg",
+     "alt": "LINE 群組截圖（示意）：星球說朋友推博多這間 FFFFFF Hotel；我 tag LINE小幫手問 FFFFFF Hotel 12/7 到 12/10 2 個人一間哪裡訂最便宜；小幫手回飯店價格卡：住宿 FFFFFF Hotel 12/7（一）–12/10（四）3 晚 2 人 1 間房，各訂房網站價格 11:46，★4.1（171）、4 星級，往右滑看 10 個訂房網站；1/10 Booking.com 每間每晚 NT$2,307（3 晚共 NT$6,921），2/10 Agoda NT$2,530（3 晚共 NT$7,590）；星球說四星一晚才 2307；我說好我去拿護照"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/03_google_flights.jpg",
+     "alt": "Google 航班截圖：臺北 TPE → 福岡 FUK，12 月 7 日週一 – 12 月 10 日週四來回，最低價格 $7,654 起；目前的票價偏低，價格比平常便宜了 $2,449；亞洲航空中午 12:00 → 下午 3:20 直達 $7,654 來回票價"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/04_ffffff.jpg",
+     "alt": "Google 飯店截圖：FFFFFF Hotel 外觀和地圖，$2,307，4.1 顆星（171）、4 星級飯店，12 月 7 日週一 – 12 月 10 日週四、2 位房客；下方 Booking.com 豪華雙人房 $2,555（劃掉）、雙人房 $2,307"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/trip-fukuoka/05_ffffff_photos.jpg",
+     "alt": "Google 飯店的 FFFFFF Hotel 相片：雙人床客房、洗手台、飯店入口和招牌、雙床房，下方 $2,307、12 月 7 日至 10 日"
+    }
+   ],
+   "replies": [
+    "我們揪團的群組本來就有LINE小幫手\n有人丟日期 tag它一下 機票整理好給大家挑 想住哪間也能叫它比哪個網站最便宜\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n我們是這樣問的👇\n「12/7到12/10 台北飛福岡 2個人 最便宜的機票」\n「FFFFFF Hotel 12/7到12/10 2個人一間 哪裡訂最便宜」",
+    "最後看上的是這班跟這間👇\n✈️ 亞洲航空 去程中午12:00飛 回程16:40飛\n來回一個人 7,654 廉航票 託運行李要另外加\n🏨 FFFFFF Hotel 四星 在博多車站南邊\n兩個人一間雙人床 Booking.com上一晚2,307\n住3晚一個人分下來大概3,460\n\n11/19 中午查的 價格每天都在跳 12月想去的趕快查一下！"
+   ],
+   "buffer_post_id": "6afea4d0b16549e9b832c9d2"
+  },
+  {
+   "date_taipei": "2026-11-20",
+   "time_taipei": "20:00",
+   "id": "ski-kokusai",
+   "topic": "滑雪",
+   "text": "札幌國際的套票 等到我好焦慮😩\n\n官方的巴士套票頁面都出來了 就是不能訂\n每天點進去看 每天都一樣…\n\n後來直接丟給群組裡的LINE小幫手 讓它每天幫我顧\n結果它竟然找到別家現在就能訂的套票！\n\n還在乾等官網的 先叫它幫你找備案！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/01_found.jpg",
+     "alt": "LINE 群組截圖（示意）：11/10 早上鉛筆問札幌國際的套票還是不能訂嗎，我說官網昨天看還沒有；9 點小幫手說札幌國際官方的巴士套票頁面出來了，但還不能訂；另外找到一個現在就能訂的：札幌市區出發，來回巴士＋一日纜車券，每人 ¥9,500；我說那先把這個當備案；鉛筆說原來不是只有官網能訂"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-kokusai/02_page.jpg",
+     "alt": "北海道アクセスネットワーク「札幌国際：リフト券パック（札幌市内⇒国際⇒札幌市内）」頁面截圖：運行期間 2026年12月2日～2027年3月31日、毎日運行；旅行代金 大人 9,500円、小人 7,400円；パッケージ內容：往復バス＋リフト券"
+    }
+   ],
+   "replies": [
+    "想用的 主頁有連結 加好友拉進旅遊群組就好\n官網一直不能訂的時候 可以直接這樣問它👇\n「札幌出發去札幌國際 有沒有現在就能訂的巴士套票？」\n「官方套票可以訂了 也跟我說一聲」\n\n備案那個 12/2 才開始跑 雪場還沒開的話巴士會停駛 訂之前先看一下開幕日"
+   ],
+   "buffer_post_id": "6afd7eafe6ccf7cfbbbdf352"
+  },
+  {
+   "date_taipei": "2026-11-21",
+   "time_taipei": "09:00",
+   "id": "maps-nearby-ai",
+   "topic": "日本旅遊",
+   "text": "你也常遇到 AI 打不開 Google 地圖連結嗎😵‍💫\n\n出國想問附近有什麼吃的\n把地圖連結丟過去，它只回我打不開，叫我自己打地址\n在國外連地名都不會念，是要怎麼打…\n\n結果丟進 LINE 群組問 LINE小幫手\n連結一貼它就知道我們在哪\n直接列出附近還開著的店，大家看同一則訊息就能選\n\n出國玩的朋友趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/01_link.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓，我說剛把飯店的地圖連結丟給別的 AI，它說打不開；接著貼上 KOKO HOTEL 銀座一丁目的 Google 地圖連結，tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它回「你在 KOKO HOTEL 銀座一丁目附近」，列出函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-ai/02_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「欸它真的看得懂連結」「函館拉麵！走」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後 tag 它這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
+   ],
+   "buffer_post_id": "6afbdeb84b26315855c111db"
+  },
+  {
+   "date_taipei": "2026-11-21",
+   "time_taipei": "12:00",
+   "id": "ticket-countdown",
+   "topic": "追星",
+   "text": "搶票群組一定要有這個🥹\n\n每次約好一起搶票\n前一天大家都說「我一定準時」\n開賣那一刻 群組只剩我一個在喊🤣\n\n這次直接叫 LINE小幫手 開賣前幫我們倒數\n時間到它就 tag 全部人\n\n結果竟然真的沒有人睡過頭\n\n追星的姐妹們 趕快把它拉進搶票群！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/01_set.jpg",
+     "alt": "LINE 群組截圖：晚上 11 點朋友說明天早上 10 點開賣、有人說上次睡過頭，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人提醒，它回「⏰ 好！明天 09:50、09:55、09:59 都會 tag 所有人提醒」，朋友回「太好了 這樣誰都不能睡過頭了🤣」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天早上 LINE小幫手 9:50、9:55、9:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友回「醒了醒了😂」，10:04「搶到了！！🥹」"
+    }
+   ],
+   "replies": [
+    "搶票怕有人睡過頭的，可以在群組加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天 10 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\n「抽票星期五截止，前一天晚上 9 點提醒大家去登記」"
+   ],
+   "buffer_post_id": "6affc52c0f5eda1a57bd0b62"
+  },
+  {
+   "date_taipei": "2026-11-21",
+   "time_taipei": "17:00",
+   "id": "jp-trending",
+   "topic": "日本旅遊",
+   "text": "12 月去日本必吃的期間限定🍽️\n- 7-11 開心果／焦糖巧克力蝴蝶餅\n- 全家 BE:FIRST 聯名抹茶塔\n- 全家 BE:FIRST 抹茶巧克力費南雪\n- 麥當勞 濃郁肉醬焗烤可樂餅堡\n- 麥當勞 牛肉蒜香醬油搖搖薯條\n- 麥克雞塊 壽喜燒醬\n- 星巴克 抹茶提拉米蘇星冰樂\n\n以前出發前都要自己滑好幾個帳號\n好不容易排好 去了才發現早就賣完了😵‍💫\n\n這次直接在群組問 LINE小幫手\n超商跟速食店最近有什麼期間限定\n結果竟然連還沒開賣的都查到了😳\n\n真的太好用 12 月要去日本的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/01_konbini.jpg",
+     "alt": "LINE 群組截圖：高山問下個月東京有什麼一定要吃的，我 tag LINE小幫手 問「12月去日本 超商跟速食店最近有什麼期間限定必吃？」，它先說「我查一下 12 月日本超商跟速食店的冬季限定🍗」，再回：7-11 12/8 起有開心果、焦糖巧克力蝴蝶餅各 ¥300 左右；全家 BE:FIRST 聯名抹茶塔 ¥298、抹茶巧克力費南雪 ¥210，抹茶派可以收。星球說「BE:FIRST？？我要去全家😍」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/02_tart.jpg",
+     "alt": "商品圖：全家 BE:FIRST 聯名抹茶塔切面（全家官方圖）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/03_711.jpg",
+     "alt": "商品圖：7-11 焦糖、開心果巧克力蝴蝶餅（7-Eleven 官方圖）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/04_fin.jpg",
+     "alt": "商品圖：全家 BE:FIRST 聯名抹茶巧克力費南雪（全家官方圖）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/05_fastfood.jpg",
+     "alt": "LINE 群組截圖：我問 LINE小幫手「那麥當勞跟星巴克呢？」，它回：麥當勞 11/25 起有冬季定番グラコロ焗烤可樂餅堡，新口味濃郁肉醬グラコロ ¥510 起賣到 12 月中；牛肉蒜香醬油搖搖薯條加 ¥50 起；15 塊麥克雞塊特價 ¥490 可選壽喜燒醬到 12/15。第二則：星巴克提拉米蘇拿鐵 Tall 店內 ¥630、抹茶提拉米蘇星冰樂 Tall 店內 ¥720。鉛筆說「雞塊沾壽喜燒醬？？這個我一定要吃😳」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/06_gracoro.jpg",
+     "alt": "商品圖：日本麥當勞グラコロ焗烤可樂餅堡和新口味濃郁肉醬グラコロ，11/25 起期間限定（日本麥當勞官方圖）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/07_nugget.jpg",
+     "alt": "商品圖：日本麥當勞 15 塊麥克雞塊和壽喜燒風味沾醬（日本麥當勞官方圖）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/jp-trending/08_sbux.jpg",
+     "alt": "商品圖：日本星巴克抹茶提拉米蘇星冰樂（日本星巴克官方圖）"
+    }
+   ],
+   "replies": [
+    "限定一直在換 出發前自己問一下最準👇\n\n點主頁連結就能加 LINE小幫手\n拉進旅遊群組 直接問「12月去日本 超商跟速食店有什麼期間限定？」就好"
+   ],
+   "buffer_post_id": "6b00182db3576a91c14d6d85"
+  },
+  {
+   "date_taipei": "2026-11-21",
+   "time_taipei": "21:00",
+   "id": "ski-earlybird",
+   "topic": "滑雪",
+   "text": "今年訂滑雪票 真的差點崩潰😵‍💫\n\n每個雪場的早鳥票 開賣跟截止都不一樣\n有的停賣了 過幾天又突然開\n每天官網一家一家點進去看 還是怕漏掉\n\n後來乾脆在群組叫LINE小幫手每天幫我看\n結果早鳥票竟然又開賣了 它一早就跟我說！\n\n真的太好用\n今年要去日本滑雪的 趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/01_reopen.jpg",
+     "alt": "LINE 群組截圖（示意）：9/25 我請小幫手每天幫我看手稻、志賀跟札幌國際的票，有變化再跟我說；它回 🔎 好，每天早上 9 點幫你查，有開賣、停賣或賣完才通知你。10/23 早上它通知：手稻的早鳥時數券又可以網路買了，賣到 10/31；志賀高原熊の湯的早鳥券也是賣到 10/31；鉛筆說原來還會再開賣、我以為早就沒了；我說今天就買"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/02_delay.jpg",
+     "alt": "LINE 群組截圖（示意）：11/18 早上鉛筆問札幌國際的套票到底開了沒，我說還沒、我也在等；9 點小幫手通知：札幌國際因為積雪不足，原本 11/20 的開幕延後了，官方巴士套票跟網路一日券要等新的開幕日公布才會開賣，有開再通知；我說那我們再等等；鉛筆說連延後開幕都會講也太貼心"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ski-earlybird/03_notice.jpg",
+     "alt": "札幌国際スキー場官網新聞頁截圖：2026.11.18 (Wed)「オープン延期のお知らせ [Notice of postponement of opening]」，原定 11/20（金）開幕，因積雪不足、雪道狀況還沒準備好而延後；開幕日確定後會在官網和社群公布（下面是英文版公告）"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n直接跟它說要盯哪幾家、幾點查，有變化它才會講👇\n「每天早上幫我看手稻跟志賀高原的早鳥票，有變化再跟我說」\n「每天幫我看札幌國際的巴士套票，開賣就通知我」"
+   ],
+   "buffer_post_id": "6afd7eb0e6ccf7cfbbbdf3a8"
+  },
+  {
+   "date_taipei": "2026-11-22",
+   "time_taipei": "09:00",
+   "id": "izakaya-menu",
+   "topic": "日本旅遊",
+   "text": "去日本居酒屋，沒點的小菜自己上桌，結帳才發現要收錢？那就是「お通し」（otoshi）\n\n我把居酒屋菜單最常看到的 12 個字整理好了，點餐、喝到飽、結帳都用得到\n像「飲み放題」（nomihodai）是喝到飽、「L.O.」（Last Order）是最後點餐\n最要注意「税抜」（zeinuki）：價錢沒含稅，結帳要再加 10%\n寫「税込」（zeikomi）的就是含稅價，不用再加\n菜單上常寫的 4 句也放在圖裡，看到「2名様から」（ni-mei-sama kara），一個人就點不了那一項\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去日本的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/01_cover.jpg",
+     "alt": "日本居酒屋菜單先認得這 12 個字（點餐・喝酒・結帳）封面：お通し＝入座小菜、飲み放題＝喝到飽、税抜／税別＝未稅價，另有菜單上常寫的 4 句"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/02_words_r.jpg",
+     "alt": "居酒屋菜單 12 個字（點餐・結帳）：お通し、飲み放題、L.O.、税抜／税別、お冷、お会計"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/03_words_r.jpg",
+     "alt": "居酒屋菜單 12 個字（飲料・菜色）：生ビール、ハイボール、サワー、盛り合わせ、塩／タレ、時価"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/04_phrases.jpg",
+     "alt": "居酒屋菜單上常寫的 4 句：お通し代、飲み放題は2名様から、2時間制、現金のみ"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張居酒屋菜單照片，LINE小幫手一道一道翻成中文並提醒お通し和稅"
+    }
+   ],
+   "replies": [
+    "菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪些要另外收錢？」\n「我們 4 個人點這些，一人多少？」"
+   ],
+   "buffer_post_id": "6af6db47bcd7cfc9abb287ad"
+  },
+  {
+   "date_taipei": "2026-11-22",
+   "time_taipei": "12:00",
+   "id": "ticket-checklist",
+   "topic": "搶票攻略",
+   "text": "演唱會搶票除了拚手速跟運氣\n開賣前這三件事要先確認好 ✅\n\n1️⃣ 會員帳號跟手機驗證\n有些售票網站要先驗證完才能買\n不要開賣當下才在等簡訊🙃\n\n2️⃣ 付款方式\n卡片額度夠不夠、網路刷卡有沒有開\n收驗證碼的手機記得放旁邊\n\n3️⃣ 群組每個人都要準時\n我們直接叫 LINE小幫手 開賣前倒數\n時間到它就 tag 全部人\n\n第三點真的太好用 這次連在上班的都準時開好網頁🤣\n\n要搶票的姐妹 先存起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/01_prep.jpg",
+     "alt": "LINE 群組截圖：晚上 10 點朋友說明天中午 12 點開賣、問會員都驗證好了嗎，一個回「手機驗證好了✅」、一個回「卡片額度也確認了✅」，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 11:50、11:55、11:59 都會 tag 所有人提醒」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天 LINE小幫手 11:50、11:55、11:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友說「在公司偷偷開好網頁了🤫」，12:06「全部都搶到了！！🥹」"
+    }
+   ],
+   "replies": [
+    "怕群組有人不準時的，可以加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天中午 12 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」"
+   ],
+   "buffer_post_id": "6affc52d7b0a126ceba6c5d7"
+  },
+  {
+   "date_taipei": "2026-11-22",
+   "time_taipei": "21:00",
+   "id": "fare-flex-cheap",
+   "topic": "便宜機票",
+   "text": "每個想買便宜機票的人都應該試試這個！\n\n幾個朋友想明年3月去日本玩5天，還在猶豫東京或大阪、哪天走也沒定，只想要越便宜越好\n\n發現LINE裡的這個旅遊AI可以直接幫忙盯機票價錢\n不用先決定哪天出發，也不用先選好去哪，\n直接問它「3月隨便哪天出發，東京或大阪都可以，哪天最便宜？」\n\n它會把整個3月翻了一遍，最便宜的幾天直接列出來...真的超讚",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/01_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友在吵東京還大阪、哪天走，問小幫手 3 月隨便哪天出發、玩 5 天哪天便宜，它回大阪 3/4 出發每人約 NT$7,750、東京 3/10 出發約 NT$9,280"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/02_days.jpg",
+     "alt": "「便宜的日子」卡示意：台北飛大阪或東京 3 月出發、5 天、4 人，列出 7 個出發日，大阪 3/4 出發每人 NT$7,750 最低，東京 3/10 出發 NT$9,280"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/03_watch.jpg",
+     "alt": "LINE 群組畫面示意：請小幫手盯 3 月大阪整段、每人 7500 以下通知，它確認後附「機票價格追蹤」卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/fare-flex-cheap/04_weekly.jpg",
+     "alt": "LINE 群組畫面示意：三天後收到機票追蹤週報，現在每人 NT$7,750、最便宜那天 3/4 去 3/8 回、目標 NT$7,500"
+    }
+   ],
+   "replies": [
+    "想用的可以點主頁連結加好友試試👇\n加進旅遊群組或私訊直接問就好\n\n「3月隨便哪天出發，玩5天，台北飛東京或大阪，哪天最便宜？」\n「就盯3月大阪這段，每人7500以下通知我們」"
+   ],
+   "buffer_post_id": "6afaf0ba0c2af02527dcc683"
+  },
+  {
+   "date_taipei": "2026-11-23",
+   "time_taipei": "08:00",
+   "id": "ramen-ticket",
+   "topic": "日本旅遊",
+   "text": "日本很多拉麵店要先在門口的機器買票，按鈕全是日文，後面一排人在等你，到底要按哪顆？\n\n我把拉麵店最常看到的 12 個字整理好了，買票、點麵、加麵都用得到\n像「大盛り」（oomori）是大碗，博多豚骨店的「替え玉」（kaedama）是加麵\n豚骨店點餐時常會問麵要多硬，聽不懂就說「普通」（futsu），不會錯\n有的機器不收一萬日圓大鈔，千元鈔先準備好\n店裡常貼的 4 句也放在圖裡，看到「一万円札は使えません」就知道要換錢了\n整台機器看不懂的話，拍照丟給群組裡的 LINE小幫手，它會把每顆按鈕都翻給你，最後一張是它翻好的樣子（示意）\n\n要去日本吃拉麵的先存起來，排隊時翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/01_cover.jpg",
+     "alt": "日本拉麵店先認得這 12 個字（買票・點麵・加麵）封面：券売機＝買票機、替え玉＝加麵、硬め／柔らかめ＝麵硬一點／軟一點，另有店裡常貼的 4 句"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/02_words_r.jpg",
+     "alt": "拉麵店 12 個字（買票・點麵）：券売機、食券、並／大盛り、特製、トッピング、味玉"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/03_words_r.jpg",
+     "alt": "拉麵店 12 個字（口味・加麵）：硬め／柔らかめ、バリカタ、濃いめ／薄め、多め／少なめ、替え玉、チャーシュー"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/04_phrases.jpg",
+     "alt": "拉麵店常貼的 4 句：先に食券をお買い求めください、一万円札は使えません、大盛り無料、お一人様一杯以上"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ramen-ticket/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張拉麵店買票機照片，LINE小幫手一顆一顆按鈕翻成中文並提醒不收一萬日圓鈔"
+    }
+   ],
+   "replies": [
+    "拉麵店買票機看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這台買票機，哪個是加麵？」\n「我們 3 個人點這些，一共多少？」"
+   ],
+   "buffer_post_id": "6af6db48b52ddd180244d661"
+  },
+  {
+   "date_taipei": "2026-11-23",
+   "time_taipei": "12:00",
+   "id": "korea-bbq-menu",
+   "topic": "韓國旅遊",
+   "text": "在韓國吃烤肉，肉都上桌了白飯還沒來？因為白飯大多沒附，要另外點「공기밥」（gonggibap）\n\n我把烤肉店菜單最常看到的 12 個字整理好了，點肉、加點、配飯都用得到\n像「삼겹살」（samgyeopsal）是五花肉、「목살」（moksal）是梅花肉\n菜單上的價錢大多是「1인분」（irinbun），就是一人份\n吃不夠就說「1인분 추가요」（irinbun chugayo），再加一份\n小菜和生菜大多可以續，看到「셀프」（selpeu）就是自己去拿\n菜單上常寫的 4 句也放在圖裡\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去韓國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/01_cover.jpg",
+     "alt": "韓國烤肉店先認得這 12 個字（點肉・加點・配飯）封面：공기밥＝白飯、1인분＝一人份、셀프＝自己拿，另有菜單上常寫的 4 句"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/02_words.jpg",
+     "alt": "烤肉店 12 個字（點肉・加點）：삼겹살、목살、항정살、갈비、1인분、추가"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/03_words.jpg",
+     "alt": "烤肉店 12 個字（配飯・小菜）：공기밥、된장찌개、냉면、상추、쌈장、셀프"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/04_phrases.jpg",
+     "alt": "韓國烤肉店菜單上常寫的 4 句：공기밥 별도、후식 냉면、반찬은 셀프입니다、원산지"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-bbq-menu/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張韓國烤肉店菜單照片，LINE小幫手一道一道翻成中文並提醒白飯另點、小菜自取"
+    }
+   ],
+   "replies": [
+    "韓文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，白飯要另外點嗎？」\n「我們 4 個人點這些，一人多少？」"
+   ],
+   "buffer_post_id": "6af6db6bb185663f9f9874fd"
+  },
+  {
+   "date_taipei": "2026-11-23",
+   "time_taipei": "20:00",
+   "id": "pocket-osaka_food",
+   "topic": "日本旅遊",
+   "text": "要去大阪覓食的 請收🐙\n\n大阪燒、章魚燒、串炸、烏龍麵照類別排好，只收現金、賣完就收的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/01_cover.jpg",
+     "alt": "大阪必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/02_okonomiyaki.jpg",
+     "alt": "大阪必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/03_takoyaki.jpg",
+     "alt": "大阪必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/04_kushikatsu.jpg",
+     "alt": "大阪必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/05_udon.jpg",
+     "alt": "大阪必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/06_tips.jpg",
+     "alt": "大阪必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/osaka_food/07_okie.jpg",
+     "alt": "大阪必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在難波，幫我把附近的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb42cf5e7843508030c8"
+  },
+  {
+   "date_taipei": "2026-11-24",
+   "time_taipei": "08:00",
+   "id": "korea-cafe-menu",
+   "topic": "韓國旅遊",
+   "text": "在韓國咖啡廳點完，店員突然問「드시고 가세요?」（deusigo gaseyo），當場愣住？其實是在問你內用還是外帶\n\n我把咖啡廳最常看到的 12 個字整理好了，點咖啡、內用外帶、取餐都用得到\n像「아아」（a-a）是冰美式，韓國人冬天也在喝\n內用說「매장」（maejang），外帶說「포장」（pojang）\n很多店會寫「1인 1음료」，意思是一個人至少要點一杯\n店裡常寫的 4 句也放在圖裡\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一項一項翻給你，最後一張是它翻好的樣子（示意）\n\n要去韓國的先存起來，點之前翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/01_cover.jpg",
+     "alt": "韓國咖啡廳先認得這 12 個字（點咖啡・內用外帶・取餐）封面：아아＝冰美式、매장／포장＝內用／外帶、1인 1음료＝一人一杯，另有店裡常寫的 4 句"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/02_words.jpg",
+     "alt": "咖啡廳 12 個字（點咖啡）：아메리카노、아아、아이스／핫、샷 추가、연하게、디카페인"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/03_words.jpg",
+     "alt": "咖啡廳 12 個字（內用外帶・取餐）：매장、포장、키오스크、진동벨、사이즈 업、시럽"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/04_phrases.jpg",
+     "alt": "韓國咖啡廳常寫的 4 句：1인 1음료、아이스만 가능、텀블러 할인、리필 불가"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/korea-cafe-menu/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張韓國咖啡廳菜單照片，LINE小幫手一樣一樣翻成中文並提醒一人一杯"
+    }
+   ],
+   "replies": [
+    "韓文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪個是冰美式？」\n「我們 3 個人點這些，一共多少？」"
+   ],
+   "buffer_post_id": "6af6db6cfe8cb9dc19097dad"
+  },
+  {
+   "date_taipei": "2026-11-24",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_ramen",
+   "topic": "日本旅遊",
+   "text": "要去東京吃拉麵的 請收🍜\n\nTabelog 百名店 13 家照區域排好，只收現金、要先拿整理券（號碼牌）的都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/01_cover.jpg",
+     "alt": "東京拉麵口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/02_shinjuku_shibuya.jpg",
+     "alt": "東京拉麵口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/03_ikebukuro.jpg",
+     "alt": "東京拉麵口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/04_tokyo_ginza.jpg",
+     "alt": "東京拉麵口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/05_ueno_asakusa.jpg",
+     "alt": "東京拉麵口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/06_kenbaiki.jpg",
+     "alt": "東京拉麵口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_ramen/07_okie.jpg",
+     "alt": "東京拉麵口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的拉麵排進行程」"
+   ],
+   "buffer_post_id": "6af6cb543890f6d4a9cb25ea"
+  },
+  {
+   "date_taipei": "2026-11-24",
+   "time_taipei": "20:00",
+   "id": "pocket-japan_konbini",
+   "topic": "日本旅遊",
+   "text": "要去日本逛超商的 請收🍫\n\n超商炸雞、甜點跟東京ばな奈、白い恋人這些伴手禮，官網價格跟羽田限定都整理好了\n\n截圖丟給LINE小幫手存起來，最後一天叫它把伴手禮排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/01_cover.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/02_hot.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/03_sweets.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/04_tokyo.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/05_area.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/06_tips.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/japan_konbini/07_okie.jpg",
+     "alt": "日本超商必買＋伴手禮口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「最後一天在東京站，幫我把要買的伴手禮排進行程」"
+   ],
+   "buffer_post_id": "6af6cb653890f6d4a9cb2a77"
+  },
+  {
+   "date_taipei": "2026-11-25",
+   "time_taipei": "08:00",
+   "id": "pay-oka",
+   "topic": "沖繩旅遊",
+   "text": "年底前要去沖繩的人 現金還是刷卡？請收！🌺\n\n單軌全站能感應刷卡，但巴士只有部分路線可以，其他要用 OKICA（沖繩交通卡）或零錢\n\n懶人包整理在圖裡，記帳分帳就丟給LINE小幫手🤣（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/01_transport.jpg",
+     "alt": "沖繩交通篇：單軌和巴士哪裡能刷卡、哪裡要OKICA或現金"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/02_spots.jpg",
+     "alt": "沖繩景點票券篇：利木津巴士、美ら海、一日券和OKICA"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/cream/03_prep.jpg",
+     "alt": "去沖繩前 5 件事：硬幣千元鈔、看感應貼紙、利木津先買票、單軌一人一卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/04_chat_ask.jpg",
+     "alt": "LINE 群組畫面示意：朋友問小幫手 沖繩停車場和公車能不能刷卡"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pay_oka/05_chat_split.jpg",
+     "alt": "LINE 群組畫面示意：小幫手記帳刷卡和付現金並結算"
+    }
+   ],
+   "replies": [
+    "記帳分帳懶得算的，LINE小幫手可以直接幫你算👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「沖繩公車跟停車場可以刷卡嗎？」\n「誰刷卡誰付現金，幫我記帳」"
+   ],
+   "buffer_post_id": "6af6cba61d6346d52a687399"
+  },
+  {
+   "date_taipei": "2026-11-25",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_yakiniku",
+   "topic": "日本旅遊",
+   "text": "要去東京吃燒肉的 請收🥩\n\n百名店 10 家照預算排好，只收現金、要訂位、加服務費的都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/01_cover.jpg",
+     "alt": "東京燒肉口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/02_budget.jpg",
+     "alt": "東京燒肉口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/03_classic.jpg",
+     "alt": "東京燒肉口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/04_splurge.jpg",
+     "alt": "東京燒肉口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/05_cuts.jpg",
+     "alt": "東京燒肉口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/06_tips.jpg",
+     "alt": "東京燒肉口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_yakiniku/07_okie.jpg",
+     "alt": "東京燒肉口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在淺草，幫我把附近的燒肉排進行程」"
+   ],
+   "buffer_post_id": "6af6cb97d63384b8e431d402"
+  },
+  {
+   "date_taipei": "2026-11-25",
+   "time_taipei": "20:00",
+   "id": "travel-danang_couple",
+   "topic": "峴港旅遊",
+   "text": "跟另一半去峴港真的不用花大錢…5天4夜度假版直接抄這份🏖️\n\n巴拿山第一班纜車、會安放河燈、週末才有的龍橋噴火，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/01_cover.jpg",
+     "alt": "跟另一半去峴港：封面"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/02_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/03_days.jpg",
+     "alt": "跟另一半去峴港：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/04_trip_image.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手把行程做成圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/05_currency.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手換算匯率"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/06_reminder.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手設提醒"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/07_poll.jpg",
+     "alt": "跟另一半去峴港：LINE 群組示意：小幫手開投票"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/danang_couple/cream/08_checklist.jpg",
+     "alt": "跟另一半去峴港：出發前確認清單"
+    }
+   ],
+   "replies": [
+    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「兩個人去峴港 5 天，幫我排行程」\n「龍橋噴火是哪天？幫我設提醒」"
+   ],
+   "buffer_post_id": "6af6cb02ac315c828ef5e2c3"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "08:00",
+   "id": "receipt-jp",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國記帳，現在拍張收據丟群組就好📸\n\n以前出國吃完飯\n總要有人對著看不懂的日文收據\n一行一行對誰點了什麼、再算每個人多少😵‍💫\n\n現在吃完直接把收據拍照丟進群組\n跟 LINE小幫手說一聲誰吃了什麼\n它自己看得懂日文，連服務費都照比例分好\n回國要結算，再叫它換成台幣就行\n\n一起出國的朋友趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/receipt-jp/01_receipt.jpg",
+     "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片（菲力壽喜燒、神戶牛壽喜燒、生啤酒，合計 ¥31,897），說幫忙記帳、菲力跟啤酒是我的、神戶牛是鉛筆的；LINE小幫手回已記帳卡片：浅草今半 ¥31,897，Momo 付，10/9，Momo ¥16,454、鉛筆 ¥15,443，下面有看收據按鈕；鉛筆回神戶牛的我認了"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣用就好👇\n「（拍收據）幫忙記帳，菲力跟啤酒是我的，神戶牛是鉛筆的」\n「回國要結算了，幫我們換成台幣」"
+   ],
+   "buffer_post_id": "6afc2c7bb587675a0d11950f"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_cafe",
+   "topic": "日本旅遊",
+   "text": "要去東京喝咖啡的 請收☕\n\nTabelog 百名店 15 家照區域排好，只收現金、週幾公休都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/01_cover.jpg",
+     "alt": "東京咖啡廳口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/02_jimbocho.jpg",
+     "alt": "東京咖啡廳口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/03_asakusa.jpg",
+     "alt": "東京咖啡廳口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/04_omotesando.jpg",
+     "alt": "東京咖啡廳口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/05_nakameguro.jpg",
+     "alt": "東京咖啡廳口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/06_ginza.jpg",
+     "alt": "東京咖啡廳口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_cafe/07_okie.jpg",
+     "alt": "東京咖啡廳口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在表參道，幫我把附近的咖啡廳排進行程」"
+   ],
+   "buffer_post_id": "6af6cb6acf5e784350803d84"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "20:00",
+   "id": "travel-chiangmai_besties",
+   "topic": "清邁旅遊",
+   "text": "跟閨蜜去清邁真的不要排太滿…5天4夜慢活版直接抄這份🐘\n\n一天一區、剛好逛到週日夜市、不騎大象的大象營，路線時間都在圖裡\n\n行程是叫LINE小幫手排的，用法在下面👇",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/01_cover.jpg",
+     "alt": "跟閨蜜去清邁：封面"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/02_days.jpg",
+     "alt": "跟閨蜜去清邁：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/03_days.jpg",
+     "alt": "跟閨蜜去清邁：每日行程表"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/04_trip_image.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手把行程做成圖"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/05_links.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手整理大家傳的連結"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/06_split.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手記帳分帳"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/07_reminder.jpg",
+     "alt": "跟閨蜜去清邁：LINE 群組示意：小幫手設提醒"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chiangmai_besties/cream/08_checklist.jpg",
+     "alt": "跟閨蜜去清邁：出發前確認清單"
+    }
+   ],
+   "replies": [
+    "想叫它幫你排的，可以加👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「我們 4 個人去清邁 5 天，幫我排行程」\n「誰先付的都記帳，最後幫我們算」"
+   ],
+   "buffer_post_id": "6af6cb77cf5e784350804043"
+  },
+  {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "08:00",
+   "id": "split-advance",
+   "topic": "日本旅遊",
+   "text": "每次出國我都是那個先墊錢的人😮‍💨\n\n晚餐我刷、計程車我付，連早餐都我先出\n墊到最後，連我自己都搞不清楚誰還欠我多少\n\n這次每筆付完都順手在群組講一聲，LINE小幫手就記下來\n回國打一句「幫我們結算換台幣」\n結果它竟然直接算好大家要轉我多少\n\n常常幫大家先墊錢的，真的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/01_settle.jpg",
+     "alt": "LINE 群組截圖：我打「回國了，幫我們結算換台幣」，LINE小幫手回結算單：5 筆 ¥49,530，全部換成台幣（11/3 市場匯率），Momo 應收 NT$6,367，星球應付 NT$2,959，鉛筆應付 NT$3,408；轉帳：鉛筆→Momo NT$3,408、星球→Momo NT$2,959"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-advance/02_log.jpg",
+     "alt": "LINE 群組截圖：旅行中我打「燒肉 21300 我先付」，LINE小幫手回已記帳卡片：燒肉 ¥21,300，Momo 付，11/1（日），三個人各 ¥7,100；鉛筆說又是你付、回國再算，星球說 Momo 根本是我們的錢包"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n付完錢打一句，回國再叫它結算就好👇\n「燒肉 21300 我先付」\n「回國了，幫我們結算換台幣」"
+   ],
+   "buffer_post_id": "6afc2c7d01f5535fb87997c8"
+  },
+  {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "12:00",
+   "id": "pocket-tokyo_sushi",
+   "topic": "日本旅遊",
+   "text": "要去東京吃壽司的 請收🍣\n\n不用訂位的迴轉壽司、立食い（站著吃）、豐洲市場都整理好了，怎麼抽號碼牌、哪家只收現金都標了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/01_cover.jpg",
+     "alt": "東京壽司口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/02_kaiten.jpg",
+     "alt": "東京壽司口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/03_tachigui.jpg",
+     "alt": "東京壽司口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/04_market.jpg",
+     "alt": "東京壽司口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/05_fish.jpg",
+     "alt": "東京壽司口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/06_tips.jpg",
+     "alt": "東京壽司口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_sushi/07_okie.jpg",
+     "alt": "東京壽司口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在東京站，幫我把附近的壽司排進行程」"
+   ],
+   "buffer_post_id": "6af6cb87d63384b8e431d06a"
+  },
+  {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "20:00",
+   "id": "maps-nearby",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國找附近餐廳，不用再低頭各自查完然後複製貼上到群組了！\n\n以前一群人出國玩找吃的\n都要每個人低頭滑 Google 地圖\n查到一間就截圖、貼連結到群組\n訊息洗了一大串，還是不知道要吃哪間😵‍💫\n\n現在直接把 Google 地圖連結（或 LINE 的位置資訊）丟進群組\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n它會看丟進來的位置，列出附近還開著的店\n大家看同一則訊息，直接選就好\n\n很多 AI 連 Google 地圖連結都打不開，這個一貼就懂\n趕快一起出去玩的朋友用起來！",
+   "images": [
+    {
+     "url": "https://cdn.jsdelivr.net/gh/sb1087k/okie-ig-assets@8368dc9/okie_chat/maps-nearby/maps-nearby.mp4",
+     "alt": "LINE 群組影片：凌晨 1 點在銀座，貼上飯店的 Google 地圖連結、問「這附近有推薦的宵夜嗎？」，LINE小幫手回覆附近還開著的店（函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點），朋友直接選函館拉麵"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/02_ask.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點貼上銀座飯店的 Google 地圖連結，問「這附近有推薦的宵夜嗎？」，LINE小幫手列出附近還開著的三間：函館拉麵開到 4 點、日高屋 24 小時、壽司三昧開到 5 點"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby/03_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
+   ],
+   "buffer_post_id": "6afbde42df36f4d8256ca29a"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "09:00",
+   "id": "pocket-tokyo_rainy",
+   "topic": "日本旅遊",
+   "text": "要去東京怕下雨的 請收☔\n\n下雨天室內景點照區域排好，票價、公休、要不要先買時段票都標好了\n\n截圖丟給LINE小幫手存起來，遇到下雨叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/01_cover.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/02_shinjuku.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/03_ikebukuro.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/04_oshiage.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/05_roppongi.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/06_tips.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/tokyo_rainy/07_okie.jpg",
+     "alt": "東京下雨天室內景點口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下雨，幫我把新宿、澀谷的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb982960b358b6b730b2"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "12:00",
+   "id": "split-noapp",
+   "topic": "日本旅遊",
+   "text": "出國分帳 App 載了，結果整團只有我在用🥲\n\n光叫大家下載、註冊就搞了半天\n最後每一筆還是我一個人在 key\n\n這次乾脆不載了，直接在 LINE 群組講\n誰付錢誰自己打一句，LINE小幫手就幫我們記好分好\n\n群裡只有你在記帳的，趕快傳給他們！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/01_ticket.jpg",
+     "alt": "LINE 群組截圖：我說這次不用載 App，誰付錢就直接在群組講；星球打「門票 6000 我付的」，LINE小幫手回已記帳卡片：門票 ¥6,000，星球付，10/31（六），四個人各 ¥1,500；我回「欸你自己會記了耶」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/02_ramen.jpg",
+     "alt": "LINE 群組截圖：高山打「拉麵 4320 我付」，LINE小幫手回已記帳卡片：拉麵 ¥4,320，高山付，四個人各 ¥1,080；鉛筆說晚上居酒屋換他付，星球說比之前那個 App 簡單太多了"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
+   ],
+   "buffer_post_id": "6afc2c7e01f5535fb8799808"
+  },
+  {
+   "date_taipei": "2026-11-28",
+   "time_taipei": "21:00",
+   "id": "pocket-seoul_food",
+   "topic": "韓國旅遊",
+   "text": "要去首爾覓食的 請收🇰🇷\n\n米其林必比登＋老店，營業時間、公休、地鐵出口都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/01_cover.jpg",
+     "alt": "首爾必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/02_bbq.jpg",
+     "alt": "首爾必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/03_chicken.jpg",
+     "alt": "首爾必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/04_noodles.jpg",
+     "alt": "首爾必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/05_market.jpg",
+     "alt": "首爾必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/06_soup.jpg",
+     "alt": "首爾必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/seoul_food/07_okie.jpg",
+     "alt": "首爾必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天在鐘路，幫我把附近的排進行程」"
+   ],
+   "buffer_post_id": "6af6cbb6cf5e7843508053ed"
+  },
+  {
+   "date_taipei": "2026-11-29",
+   "time_taipei": "09:00",
+   "id": "thai-order",
+   "topic": "泰國旅遊",
+   "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成\n\n「++」就是服務費 10% 跟稅 7% 還沒加，寫「NET」的就是已經含服務費和稅\n我把點餐最常用的 12 句整理好了，辣度、香菜、冰塊、外帶都有\n最實用的是「ไม่เผ็ด」（mai phet）＝不要辣，泰國的小辣對很多台灣人來說已經很辣\n句尾加「ค่ะ」（女生）或「ครับ」（男生）會比較有禮貌\n菜單上常寫的 4 句也放在圖裡，像「พิเศษ」是加大份、會多收錢\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
+     "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
+     "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
+     "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
+     "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
+    }
+   ],
+   "replies": [
+    "泰文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」"
+   ],
+   "buffer_post_id": "6af6db46b52ddd180244d5ff"
+  },
+  {
+   "date_taipei": "2026-11-29",
+   "time_taipei": "12:00",
+   "id": "pocket-sapporo_food",
+   "topic": "日本旅遊",
+   "text": "要去札幌覓食的 請收❄️\n\n湯咖哩、味噌拉麵、成吉思汗烤羊肉、海鮮丼，公休、只收現金、地下街怎麼走都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
+     "alt": "札幌必吃口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
+     "alt": "札幌必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
+     "alt": "札幌必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
+     "alt": "札幌必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
+     "alt": "札幌必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
+     "alt": "札幌必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
+     "alt": "札幌必吃口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb24cf5e7843508022ae"
+  },
+  {
+   "date_taipei": "2026-11-29",
+   "time_taipei": "21:00",
+   "id": "maps-nearby-p",
+   "topic": "日本旅遊",
+   "text": "p人朋友們出國想輕鬆找哪裡有好吃的，都來試試這個！\n\n我們出國都不排餐廳\n走到哪、餓了再說\n以前都要每個人低頭滑 Google 地圖\n查到一間就丟群組，洗了一大串還是選不出來🤣\n\n現在直接在群組分享位置\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n結果它馬上列出好幾家還開著的\n大家看同一則訊息，直接選就好\n\np人真的不用再做功課了\n要出國玩的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/01_share.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓睡不著，我在群組分享位置（KOKO HOTEL 銀座一丁目），再 tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它列出附近還開著的三間：函館拉麵開到 4 點、走路約 6 分鐘，日高屋 24 小時，壽司三昧開到 5 點"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/02_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
+   ],
+   "buffer_post_id": "6afbdeb7797935b975e1f4ce"
+  },
+  {
+   "date_taipei": "2026-11-30",
+   "time_taipei": "08:00",
+   "id": "pocket-oliveyoung",
+   "topic": "韓國旅遊",
+   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
+     "alt": "Olive Young 必買口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
+     "alt": "Olive Young 必買口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
+     "alt": "Olive Young 必買口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
+     "alt": "Olive Young 必買口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
+     "alt": "Olive Young 必買口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
+     "alt": "Olive Young 必買口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
+     "alt": "Olive Young 必買口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
+  },
+  {
+   "date_taipei": "2026-12-01",
+   "time_taipei": "08:00",
+   "id": "ticket-fangirl",
+   "topic": "追星人",
+   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
+     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
+     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
+    }
+   ],
+   "replies": [
+    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
+   ],
+   "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
+  }
+ ]
 }

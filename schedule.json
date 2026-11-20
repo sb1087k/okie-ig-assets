@@ -1820,7 +1820,8 @@
           "images": []
         }
       ],
-      "threads_topic": "韓國旅遊"
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6affc52f738ce4635f84e564"
     },
     {
       "date_taipei": "2026-12-05",
@@ -1888,7 +1889,8 @@
           "images": []
         }
       ],
-      "threads_topic": "追星人"
+      "threads_topic": "追星人",
+      "buffer_post_id": "6affc530d5f8acdd0d6c7f1d"
     }
   ]
 }

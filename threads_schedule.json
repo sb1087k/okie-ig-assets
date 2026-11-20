@@ -1106,35 +1106,23 @@
   {
    "date_taipei": "2026-11-21",
    "time_taipei": "12:00",
-   "id": "thai-order",
-   "topic": "泰國旅遊",
-   "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成\n\n「++」就是服務費 10% 跟稅 7% 還沒加，寫「NET」的就是已經含服務費和稅\n我把點餐最常用的 12 句整理好了，辣度、香菜、冰塊、外帶都有\n最實用的是「ไม่เผ็ด」（mai phet）＝不要辣，泰國的小辣對很多台灣人來說已經很辣\n句尾加「ค่ะ」（女生）或「ครับ」（男生）會比較有禮貌\n菜單上常寫的 4 句也放在圖裡，像「พิเศษ」是加大份、會多收錢\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
+   "id": "ticket-countdown",
+   "topic": "追星",
+   "text": "搶票群組一定要有這個🥹\n\n每次約好一起搶票\n前一天大家都說「我一定準時」\n開賣那一刻 群組只剩我一個在喊🤣\n\n這次直接叫 LINE小幫手 開賣前幫我們倒數\n時間到它就 tag 全部人\n\n結果竟然真的沒有人睡過頭\n\n追星的姐妹們 趕快把它拉進搶票群！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
-     "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/01_set.jpg",
+     "alt": "LINE 群組截圖：晚上 11 點朋友說明天早上 10 點開賣、有人說上次睡過頭，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人提醒，它回「⏰ 好！明天 09:50、09:55、09:59 都會 tag 所有人提醒」，朋友回「太好了 這樣誰都不能睡過頭了🤣」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
-     "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
-     "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
-     "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
-     "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天早上 LINE小幫手 9:50、9:55、9:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友回「醒了醒了😂」，10:04「搶到了！！🥹」"
     }
    ],
    "replies": [
-    "泰文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」"
+    "搶票怕有人睡過頭的，可以在群組加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天 10 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\n「抽票星期五截止，前一天晚上 9 點提醒大家去登記」"
    ],
-   "buffer_post_id": "6af6db46b52ddd180244d5ff"
+   "buffer_post_id": "6affc52c0f5eda1a57bd0b62"
   },
   {
    "date_taipei": "2026-11-21",
@@ -1197,43 +1185,23 @@
   {
    "date_taipei": "2026-11-22",
    "time_taipei": "12:00",
-   "id": "pocket-oliveyoung",
-   "topic": "韓國旅遊",
-   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "ticket-checklist",
+   "topic": "搶票攻略",
+   "text": "演唱會搶票除了拚手速跟運氣\n開賣前這三件事要先確認好 ✅\n\n1️⃣ 會員帳號跟手機驗證\n有些售票網站要先驗證完才能買\n不要開賣當下才在等簡訊🙃\n\n2️⃣ 付款方式\n卡片額度夠不夠、網路刷卡有沒有開\n收驗證碼的手機記得放旁邊\n\n3️⃣ 群組每個人都要準時\n我們直接叫 LINE小幫手 開賣前倒數\n時間到它就 tag 全部人\n\n第三點真的太好用 這次連在上班的都準時開好網頁🤣\n\n要搶票的姐妹 先存起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
-     "alt": "Olive Young 必買口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/01_prep.jpg",
+     "alt": "LINE 群組截圖：晚上 10 點朋友說明天中午 12 點開賣、問會員都驗證好了嗎，一個回「手機驗證好了✅」、一個回「卡片額度也確認了✅」，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 11:50、11:55、11:59 都會 tag 所有人提醒」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
-     "alt": "Olive Young 必買口袋名單：第 02 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
-     "alt": "Olive Young 必買口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
-     "alt": "Olive Young 必買口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
-     "alt": "Olive Young 必買口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
-     "alt": "Olive Young 必買口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
-     "alt": "Olive Young 必買口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/02_countdown.jpg",
+     "alt": "LINE 群組截圖：隔天 LINE小幫手 11:50、11:55、11:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友說「在公司偷偷開好網頁了🤫」，12:06「全部都搶到了！！🥹」"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
+    "怕群組有人不準時的，可以加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天中午 12 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」"
    ],
-   "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
+   "buffer_post_id": "6affc52d7b0a126ceba6c5d7"
   },
   {
    "date_taipei": "2026-11-22",
@@ -1901,23 +1869,35 @@
   {
    "date_taipei": "2026-11-29",
    "time_taipei": "09:00",
-   "id": "ticket-countdown",
-   "topic": "追星",
-   "text": "搶票群組一定要有這個🥹\n\n每次約好一起搶票\n前一天大家都說「我一定準時」\n開賣那一刻 群組只剩我一個在喊🤣\n\n這次直接叫 LINE小幫手 開賣前幫我們倒數\n時間到它就 tag 全部人\n\n結果竟然真的沒有人睡過頭\n\n追星的姐妹們 趕快把它拉進搶票群！",
+   "id": "thai-order",
+   "topic": "泰國旅遊",
+   "text": "在泰國餐廳看菜單，價錢後面寫「++」，結帳會多付將近 2 成\n\n「++」就是服務費 10% 跟稅 7% 還沒加，寫「NET」的就是已經含服務費和稅\n我把點餐最常用的 12 句整理好了，辣度、香菜、冰塊、外帶都有\n最實用的是「ไม่เผ็ด」（mai phet）＝不要辣，泰國的小辣對很多台灣人來說已經很辣\n句尾加「ค่ะ」（女生）或「ครับ」（男生）會比較有禮貌\n菜單上常寫的 4 句也放在圖裡，像「พิเศษ」是加大份、會多收錢\n整張菜單都看不懂的話，拍照丟給群組裡的 LINE小幫手，它會一道一道翻給你，最後一張是它翻好的樣子（示意）\n\n要去泰國的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/01_set.jpg",
-     "alt": "LINE 群組截圖：晚上 11 點朋友說明天早上 10 點開賣、有人說上次睡過頭，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人提醒，它回「⏰ 好！明天 09:50、09:55、09:59 都會 tag 所有人提醒」，朋友回「太好了 這樣誰都不能睡過頭了🤣」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/01_cover.jpg",
+     "alt": "泰國點餐先學會這 12 句（辣度・點餐・結帳）封面：ไม่เผ็ด＝不要辣、ไม่ใส่ผักชี＝不要香菜、เช็คบิล＝買單，另有菜單上常寫的 4 句"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-countdown/02_countdown.jpg",
-     "alt": "LINE 群組截圖：隔天早上 LINE小幫手 9:50、9:55、9:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友回「醒了醒了😂」，10:04「搶到了！！🥹」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/02_words.jpg",
+     "alt": "泰國點餐 12 句（辣度・口味）：ไม่เผ็ด、เผ็ดน้อย、ไม่ใส่ผักชี、ไม่ใส่ถั่ว、หวานน้อย、ไม่ใส่น้ำแข็ง"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/03_words.jpg",
+     "alt": "泰國點餐 12 句（點餐・結帳）：อันนี้、ทานที่นี่、ใส่ถุง、น้ำเปล่า、อร่อย、เช็คบิล"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/04_phrases.jpg",
+     "alt": "泰國菜單上常寫的 4 句：ราคา ++、NET、พิเศษ、รับเงินสดเท่านั้น"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/thai-order/05_chat.jpg",
+     "alt": "LINE 群組畫面示意：自己丟一張泰國餐廳菜單照片，LINE小幫手一道一道翻成中文並提醒 ++ 要另加服務費和稅"
     }
    ],
    "replies": [
-    "搶票怕有人睡過頭的，可以在群組加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天 10 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」\n\n「抽票星期五截止，前一天晚上 9 點提醒大家去登記」"
+    "泰文菜單看不懂、不知道怎麼點的，丟給LINE小幫手就好👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「幫我翻這張菜單，哪幾道比較辣？」\n「價錢有 ++，我們 3 個人一共多少？」"
    ],
-   "buffer_post_id": "6affc52c0f5eda1a57bd0b62"
+   "buffer_post_id": "6af6db46b52ddd180244d5ff"
   },
   {
    "date_taipei": "2026-11-29",
@@ -1984,23 +1964,43 @@
   {
    "date_taipei": "2026-11-30",
    "time_taipei": "08:00",
-   "id": "ticket-checklist",
-   "topic": "搶票攻略",
-   "text": "演唱會搶票除了拚手速跟運氣\n開賣前這三件事要先確認好 ✅\n\n1️⃣ 會員帳號跟手機驗證\n有些售票網站要先驗證完才能買\n不要開賣當下才在等簡訊🙃\n\n2️⃣ 付款方式\n卡片額度夠不夠、網路刷卡有沒有開\n收驗證碼的手機記得放旁邊\n\n3️⃣ 群組每個人都要準時\n我們直接叫 LINE小幫手 開賣前倒數\n時間到它就 tag 全部人\n\n第三點真的太好用 這次連在上班的都準時開好網頁🤣\n\n要搶票的姐妹 先存起來！",
+   "id": "pocket-oliveyoung",
+   "topic": "韓國旅遊",
+   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/01_prep.jpg",
-     "alt": "LINE 群組截圖：晚上 10 點朋友說明天中午 12 點開賣、問會員都驗證好了嗎，一個回「手機驗證好了✅」、一個回「卡片額度也確認了✅」，我 tag LINE小幫手請它開賣前 10、5、1 分鐘都 tag 所有人，它回「⏰ 好！明天 11:50、11:55、11:59 都會 tag 所有人提醒」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
+     "alt": "Olive Young 必買口袋名單：第 01 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-checklist/02_countdown.jpg",
-     "alt": "LINE 群組截圖：隔天 LINE小幫手 11:50、11:55、11:59 三次 @All 倒數「10 分鐘後開搶，先登入、備好資料！」「5 分鐘後開搶，手指暖身！」「1 分鐘後開搶，準備衝！」，中間朋友說「在公司偷偷開好網頁了🤫」，12:06「全部都搶到了！！🥹」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
+     "alt": "Olive Young 必買口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
+     "alt": "Olive Young 必買口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
+     "alt": "Olive Young 必買口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
+     "alt": "Olive Young 必買口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
+     "alt": "Olive Young 必買口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
+     "alt": "Olive Young 必買口袋名單：第 07 頁"
     }
    ],
    "replies": [
-    "怕群組有人不準時的，可以加一個 LINE小幫手 幫大家倒數👇\n\n點主頁連結就能加好友，拉進搶票群組就能用\n\n直接跟它說：\n\n「明天中午 12 點開賣，前 10 分鐘、5 分鐘、1 分鐘都 tag 大家」"
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
    ],
-   "buffer_post_id": "6affc52d7b0a126ceba6c5d7"
+   "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
   },
   {
    "date_taipei": "2026-12-01",

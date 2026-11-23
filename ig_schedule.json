@@ -698,19 +698,19 @@
     {
       "date_taipei": "2026-11-23",
       "time_taipei": "21:00",
-      "id": "reel-fare-watch-02a",
-      "topic": "盯機票 reel",
+      "id": "reel-grad-trip-ep1",
+      "topic": "畢旅 anime reel",
       "type": "reel",
-      "ai_label": false,
-      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a.mp4",
+      "ai_label": true,
+      "text": "拒絕他之後 還要一起去畢旅嗎🥲\n《畢旅》第一話\n把okie拉進你們的群組 幫你們盯機票 有降價直接跟你說👉主頁連結\n\n每個群組都有一個說「最近好窮」的朋友 傳給他😂\n\n#畢旅 #畢業旅行 #大阪自由行 #日本自由行 #便宜機票",
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep1.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a_cover.jpg",
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep1_cover.jpg",
           "alt": "reel cover"
         }
       ],
-      "text": "用這招 大阪來回少花四千多✈️\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
-      "buffer_post_id": "6afd8667812f982833122234"
+      "buffer_post_id": "6b03f7c051038c931ba4bf82"
     },
     {
       "date_taipei": "2026-11-24",
@@ -744,33 +744,20 @@
     },
     {
       "date_taipei": "2026-11-24",
-      "time_taipei": "20:00",
-      "id": "izakaya-menu",
-      "topic": "",
-      "text": "去日本居酒屋，沒點的小菜自己上桌，結帳才發現要收錢？那就是「お通し」（otoshi）🍺\n居酒屋菜單最常看到的 12 個字，跟菜單上常寫的 4 句，我整理成字卡了\n\n✔️ お通し（otoshi）：入座小菜，沒點也會上，關西叫「突き出し」\n✔️ 飲み放題（nomihodai）：喝到飽，通常有時間限制\n✔️ 税抜／税別（zeinuki／zeibetsu）：價錢沒含稅，結帳要再加 10%\n✔️ 税込（zeikomi）：含稅價，不用再加\n✔️ 2名様から（ni-mei-sama kara）：要 2 人以上才點得到，喝到飽常這樣寫\n\n要去日本的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍菜單）幫我翻這張菜單，哪些要另外收錢？」\n「我們 4 個人點這些，一人多少？」\n\n不用下載 App，大家都會用👍",
+      "time_taipei": "21:00",
+      "id": "reel-grad-trip-ep2",
+      "topic": "畢旅 anime reel",
+      "type": "reel",
+      "ai_label": true,
+      "text": "真心話玩到第三題 空氣直接凝結😶\n《畢旅》第二話\n把okie拉進你們的群組 玩真心話直接叫它出題👉主頁連結\n\n傳給你們的群組 今晚就來玩一輪😂\n\n#畢旅 #畢業旅行 #真心話 #大阪自由行 #日本自由行",
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep2.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/01_cover.jpg",
-          "alt": "日本居酒屋菜單先認得這 12 個字（點餐・喝酒・結帳）封面：お通し＝入座小菜、飲み放題＝喝到飽、税抜／税別＝未稅價，另有菜單上常寫的 4 句"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/02_words_r.jpg",
-          "alt": "居酒屋菜單 12 個字（點餐・結帳）：お通し、飲み放題、L.O.、税抜／税別、お冷、お会計"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/03_words_r.jpg",
-          "alt": "居酒屋菜單 12 個字（飲料・菜色）：生ビール、ハイボール、サワー、盛り合わせ、塩／タレ、時価"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/04_phrases.jpg",
-          "alt": "居酒屋菜單上常寫的 4 句：お通し代、飲み放題は2名様から、2時間制、現金のみ"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/05_chat.jpg",
-          "alt": "LINE 群組畫面示意：自己丟一張居酒屋菜單照片，LINE小幫手一道一道翻成中文並提醒お通し和稅"
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep2_cover.jpg",
+          "alt": "reel cover"
         }
       ],
-      "buffer_post_id": "6af6dbbbb52ddd180244fddb"
+      "buffer_post_id": "6b03f7c24d584ce268319261"
     },
     {
       "date_taipei": "2026-11-25",
@@ -805,19 +792,19 @@
     {
       "date_taipei": "2026-11-25",
       "time_taipei": "21:00",
-      "id": "reel-fare-watch-02b",
-      "topic": "盯機票 reel",
+      "id": "reel-grad-trip-ep3",
+      "topic": "畢旅 anime reel",
       "type": "reel",
-      "ai_label": false,
-      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b.mp4",
+      "ai_label": true,
+      "text": "那句話 她終於說完了🥹\n《畢旅》最終話\n把okie拉進你們的群組 下一趟去哪 叫它開個投票就好👉主頁連結\n\n傳給你們的畢旅群組 下一站去哪 直接投！\n\n#畢旅 #畢業旅行 #大阪自由行 #日本自由行 #大學生活",
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep3.mp4",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b_cover.jpg",
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/grad_trip_ep3_cover.jpg",
           "alt": "reel cover"
         }
       ],
-      "text": "別再每天自己刷機票了！\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
-      "buffer_post_id": "6afd8669812f98283312228f"
+      "buffer_post_id": "6b03f7c400ec56c26fea9f04"
     },
     {
       "date_taipei": "2026-11-26",
@@ -927,6 +914,53 @@
       "buffer_post_id": "6afd866a27a97c2bc6355d69"
     },
     {
+      "date_taipei": "2026-11-28",
+      "time_taipei": "12:00",
+      "id": "izakaya-menu",
+      "topic": "",
+      "text": "去日本居酒屋，沒點的小菜自己上桌，結帳才發現要收錢？那就是「お通し」（otoshi）🍺\n居酒屋菜單最常看到的 12 個字，跟菜單上常寫的 4 句，我整理成字卡了\n\n✔️ お通し（otoshi）：入座小菜，沒點也會上，關西叫「突き出し」\n✔️ 飲み放題（nomihodai）：喝到飽，通常有時間限制\n✔️ 税抜／税別（zeinuki／zeibetsu）：價錢沒含稅，結帳要再加 10%\n✔️ 税込（zeikomi）：含稅價，不用再加\n✔️ 2名様から（ni-mei-sama kara）：要 2 人以上才點得到，喝到飽常這樣寫\n\n要去日本的先存起來，點菜前翻出來對一下，也丟到旅遊群組給旅伴看！\n\nokie 怎麼用👇\nLINE 加好友：@okie.chat\n拉進旅遊群組或私訊直接問\n\n「（拍菜單）幫我翻這張菜單，哪些要另外收錢？」\n「我們 4 個人點這些，一人多少？」\n\n不用下載 App，大家都會用👍",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/01_cover.jpg",
+          "alt": "日本居酒屋菜單先認得這 12 個字（點餐・喝酒・結帳）封面：お通し＝入座小菜、飲み放題＝喝到飽、税抜／税別＝未稅價，另有菜單上常寫的 4 句"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/02_words_r.jpg",
+          "alt": "居酒屋菜單 12 個字（點餐・結帳）：お通し、飲み放題、L.O.、税抜／税別、お冷、お会計"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/03_words_r.jpg",
+          "alt": "居酒屋菜單 12 個字（飲料・菜色）：生ビール、ハイボール、サワー、盛り合わせ、塩／タレ、時価"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/04_phrases.jpg",
+          "alt": "居酒屋菜單上常寫的 4 句：お通し代、飲み放題は2名様から、2時間制、現金のみ"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/izakaya-menu/05_chat.jpg",
+          "alt": "LINE 群組畫面示意：自己丟一張居酒屋菜單照片，LINE小幫手一道一道翻成中文並提醒お通し和稅"
+        }
+      ],
+      "buffer_post_id": "6af6dbbbb52ddd180244fddb"
+    },
+    {
+      "date_taipei": "2026-11-28",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-02a",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": false,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a.mp4",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02a_cover.jpg",
+          "alt": "reel cover"
+        }
+      ],
+      "text": "用這招 大阪來回少花四千多✈️\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
+      "buffer_post_id": "6afd8667812f982833122234"
+    },
+    {
       "date_taipei": "2026-11-29",
       "time_taipei": "12:00",
       "id": "thai-order",
@@ -955,6 +989,23 @@
         }
       ],
       "buffer_post_id": "6af6dbbafe8cb9dc19099464"
+    },
+    {
+      "date_taipei": "2026-11-29",
+      "time_taipei": "21:00",
+      "id": "reel-fare-watch-02b",
+      "topic": "盯機票 reel",
+      "type": "reel",
+      "ai_label": false,
+      "video": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b.mp4",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/reels/fare_watch_02b_cover.jpg",
+          "alt": "reel cover"
+        }
+      ],
+      "text": "別再每天自己刷機票了！\n想試的👉主頁連結點進去 加LINE好友就能用\n\n其實跟LINE群組裡的小幫手講一聲就好\n\n不管日期定了沒\n還是只知道想去日本、哪裡都好\n都可以丟給它 有便宜就會通知你\n\n不過降價通常撐不久\n通知一來手要快😂\n\n最近在揪日本行的朋友 快傳給他們！\n\n#便宜機票 #機票 #日本自由行 #日本旅遊 #機票優惠",
+      "buffer_post_id": "6afd8669812f98283312228f"
     },
     {
       "date_taipei": "2026-11-30",

@@ -1099,25 +1099,25 @@
     {
       "date_taipei": "2026-11-24",
       "time_taipei": "12:00",
-      "id": "applist-C1",
+      "id": "applist-kpop-01",
       "topic": "app list",
       "thread": [
         {
-          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
+          "text": "分享我搶韓國場一定會開的工具 ⤵",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
-              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/applist-kpop-01/01_apps.jpg",
+              "alt": "一排工具圖示：NOL World、time.is、Papago、okie（布丁圖示加 LINE 標誌）"
             }
           ]
         },
         {
-          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "text": "1. NOL World 🎫\n韓國演唱會 粉絲見面會的海外票很多都在這賣\n有簡中介面 不會韓文也能搶\n\n2. time.is ⏱️\n打開看首爾時間 對到秒\n首頁還會跟你說手機快了還是慢了\n\n3. Papago 🦜\n韓文公告 購票須知看不懂\nApp 裡貼網址 整頁翻成中文\n\n4. okie 🍮\n拉進搶票群組 講韓國時間它會自己換算\n叫它開賣前 10、5、1 分鐘 tag 全部人！\n\nLINE 搜尋 @okie.chat 加好友",
           "images": []
         }
       ],
-      "threads_topic": "韓國旅遊",
-      "buffer_post_id": "6af6c9871d6346d52a67cb48"
+      "threads_topic": "追星人",
+      "buffer_post_id": "6b041a1a20edac4e0c2c24ed"
     },
     {
       "date_taipei": "2026-11-24",
@@ -1938,6 +1938,29 @@
       ],
       "threads_topic": "歐洲旅遊",
       "buffer_post_id": "6af6ca6a6bb977bd3df19831"
+    },
+    {
+      "date_taipei": "2026-12-06",
+      "time_taipei": "17:00",
+      "id": "applist-C1",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
+              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6af6c9871d6346d52a67cb48"
     }
   ]
 }

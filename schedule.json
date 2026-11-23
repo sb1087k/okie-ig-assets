@@ -1099,6 +1099,29 @@
     {
       "date_taipei": "2026-11-24",
       "time_taipei": "12:00",
+      "id": "applist-C1",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
+              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6af6c9871d6346d52a67cb48"
+    },
+    {
+      "date_taipei": "2026-11-24",
+      "time_taipei": "17:00",
       "id": "text-K04",
       "topic": "crowd alternatives",
       "threads_topic": "日本旅遊",
@@ -1121,72 +1144,49 @@
     },
     {
       "date_taipei": "2026-11-24",
-      "time_taipei": "17:00",
-      "id": "text-D02",
-      "topic": "do/dont list",
-      "threads_topic": "日本溫泉",
-      "thread": [
-        {
-          "text": "泡日本溫泉、住日式旅館，我們都先講好「三要三不要」\n\n訂好旅館那天，我就會把這幾點貼給大家\n\n✅一要：先洗乾淨再下池\n坐在淋浴區用肥皂把全身洗乾淨、沖掉泡沫再進池；長頭髮要綁起來。\n\n✅二要：旅伴先拉 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組，它每天早上把當天行程和天氣傳到群組，山上早晚溫差大，出門前就知道要穿多少；懷石菜單也能拍照翻中文，不用另外下載 App\n\n✅三要：浴衣左襟在上\n左邊壓右邊才對，男女都一樣；右邊在上是往生者的穿法，這個我穿之前都會再確認一次。\n\n❌一不要：毛巾泡進池裡\n小毛巾放池邊或頂在頭上，溫泉是用來泡的，別在裡面游泳。\n\n❌二不要：有刺青直接進大浴場\n很多溫泉不讓刺青入池；有些接受用防水貼遮住小刺青，先問清楚，或訂有包租湯（貸切風呂）、房間附湯的旅館。\n\n❌三不要：穿拖鞋踩榻榻米\n進和室前脫拖鞋，行李箱用提的別拖；廁所有專用拖鞋，別穿出來。\n\n💛規矩看起來多，其實就是乾淨、安靜，泡完就懂為什麼大家愛日本溫泉。",
-          "images": []
-        },
-        {
-          "text": "上次去箱根住溫泉旅館，okie 每天早上 7 點把行程跟天氣傳到群組，大家起床看一眼就知道要穿多厚👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D02_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "buffer_post_id": "6af6c94f1d6346d52a67bfd7"
-    },
-    {
-      "date_taipei": "2026-11-24",
       "time_taipei": "20:00",
-      "id": "text-D06",
-      "topic": "do/dont list",
-      "threads_topic": "越南旅遊",
+      "id": "hakata-ramen-hardness",
+      "topic": "博多拉麵麵條硬度",
       "thread": [
         {
-          "text": "峴港／胡志明出發前，我跟朋友會記好「三要三不要」\n\n這幾點我都先丟群組\n\n✅一要：出發前辦好電子簽\n台灣護照要簽證，這個我最先做：上官方 evisa.gov.vn 申請，單次入境25美元，約3–7個工作天，最長停留90天。\n\n✅二要：旅伴先拉一個 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組：越南盾一筆動輒幾十萬，誰付多少直接丟給它記，最後幫我們算好誰轉誰多少，不用另外下載 App。\n\n✅三要：過馬路慢慢走\n機車很多，先看好來車、舉手示意，用一樣的速度直直走，中途別停下也別往回退。\n\n❌一不要：上路邊攬客的車\n外交部也有提醒，路邊來路不明的攬客車別上，很容易被坑；我都用 Grab 或 Xanh SM 叫車，在 App 裡下單最安心。\n\n❌二不要：穿太露進寺廟\n會安日本橋2026年8月就有遊客因為穿太露被擋在門外；細肩帶、熱褲、透膚衣先換掉。\n\n❌三不要：帶電子菸\n越南2025年起全面禁止電子菸和加熱菸，不能買也不能帶入境，被抓到在用可罰300–500萬越南盾。\n\n💛這幾件事記好，剩下的就是放心大吃河粉了",
-          "images": []
-        },
-        {
-          "text": "上次去峴港，越南盾零多到根本算不清，全丟給 okie 記，最後它直接列好誰轉誰多少👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "在博多吃拉麵，店員常會先問麵要多硬\n最硬的那種幾乎只燙一下🍜\n\n店員會問「麺の硬さは？」（men no katasa wa）：麵要多硬？\n從最硬到最軟大概是這樣，每家店不太一樣👇\n\n① 粉落とし（konaotoshi）：最硬，幾乎只燙一下\n② ハリガネ（harigane）：意思是鐵絲，就是很硬很硬\n③ バリカタ（barikata）：很硬，我會點這個，吃到後面也不會太軟\n④ カタ（kata）：偏硬\n⑤ 普通（futsu）：不知道選什麼就說這個\n⑥ やわ（yawa）：偏軟\n\n麵吃完湯還很多，跟店員說「替え玉」（kaedama）就能加一球麵\n通常要另外付錢\n\n有的店會給一張點餐單，讓你勾湯的濃淡、油量、蔥和蒜\n點餐單整張看不懂的話，我會拍照丟給 LINE 上的旅遊 AI @okie.chat\n它會一格一格翻成中文（下圖示意）\n\n要去福岡、博多的先存起來\n用法放留言～",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D06_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/hakata-ramen-hardness/01_chat.jpg",
+              "alt": "LINE 私訊畫面示意：拍一張拉麵店的點餐單給 okie，okie 把湯頭濃淡、油量、麵硬度、蔥、蒜一格一格翻成中文"
             }
           ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張點餐單」\n\n「バリカタ跟カタ差多少？」",
+          "images": []
         }
       ],
-      "buffer_post_id": "6af6c9773890f6d4a9ca8106"
+      "threads_topic": "福岡旅遊",
+      "buffer_post_id": "6af6f103bd1182b0d3eb80e2"
     },
     {
       "date_taipei": "2026-11-25",
       "time_taipei": "12:00",
-      "id": "applist-C1",
+      "id": "applist-B2",
       "topic": "app list",
       "thread": [
         {
-          "text": "去韓國前，這 4 個一定要裝 🇰🇷",
+          "text": "東京地鐵再也不會搭錯 🚇",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C1.jpg",
-              "alt": "一排手機 App 圖示：NAVER Map、k.ride、Papago、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
+              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
             }
           ]
         },
         {
-          "text": "1. NAVER Map 🗺️\n中文介面查地鐵公車，還會提醒我哪站要下車！\n\n2. k.ride 🚖\n綁台灣信用卡就能叫車，打中文跟司機聊天也通！\n\n3. Papago 🦜\n韓文菜單、招牌拍照就翻成繁中，沒網路也能翻文字！\n\n4. okie 🍮\n行程、景點、分帳都在旅遊群組裡問，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給我們，不用下載！\nLINE 搜尋 @okie.chat 加好友",
           "images": []
         }
       ],
-      "threads_topic": "韓國旅遊",
-      "buffer_post_id": "6af6c9871d6346d52a67cb48"
+      "threads_topic": "東京",
+      "buffer_post_id": "6af6ca116bb977bd3df1864e"
     },
     {
       "date_taipei": "2026-11-25",
@@ -1214,121 +1214,29 @@
     {
       "date_taipei": "2026-11-25",
       "time_taipei": "20:00",
-      "id": "applist-A7",
-      "topic": "app list",
+      "id": "konbini-phrases",
+      "topic": "日本超商結帳用語",
       "thread": [
         {
-          "text": "這些翻譯工具不該只有少數人知道！🗣️",
+          "text": "在日本超商結帳，店員常常連問好幾句\n出發前我先記這 6 句\n\n聽不懂就一直回「はい」（hai），便當可能被加熱、還多買一個袋子😅\n\n① 温めますか？（atatamemasu-ka）：要加熱嗎？\n② 袋はご利用ですか？（fukuro wa goriyo desu-ka）：要袋子嗎？（要錢）\n③ お箸おつけしますか？（ohashi otsuke shimasu-ka）：要附筷子嗎？\n④ ポイントカードはお持ちですか？（pointo kado wa omochi desu-ka）：有集點卡嗎？\n沒有就說「ないです」（nai desu）\n⑤ レシートはご利用ですか？（reshito wa goriyo desu-ka）：要收據嗎？\n⑥ お支払いは？（oshiharai wa）：怎麼付款？\n刷卡就說「カードで」（kado de）\n\n要就說「お願いします」（onegai shimasu）\n不要就說「大丈夫です」（daijobu desu）\n\n怕聽不懂，結帳時我會用 LINE 錄音私訊旅遊 AI @okie.chat\n它會翻成中文，也教我怎麼回（下圖示意）\n\n進超商前存起來看一眼\n用法放留言～",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
-              "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/konbini-phrases/01_chat.jpg",
+              "alt": "LINE 私訊畫面示意：先請 okie 幫忙翻譯，再把超商店員講的一句日文錄成語音傳過去，okie 回答是「お箸おつけしますか」（要附筷子嗎），並附羅馬拼音教要和不要怎麼回"
             }
           ]
         },
         {
-          "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\n\n4. okie 🍮\n菜單看不懂？丟進 LINE 群組就幫我們翻，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n先傳一句「等一下幫我翻店員講的話」，再按麥克風把日文錄下來傳給它\n\n「不要袋子日文怎麼說？」",
           "images": []
         }
       ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6c9b0cf5e7843507facb6"
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6f1079a21933fface256c"
     },
     {
       "date_taipei": "2026-11-26",
       "time_taipei": "12:00",
-      "id": "applist-A2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "出國前一晚，靠這幾個 AI 準備好一切 🧳",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A2.jpg",
-              "alt": "一排手機 App 圖示：Perplexity、Gemini Notebook、Wanderlog、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Perplexity 🔎\n查簽證、入境規定，每個答案都附上引用來源！\n\n2. Gemini Notebook 📒\n把遊記、YouTube 攻略丟進去，幫我整理重點還附出處！\n\n3. Wanderlog 🗺️\n行程、機票、訂房全放同一張地圖，朋友能一起即時編輯！\n\n4. okie 🍮\n加進 LINE 群組，一起排行程、幫我們設定提醒，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6c9c16bb977bd3df17132"
-    },
-    {
-      "date_taipei": "2026-11-26",
-      "time_taipei": "17:00",
-      "id": "applist-A4",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "最近出國發現的 4 個寶藏 App，忍不住想分享！💎",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A4.jpg",
-              "alt": "一排手機 App 圖示：Organic Maps、Flighty、Airalo、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Organic Maps 🧭\n地圖整個下載到手機，搜尋跟導航都不用網路，免費沒廣告！\n\n2. Flighty ✈️\n航班即時動態免費追，還能一鍵分享給要來接機的家人！\n\n3. Airalo 📶\n200 多個目的地的 eSIM，在 App 裡買完直接安裝！\n\n4. okie 🍮\n不用下載，加進 LINE 群組就幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6c9d33890f6d4a9ca9a98"
-    },
-    {
-      "date_taipei": "2026-11-26",
-      "time_taipei": "20:00",
-      "id": "applist-B6",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "跟朋友出國不吵架的秘密 🤫",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B6.jpg",
-              "alt": "一排手機 App 圖示：Funliday、Splitwise、TimeTree、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Funliday 📝\n大家一起編同一份行程，拖拉一下就排好！\n\n2. Splitwise 💸\n誰先付都記下來，最後自動算好誰該還誰，轉帳次數最少！\n\n3. TimeTree 📅\n共用行事曆，誰改了行程大家都會收到通知！\n\n4. okie 🍮\n直接加進旅遊 LINE 群組，記帳分帳、排行程大家一起用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6c9e33890f6d4a9ca9e26"
-    },
-    {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "12:00",
-      "id": "applist-B5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "旅伴一直問我怎麼都不會迷路 🧭",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
-              "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒我什麼時候該下車！\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴我從哪個出口出站最近！\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫我們排好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6c9f33890f6d4a9caa2f3"
-    },
-    {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "17:00",
       "id": "applist-A6",
       "topic": "app list",
       "thread": [
@@ -1350,394 +1258,7 @@
       "buffer_post_id": "6af6ca02cf5e7843507fc915"
     },
     {
-      "date_taipei": "2026-11-27",
-      "time_taipei": "20:00",
-      "id": "applist-B2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "東京地鐵再也不會搭錯 🚇",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B2.jpg",
-              "alt": "一排手機 App 圖示：Japan Transit Planner、Welcome Suica Mobile、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Japan Transit Planner 🚇\n輸入起訖站，路線、票價、要搭多久一次看清楚！\n\n2. Welcome Suica Mobile 💳\n不用註冊、不用排隊買卡，iPhone 直接開一張 Suica！\n\n3. okie 🍮\n在 LINE 群組問一句，景點推薦、每天行程直接排給我們，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "東京",
-      "buffer_post_id": "6af6ca116bb977bd3df1864e"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "10:00",
-      "id": "applist-C3",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "去泰國，手機裡留這 4 個就夠了 🛺",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C3.jpg",
-              "alt": "一排手機 App 圖示：Grab、Bolt、THIM、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Grab 🛵\n上車前就知道車資，刷卡、付現都可以！\n\n2. Bolt ⚡\n曼谷、普吉、清邁都叫得到車，機場接送還能提前預約！\n\n3. THIM 🛂\n泰國官方入境App，TDAC入境卡出發前在手機填好，全家可以一起送出！\n\n4. okie 🍮\n泰文菜單拍照就幫我們翻，行程、提醒也一起搞定，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "泰國旅遊",
-      "buffer_post_id": "6af6ca23ac315c828ef57850"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "17:00",
-      "id": "applist-A5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "早知道出國前就先裝這些了…😮‍💨",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
-              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6ca35cf5e7843507fd36a"
-    },
-    {
-      "date_taipei": "2026-11-28",
-      "time_taipei": "20:00",
-      "id": "applist-C5",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "冬天去北海道，這幾個先裝好 ❄️",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
-              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\n\n4. okie 🍮\n雪季行程幫我們排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "北海道",
-      "buffer_post_id": "6af6ca46d63384b8e43162e7"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "10:00",
-      "id": "applist-C2",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "首爾逛街買到手軟的秘密 🛍️",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C2.jpg",
-              "alt": "一排手機 App 圖示：WOWPASS、NAMANE、Creatrip、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. WOWPASS 💳\n台幣直接換韓幣存進卡，刷卡、搭地鐵一張搞定！\n\n2. NAMANE 🪪\n放自己喜歡的照片做成卡，逛街刷卡、搭車都能用！\n\n3. Creatrip 🛍️\n樂天、新羅、新世界免稅店優惠券，App 裡就領得到！\n\n4. okie 🍮\n買了什麼丟進群組就幫我們記帳，回國分帳一下就算好，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "首爾",
-      "buffer_post_id": "6af6ca586bb977bd3df19547"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "17:00",
-      "id": "applist-C6",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "第一次去歐洲，手機裡一定要有這些 🇪🇺",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C6.jpg",
-              "alt": "一排手機 App 圖示：Trainline、Citymapper、Google 翻譯、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Trainline 🚆\n歐洲火車、巴士票一個App比價訂好，車票直接存手機！\n\n2. Citymapper 🚏\n巴黎、倫敦、羅馬地鐵怎麼搭一查就懂，還有離線路線圖！\n\n3. Google 翻譯 🔤\n菜單、路牌鏡頭一照就翻成中文，沒網路也能翻！\n\n4. okie 🍮\n跨國行程幫我們排順，大家的花費記帳分帳一起算，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "歐洲旅遊",
-      "buffer_post_id": "6af6ca6a6bb977bd3df19831"
-    },
-    {
-      "date_taipei": "2026-11-29",
-      "time_taipei": "20:00",
-      "id": "solo-menu-words",
-      "topic": "一個人在日本吃飯看菜單",
-      "thread": [
-        {
-          "text": "一個人去日本，我最怕菜單上寫「2名様から」\n\n意思是要 2 個人以上才能點\n火鍋、套餐、喝到飽很常這樣寫\n\n所以一個人出門前，我會先記好這幾個字👇\n\n① 2名様から（ni-mei-sama kara）：2 人起，一個人不能點\n② 2人前から（ni-nin-mae kara）：最少點 2 份，一個人來也要點 2 份，不過有的店問一下可以只點 1 份\n③ お一人様歓迎（ohitori-sama kangei）：歡迎一個人來，看到這個我就放心進去\n④ カウンター席（kaunta seki）：吧台座位，一個人坐最自在\n⑤ お通し（otoshi）：沒點也會上的小菜，結帳會多一筆\n⑥ ワンドリンク制（wan dorinku sei）：每人至少要點一杯飲料\n⑦ 現金のみ（genkin nomi）：只收現金，不能刷卡\n\n整張菜單還是看不懂的話，我會拍照丟給 LINE 上的旅遊 AI @okie.chat\n問它「一個人能點哪些？」\n它會一道一道翻成中文，要 2 人或 2 份起的也會另外列出來（下圖示意）\n\n存起來，下次一個人去日本點菜前看一眼\n用法放留言～",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/solo-menu-words/01_chat.jpg",
-              "alt": "LINE 私訊畫面示意：自己丟一張牛腸鍋店的菜單照片問一個人能點哪些，okie 翻成中文，分成一個人可以點的和要 2 份或 2 人起的"
-            }
-          ]
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單，一個人能點哪些？」\n\n「這家要收お通し嗎？」",
-          "images": []
-        }
-      ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6db11b52ddd180244cc9d"
-    },
-    {
-      "date_taipei": "2026-11-30",
-      "time_taipei": "12:00",
-      "id": "text-T15",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "去大阪不花門票也能玩，我們會排這6個地方\n\n跟朋友去大阪，我很愛穿插幾個免費景點，走累了也不心疼門票\n\n𝟭 大阪城公園：我都只逛公園、看石垣，這些免費，只有進天守閣要買票\n𝟮 住吉大社：真心推，參拜免費，國寶本殿＋超陡的紅色反橋，南海住吉大社站走3分\n𝟯 造幣博物館：免費看日本硬幣怎麼做，9:00–16:45（16:00前要入館）\n𝟰 杯麵博物館大阪池田：入館免費，阪急池田站走5分（自己做杯麵另外收費）\n𝟱 うめきた公園（JR大阪站北側）：24小時開放，11/20新開「うめきたの森」，有瀑布水景，這個我一定排進去\n𝟲 中之島圖書館：重要文化財的百年建築，免費進館，週日休\n\n💡 省下的門票錢拿去吃。怎麼排比較順路，我都是問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T15_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "大阪",
-      "buffer_post_id": "6af6cbcb2960b358b6b73fd5"
-    },
-    {
-      "date_taipei": "2026-11-30",
-      "time_taipei": "17:00",
-      "id": "text-K05",
-      "topic": "crowd alternatives",
-      "threads_topic": "北海道旅遊",
-      "thread": [
-        {
-          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
-    },
-    {
-      "date_taipei": "2026-11-30",
-      "time_taipei": "20:00",
-      "id": "korea-chicken-banban",
-      "topic": "韓國炸雞點餐",
-      "thread": [
-        {
-          "text": "在韓國點炸雞選不出來，我會直接點「반반」（半半）🍗\n\n一隻雞分成兩種口味，最常見是原味＋甜辣醬\n兩種都吃得到，第一次吃最不會踩雷\n菜單上這幾個字我會先記好：\n\n① 후라이드（hu-ra-i-deu）：原味炸雞\n② 양념（yang-nyeom）：甜辣醬炸雞\n③ 간장（gan-jang）：醬油口味\n④ 반반（ban-ban）：一隻雞兩種口味各半，有些店可以自己選哪兩種\n⑤ 순살（sun-sal）：去骨，吃起來方便，通常要多加一點錢\n⑥ 한 마리（han ma-ri）：一整隻，菜單上的價錢通常就是一整隻\n⑦ 치킨무（chi-kin-mu）：附的醃蘿蔔，吃膩了配一口\n\n整張菜單看不懂的話，我會拍照丟到群組，問 LINE 上的旅遊 AI @okie.chat\n它會一道一道翻成中文，價錢也列出來（下圖示意）\n\n存起來，傳給旅伴裡負責點餐的那個\n用法放留言～",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/korea-chicken-banban/01_chat.jpg",
-              "alt": "LINE 群組畫面示意：一張韓文炸雞菜單，okie 把原味、甜辣醬、醬油、半半、改去骨、生啤酒翻成中文並列出價錢"
-            }
-          ]
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單」\n\n「我們 3 個人點這些，一人多少？」",
-          "images": []
-        }
-      ],
-      "threads_topic": "韓國旅遊",
-      "buffer_post_id": "6af6f102d414da1f7d9e4a70"
-    },
-    {
-      "date_taipei": "2026-12-01",
-      "time_taipei": "12:00",
-      "id": "applist-B4",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "日本吃東西不踩雷的秘密 🍣",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
-              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
-            }
-          ]
-        },
-        {
-          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
-          "images": []
-        }
-      ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6cb63d63384b8e431c41c"
-    },
-    {
-      "date_taipei": "2026-12-01",
-      "time_taipei": "17:00",
-      "id": "applist-A3",
-      "topic": "app list",
-      "thread": [
-        {
-          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
-              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
-            }
-          ]
-        },
-        {
-          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券用手機先訂好，入場直接秀手機就好\n\n3. okie 🍮\n我們直接加進 LINE 群組用，問景點、翻菜單都丟給它，不用另外下載\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
-          "images": []
-        }
-      ],
-      "threads_topic": "旅遊",
-      "buffer_post_id": "6af6cb18d63384b8e431b130"
-    },
-    {
-      "date_taipei": "2026-12-01",
-      "time_taipei": "20:00",
-      "id": "hakata-ramen-hardness",
-      "topic": "博多拉麵麵條硬度",
-      "thread": [
-        {
-          "text": "在博多吃拉麵，店員常會先問麵要多硬\n最硬的那種幾乎只燙一下🍜\n\n店員會問「麺の硬さは？」（men no katasa wa）：麵要多硬？\n從最硬到最軟大概是這樣，每家店不太一樣👇\n\n① 粉落とし（konaotoshi）：最硬，幾乎只燙一下\n② ハリガネ（harigane）：意思是鐵絲，就是很硬很硬\n③ バリカタ（barikata）：很硬，我會點這個，吃到後面也不會太軟\n④ カタ（kata）：偏硬\n⑤ 普通（futsu）：不知道選什麼就說這個\n⑥ やわ（yawa）：偏軟\n\n麵吃完湯還很多，跟店員說「替え玉」（kaedama）就能加一球麵\n通常要另外付錢\n\n有的店會給一張點餐單，讓你勾湯的濃淡、油量、蔥和蒜\n點餐單整張看不懂的話，我會拍照丟給 LINE 上的旅遊 AI @okie.chat\n它會一格一格翻成中文（下圖示意）\n\n要去福岡、博多的先存起來\n用法放留言～",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/hakata-ramen-hardness/01_chat.jpg",
-              "alt": "LINE 私訊畫面示意：拍一張拉麵店的點餐單給 okie，okie 把湯頭濃淡、油量、麵硬度、蔥、蒜一格一格翻成中文"
-            }
-          ]
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張點餐單」\n\n「バリカタ跟カタ差多少？」",
-          "images": []
-        }
-      ],
-      "threads_topic": "福岡旅遊",
-      "buffer_post_id": "6af6f103bd1182b0d3eb80e2"
-    },
-    {
-      "date_taipei": "2026-12-02",
-      "time_taipei": "12:00",
-      "id": "text-T08",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "泰國入境前，我們會先做好這6件事\n\n清單我直接丟群組，大家各自打勾\n\n① 我會在抵達前3天內上 tdac.immigration.go.th 填TDAC數位入境卡（免費，小孩也要填，每次入境都要重填）\n② 免簽變30天：2026/9/15起台灣觀光免簽從60天改成30天，行程別排超過\n③ 護照效期要超過抵達日6個月，至少留1頁空白頁\n④ 回程機票和旅費證明我都放手機（入境可能被抽查，要拿得出每人1萬泰銖、一家2萬泰銖）\n⑤ 電子菸、加熱菸別帶：在泰國持有、使用都違法\n⑥ 身上外幣超過等值2萬美元，入境要向海關申報\n\n🚀 TDAC 什麼時候填，我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T08_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "泰國旅遊",
-      "buffer_post_id": "6af6cb4fac315c828ef5fad2"
-    },
-    {
-      "date_taipei": "2026-12-02",
-      "time_taipei": "17:00",
-      "id": "text-T12",
-      "topic": "text list",
-      "thread": [
-        {
-          "text": "首爾在地人愛的平價美食，我跟朋友會排這8個\n\n去首爾我都把預算留給市場跟小吃，這幾個是我們群組的口袋名單\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，油炒年糕我一定點\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵，這個真心推\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "首爾",
-      "buffer_post_id": "6af6cb993890f6d4a9cb385b"
-    },
-    {
-      "date_taipei": "2026-12-02",
-      "time_taipei": "20:00",
-      "id": "thai-drink-sweetness",
-      "topic": "泰國手搖飲甜度冰塊",
-      "thread": [
-        {
-          "text": "在泰國點手搖，我一定先說「少甜」🧋\n攤子上的泰奶、泰綠茶不講的話，通常都很甜\n\n所以點之前我會先記好這幾句👇\n\n① หวานน้อย（wan noi）：少甜\n② ไม่หวาน（mai wan）：不要甜（完全不要糖說 ไม่หวานเลย，mai wan loei）\n③ หวานปกติ（wan pok-ka-ti）：正常甜\n④ น้ำแข็งน้อย（nam khaeng noi）：少冰\n⑤ ไม่ใส่น้ำแข็ง（mai sai nam khaeng）：不要冰塊\n⑥ ปั่น（pan）：打成冰沙\n⑦ ชาไทย（cha thai）：泰奶，看到這個就對了\n\n句尾加「ค่ะ」（ka，女生講）或「ครับ」（khrap，男生講）會比較有禮貌\n\n價目表全是泰文的話，我會拍照丟到群組，問 LINE 上的旅遊 AI @okie.chat\n它會一杯一杯翻成中文，價錢也列出來（下圖示意）\n\n要去泰國的先存起來，點飲料前打開唸就好\n用法放留言～",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/thai-drink-sweetness/01_chat.jpg",
-              "alt": "LINE 群組畫面示意：一張泰文飲料價目表，朋友請 okie 翻譯，okie 列出泰奶、泰綠茶、冰咖啡、可可、粉紅牛奶和價錢"
-            }
-          ]
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張飲料單」\n\n「少甜少冰泰文怎麼說？」",
-          "images": []
-        }
-      ],
-      "threads_topic": "泰國旅遊",
-      "buffer_post_id": "6af6f10466ff9797d87a1a27"
-    },
-    {
-      "date_taipei": "2026-12-03",
-      "time_taipei": "12:00",
-      "id": "split-rant-chuu",
-      "topic": "每次出國都當會計的人：跟 @okie.chat 說誰吃了什麼，它照品項分好（大阪燒肉，文字對話）",
-      "thread": [
-        {
-          "text": "每次出國都在當會計的人 真的辛苦了\n\n先幫大家墊錢 墊到卡費爆掉\n吃完飯還要一個一個問誰點了什麼\n算到半夜 還被說「怎麼跟我算的不一樣」…\n\n結果這次去大阪吃燒肉\n我直接在群組跟 @okie.chat 說誰吃了什麼\n它竟然馬上照每個人吃的分好了😭\n\n跟朋友出國都是你在算錢的 趕快拉它進群組用起來🫶🏻",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-rant-chuu/01_split.jpg",
-              "alt": "LINE 群組截圖：Chuu 說幫忙記帳，燒肉 ¥21,400 我付，和牛 ¥6,800 是我跟鉛筆點的，啤酒 ¥2,200 是高山的，其他大家分；okie 回燒肉記好了，再傳已記帳卡片：燒肉 ¥21,400，Chuu 付，10/31，Chuu ¥6,500、鉛筆 ¥6,500、高山 ¥5,300、星球 ¥3,100；星球回沒吃和牛的我終於不用跟著分了"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6afc2c809efcd3b26f696bbf"
-    },
-    {
-      "date_taipei": "2026-12-03",
+      "date_taipei": "2026-11-26",
       "time_taipei": "17:00",
       "id": "text-T17",
       "topic": "text list",
@@ -1760,7 +1281,72 @@
       "buffer_post_id": "6af6cb7bac315c828ef606b3"
     },
     {
-      "date_taipei": "2026-12-03",
+      "date_taipei": "2026-11-26",
+      "time_taipei": "20:00",
+      "id": "receipt-jp-chuu",
+      "topic": "跟朋友出國不用一個人當會計：日文收據拍給 @okie.chat，照誰吃什麼分好（淺草今半）",
+      "thread": [
+        {
+          "text": "跟朋友出國，終於不用一個人當會計了😭\n以前每次都是我對著看不懂的日文收據 算誰吃什麼算半天^_^⋯⋯\n\n去淺草吃壽喜燒那天，收據拍給群組裡的 @okie.chat\n再跟它說誰吃哪個\n結果它竟然連服務費都幫我們分好了！\n\n每次都被抓去當會計的，真的一定要用這個🫶🏻",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/receipt-jp-chuu/01_receipt.jpg",
+              "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片，說幫忙記帳、我吃菲力還有喝啤酒、神戶牛是鉛筆的；okie 回已記帳卡片：浅草今半 ¥31,897，Chuu 付，10/9，Chuu ¥16,454、鉛筆 ¥15,443；鉛筆回這次不用等你算到半夜了"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6afc2c839efcd3b26f696c8d"
+    },
+    {
+      "date_taipei": "2026-11-27",
+      "time_taipei": "12:00",
+      "id": "applist-C5",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "冬天去北海道，這幾個先裝好 ❄️",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C5.jpg",
+              "alt": "一排手機 App 圖示：GO、Safety tips、Japan Travel、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. GO 🚕\n北海道也叫得到計程車，台灣手機號就能註冊，還有繁中！\n\n2. Safety tips 🚨\n日本觀光廳監修的免費App，天氣警報、地震速報用繁中推播！\n\n3. Japan Travel 🚉\nJR、地鐵怎麼轉一查就有，查過的路線沒網路也能看！\n\n4. okie 🍮\n雪季行程幫我們排好，出發時間設定提醒，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "北海道",
+      "buffer_post_id": "6af6ca46d63384b8e43162e7"
+    },
+    {
+      "date_taipei": "2026-11-27",
+      "time_taipei": "17:00",
+      "id": "text-T15",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "去大阪不花門票也能玩，我們會排這6個地方\n\n跟朋友去大阪，我很愛穿插幾個免費景點，走累了也不心疼門票\n\n𝟭 大阪城公園：我都只逛公園、看石垣，這些免費，只有進天守閣要買票\n𝟮 住吉大社：真心推，參拜免費，國寶本殿＋超陡的紅色反橋，南海住吉大社站走3分\n𝟯 造幣博物館：免費看日本硬幣怎麼做，9:00–16:45（16:00前要入館）\n𝟰 杯麵博物館大阪池田：入館免費，阪急池田站走5分（自己做杯麵另外收費）\n𝟱 うめきた公園（JR大阪站北側）：24小時開放，11/20新開「うめきたの森」，有瀑布水景，這個我一定排進去\n𝟲 中之島圖書館：重要文化財的百年建築，免費進館，週日休\n\n💡 省下的門票錢拿去吃。怎麼排比較順路，我都是問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T15_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "大阪",
+      "buffer_post_id": "6af6cbcb2960b358b6b73fd5"
+    },
+    {
+      "date_taipei": "2026-11-27",
       "time_taipei": "20:00",
       "id": "yakiniku-cuts",
       "topic": "日本燒肉部位",
@@ -1783,31 +1369,326 @@
       "buffer_post_id": "6af6f10666ff9797d87a1a79"
     },
     {
-      "date_taipei": "2026-12-04",
+      "date_taipei": "2026-11-28",
       "time_taipei": "12:00",
-      "id": "text-D05",
-      "topic": "do/dont list",
-      "threads_topic": "泰國旅遊",
+      "id": "applist-B4",
+      "topic": "app list",
       "thread": [
         {
-          "text": "要跟朋友去泰國的話，我們會先講好這「三要三不要」\n\n行前討論我會直接拿這幾點來講\n\n✅一要：進寺廟穿有袖、過膝\n大皇宮不讓無袖、短褲、迷你裙進場，一般寺廟也一樣；進佛殿要脫鞋，帽子和墨鏡先拿下。\n\n✅二要：旅伴先拉一個 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組：按摩、嘟嘟車、夜市都用泰銖丟給它記，最後一句話算好誰該給誰多少，不用另外下載 App。\n\n✅三要：抵達前3天內填TDAC\nTDAC 就是泰國的線上入境卡，這個我一定先做：只在官網 tdac.immigration.go.th 免費填，小孩也要填；台灣免簽9/15起從60天縮短為30天。\n\n❌一不要：摸別人的頭\n泰國人視頭為最神聖的部位，連小朋友的頭都別摸；腳則是最低的，別用腳指人或對著佛像。\n\n❌二不要：批評王室\n冒犯王室觸犯刑法112條，每項罪名最重可判15年，觀光客也適用，網路發文也算。\n\n❌三不要：帶電子菸\n在泰國持有、使用電子菸和加熱菸都違法，可能被沒收、罰款甚至拘留，行李裡也別放。\n\n💛記住這6點，就能安心享受泰國的微笑",
+          "text": "日本吃東西不踩雷的秘密 🍣",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B4.jpg",
+              "alt": "一排手機 App 圖示：Tabelog、Payke、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Tabelog 🍣\n全日本 80 萬家餐廳的真實評分，看到喜歡的還能直接訂位！\n\n2. Payke 🔍\n零食、飲料掃一下條碼，成分說明直接翻成中文！\n\n3. okie 🍮\n菜單拍照丟進 LINE 群組就幫我們翻譯，吃完分帳也幫我們算好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6cb63d63384b8e431c41c"
+    },
+    {
+      "date_taipei": "2026-11-28",
+      "time_taipei": "17:00",
+      "id": "korea-chicken-banban",
+      "topic": "韓國炸雞點餐",
+      "thread": [
+        {
+          "text": "在韓國點炸雞選不出來，我會直接點「반반」（半半）🍗\n\n一隻雞分成兩種口味，最常見是原味＋甜辣醬\n兩種都吃得到，第一次吃最不會踩雷\n菜單上這幾個字我會先記好：\n\n① 후라이드（hu-ra-i-deu）：原味炸雞\n② 양념（yang-nyeom）：甜辣醬炸雞\n③ 간장（gan-jang）：醬油口味\n④ 반반（ban-ban）：一隻雞兩種口味各半，有些店可以自己選哪兩種\n⑤ 순살（sun-sal）：去骨，吃起來方便，通常要多加一點錢\n⑥ 한 마리（han ma-ri）：一整隻，菜單上的價錢通常就是一整隻\n⑦ 치킨무（chi-kin-mu）：附的醃蘿蔔，吃膩了配一口\n\n整張菜單看不懂的話，我會拍照丟到群組，問 LINE 上的旅遊 AI @okie.chat\n它會一道一道翻成中文，價錢也列出來（下圖示意）\n\n存起來，傳給旅伴裡負責點餐的那個\n用法放留言～",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/korea-chicken-banban/01_chat.jpg",
+              "alt": "LINE 群組畫面示意：一張韓文炸雞菜單，okie 把原味、甜辣醬、醬油、半半、改去骨、生啤酒翻成中文並列出價錢"
+            }
+          ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單」\n\n「我們 3 個人點這些，一人多少？」",
+          "images": []
+        }
+      ],
+      "threads_topic": "韓國旅遊",
+      "buffer_post_id": "6af6f102d414da1f7d9e4a70"
+    },
+    {
+      "date_taipei": "2026-11-28",
+      "time_taipei": "20:00",
+      "id": "solo-menu-words",
+      "topic": "一個人在日本吃飯看菜單",
+      "thread": [
+        {
+          "text": "一個人去日本，我最怕菜單上寫「2名様から」\n\n意思是要 2 個人以上才能點\n火鍋、套餐、喝到飽很常這樣寫\n\n所以一個人出門前，我會先記好這幾個字👇\n\n① 2名様から（ni-mei-sama kara）：2 人起，一個人不能點\n② 2人前から（ni-nin-mae kara）：最少點 2 份，一個人來也要點 2 份，不過有的店問一下可以只點 1 份\n③ お一人様歓迎（ohitori-sama kangei）：歡迎一個人來，看到這個我就放心進去\n④ カウンター席（kaunta seki）：吧台座位，一個人坐最自在\n⑤ お通し（otoshi）：沒點也會上的小菜，結帳會多一筆\n⑥ ワンドリンク制（wan dorinku sei）：每人至少要點一杯飲料\n⑦ 現金のみ（genkin nomi）：只收現金，不能刷卡\n\n整張菜單還是看不懂的話，我會拍照丟給 LINE 上的旅遊 AI @okie.chat\n問它「一個人能點哪些？」\n它會一道一道翻成中文，要 2 人或 2 份起的也會另外列出來（下圖示意）\n\n存起來，下次一個人去日本點菜前看一眼\n用法放留言～",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/solo-menu-words/01_chat.jpg",
+              "alt": "LINE 私訊畫面示意：自己丟一張牛腸鍋店的菜單照片問一個人能點哪些，okie 翻成中文，分成一個人可以點的和要 2 份或 2 人起的"
+            }
+          ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單，一個人能點哪些？」\n\n「這家要收お通し嗎？」",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6db11b52ddd180244cc9d"
+    },
+    {
+      "date_taipei": "2026-11-29",
+      "time_taipei": "12:00",
+      "id": "applist-A5",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "早知道出國前就先裝這些了…😮‍💨",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A5.jpg",
+              "alt": "一排手機 App 圖示：Uber、Airalo、Klook、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Uber 🚗\n叫車前先看預估車資，全球 1 萬多個城市都能叫！\n\n2. Airalo 📶\n落地就能上網，不用在機場排隊找 SIM 卡！\n\n3. Klook 🎟️\n交通票券、門票先買好，憑證能提前下載離線出示！\n\n4. okie 🍮\n加進旅遊 LINE 群組，誰付了多少它幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6ca35cf5e7843507fd36a"
+    },
+    {
+      "date_taipei": "2026-11-29",
+      "time_taipei": "17:00",
+      "id": "text-T12",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "首爾在地人愛的平價美食，我跟朋友會排這8個\n\n去首爾我都把預算留給市場跟小吃，這幾個是我們群組的口袋名單\n\n𝟭 望遠市場（弘大旁）：可樂餅、甜辣炸雞塊邊走邊吃，望遠站2號出口走8分鐘\n𝟮 孔德市場煎餅巷：煎餅秤重自己挑，旁邊就是豬腳巷\n𝟯 通仁市場：換銅錢自己夾菜做便當，油炒年糕我一定點\n𝟰 廣藏市場：現煎綠豆煎餅配麻藥飯捲\n𝟱 南大門刀切麵巷：麵手工切，小菜給很多（會賢站5號出口對面）\n𝟲 東大門一隻雞巷：整隻雞下鍋，吃完用湯煮麵，這個真心推\n𝟳 新堂洞辣炒年糕街：鍋子端上桌自己煮，辣炒年糕的發源地\n𝟴 明洞餃子：1966年開到現在，菜單只有4樣，自製大蒜泡菜很夠味\n\n🚀 這些我都是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
           "images": []
         },
         {
-          "text": "上次去清邁，三個人的按摩、嘟嘟車錢都丟給 okie 記，回國前一句話就算好誰該給誰👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D05_chat.jpg",
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T12_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
         }
       ],
-      "buffer_post_id": "6af6c8ca6bb977bd3df13b6f"
+      "threads_topic": "首爾",
+      "buffer_post_id": "6af6cb993890f6d4a9cb385b"
     },
     {
-      "date_taipei": "2026-12-04",
+      "date_taipei": "2026-11-29",
+      "time_taipei": "20:00",
+      "id": "text-K05",
+      "topic": "crowd alternatives",
+      "threads_topic": "北海道旅遊",
+      "thread": [
+        {
+          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
+    },
+    {
+      "date_taipei": "2026-11-30",
+      "time_taipei": "12:00",
+      "id": "applist-A4",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "最近出國發現的 4 個寶藏 App，忍不住想分享！💎",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A4.jpg",
+              "alt": "一排手機 App 圖示：Organic Maps、Flighty、Airalo、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Organic Maps 🧭\n地圖整個下載到手機，搜尋跟導航都不用網路，免費沒廣告！\n\n2. Flighty ✈️\n航班即時動態免費追，還能一鍵分享給要來接機的家人！\n\n3. Airalo 📶\n200 多個目的地的 eSIM，在 App 裡買完直接安裝！\n\n4. okie 🍮\n不用下載，加進 LINE 群組就幫我們記帳分帳！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6c9d33890f6d4a9ca9a98"
+    },
+    {
+      "date_taipei": "2026-11-30",
       "time_taipei": "17:00",
+      "id": "text-D02",
+      "topic": "do/dont list",
+      "threads_topic": "日本溫泉",
+      "thread": [
+        {
+          "text": "泡日本溫泉、住日式旅館，我們都先講好「三要三不要」\n\n訂好旅館那天，我就會把這幾點貼給大家\n\n✅一要：先洗乾淨再下池\n坐在淋浴區用肥皂把全身洗乾淨、沖掉泡沫再進池；長頭髮要綁起來。\n\n✅二要：旅伴先拉 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組，它每天早上把當天行程和天氣傳到群組，山上早晚溫差大，出門前就知道要穿多少；懷石菜單也能拍照翻中文，不用另外下載 App\n\n✅三要：浴衣左襟在上\n左邊壓右邊才對，男女都一樣；右邊在上是往生者的穿法，這個我穿之前都會再確認一次。\n\n❌一不要：毛巾泡進池裡\n小毛巾放池邊或頂在頭上，溫泉是用來泡的，別在裡面游泳。\n\n❌二不要：有刺青直接進大浴場\n很多溫泉不讓刺青入池；有些接受用防水貼遮住小刺青，先問清楚，或訂有包租湯（貸切風呂）、房間附湯的旅館。\n\n❌三不要：穿拖鞋踩榻榻米\n進和室前脫拖鞋，行李箱用提的別拖；廁所有專用拖鞋，別穿出來。\n\n💛規矩看起來多，其實就是乾淨、安靜，泡完就懂為什麼大家愛日本溫泉。",
+          "images": []
+        },
+        {
+          "text": "上次去箱根住溫泉旅館，okie 每天早上 7 點把行程跟天氣傳到群組，大家起床看一眼就知道要穿多厚👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D02_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6c94f1d6346d52a67bfd7"
+    },
+    {
+      "date_taipei": "2026-11-30",
+      "time_taipei": "20:00",
+      "id": "thai-drink-sweetness",
+      "topic": "泰國手搖飲甜度冰塊",
+      "thread": [
+        {
+          "text": "在泰國點手搖，我一定先說「少甜」🧋\n攤子上的泰奶、泰綠茶不講的話，通常都很甜\n\n所以點之前我會先記好這幾句👇\n\n① หวานน้อย（wan noi）：少甜\n② ไม่หวาน（mai wan）：不要甜（完全不要糖說 ไม่หวานเลย，mai wan loei）\n③ หวานปกติ（wan pok-ka-ti）：正常甜\n④ น้ำแข็งน้อย（nam khaeng noi）：少冰\n⑤ ไม่ใส่น้ำแข็ง（mai sai nam khaeng）：不要冰塊\n⑥ ปั่น（pan）：打成冰沙\n⑦ ชาไทย（cha thai）：泰奶，看到這個就對了\n\n句尾加「ค่ะ」（ka，女生講）或「ครับ」（khrap，男生講）會比較有禮貌\n\n價目表全是泰文的話，我會拍照丟到群組，問 LINE 上的旅遊 AI @okie.chat\n它會一杯一杯翻成中文，價錢也列出來（下圖示意）\n\n要去泰國的先存起來，點飲料前打開唸就好\n用法放留言～",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/thai-drink-sweetness/01_chat.jpg",
+              "alt": "LINE 群組畫面示意：一張泰文飲料價目表，朋友請 okie 翻譯，okie 列出泰奶、泰綠茶、冰咖啡、可可、粉紅牛奶和價錢"
+            }
+          ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張飲料單」\n\n「少甜少冰泰文怎麼說？」",
+          "images": []
+        }
+      ],
+      "threads_topic": "泰國旅遊",
+      "buffer_post_id": "6af6f10466ff9797d87a1a27"
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "12:00",
+      "id": "applist-C2",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "首爾逛街買到手軟的秘密 🛍️",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C2.jpg",
+              "alt": "一排手機 App 圖示：WOWPASS、NAMANE、Creatrip、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. WOWPASS 💳\n台幣直接換韓幣存進卡，刷卡、搭地鐵一張搞定！\n\n2. NAMANE 🪪\n放自己喜歡的照片做成卡，逛街刷卡、搭車都能用！\n\n3. Creatrip 🛍️\n樂天、新羅、新世界免稅店優惠券，App 裡就領得到！\n\n4. okie 🍮\n買了什麼丟進群組就幫我們記帳，回國分帳一下就算好，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "首爾",
+      "buffer_post_id": "6af6ca586bb977bd3df19547"
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "17:00",
+      "id": "text-T08",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "泰國入境前，我們會先做好這6件事\n\n清單我直接丟群組，大家各自打勾\n\n① 我會在抵達前3天內上 tdac.immigration.go.th 填TDAC數位入境卡（免費，小孩也要填，每次入境都要重填）\n② 免簽變30天：2026/9/15起台灣觀光免簽從60天改成30天，行程別排超過\n③ 護照效期要超過抵達日6個月，至少留1頁空白頁\n④ 回程機票和旅費證明我都放手機（入境可能被抽查，要拿得出每人1萬泰銖、一家2萬泰銖）\n⑤ 電子菸、加熱菸別帶：在泰國持有、使用都違法\n⑥ 身上外幣超過等值2萬美元，入境要向海關申報\n\n🚀 TDAC 什麼時候填，我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T08_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "泰國旅遊",
+      "buffer_post_id": "6af6cb4fac315c828ef5fad2"
+    },
+    {
+      "date_taipei": "2026-12-01",
+      "time_taipei": "20:00",
+      "id": "applist-B6",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "跟朋友出國不吵架的秘密 🤫",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B6.jpg",
+              "alt": "一排手機 App 圖示：Funliday、Splitwise、TimeTree、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Funliday 📝\n大家一起編同一份行程，拖拉一下就排好！\n\n2. Splitwise 💸\n誰先付都記下來，最後自動算好誰該還誰，轉帳次數最少！\n\n3. TimeTree 📅\n共用行事曆，誰改了行程大家都會收到通知！\n\n4. okie 🍮\n直接加進旅遊 LINE 群組，記帳分帳、排行程大家一起用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6c9e33890f6d4a9ca9e26"
+    },
+    {
+      "date_taipei": "2026-12-02",
+      "time_taipei": "12:00",
+      "id": "split-rant-chuu",
+      "topic": "每次出國都當會計的人：跟 @okie.chat 說誰吃了什麼，它照品項分好（大阪燒肉，文字對話）",
+      "thread": [
+        {
+          "text": "每次出國都在當會計的人 真的辛苦了\n\n先幫大家墊錢 墊到卡費爆掉\n吃完飯還要一個一個問誰點了什麼\n算到半夜 還被說「怎麼跟我算的不一樣」…\n\n結果這次去大阪吃燒肉\n我直接在群組跟 @okie.chat 說誰吃了什麼\n它竟然馬上照每個人吃的分好了😭\n\n跟朋友出國都是你在算錢的 趕快拉它進群組用起來🫶🏻",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/split-rant-chuu/01_split.jpg",
+              "alt": "LINE 群組截圖：Chuu 說幫忙記帳，燒肉 ¥21,400 我付，和牛 ¥6,800 是我跟鉛筆點的，啤酒 ¥2,200 是高山的，其他大家分；okie 回燒肉記好了，再傳已記帳卡片：燒肉 ¥21,400，Chuu 付，10/31，Chuu ¥6,500、鉛筆 ¥6,500、高山 ¥5,300、星球 ¥3,100；星球回沒吃和牛的我終於不用跟著分了"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6afc2c809efcd3b26f696bbf"
+    },
+    {
+      "date_taipei": "2026-12-02",
+      "time_taipei": "17:00",
+      "id": "applist-B5",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "旅伴一直問我怎麼都不會迷路 🧭",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/B5.jpg",
+              "alt": "一排手機 App 圖示：Google 地圖、NAVER Map、Citymapper、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Google 地圖 📍\n出發前先下載離線地圖，沒網路也不怕迷路！\n\n2. NAVER Map 🗺️\n去韓國用它，有中文地圖，還會提醒我什麼時候該下車！\n\n3. Citymapper 🚏\n下一班車幾分到即時看，還告訴我從哪個出口出站最近！\n\n4. okie 🍮\n想去哪在 LINE 群組問，景點推薦、順路行程幫我們排好，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6c9f33890f6d4a9caa2f3"
+    },
+    {
+      "date_taipei": "2026-12-02",
+      "time_taipei": "20:00",
       "id": "text-T14",
       "topic": "text list",
       "thread": [
@@ -1829,8 +1710,77 @@
       "buffer_post_id": "6af6cb6cac315c828ef601a5"
     },
     {
-      "date_taipei": "2026-12-04",
+      "date_taipei": "2026-12-03",
+      "time_taipei": "12:00",
+      "id": "applist-A2",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "出國前一晚，靠這幾個 AI 準備好一切 🧳",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A2.jpg",
+              "alt": "一排手機 App 圖示：Perplexity、Gemini Notebook、Wanderlog、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Perplexity 🔎\n查簽證、入境規定，每個答案都附上引用來源！\n\n2. Gemini Notebook 📒\n把遊記、YouTube 攻略丟進去，幫我整理重點還附出處！\n\n3. Wanderlog 🗺️\n行程、機票、訂房全放同一張地圖，朋友能一起即時編輯！\n\n4. okie 🍮\n加進 LINE 群組，一起排行程、幫我們設定提醒，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6c9c16bb977bd3df17132"
+    },
+    {
+      "date_taipei": "2026-12-03",
+      "time_taipei": "17:00",
+      "id": "text-D04",
+      "topic": "do/dont list",
+      "threads_topic": "新加坡旅遊",
+      "thread": [
+        {
+          "text": "新加坡規矩多，我們出發前先記好「三要三不要」\n\n落地前大家都看一遍\n\n✅一要：入境卡提前填\nSG Arrival Card 我都在抵達前3天內（含抵達當天）用 ICA 官網或 MyICA App 填，免費，別用收費代辦網站。\n\n✅二要：旅伴拉個LINE群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組，小販中心吃什麼直接用中文問，大家輪流付的新幣它也幫忙記帳，最後算好誰給誰多少，不用另外下載 App。\n\n✅三要：吃完自己收餐盤\n在小販中心、咖啡店吃完，要把托盤、碗盤和用過的衛生紙拿到回收處。第一次被抓會收到書面警告，再犯就是罰款。\n\n❌一不要：帶電子菸\n在新加坡持有、使用電子菸都違法，個人最高可罰 S$10,000，短期旅客再犯會被禁止再入境。\n\n❌二不要：在地鐵公車上吃喝\nMRT 上吃東西、喝飲料最高罰 S$500，2026年9月起公車上吃喝也一樣最高罰 S$500。\n\n❌三不要：帶口香糖入境\n口香糖是禁止帶進新加坡的物品（核准的醫療用口香糖除外），出發前把包包裡的先清掉。\n\n💛規矩記熟了，新加坡乾淨又好逛，玩起來很安心",
+          "images": []
+        },
+        {
+          "text": "上次三個人去新加坡，小販中心誰付了幾塊新幣都丟給 okie 記，回台灣前一句話就算好誰該給誰👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D04_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6c8a3ac315c828ef52191"
+    },
+    {
+      "date_taipei": "2026-12-03",
       "time_taipei": "20:00",
+      "id": "applist-A3",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "用了才發現，原來出國可以這麼輕鬆？👀",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A3.jpg",
+              "alt": "一排手機 App 圖示：Google 地圖、Klook、okie、Google 翻譯"
+            }
+          ]
+        },
+        {
+          "text": "1. Google 地圖 📍\n出發前用街景先看環境，還能查哪裡人多先避開！\n\n2. Klook 🎟️\n景點門票、交通票券用手機先訂好，入場直接秀手機就好\n\n3. okie 🍮\n我們直接加進 LINE 群組用，問景點、翻菜單都丟給它，不用另外下載\nLINE 搜尋 @okie.chat 加好友\n\n4. Google 翻譯 🔤\n鏡頭對準看板就即時翻譯，下載語言還能離線用！",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6cb18d63384b8e431b130"
+    },
+    {
+      "date_taipei": "2026-12-04",
+      "time_taipei": "12:00",
       "id": "split-pool-chuu",
       "topic": "出國收公費的人：公費交給 @okie.chat 記，用公費付的烤肉照誰喝燒酒分，順便說公費還剩多少（首爾烤肉，文字對話）",
       "thread": [
@@ -1852,8 +1802,54 @@
       "buffer_post_id": "6afc2c81b587675a0d11975a"
     },
     {
+      "date_taipei": "2026-12-04",
+      "time_taipei": "17:00",
+      "id": "applist-A7",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "這些翻譯工具不該只有少數人知道！🗣️",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/A7.jpg",
+              "alt": "一排手機 App 圖示：Papago、VoiceTra、Google 翻譯、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Papago 🦜\n拍照就翻譯，還能雙方各講各的語言直接對話！\n\n2. VoiceTra 🗣️\n日本國立研究機構做的，說一句就用語音唸出翻譯，免費！\n\n3. Google 翻譯 🔤\n兩個人各說各的語言，對話直接即時翻譯！\n\n4. okie 🍮\n菜單看不懂？丟進 LINE 群組就幫我們翻，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "旅遊",
+      "buffer_post_id": "6af6c9b0cf5e7843507facb6"
+    },
+    {
+      "date_taipei": "2026-12-04",
+      "time_taipei": "20:00",
+      "id": "text-D05",
+      "topic": "do/dont list",
+      "threads_topic": "泰國旅遊",
+      "thread": [
+        {
+          "text": "要跟朋友去泰國的話，我們會先講好這「三要三不要」\n\n行前討論我會直接拿這幾點來講\n\n✅一要：進寺廟穿有袖、過膝\n大皇宮不讓無袖、短褲、迷你裙進場，一般寺廟也一樣；進佛殿要脫鞋，帽子和墨鏡先拿下。\n\n✅二要：旅伴先拉一個 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組：按摩、嘟嘟車、夜市都用泰銖丟給它記，最後一句話算好誰該給誰多少，不用另外下載 App。\n\n✅三要：抵達前3天內填TDAC\nTDAC 就是泰國的線上入境卡，這個我一定先做：只在官網 tdac.immigration.go.th 免費填，小孩也要填；台灣免簽9/15起從60天縮短為30天。\n\n❌一不要：摸別人的頭\n泰國人視頭為最神聖的部位，連小朋友的頭都別摸；腳則是最低的，別用腳指人或對著佛像。\n\n❌二不要：批評王室\n冒犯王室觸犯刑法112條，每項罪名最重可判15年，觀光客也適用，網路發文也算。\n\n❌三不要：帶電子菸\n在泰國持有、使用電子菸和加熱菸都違法，可能被沒收、罰款甚至拘留，行李裡也別放。\n\n💛記住這6點，就能安心享受泰國的微笑",
+          "images": []
+        },
+        {
+          "text": "上次去清邁，三個人的按摩、嘟嘟車錢都丟給 okie 記，回國前一句話就算好誰該給誰👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6c8ca6bb977bd3df13b6f"
+    },
+    {
       "date_taipei": "2026-12-05",
-      "time_taipei": "10:00",
+      "time_taipei": "12:00",
       "id": "applist-B7",
       "topic": "app list",
       "thread": [
@@ -1877,67 +1873,71 @@
     {
       "date_taipei": "2026-12-05",
       "time_taipei": "17:00",
-      "id": "receipt-jp-chuu",
-      "topic": "跟朋友出國不用一個人當會計：日文收據拍給 @okie.chat，照誰吃什麼分好（淺草今半）",
-      "thread": [
-        {
-          "text": "跟朋友出國，終於不用一個人當會計了😭\n以前每次都是我對著看不懂的日文收據 算誰吃什麼算半天^_^⋯⋯\n\n去淺草吃壽喜燒那天，收據拍給群組裡的 @okie.chat\n再跟它說誰吃哪個\n結果它竟然連服務費都幫我們分好了！\n\n每次都被抓去當會計的，真的一定要用這個🫶🏻",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/receipt-jp-chuu/01_receipt.jpg",
-              "alt": "LINE 群組截圖：傳淺草今半壽喜燒的日文收據照片，說幫忙記帳、我吃菲力還有喝啤酒、神戶牛是鉛筆的；okie 回已記帳卡片：浅草今半 ¥31,897，Chuu 付，10/9，Chuu ¥16,454、鉛筆 ¥15,443；鉛筆回這次不用等你算到半夜了"
-            }
-          ]
-        }
-      ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6afc2c839efcd3b26f696c8d"
-    },
-    {
-      "date_taipei": "2026-12-05",
-      "time_taipei": "20:00",
-      "id": "konbini-phrases",
-      "topic": "日本超商結帳用語",
-      "thread": [
-        {
-          "text": "在日本超商結帳，店員常常連問好幾句\n出發前我先記這 6 句\n\n聽不懂就一直回「はい」（hai），便當可能被加熱、還多買一個袋子😅\n\n① 温めますか？（atatamemasu-ka）：要加熱嗎？\n② 袋はご利用ですか？（fukuro wa goriyo desu-ka）：要袋子嗎？（要錢）\n③ お箸おつけしますか？（ohashi otsuke shimasu-ka）：要附筷子嗎？\n④ ポイントカードはお持ちですか？（pointo kado wa omochi desu-ka）：有集點卡嗎？\n沒有就說「ないです」（nai desu）\n⑤ レシートはご利用ですか？（reshito wa goriyo desu-ka）：要收據嗎？\n⑥ お支払いは？（oshiharai wa）：怎麼付款？\n刷卡就說「カードで」（kado de）\n\n要就說「お願いします」（onegai shimasu）\n不要就說「大丈夫です」（daijobu desu）\n\n怕聽不懂，結帳時我會用 LINE 錄音私訊旅遊 AI @okie.chat\n它會翻成中文，也教我怎麼回（下圖示意）\n\n進超商前存起來看一眼\n用法放留言～",
-          "images": [
-            {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/konbini-phrases/01_chat.jpg",
-              "alt": "LINE 私訊畫面示意：先請 okie 幫忙翻譯，再把超商店員講的一句日文錄成語音傳過去，okie 回答是「お箸おつけしますか」（要附筷子嗎），並附羅馬拼音教要和不要怎麼回"
-            }
-          ]
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n先傳一句「等一下幫我翻店員講的話」，再按麥克風把日文錄下來傳給它\n\n「不要袋子日文怎麼說？」",
-          "images": []
-        }
-      ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6f1079a21933fface256c"
-    },
-    {
-      "date_taipei": "2026-12-06",
-      "time_taipei": "10:00",
-      "id": "text-D04",
+      "id": "text-D06",
       "topic": "do/dont list",
-      "threads_topic": "新加坡旅遊",
+      "threads_topic": "越南旅遊",
       "thread": [
         {
-          "text": "新加坡規矩多，我們出發前先記好「三要三不要」\n\n落地前大家都看一遍\n\n✅一要：入境卡提前填\nSG Arrival Card 我都在抵達前3天內（含抵達當天）用 ICA 官網或 MyICA App 填，免費，別用收費代辦網站。\n\n✅二要：旅伴拉個LINE群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組，小販中心吃什麼直接用中文問，大家輪流付的新幣它也幫忙記帳，最後算好誰給誰多少，不用另外下載 App。\n\n✅三要：吃完自己收餐盤\n在小販中心、咖啡店吃完，要把托盤、碗盤和用過的衛生紙拿到回收處。第一次被抓會收到書面警告，再犯就是罰款。\n\n❌一不要：帶電子菸\n在新加坡持有、使用電子菸都違法，個人最高可罰 S$10,000，短期旅客再犯會被禁止再入境。\n\n❌二不要：在地鐵公車上吃喝\nMRT 上吃東西、喝飲料最高罰 S$500，2026年9月起公車上吃喝也一樣最高罰 S$500。\n\n❌三不要：帶口香糖入境\n口香糖是禁止帶進新加坡的物品（核准的醫療用口香糖除外），出發前把包包裡的先清掉。\n\n💛規矩記熟了，新加坡乾淨又好逛，玩起來很安心",
+          "text": "峴港／胡志明出發前，我跟朋友會記好「三要三不要」\n\n這幾點我都先丟群組\n\n✅一要：出發前辦好電子簽\n台灣護照要簽證，這個我最先做：上官方 evisa.gov.vn 申請，單次入境25美元，約3–7個工作天，最長停留90天。\n\n✅二要：旅伴先拉一個 LINE 群組\n我們都會把 AI 規劃工具 @okie.chat 加進群組：越南盾一筆動輒幾十萬，誰付多少直接丟給它記，最後幫我們算好誰轉誰多少，不用另外下載 App。\n\n✅三要：過馬路慢慢走\n機車很多，先看好來車、舉手示意，用一樣的速度直直走，中途別停下也別往回退。\n\n❌一不要：上路邊攬客的車\n外交部也有提醒，路邊來路不明的攬客車別上，很容易被坑；我都用 Grab 或 Xanh SM 叫車，在 App 裡下單最安心。\n\n❌二不要：穿太露進寺廟\n會安日本橋2026年8月就有遊客因為穿太露被擋在門外；細肩帶、熱褲、透膚衣先換掉。\n\n❌三不要：帶電子菸\n越南2025年起全面禁止電子菸和加熱菸，不能買也不能帶入境，被抓到在用可罰300–500萬越南盾。\n\n💛這幾件事記好，剩下的就是放心大吃河粉了",
           "images": []
         },
         {
-          "text": "上次三個人去新加坡，小販中心誰付了幾塊新幣都丟給 okie 記，回台灣前一句話就算好誰該給誰👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "上次去峴港，越南盾零多到根本算不清，全丟給 okie 記，最後它直接列好誰轉誰多少👇\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D04_chat.jpg",
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/D06_chat.jpg",
               "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
             }
           ]
         }
       ],
-      "buffer_post_id": "6af6c8a3ac315c828ef52191"
+      "buffer_post_id": "6af6c9773890f6d4a9ca8106"
+    },
+    {
+      "date_taipei": "2026-12-05",
+      "time_taipei": "20:00",
+      "id": "applist-C3",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "去泰國，手機裡留這 4 個就夠了 🛺",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C3.jpg",
+              "alt": "一排手機 App 圖示：Grab、Bolt、THIM、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Grab 🛵\n上車前就知道車資，刷卡、付現都可以！\n\n2. Bolt ⚡\n曼谷、普吉、清邁都叫得到車，機場接送還能提前預約！\n\n3. THIM 🛂\n泰國官方入境App，TDAC入境卡出發前在手機填好，全家可以一起送出！\n\n4. okie 🍮\n泰文菜單拍照就幫我們翻，行程、提醒也一起搞定，加進 LINE 群組就能用！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "泰國旅遊",
+      "buffer_post_id": "6af6ca23ac315c828ef57850"
+    },
+    {
+      "date_taipei": "2026-12-06",
+      "time_taipei": "12:00",
+      "id": "applist-C6",
+      "topic": "app list",
+      "thread": [
+        {
+          "text": "第一次去歐洲，手機裡一定要有這些 🇪🇺",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/app_list/C6.jpg",
+              "alt": "一排手機 App 圖示：Trainline、Citymapper、Google 翻譯、okie"
+            }
+          ]
+        },
+        {
+          "text": "1. Trainline 🚆\n歐洲火車、巴士票一個App比價訂好，車票直接存手機！\n\n2. Citymapper 🚏\n巴黎、倫敦、羅馬地鐵怎麼搭一查就懂，還有離線路線圖！\n\n3. Google 翻譯 🔤\n菜單、路牌鏡頭一照就翻成中文，沒網路也能翻！\n\n4. okie 🍮\n跨國行程幫我們排順，大家的花費記帳分帳一起算，加進 LINE 群組就能用，不用下載！\nLINE 搜尋 @okie.chat 加好友",
+          "images": []
+        }
+      ],
+      "threads_topic": "歐洲旅遊",
+      "buffer_post_id": "6af6ca6a6bb977bd3df19831"
     }
   ]
 }

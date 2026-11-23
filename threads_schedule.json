@@ -1647,43 +1647,23 @@
   {
    "date_taipei": "2026-11-26",
    "time_taipei": "20:00",
-   "id": "pocket-sapporo_food",
-   "topic": "日本旅遊",
-   "text": "要去札幌覓食的 請收❄️\n\n湯咖哩、味噌拉麵、成吉思汗烤羊肉、海鮮丼，公休、只收現金、地下街怎麼走都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "ticket-fangirl",
+   "topic": "追星人",
+   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
-     "alt": "札幌必吃口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
+     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
-     "alt": "札幌必吃口袋名單：第 02 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
-     "alt": "札幌必吃口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
-     "alt": "札幌必吃口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
-     "alt": "札幌必吃口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
-     "alt": "札幌必吃口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
-     "alt": "札幌必吃口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
+     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」"
+    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
    ],
-   "buffer_post_id": "6af6cb24cf5e7843508022ae"
+   "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
   },
   {
    "date_taipei": "2026-11-27",
@@ -2048,25 +2028,45 @@
    "buffer_post_id": "6af6db46b52ddd180244d5ff"
   },
   {
-   "date_taipei": "2026-12-01",
-   "time_taipei": "12:00",
-   "id": "ticket-fangirl",
-   "topic": "追星人",
-   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
+   "date_taipei": "2026-11-30",
+   "time_taipei": "20:00",
+   "id": "pocket-sapporo_food",
+   "topic": "日本旅遊",
+   "text": "要去札幌覓食的 請收❄️\n\n湯咖哩、味噌拉麵、成吉思汗烤羊肉、海鮮丼，公休、只收現金、地下街怎麼走都標好了\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
-     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/01_cover.jpg",
+     "alt": "札幌必吃口袋名單：第 01 頁"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
-     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/02_curry.jpg",
+     "alt": "札幌必吃口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/03_ramen.jpg",
+     "alt": "札幌必吃口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/04_lamb.jpg",
+     "alt": "札幌必吃口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/05_seafood.jpg",
+     "alt": "札幌必吃口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/06_parfait.jpg",
+     "alt": "札幌必吃口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/sapporo_food/07_okie.jpg",
+     "alt": "札幌必吃口袋名單：第 07 頁"
     }
    ],
    "replies": [
-    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天晚上在すすきの，幫我把附近的排進行程」"
    ],
-   "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
+   "buffer_post_id": "6af6cb24cf5e7843508022ae"
   }
  ]
 }

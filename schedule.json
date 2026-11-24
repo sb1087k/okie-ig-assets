@@ -2003,6 +2003,32 @@
     },
     {
       "date_taipei": "2026-12-07",
+      "time_taipei": "17:00",
+      "id": "chores-points-chuu",
+      "topic": "情侶家事點數（chuu 版）：叫 @okie.chat 存家務價目表，男友做完家事就跑來報到加點",
+      "thread": [
+        {
+          "text": "終於訓練男友成功🙂‍↕️\n感謝 @okie.chat 這個LINE裡的AI幫手\n真的好好玩",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/chores-points-chuu/01_points.jpg",
+              "alt": "LINE 兩人群組截圖：阿哲說「okie 我倒垃圾了」，okie 回「阿哲 倒垃圾 +50 點，家務點數目前累計 50 點。垃圾已被送往它該去的地方 🗑️」；阿哲說「okie 衣服晾好了」，okie 回「阿哲 晾衣服 +100 點，家務點數累計 150 點。衣服有家了，戰績也起飛 🧺」；我說你今天怎麼突然這麼勤勞，阿哲說還差 150 點就能換手搖了 我去洗碗"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/chores-points-chuu/02_set.jpg",
+              "alt": "LINE 兩人群組截圖：我請 okie 存一個『家務價目表』晾衣服 100、洗碗 150、倒垃圾 50，再開一個『家務點數』，以後誰說做了表上的家務就照價目表加點、記日期、回報總點數；okie 回「存好了：家務價目表跟家務點數都開張了 🧹」「之後誰說做了表上的家務，我就幫他加點、記日期，順便公布目前戰績。」；阿哲說蛤 這什麼新制度，我說存到 300 點 我請你喝手搖"
+            }
+          ]
+        },
+        {
+          "text": "把okie加進你們的LINE群組後，跟它說\n「okie 幫我存一個『家務價目表』：晾衣服 100、洗碗 150、倒垃圾 50\n再開一個『家務點數』，以後誰說做了表上的家務，就照價目表幫他加點、記日期，回報他的總點數」",
+          "images": []
+        }
+      ],
+      "threads_topic": "同居"
+    },
+    {
+      "date_taipei": "2026-12-07",
       "time_taipei": "20:00",
       "id": "yakiniku-cuts",
       "topic": "日本燒肉部位",

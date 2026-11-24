@@ -1857,43 +1857,27 @@
   {
    "date_taipei": "2026-11-28",
    "time_taipei": "20:00",
-   "id": "pocket-oliveyoung",
-   "topic": "韓國旅遊",
-   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "id": "remind-forgetful",
+   "topic": "生活小技巧",
+   "text": "每個常常忘東忘西的人都應該試試這個！\nLINE小幫手真的是健忘救星欸\n而且不用開行事曆 在群組講一句 時間到就直接tag人🥹",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
-     "alt": "Olive Young 必買口袋名單：第 01 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-forgetful/01_medicine.jpg",
+     "alt": "LINE 群組截圖：高山說鉛筆最近氣色變好，鉛筆說最近吃中藥每天都忘，請 okie 每天晚上 9 點提醒她吃中藥，okie 回「⏰ 好！每天晚上 9 點會 tag 你」；今天晚上 9 點 okie 發「@鉛筆 9 點囉，記得吃中藥🍵」，鉛筆回「吃了！這週一天都沒漏🥹」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
-     "alt": "Olive Young 必買口袋名單：第 02 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-forgetful/02_groupbuy.jpg",
+     "alt": "LINE 群組截圖：星球說團購星期五中午截止，我請 okie 星期四晚上 9 點提醒高山團購截止、記得填表單，okie 回「⏰ 好！星期四晚上 9 點會 tag 高山」；今天晚上 9 點 okie 發「@高山 團購明天中午截止，要買記得先填表單喔」，高山回「差點又忘了🙏 填好了」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
-     "alt": "Olive Young 必買口袋名單：第 03 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
-     "alt": "Olive Young 必買口袋名單：第 04 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
-     "alt": "Olive Young 必買口袋名單：第 05 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
-     "alt": "Olive Young 必買口袋名單：第 06 頁"
-    },
-    {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
-     "alt": "Olive Young 必買口袋名單：第 07 頁"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-forgetful/03_tickets.jpg",
+     "alt": "LINE 群組截圖：星球說星期六中午 12 點開賣，我請 okie 開賣前 5 分鐘 tag 大家，okie 回「⏰ 好！星期六 11:55 會 tag 所有人」；今天 11:55 okie 發「@All 再 5 分鐘開賣，大家準備好🔥」，12:03 星球說搶到了"
     }
    ],
    "replies": [
-    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
+    "點主頁連結加好友 拉進群組就能用"
    ],
-   "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
+   "buffer_post_id": "6b0513edf0d7b1e0deb04a32"
   },
   {
    "date_taipei": "2026-11-29",
@@ -1993,6 +1977,47 @@
     "想用的點主頁連結加好友，拉進旅遊群組\n然後這樣問就好👇\n「（貼上 Google 地圖連結）這附近有推薦的宵夜嗎？」"
    ],
    "buffer_post_id": "6afbde42df36f4d8256ca29a"
+  },
+  {
+   "date_taipei": "2026-11-30",
+   "time_taipei": "08:00",
+   "id": "pocket-oliveyoung",
+   "topic": "韓國旅遊",
+   "text": "要去韓國逛 Olive Young 的 請收💄\n\n官方獎項各類第 1 名＋官網定價，滿 ₩15,000 帶護照現場退稅\n\n截圖丟給LINE小幫手存起來，出去玩叫它排進行程（用法在下面👇）",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/01_cover.jpg",
+     "alt": "Olive Young 必買口袋名單：第 01 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/02_skincare.jpg",
+     "alt": "Olive Young 必買口袋名單：第 02 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/03_mask_sun.jpg",
+     "alt": "Olive Young 必買口袋名單：第 03 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/04_makeup.jpg",
+     "alt": "Olive Young 必買口袋名單：第 04 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/05_hair_body.jpg",
+     "alt": "Olive Young 必買口袋名單：第 05 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/06_tips.jpg",
+     "alt": "Olive Young 必買口袋名單：第 06 頁"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/pocket/oliveyoung/07_okie.jpg",
+     "alt": "Olive Young 必買口袋名單：第 07 頁"
+    }
+   ],
+   "replies": [
+    "清單存了怕找不到的，可以丟給LINE小幫手，出去玩直接叫它排進行程👇\n點主頁連結就能加好友，拉進旅遊群組或私訊都可以\n\n「（截圖這篇）幫我把這份清單存起來」\n「明天下午在明洞，幫我把要買的排進行程」"
+   ],
+   "buffer_post_id": "6af6cb063890f6d4a9cb0c63"
   },
   {
    "date_taipei": "2026-11-30",

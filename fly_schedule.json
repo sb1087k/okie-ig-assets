@@ -684,20 +684,23 @@
   {
    "date_taipei": "2026-11-25",
    "time_taipei": "21:00",
-   "id": "fly-27",
-   "topic": "日本旅遊",
-   "text": "半夜在銀座本來要去吃壽司，最後一個人少花兩千多😂\n\n凌晨1點大家都餓到睡不著\n我把飯店的 Google 地圖連結丟進LINE群組\n問 @okie.chat「這附近有推薦的宵夜嗎？」\n它馬上列了好幾間 連這時間還開著的壽司都有\n\n大家本來都要衝壽司了\n結果裡面還有一間24小時的日高屋\n拉麵加煎餃的套餐便宜到不行\n大家馬上倒戈改吃拉麵\n\n省下來的錢隔天拿去買藥妝剛好🤣\n真的太好用",
+   "id": "remind-passport-fly",
+   "topic": "出國旅遊",
+   "text": "跟朋友出國 每次都有人忘記帶東西😭\n\n上次朋友到了機場才發現沒帶護照\n回家拿來不及 那張 5 千多的廉航機票就這樣浪費了⋯\n\n這次出發前一晚 改用這個AI小幫手\n睡前自動提醒他帶護照 隔天一早再提醒全部人起床\n最後 4 個人都準時到機場 一張票都沒浪費🥹\n\n有這種朋友的 出國前趕快用起來！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-27/01_ask.jpg",
-     "alt": "LINE 群組截圖（示意）：凌晨 1 點朋友說想吃壽司，貼上銀座飯店的 Google 地圖連結問 @okie 這附近有推薦的宵夜嗎，okie 列出函館らーめん 船見坂（開到 4 點）、日高屋 東銀座店（24 小時）、すしざんまい 匠（開到 5 點）"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/remind-passport-fly/01_set.jpg",
+     "alt": "LINE 群組截圖：鉛筆問行李都收好了嗎，星球說明天 6 點機場集合，鉛筆提醒高山這次護照記得帶，高山說上次那張票到現在還在心痛；我請 okie 今晚 10 點提醒高山帶護照、明天早上 4 點半 tag 大家起床、6 點機場集合，okie 回「⏰ 好！今晚 10 點會 tag 高山，明天 04:30 會 tag 所有人」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-27/02_cards.jpg",
-     "alt": "LINE 群組截圖（示意）：okie 的日高屋店家卡片，朋友說「壽司開到5點欸 但一個人要三四千吧…」，我回「日高屋拉麵加煎餃才700円」，朋友說「一人少花兩千多 日高屋走起」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/remind-passport-fly/02_fire.jpg",
+     "alt": "LINE 群組截圖：晚上 10 點 okie 發「@高山 記得把護照放進包包，明天別忘囉」，高山回放了；今天早上 4:30 okie 發「@All 早安！該起床了，6 點機場集合✈️」，星球回起來了，高山 5:52 說護照在手上這次沒忘"
     }
    ],
-   "buffer_post_id": "6afbdeb64b26315855c1118c"
+   "replies": [
+    "LINE 搜尋 “@okie.chat” 加好友 拉進旅遊群組就能用～"
+   ],
+   "buffer_post_id": "6b0513eb9a4bd32ca3f35c18"
   },
   {
    "date_taipei": "2026-11-26",
@@ -719,6 +722,24 @@
     "在歐洲一天刷好幾筆，誰先墊、哪筆不用平分，我都直接在群組叫 @okie.chat 記，回國它會算好誰要給誰多少，不用再翻收據對帳😂\n\nLINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用"
    ],
    "buffer_post_id": "6af6c917ac315c828ef53aac"
+  },
+  {
+   "date_taipei": "2026-11-26",
+   "time_taipei": "18:00",
+   "id": "fly-27",
+   "topic": "日本旅遊",
+   "text": "半夜在銀座本來要去吃壽司，最後一個人少花兩千多😂\n\n凌晨1點大家都餓到睡不著\n我把飯店的 Google 地圖連結丟進LINE群組\n問 @okie.chat「這附近有推薦的宵夜嗎？」\n它馬上列了好幾間 連這時間還開著的壽司都有\n\n大家本來都要衝壽司了\n結果裡面還有一間24小時的日高屋\n拉麵加煎餃的套餐便宜到不行\n大家馬上倒戈改吃拉麵\n\n省下來的錢隔天拿去買藥妝剛好🤣\n真的太好用",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-27/01_ask.jpg",
+     "alt": "LINE 群組截圖（示意）：凌晨 1 點朋友說想吃壽司，貼上銀座飯店的 Google 地圖連結問 @okie 這附近有推薦的宵夜嗎，okie 列出函館らーめん 船見坂（開到 4 點）、日高屋 東銀座店（24 小時）、すしざんまい 匠（開到 5 點）"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/fly-27/02_cards.jpg",
+     "alt": "LINE 群組截圖（示意）：okie 的日高屋店家卡片，朋友說「壽司開到5點欸 但一個人要三四千吧…」，我回「日高屋拉麵加煎餃才700円」，朋友說「一人少花兩千多 日高屋走起」"
+    }
+   ],
+   "buffer_post_id": "6afbdeb64b26315855c1118c"
   },
   {
    "date_taipei": "2026-11-26",

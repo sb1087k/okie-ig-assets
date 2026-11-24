@@ -1191,25 +1191,29 @@
     {
       "date_taipei": "2026-11-25",
       "time_taipei": "17:00",
-      "id": "text-T02",
-      "topic": "text list",
+      "id": "remind-roommates-chuu",
+      "topic": "chat stills",
       "thread": [
         {
-          "text": "跟朋友去大阪自由行，我們不再這樣排了\n\n每次排大阪行程，我最在意的就是少走回頭路\n\n❌ 梅田、難波來回跑\n✅ 我都照區域排：北區（梅田、中之島）一天，南區（難波、道頓堀、新世界）一天\n\n❌ 到了USJ才想說要進任天堂區\n✅ 人多的日子要用官方APP領整理券（免費的入區時段券），發完改抽選；想確定能進，我會先買入場確約券（保證能進區的票）\n\n❌ 去奈良搭JR\n✅ 近鐵大阪難波→近鐵奈良最快約35分，出站走5分鐘到奈良公園（JR奈良站要走約15分）\n\n❌ 去京都一律到京都站\n✅ 要逛祇園、河原町，真心推阪急大阪梅田→京都河原町約43分、410円，下車就是市中心\n\n❌ 京都奈良塞同一天\n✅ 各排一天，或奈良半天、晚上回難波吃\n\n🚀 我都是丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 排順路線，用法放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "室友LINE群一定要有這個🥹\n\n在東京打工度假 跟3個台灣人合租\n最崩潰的就是倒垃圾😭\n垃圾要分類 每一種收的日子還不一樣\n錯過一次 玄關就堆滿垃圾袋⋯\n\n後來發現可以用這個AI小幫手記\n倒垃圾的日子跟轉房租 時間到它就會自動提醒大家\n用了兩個月 一次都沒人忘記🤣\n\n跟室友住的 趕快拉它進群組！",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T02_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/remind-roommates-chuu/01_set.jpg",
+              "alt": "LINE 群組截圖：星球說垃圾又錯過、玄關都是袋子，我請 okie 每週二、五早上 7 點提醒大家 8 點前倒可燃垃圾、每個月 25 號早上 9 點提醒大家轉房租給星球，okie 回「⏰ 好！每週二、五早上 7 點，還有每個月 25 號早上 9 點，都會 tag 所有人」"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/remind-roommates-chuu/02_fire.jpg",
+              "alt": "LINE 群組截圖：今天早上 7 點 okie 發「@All 早安！今天可燃垃圾日，8 點前記得拿出去🗑️」，高山說拿下去了；9 點 okie 發「@All 今天 25 號，記得把房租轉給星球喔🏠」，鉛筆回轉了，星球說全部收到，高山說寶特瓶那天也叫它記好了"
             }
           ]
+        },
+        {
+          "text": "LINE 搜尋 “@okie.chat” 加好友 拉進室友群組就能用～",
+          "images": []
         }
       ],
-      "threads_topic": "大阪",
-      "buffer_post_id": "6af6c9993890f6d4a9ca8c5f"
+      "threads_topic": "打工度假",
+      "buffer_post_id": "6b0513ec9a4bd32ca3f35c48"
     },
     {
       "date_taipei": "2026-11-25",
@@ -1961,6 +1965,29 @@
       ],
       "threads_topic": "韓國旅遊",
       "buffer_post_id": "6af6c9871d6346d52a67cb48"
+    },
+    {
+      "date_taipei": "2026-12-06",
+      "time_taipei": "20:00",
+      "id": "text-T02",
+      "topic": "text list",
+      "thread": [
+        {
+          "text": "跟朋友去大阪自由行，我們不再這樣排了\n\n每次排大阪行程，我最在意的就是少走回頭路\n\n❌ 梅田、難波來回跑\n✅ 我都照區域排：北區（梅田、中之島）一天，南區（難波、道頓堀、新世界）一天\n\n❌ 到了USJ才想說要進任天堂區\n✅ 人多的日子要用官方APP領整理券（免費的入區時段券），發完改抽選；想確定能進，我會先買入場確約券（保證能進區的票）\n\n❌ 去奈良搭JR\n✅ 近鐵大阪難波→近鐵奈良最快約35分，出站走5分鐘到奈良公園（JR奈良站要走約15分）\n\n❌ 去京都一律到京都站\n✅ 要逛祇園、河原町，真心推阪急大阪梅田→京都河原町約43分、410円，下車就是市中心\n\n❌ 京都奈良塞同一天\n✅ 各排一天，或奈良半天、晚上回難波吃\n\n🚀 我都是丟給 LINE 群組裡的 AI 規劃工具 @okie.chat 排順路線，用法放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/T02_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "threads_topic": "大阪",
+      "buffer_post_id": "6af6c9993890f6d4a9ca8c5f"
     }
   ]
 }

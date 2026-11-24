@@ -1540,23 +1540,22 @@
   {
    "date_taipei": "2026-11-25",
    "time_taipei": "20:00",
-   "id": "maps-nearby-p",
-   "topic": "日本旅遊",
-   "text": "p人朋友們出國想輕鬆找哪裡有好吃的，都來試試這個！\n\n我們出國都不排餐廳\n走到哪、餓了再說\n以前都要每個人低頭滑 Google 地圖\n查到一間就丟群組，洗了一大串還是選不出來🤣\n\n現在直接在群組分享位置\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n結果它馬上列出好幾家還開著的\n大家看同一則訊息，直接選就好\n\np人真的不用再做功課了\n要出國玩的趕快用起來！",
+   "id": "remind-parents-meds",
+   "topic": "生活小技巧",
+   "text": "爸媽的血壓藥 早上一顆 晚上一顆\n但他們常常記不得自己到底吃了沒😮‍💨\n\n後來在家庭群組叫LINE小幫手 每天早晚自動 tag 他們\n吃完回一句 我看群組就知道了🥹\n\n照顧爸媽的 你們都怎麼提醒？",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/01_share.jpg",
-     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓睡不著，我在群組分享位置（KOKO HOTEL 銀座一丁目），再 tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它列出附近還開著的三間：函館拉麵開到 4 點、走路約 6 分鐘，日高屋 24 小時，壽司三昧開到 5 點"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-parents-meds/01_set.jpg",
+     "alt": "LINE 家庭群組截圖：我問媽今天血壓藥有吃嗎，媽說藥我有吃啦你不要每天問😂；我請 okie 每天早上 8 點跟晚上 8 點 tag @爸 @媽 吃血壓藥，okie 回「⏰ 好！設好 2 個每天提醒」並列出早上 8 點、晚上 8 點都 tag 爸、媽吃血壓藥，爸回好，媽說這個會自己提醒喔？好厲害👍，我說對啊你們吃完回一聲我就知道了"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/02_cards.jpg",
-     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-parents-meds/02_fire.jpg",
+     "alt": "LINE 家庭群組截圖：昨天晚上 8 點 okie 發「@爸 @媽 記得吃晚上的血壓藥喔💊」，媽回吃了啦😂；今天早上 8 點 okie 發「@爸 @媽 早安！記得吃血壓藥喔💊」，爸回吃了，媽回我也吃了早安🌹，我回🥹👍"
     }
    ],
    "replies": [
-    "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
-   ],
-   "buffer_post_id": "6afbdeb7797935b975e1f4ce"
+    "點主頁連結加好友 拉進家庭群組就能用"
+   ]
   },
   {
    "date_taipei": "2026-11-26",
@@ -1647,23 +1646,26 @@
   {
    "date_taipei": "2026-11-26",
    "time_taipei": "20:00",
-   "id": "ticket-fangirl",
-   "topic": "追星人",
-   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
+   "id": "remind-chores-roommate",
+   "topic": "租屋",
+   "text": "一定要記得\n不要跟「家事永遠需要你提醒」的人當室友😮‍💨\n\n已經來不及的話 就交給LINE小幫手吧\n在群組講好誰哪天做什麼 時間到它就自動 tag 負責的人\n終於不用當那個一直在喊的人了🥹",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
-     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-roommate/00_lock.jpg",
+     "alt": "iPhone 鎖定畫面截圖（星期六早上 10:00）：LINE 通知「okie／Mentioned you – 合租小窩🏡／@All 週六大掃除時間到囉🧹」"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
-     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-roommate/01_set.jpg",
+     "alt": "LINE 室友群組截圖：星球說垃圾又滿出來了，高山說不是說好輪流倒嗎；我請 okie 幫我們設家事提醒：每週一晚上 8 點 tag 鉛筆倒垃圾、每週三晚上 8 點 tag 高山洗浴室、每週六早上 10 點 tag 大家大掃除，okie 回「⏰ 好！設好 3 個每週提醒」並列出三個，鉛筆回好喔這樣就不會忘了"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-roommate/02_fire.jpg",
+     "alt": "LINE 室友群組截圖：星期六早上 10 點 okie 發「@All 週六大掃除時間到囉🧹」，鉛筆回起床了我先弄客廳；今天晚上 8 點 okie 發「@高山 今天輪到你洗浴室喔🧽」，高山回好啦好啦等等就洗😅，星球說終於不用我來喊了🥹"
     }
    ],
    "replies": [
-    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
-   ],
-   "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
+    "點主頁連結加好友 拉進室友群組就能用"
+   ]
   },
   {
    "date_taipei": "2026-11-27",
@@ -1709,23 +1711,22 @@
   {
    "date_taipei": "2026-11-27",
    "time_taipei": "12:00",
-   "id": "split-noapp",
-   "topic": "日本旅遊",
-   "text": "出國分帳 App 載了，結果整團只有我在用🥲\n\n光叫大家下載、註冊就搞了半天\n最後每一筆還是我一個人在 key\n\n這次乾脆不載了，直接在 LINE 群組講\n誰付錢誰自己打一句，LINE小幫手就幫我們記好分好\n\n群裡只有你在記帳的，趕快傳給他們！",
+   "id": "drinks-office",
+   "topic": "上班族",
+   "text": "辦公室裡願意幫大家訂飲料的人\n真的要好好保護🥹\n\n現在大家在群組講完要喝什麼\n叫LINE小幫手統整一下 清單就出來了\n飲料股長真的少崩潰一半！",
    "images": [
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/01_ticket.jpg",
-     "alt": "LINE 群組截圖：我說這次不用載 App，誰付錢就直接在群組講；星球打「門票 6000 我付的」，LINE小幫手回已記帳卡片：門票 ¥6,000，星球付，10/31（六），四個人各 ¥1,500；我回「欸你自己會記了耶」"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/drinks-office/01_orders.jpg",
+     "alt": "LINE 辦公室群組截圖：我說下午要訂飲料的直接講要喝什麼；星球珍奶半糖少冰、高山四季春無糖去冰、雲朵說跟星球一樣、葉子綠茶微糖少冰，高山又說改微糖好了"
     },
     {
-     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/02_ramen.jpg",
-     "alt": "LINE 群組截圖：高山打「拉麵 4320 我付」，LINE小幫手回已記帳卡片：拉麵 ¥4,320，高山付，四個人各 ¥1,080；鉛筆說晚上居酒屋換他付，星球說比之前那個 App 簡單太多了"
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/drinks-office/02_summary.jpg",
+     "alt": "LINE 辦公室群組截圖：我請 okie 統整剛剛大家點的飲料，順便說我要蜂蜜綠半糖少冰；okie 回「整理好了，共 5 杯」並列出珍奶半糖少冰×2（星球、雲朵）、四季春微糖去冰（高山）、綠茶微糖少冰（葉子）、蜂蜜綠半糖少冰（你）；高山說連我改微糖都有抓到欸👍，葉子說也太清楚直接照念給店員就好"
     }
    ],
    "replies": [
-    "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
-   ],
-   "buffer_post_id": "6afc2c7e01f5535fb8799808"
+    "點主頁連結加好友 拉進辦公室群組就能用"
+   ]
   },
   {
    "date_taipei": "2026-11-27",
@@ -2058,6 +2059,93 @@
   },
   {
    "date_taipei": "2026-11-30",
+   "time_taipei": "20:00",
+   "id": "remind-chores-bf",
+   "topic": "同居",
+   "text": "跟男友同居之後才發現\n他真的不是不做家事 是他根本看不到家事😮‍💨\n\n後來乾脆叫LINE小幫手提醒 時間到直接 tag 他\n不用我開口唸 就吵不起來了🤣",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-bf/00_lock.jpg",
+     "alt": "iPhone 鎖定畫面截圖（星期日早上 10:00）：LINE 通知「okie／Mentioned you – 我們的小窩🏠／@小魚 今天要洗衣服喔🧺」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-bf/01_set.jpg",
+     "alt": "LINE 兩人群組截圖：我說垃圾又滿了耶，阿哲說蛤我沒看到😳；我請 okie 每週二、五晚上 9 點 tag 阿哲倒垃圾、每週日早上 10 點 tag 我洗衣服，okie 回「⏰ 好！設好 3 個每週提醒」並列出週二、週五晚上 9 點 tag 阿哲倒垃圾、週日早上 10 點 tag 你洗衣服，阿哲說連你也會被 tag 很公平🤣"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/remind-chores-bf/02_fire.jpg",
+     "alt": "LINE 兩人群組截圖：星期日早上 10 點 okie 發「@小魚 今天要洗衣服喔🧺」，我回好啦洗了；今天晚上 9 點 okie 發「@阿哲 今天要倒垃圾喔🗑️」，阿哲回好～現在拿下去🏃，我回👍"
+    }
+   ],
+   "replies": [
+    "點主頁連結加好友 拉進你們兩個的群組就能用"
+   ]
+  },
+  {
+   "date_taipei": "2026-12-01",
+   "time_taipei": "20:00",
+   "id": "maps-nearby-p",
+   "topic": "日本旅遊",
+   "text": "p人朋友們出國想輕鬆找哪裡有好吃的，都來試試這個！\n\n我們出國都不排餐廳\n走到哪、餓了再說\n以前都要每個人低頭滑 Google 地圖\n查到一間就丟群組，洗了一大串還是選不出來🤣\n\n現在直接在群組分享位置\n問 LINE小幫手「這附近有推薦的宵夜嗎？」\n結果它馬上列出好幾家還開著的\n大家看同一則訊息，直接選就好\n\np人真的不用再做功課了\n要出國玩的趕快用起來！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/01_share.jpg",
+     "alt": "LINE 群組截圖：凌晨 1 點朋友說好餓睡不著，我在群組分享位置（KOKO HOTEL 銀座一丁目），再 tag LINE小幫手問「這附近有推薦的宵夜嗎？」，它列出附近還開著的三間：函館拉麵開到 4 點、走路約 6 分鐘，日高屋 24 小時，壽司三昧開到 5 點"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/maps-nearby-p/02_cards.jpg",
+     "alt": "LINE 群組截圖：店家卡片（函館らーめん 船見坂，評分 4.0、開到 04:00、距離 310 公尺），朋友回「函館拉麵！走」「+1 我穿外套」"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n在群組按「＋」→「位置資訊」分享位置，再 tag 它問一句就好👇\n「這附近有推薦的宵夜嗎？」"
+   ],
+   "buffer_post_id": "6afbdeb7797935b975e1f4ce"
+  },
+  {
+   "date_taipei": "2026-12-03",
+   "time_taipei": "12:00",
+   "id": "split-noapp",
+   "topic": "日本旅遊",
+   "text": "出國分帳 App 載了，結果整團只有我在用🥲\n\n光叫大家下載、註冊就搞了半天\n最後每一筆還是我一個人在 key\n\n這次乾脆不載了，直接在 LINE 群組講\n誰付錢誰自己打一句，LINE小幫手就幫我們記好分好\n\n群裡只有你在記帳的，趕快傳給他們！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/01_ticket.jpg",
+     "alt": "LINE 群組截圖：我說這次不用載 App，誰付錢就直接在群組講；星球打「門票 6000 我付的」，LINE小幫手回已記帳卡片：門票 ¥6,000，星球付，10/31（六），四個人各 ¥1,500；我回「欸你自己會記了耶」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/split-noapp/02_ramen.jpg",
+     "alt": "LINE 群組截圖：高山打「拉麵 4320 我付」，LINE小幫手回已記帳卡片：拉麵 ¥4,320，高山付，四個人各 ¥1,080；鉛筆說晚上居酒屋換他付，星球說比之前那個 App 簡單太多了"
+    }
+   ],
+   "replies": [
+    "想用的點主頁連結加好友，拉進旅遊群組\n其他人不用另外下載，付完錢自己打一句就好👇\n「門票 6000 我付的」\n「拉麵 4320 我付」"
+   ],
+   "buffer_post_id": "6afc2c7e01f5535fb8799808"
+  },
+  {
+   "date_taipei": "2026-12-03",
+   "time_taipei": "20:00",
+   "id": "ticket-fangirl",
+   "topic": "追星人",
+   "text": "追星女真的拜託 搶周邊的群組都去加這個（我們群目前是還沒有人再遲到啦）\n\n快閃店預約 周邊開賣\n前一天在群組喊「明天 10 點喔」\n隔天 10:03 才有人問「開始了嗎」🙃\n\n現在都叫 LINE小幫手 前一晚先提醒一次\n開賣前再倒數 時間到直接 tag 全部人\n\n結果竟然上次 10:03 才出現的那個 這次 10 點整就進去了🥹\n\n一起追星的群組 直接拉它進去就對了！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/01_set.jpg",
+     "alt": "LINE 群組截圖：下午朋友說快閃店明天早上 10 點開放預約，另一個說上次周邊 10:03 才看到全部賣完，我 tag LINE小幫手請它今晚 8 點先提醒大家一次、明天開賣前 10、5、1 分鐘再 tag 所有人，它回「⏰ 好！今晚 20:00 和明天 09:50、09:55、09:59 都會 tag 所有人」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/okie_chat/ticket-fangirl/02_countdown.jpg",
+     "alt": "LINE 群組截圖：昨天晚上 8:00 LINE小幫手 @All「明天 10 點快閃店開搶，記得先備好資料！」，今天 9:50、9:55、9:59 三次 @All 倒數，10:02 朋友說「這次我 10:00 整就進去了🥹 預約到了！！」"
+    }
+   ],
+   "replies": [
+    "也想要有人幫群組倒數的，加一個 LINE小幫手 就好👇\n\n點主頁連結就能加好友，拉進追星群組就能用\n\n直接跟它說：\n\n「今天晚上 8 點先提醒大家一次，明天 10 點開賣前 10、5、1 分鐘都 tag 大家」"
+   ],
+   "buffer_post_id": "6affc52e0f5eda1a57bd0c9b"
+  },
+  {
+   "date_taipei": "2026-12-05",
    "time_taipei": "20:00",
    "id": "pocket-sapporo_food",
    "topic": "日本旅遊",

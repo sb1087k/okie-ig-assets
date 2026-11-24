@@ -1356,25 +1356,28 @@
     {
       "date_taipei": "2026-11-27",
       "time_taipei": "20:00",
-      "id": "yakiniku-cuts",
-      "topic": "日本燒肉部位",
+      "id": "remind-parents-chuu",
+      "topic": "在日本打工度假，用家庭群組提醒台灣的爸媽吃藥：講台灣時間，每天早晚自動 tag 爸媽",
       "thread": [
         {
-          "text": "在日本吃燒肉，菜單很多是片假名\n不記的話只能亂點，我會先記這 8 個字🥩\n\n① タン（tan）：牛舌，很多人第一盤就點這個\n② 上タン（jo-tan）：通常比較厚、比較嫩的牛舌，價錢也比較高\n③ カルビ（karubi）：油花多的肉，不是固定哪個部位，各店不太一樣\n④ ロース（rosu）：里肌，比カルビ瘦\n⑤ ハラミ（harami）：橫膈膜，有油花又不膩\n⑥ ホルモン（horumon）：內臟類\n⑦ 塩／タレ（shio／tare）：鹽味／醬汁，有些店點餐時會問你選哪個\n⑧ ライス（raisu）：白飯，通常要另外點\n\n我的順序是：先牛舌，再來有油花的，最後才點內臟\n\n跟朋友去吃的話，我會把菜單拍照丟到群組，標 LINE 上的旅遊 AI @okie.chat\n它會一道一道翻成中文，價錢也列出來（下圖示意）\n\n要去日本吃燒肉的先存起來\n用法放留言～",
+          "text": "小時候都是我媽追著我吃藥\n現在換我人在日本 每天追著她吃🥲\n\n後來在家庭群組加了這個AI小幫手 每天早晚自動 tag 爸媽\n看到他們回「吃了」 我人不在台灣也安心多了🥹",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/yakiniku-cuts/01_chat.jpg",
-              "alt": "LINE 群組畫面示意：一張日本燒肉店菜單，okie 把牛舌、油花多的牛肉、里肌、橫膈膜、內臟拼盤、白飯翻成中文並列出價錢"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/remind-parents-chuu/01_set.jpg",
+              "alt": "LINE 家庭群組截圖：我請 okie 每天台灣時間早上 9 點跟晚上 9 點 tag @爸 @媽 吃血壓藥，okie 回「⏰ 好！每天早上 9 點跟晚上 9 點都會 tag 爸、媽」；媽說人在日本還要管我們喔😂，我說對啊吃完回一聲就好"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/remind-parents-chuu/02_fire.jpg",
+              "alt": "LINE 家庭群組截圖：今天（日本時間上午 10 點，台灣 9 點）okie 發「@爸 @媽 台灣 9 點囉 該吃血壓藥💊」，爸回吃了，媽回吃了妳那邊會不會冷？我回不會啦穿很多🥹"
             }
           ]
         },
         {
-          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單」\n\n「我們 4 個人點這些，一人多少？」",
+          "text": "LINE 搜尋 “@okie.chat” 加好友 拉進家庭群組就能用～",
           "images": []
         }
       ],
-      "threads_topic": "日本旅遊",
-      "buffer_post_id": "6af6f10666ff9797d87a1a79"
+      "threads_topic": "打工度假"
     },
     {
       "date_taipei": "2026-11-28",
@@ -1494,25 +1497,28 @@
     {
       "date_taipei": "2026-11-29",
       "time_taipei": "20:00",
-      "id": "text-K05",
-      "topic": "crowd alternatives",
-      "threads_topic": "北海道旅遊",
+      "id": "daigou-list-chuu",
+      "topic": "出國前朋友在群組丟代購，改來改去、跟誰一樣，最後 @AI小幫手 統整成一張清單",
       "thread": [
         {
-          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
-          "images": []
-        },
-        {
-          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "text": "身為朋友圈的代購股長\n我：下週要去日本喔\n群組：那幫我帶⋯⋯⋯\n\n這次直接叫這個AI小幫手統整 一張清單就出來了\n照著清單買 一樣都沒漏！",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
-              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/daigou-list-chuu/01_list.jpg",
+              "alt": "LINE 朋友群組截圖：我說下週去大阪要帶什麼的直接講；星球要抹茶餅乾 3 盒、高山足貼 2 盒、鉛筆說跟星球一樣、雲朵眼藥水 1 瓶要涼一點的，高山又說足貼改 3 盒"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/daigou-list-chuu/02_summary.jpg",
+              "alt": "LINE 朋友群組截圖：我請 okie 統整大家要代購的東西，okie 列出抹茶餅乾 6 盒（星球 3、鉛筆 3）、足貼 3 盒（高山）、眼藥水 1 瓶要涼一點的（雲朵）；星球說也太清楚了吧，鉛筆說連我跟星球一樣都有算到😂，我說到日本直接照著買🥹"
             }
           ]
+        },
+        {
+          "text": "LINE 搜尋 “@okie.chat” 加好友 拉進朋友群組就能用～",
+          "images": []
         }
       ],
-      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
+      "threads_topic": "日本旅遊"
     },
     {
       "date_taipei": "2026-11-30",
@@ -1992,6 +1998,52 @@
       ],
       "threads_topic": "大阪",
       "buffer_post_id": "6af6c9993890f6d4a9ca8c5f"
+    },
+    {
+      "date_taipei": "2026-12-07",
+      "time_taipei": "20:00",
+      "id": "yakiniku-cuts",
+      "topic": "日本燒肉部位",
+      "thread": [
+        {
+          "text": "在日本吃燒肉，菜單很多是片假名\n不記的話只能亂點，我會先記這 8 個字🥩\n\n① タン（tan）：牛舌，很多人第一盤就點這個\n② 上タン（jo-tan）：通常比較厚、比較嫩的牛舌，價錢也比較高\n③ カルビ（karubi）：油花多的肉，不是固定哪個部位，各店不太一樣\n④ ロース（rosu）：里肌，比カルビ瘦\n⑤ ハラミ（harami）：橫膈膜，有油花又不膩\n⑥ ホルモン（horumon）：內臟類\n⑦ 塩／タレ（shio／tare）：鹽味／醬汁，有些店點餐時會問你選哪個\n⑧ ライス（raisu）：白飯，通常要另外點\n\n我的順序是：先牛舌，再來有油花的，最後才點內臟\n\n跟朋友去吃的話，我會把菜單拍照丟到群組，標 LINE 上的旅遊 AI @okie.chat\n它會一道一道翻成中文，價錢也列出來（下圖示意）\n\n要去日本吃燒肉的先存起來\n用法放留言～",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/chuu_travel/yakiniku-cuts/01_chat.jpg",
+              "alt": "LINE 群組畫面示意：一張日本燒肉店菜單，okie 把牛舌、油花多的牛肉、里肌、橫膈膜、內臟拼盤、白飯翻成中文並列出價錢"
+            }
+          ]
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，私訊或拉進旅遊群組都能用\n\n「幫我翻這張菜單」\n\n「我們 4 個人點這些，一人多少？」",
+          "images": []
+        }
+      ],
+      "threads_topic": "日本旅遊",
+      "buffer_post_id": "6af6f10666ff9797d87a1a79"
+    },
+    {
+      "date_taipei": "2026-12-08",
+      "time_taipei": "20:00",
+      "id": "text-K05",
+      "topic": "crowd alternatives",
+      "threads_topic": "北海道旅遊",
+      "thread": [
+        {
+          "text": "北海道雪景，人擠人的地方我會改去這些\n\n冬天去北海道我想慢慢看雪，所以都避開最擠的點\n\n2027札幌雪祭已公布：2/4–2/11，大通、薄野、TSUDOME三會場同時開，現在排還來得及\n\n❌ 札幌雪祭大通會場\n✅ 千歲・支笏湖冰濤祭：2027/1/30–2/23，10:00–20:00，16:30起點燈，離新千歲機場約40分鐘車程\n\n❌ 旭山動物園企鵝散步\n✅ 登別尼克斯海洋公園：JR登別站走5分鐘，每天兩場企鵝遊行（12月是11:00、14:15）\n\n❌ 小樽運河\n✅ 小樽北運河：保留當年40m寬的原始河道，旁邊就是舊澀澤倉庫，觀光客少很多，我很推\n\n⚠️ 旭山企鵝散步要等積雪，官方說預計12月下旬開始，11:00、14:30兩場；12/30–1/1整個休園\n\n❄️ 這幾個我是直接問 LINE 群組裡的 AI 規劃工具 @okie.chat 挑的，對話截圖放留言～",
+          "images": []
+        },
+        {
+          "text": "LINE 搜尋 @okie.chat 加好友，拉進旅遊群組就能用",
+          "images": [
+            {
+              "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/text_posts/K05_chat.jpg",
+              "alt": "LINE 群組對話截圖：大家問 okie，okie 回覆整理好的旅遊資訊"
+            }
+          ]
+        }
+      ],
+      "buffer_post_id": "6af6cb333890f6d4a9cb1d9e"
     }
   ]
 }

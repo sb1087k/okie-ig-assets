@@ -788,6 +788,23 @@
    "buffer_post_id": "6b053b21f1f04351232b1efe"
   },
   {
+   "date_taipei": "2026-11-27",
+   "time_taipei": "18:00",
+   "id": "split-2q-fly",
+   "topic": "日本旅遊",
+   "text": "跟朋友出國回來必問兩大問題\n1. 要怎麼算錢💴\n2. 我照片在哪😍\n\n第一題這次秒解決 第二題還是沒人回🤣\n這趟誰付錢都叫 LINE 群組裡的AI小幫手 @okie.chat 記下來\n回家打「結算 換成台幣」 10 筆帳只要轉 3 次就結清\n真的太好用！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/split-2q-fly/01_settle.jpg",
+     "alt": "LINE 群組截圖（示意）：鉛筆說「回到家了～所以要怎麼算錢💴」，星球說「還有我照片在哪😭」，我說「結算 換成台幣」；okie 回結算單：所有還沒結清的帳 10 筆 ¥61,540，全部換成 TWD（1 JPY = 0.196769 TWD，6/26 市場匯率）；Kiam 應收 NT$1,345、高山應收 NT$664、星球應付 NT$792、鉛筆應付 NT$1,217；轉帳（已簡化）鉛筆 → Kiam NT$1,217、星球 → 高山 NT$664、星球 → Kiam NT$128"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/split-2q-fly/02_log.jpg",
+     "alt": "LINE 群組截圖（示意）：週四 6/18，高山說「京都牛也太好吃了吧🤤」，我傳一張紅家的收據照片（4 名，合計 ¥17,820），說「幫忙記帳 大家平分」；okie 回已記帳卡片：紅家 ¥17,820，付款 Kiam，6/18（四），四人各分攤 ¥4,455，看收據；鉛筆說「先欠你 回台灣轉你🙏」"
+    }
+   ]
+  },
+  {
    "date_taipei": "2026-11-28",
    "time_taipei": "12:00",
    "id": "refill-meds-fly",
@@ -828,6 +845,23 @@
     "把okie加進你們的LINE群組後，跟它說\n「okie 幫我存一個『家務價目表』：晾衣服 100、洗碗 150、倒垃圾 50\n再開一個『家務點數』，以後誰說做了表上的家務，就照價目表幫他加點、記日期，回報他的總點數」"
    ],
    "buffer_post_id": "6b056d9cf58b414a3734cccf"
+  },
+  {
+   "date_taipei": "2026-11-29",
+   "time_taipei": "10:00",
+   "id": "split-escalate-fly",
+   "topic": "日本旅遊",
+   "text": "出發前：錢回來再算啦🤝\n出國第三天：我先墊我先墊🙋‍♀️\n回國對帳：這 ¥4,800 是誰的…🫠\n\n上次就是有一筆燒肉沒記到 幫朋友墊的 NT$600 多就這樣要不回來了😭\n這次學乖了 每筆都丟給 LINE 群組裡的AI小幫手 @okie.chat 記\n回家打「結算 換成台幣」 誰欠我多少直接列出來\n真的太好用！",
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/split-escalate-fly/01_log.jpg",
+     "alt": "LINE 群組截圖（示意）：週日 6/21，我傳一張餃子の王将收據照片（中華そば ¥748、特選セットA ¥1,120、特セット餃子+3個 ¥165，合計 ¥2,033，2 人），說「幫忙記帳 拉麵是我的 套餐跟餃子是星球的」；okie 回已記帳卡片：餃子の王将 ¥2,033，付款 Kiam，6/21（日），分攤 Kiam ¥748、星球 ¥1,285，看收據；高山說「你們偷吃王將沒揪我😤」，星球說「這次終於沒漏記了🤣」"
+    },
+    {
+     "url": "https://raw.githubusercontent.com/sb1087k/okie-ig-assets/main/fly_kiam/split-escalate-fly/02_settle.jpg",
+     "alt": "LINE 群組截圖（示意）：我說「結算 換成台幣」，okie 回結算單：所有還沒結清的帳 8 筆 ¥37,913，全部換成 TWD（1 JPY = 0.196769 TWD，6/26 市場匯率）；Kiam 應收 NT$437、星球應收 NT$198、高山應付 NT$635；轉帳（已簡化）高山 → Kiam NT$437、高山 → 星球 NT$198"
+    }
+   ]
   },
   {
    "date_taipei": "2026-12-09",
